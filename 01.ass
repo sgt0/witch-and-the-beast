@@ -7,41 +7,41 @@ Synch Point:
 Script Updated By:
 Update Details:
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.06,0:00:08.36,Signs,Text,0,0,0,,{\fad(2000,1500)\fnTimes New Roman\fs15\fscx90\an8\bord0\shad0\blur0.3\pos(320,238)}Witches
-Dialogue: 0,0:00:02.39,0:00:03.24,Italics,Narrator,0,0,0,,Witches.
-Dialogue: 0,0:00:03.77,0:00:09.36,Italics,Narrator,0,0,0,,Since days of yore, one group has \Nalways stood at the pinnacle of sorcery:
-Dialogue: 0,0:00:09.98,0:00:13.63,Italics,Narrator,0,0,0,,the original 17, known as Origin Witches,
-Dialogue: 0,0:00:13.63,0:00:23.35,Italics,Narrator,0,0,0,,and the mighty lineage that inherited all of \Ntheir magical power, craft, and knowledge.
-Dialogue: 0,0:00:23.99,0:00:26.93,Italics,Narrator,0,0,0,,These are the witches of our age.
-Dialogue: 0,0:00:27.69,0:00:31.94,Italics,Narrator,0,0,0,,Witches sometimes aid people \Nand sometimes curse them.
-Dialogue: 0,0:00:31.94,0:00:35.68,Italics,Narrator,0,0,0,,So how can one undo a witch's curse?
-Dialogue: 0,0:00:35.84,0:00:41.32,Signs,Text,0,0,0,,{\fad(500,900)\fsp0.5\fnTimes New Roman\fs16\b1\fscx90\an8\bord0\shad0\blur0.3\pos(320,253)\c&H283E44&}1. A loving kiss from Prince Charming
-Dialogue: 0,0:00:36.63,0:00:41.32,Italics,Narrator,0,0,0,,One way is a loving kiss \Nfrom Prince Charming.
-Dialogue: 0,0:00:42.10,0:00:46.24,Italics,Narrator,0,0,0,,Another is if the hateful witch \Nhas a change of heart.
-Dialogue: 0,0:00:42.22,0:00:46.24,Signs,Text,0,0,0,,{\fad(500,500)\fsp0.5\fnTimes New Roman\fs16\b1\fscx90\an8\bord0\shad0\blur0.3\pos(320,253)\c&H283E44&}2. If the hateful witch has a change of heart
-Dialogue: 0,0:00:47.50,0:00:48.77,Italics,Narrator,0,0,0,,And...
+Dialogue: 0,0:00:01.06,0:00:08.36,Signs,Text,0,0,0,,{\fad(2000,1500)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,714)}Witches
+Dialogue: 0,0:00:02.39,0:00:03.24,Default,Narrator,0,0,0,,{\i1}Witches.
+Dialogue: 0,0:00:03.77,0:00:09.36,Default,Narrator,0,0,0,,{\i1}Since days of yore, one group has \Nalways stood at the pinnacle of sorcery:
+Dialogue: 0,0:00:09.98,0:00:13.63,Default,Narrator,0,0,0,,{\i1}the original 17, known as Origin Witches,
+Dialogue: 0,0:00:13.63,0:00:23.35,Default,Narrator,0,0,0,,{\i1}and the mighty lineage that inherited all of \Ntheir magical power, craft, and knowledge.
+Dialogue: 0,0:00:23.99,0:00:26.93,Default,Narrator,0,0,0,,{\i1}These are the witches of our age.
+Dialogue: 0,0:00:27.69,0:00:31.94,Default,Narrator,0,0,0,,{\i1}Witches sometimes aid people \Nand sometimes curse them.
+Dialogue: 0,0:00:31.94,0:00:35.68,Default,Narrator,0,0,0,,{\i1}So how can one undo a witch's curse?
+Dialogue: 0,0:00:35.84,0:00:41.32,Signs,Text,0,0,0,,{\fad(500,900)\fsp1.5\fnTimes New Roman\fs48\b1\fscx90\an8\bord0\shad0\blur0.9\pos(960,759)\c&H283E44&}1. A loving kiss from Prince Charming
+Dialogue: 0,0:00:36.63,0:00:41.32,Default,Narrator,0,0,0,,{\i1}One way is a loving kiss \Nfrom Prince Charming.
+Dialogue: 0,0:00:42.10,0:00:46.24,Default,Narrator,0,0,0,,{\i1}Another is if the hateful witch \Nhas a change of heart.
+Dialogue: 0,0:00:42.22,0:00:46.24,Signs,Text,0,0,0,,{\fad(500,500)\fsp1.5\fnTimes New Roman\fs48\b1\fscx90\an8\bord0\shad0\blur0.9\pos(960,759)\c&H283E44&}2. If the hateful witch has a change of heart
+Dialogue: 0,0:00:47.50,0:00:48.77,Default,Narrator,0,0,0,,{\i1}And...
 Dialogue: 0,0:02:30.50,0:02:32.40,Default,Guideau,0,0,0,,Damn it, Ashaf.
 Dialogue: 0,0:02:32.79,0:02:35.16,Default,Guideau,0,0,0,,She'd better really be here.
 Dialogue: 0,0:02:35.16,0:02:38.51,Default,Ashaf,0,0,0,,Of course she's here. Although...
 Dialogue: 0,0:02:43.25,0:02:45.31,Default,Ashaf,0,0,0,,Whether she's the one you're looking for...
 Dialogue: 0,0:02:46.00,0:02:47.98,Default,Ashaf,0,0,0,,That's another story, Guideau.
-Dialogue: 0,0:02:49.94,0:02:54.69,Default,Caption,0,0,0,,{\blur0.3\fs20\bord0.5\fnTimes New Roman\fscx90\fad(500,500)\pos(536,296)}The Witch and the \NCity of Blazing Red
+Dialogue: 0,0:02:49.94,0:02:54.69,Default,Caption,0,0,0,,{\blur0.9\fs60\bord1.5\fnTimes New Roman\fscx90\fad(500,500)\pos(1608,888)}The Witch and the \NCity of Blazing Red
 Dialogue: 0,0:02:55.18,0:02:56.15,Default,Baker,0,0,0,,A witch?
 Dialogue: 0,0:02:56.15,0:02:57.10,Default,Ashaf,0,0,0,,That's right.
 Dialogue: 0,0:02:57.42,0:03:00.96,Default,Baker,0,0,0,,If you're looking for a witch,\N you should ask this person right here.
@@ -317,9 +317,9 @@ Dialogue: 0,0:20:06.10,0:20:10.18,Default,Ashaf,0,0,0,,There are more than two w
 Dialogue: 0,0:20:16.31,0:20:17.23,Default,Ione,0,0,0,,Wha...
 Dialogue: 0,0:20:17.86,0:20:18.82,Default,Ione,0,0,0,,What?
 Dialogue: 0,0:20:37.04,0:20:40.74,Default,Guideau,0,0,0,,Seriously, nothing beats your body!
-Dialogue: 0,0:20:45.98,0:20:48.81,Italics,Ione,0,0,0,,What is this menacing aura?
-Dialogue: 0,0:20:49.25,0:20:52.43,Italics,Ione,0,0,0,,I don't sense powerful magic, and yet...
-Dialogue: 0,0:20:52.81,0:20:54.74,Italics,Ione,0,0,0,,Is this her true self?
+Dialogue: 0,0:20:45.98,0:20:48.81,Default,Ione,0,0,0,,{\i1}What is this menacing aura?
+Dialogue: 0,0:20:49.25,0:20:52.43,Default,Ione,0,0,0,,{\i1}I don't sense powerful magic, and yet...
+Dialogue: 0,0:20:52.81,0:20:54.74,Default,Ione,0,0,0,,{\i1}Is this her true self?
 Dialogue: 0,0:20:55.68,0:20:58.40,Default,Ashaf,0,0,0,,I hope you're not too rusty, Guideau.
 Dialogue: 0,0:20:58.40,0:21:01.03,Default,Guideau,0,0,0,,We're about to find out!
 Dialogue: 0,0:21:28.81,0:21:30.18,Default,Ione,0,0,0,,How about this?!
@@ -329,11 +329,11 @@ Dialogue: 0,0:21:40.02,0:21:42.86,Default,Ashaf,0,0,0,,I'd be of no help at all 
 Dialogue: 0,0:21:43.59,0:21:46.20,Default,Ashaf,0,0,0,,Besides, I'm not needed.
 Dialogue: 0,0:21:47.69,0:21:52.68,Default,Ashaf,0,0,0,,You see, Guideau is the most beautiful\N and most terrifying of creatures,
 Dialogue: 0,0:21:53.85,0:21:57.36,Default,Ashaf,0,0,0,,and the witches' greatest \Nand only natural enemy.
-Dialogue: 0,0:21:59.12,0:22:00.08,Italics,Ione,0,0,0,,Why?
-Dialogue: 0,0:22:00.84,0:22:02.38,Italics,Ione,0,0,0,,Why doesn't she stop?
+Dialogue: 0,0:21:59.12,0:22:00.08,Default,Ione,0,0,0,,{\i1}Why?
+Dialogue: 0,0:22:00.84,0:22:02.38,Default,Ione,0,0,0,,{\i1}Why doesn't she stop?
 Dialogue: 0,0:22:02.91,0:22:05.72,Default,Guideau,0,0,0,,Get ready...
 Dialogue: 0,0:22:06.61,0:22:08.01,Default,Guideau,0,0,0,,for a gut punch!
-Dialogue: 0,0:22:17.69,0:22:23.27,Italics,Ione,0,0,0,,What is... this creature?
+Dialogue: 0,0:22:17.69,0:22:23.27,Default,Ione,0,0,0,,{\i1}What is... this creature?
 Dialogue: 0,0:22:49.61,0:22:52.09,Default,Ashaf,0,0,0,,I see they're finally getting \Nthe fire under control.
 Dialogue: 0,0:22:53.93,0:22:56.22,Default,Guideau,0,0,0,,Another dead end, damn it!
 Dialogue: 0,0:22:56.22,0:22:59.06,Default,Ashaf,0,0,0,,It really is a shame.
@@ -354,5 +354,5 @@ Dialogue: 0,0:23:55.23,0:23:56.72,Default,Ashaf,0,0,0,,Mind your language.
 Dialogue: 0,0:24:00.77,0:24:03.79,Default,Guideau,0,0,0,,I'll find her and kill her.
 Dialogue: 0,0:24:03.79,0:24:05.79,Default,Guideau,0,0,0,,This is revenge.
 Dialogue: 0,0:24:05.79,0:24:09.96,Default,Ashaf,0,0,0,,Next time: \N"The Witch's Pastime: Opening Act."
-Dialogue: 0,0:24:05.92,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs22\fscx90\an8\bord0\shad0\blur0.3\pos(320,124)}The Witch's Pastime
-Dialogue: 0,0:24:05.92,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs15\fscx90\an8\bord0\shad0\blur0.3\pos(320,212)}Opening Act
+Dialogue: 0,0:24:05.92,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,372)}The Witch's Pastime
+Dialogue: 0,0:24:05.92,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Opening Act
