@@ -41,7 +41,7 @@ Dialogue: 0,0:02:32.79,0:02:35.16,Default,Guideau,0,0,0,,She'd better really be 
 Dialogue: 0,0:02:35.16,0:02:38.51,Default,Ashaf,0,0,0,,Of course she's here. Although...
 Dialogue: 0,0:02:43.25,0:02:45.31,Default,Ashaf,0,0,0,,Whether she's the one you're looking for...
 Dialogue: 0,0:02:46.00,0:02:47.98,Default,Ashaf,0,0,0,,That's another story, Guideau.
-Dialogue: 0,0:02:49.94,0:02:54.69,Default,Caption,0,0,0,,{\blur0.9\fs60\bord1.5\fnTimes New Roman\fscx90\fad(500,500)\pos(1608,888)}The Witch and the \NCity of Blazing Red
+Dialogue: 0,0:02:49.94,0:02:54.69,Signs,Caption,0,0,0,,{\blur0.9\fs60\bord1.5\fnTimes New Roman\fscx90\fad(500,500)\pos(1608,888)}The Witch and the \NCity of Blazing Red
 Dialogue: 0,0:02:55.18,0:02:56.15,Default,Baker,0,0,0,,A witch?
 Dialogue: 0,0:02:56.15,0:02:57.10,Default,Ashaf,0,0,0,,That's right.
 Dialogue: 0,0:02:57.42,0:03:00.96,Default,Baker,0,0,0,,If you're looking for a witch,\N you should ask this person right here.
