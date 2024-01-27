@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -25,13 +25,13 @@ Style: Signs,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.00,0:00:05.14,Default,Narrator,0,0,0,,{\i1}Forbidden Instruments.
 Dialogue: 0,0:00:06.56,0:00:11.31,Default,Narrator,0,0,0,,{\i1}Merely possessing these sorcery tools \Ngrants might approaching that of a witch.
-Dialogue: 0,0:00:06.69,0:00:11.57,Signs,Text,0,0,0,,{\an8\pos(600,660)\fscx90\fnTimes New Roman\fs48\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)}Forbidden Instruments
-Dialogue: 0,0:00:12.32,0:00:16.70,Signs,Text,0,0,0,,{\an8\pos(1347,378)\fscx90\fnTimes New Roman\fs48\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)}Sorcery Tools
+Dialogue: 0,0:00:06.69,0:00:11.57,Signs,Text,0,0,0,,{\an8\fscx90\fnQuadraat\fs48\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)\pos(586.93,658.75)}Forbidden Instruments
+Dialogue: 0,0:00:12.32,0:00:16.70,Signs,Text,0,0,0,,{\an8\pos(1347,378)\fscx90\fnQuadraat\fs56\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)}Sorcery Tools
 Dialogue: 0,0:00:12.48,0:00:16.99,Default,Narrator,0,0,0,,{\i1}But while their wielders gain power,
-Dialogue: 0,0:00:17.53,0:00:23.33,Signs,Text,0,0,0,,{\an8\pos(555,645)\fscx90\fnTimes New Roman\fs48\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)}Payment
+Dialogue: 0,0:00:17.53,0:00:23.33,Signs,Text,0,0,0,,{\an8\fscx90\fnQuadraat\fs52\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)\pos(562.89,645)}Payment
 Dialogue: 0,0:00:17.68,0:00:23.33,Default,Narrator,0,0,0,,{\i1}they must make sacrifices in payment\Nor else forfeit their lives.
 Dialogue: 0,0:00:24.12,0:00:27.61,Default,Narrator,0,0,0,,{\i1}Thus, the use of Instruments \Nis strictly forbidden.
-Dialogue: 0,0:00:24.29,0:00:33.51,Signs,Text,0,0,0,,{\an8\pos(1263,366)\fscx90\fnTimes New Roman\fs48\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,0)}Sacrifice
+Dialogue: 0,0:00:24.29,0:00:33.51,Signs,Text,0,0,0,,{\an8\pos(1263,366)\fscx90\fnQuadraat\fs52\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,0)}Sacrifice
 Dialogue: 0,0:00:28.48,0:00:32.08,Default,Narrator,0,0,0,,{\i1}Yet those who turn to them \Nare never in short supply.
 Dialogue: 0,0:00:32.86,0:00:34.18,Default,Narrator,0,0,0,,{\i1}For you see...
 Dialogue: 0,0:02:11.99,0:02:13.18,Default,Woman,0,0,0,,What was that sound?
@@ -44,7 +44,7 @@ Dialogue: 0,0:02:23.70,0:02:24.60,Default,Woman,0,0,0,,Goodnight.
 Dialogue: 0,0:02:35.77,0:02:38.09,Default,Woman,0,0,0,,{\i1}There sure are a lot of crows.
 Dialogue: 0,0:03:23.00,0:03:26.26,Default,Shulk,0,0,0,,Not yet. It's still not enough.
 Dialogue: 0,0:03:27.00,0:03:29.50,Default,Shulk,0,0,0,,I've got to add more.
-Dialogue: 0,0:03:30.56,0:03:35.90,Signs,Text; title,0,0,0,,{\an2\pos(351,939)\fscx90\fnTimes New Roman\fs60\bord1.5\blur0.9\fad(500,0)}The Witch's Pastime:\N{\fs48}Opening Act
+Dialogue: 0,0:03:30.56,0:03:35.90,Signs,Episode title,0,0,0,,{\an2\pos(351,939)\fscx90\fnAlegreya\fs62\bord0.5\blur1.5\fad(500,0)}The Witch's Pastime:\N{\fs58}Opening Act
 Dialogue: 0,0:03:35.90,0:03:39.11,Default,Guideau,0,0,0,,Hey. Is there a witch around here?
 Dialogue: 0,0:03:42.19,0:03:46.49,Default,Ashaf,0,0,0,,Beats me. They're supposed \Nto tell us the details in person.
 Dialogue: 0,0:03:49.33,0:03:52.98,Default,Ashaf,0,0,0,,So what would you like us to do this time?
@@ -331,5 +331,5 @@ Dialogue: 0,0:21:51.28,0:21:53.03,Default,Guideau,0,0,0,,Hey, when you get down 
 Dialogue: 0,0:21:53.44,0:21:56.84,Default,Ashaf,0,0,0,,She found out what we knew\N and gave us nothing.
 Dialogue: 0,0:24:01.11,0:24:04.85,Default,Ashaf,0,0,0,,Now, shall we go see a witch?
 Dialogue: 0,0:24:05.59,0:24:09.96,Default,Ashaf,0,0,0,,Next time: "The Witch's Pastime: Final Act."
-Dialogue: 0,0:24:05.71,0:24:09.96,Signs,Text,0,0,0,,{\an8\pos(960,372)\fscx90\fnTimes New Roman\fs66\blur0.9\fad(1000,0)}The Witch's Pastime
-Dialogue: 0,0:24:05.71,0:24:09.96,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnTimes New Roman\fs45\blur0.9\fad(1000,0)}Final Act
+Dialogue: 0,0:24:05.71,0:24:09.96,Signs,Text,0,0,0,,{\an8\pos(960,372)\fscx90\fnAlegreya\fs75\blur0.9\fad(1000,0)}The Witch's Pastime
+Dialogue: 0,0:24:05.71,0:24:09.96,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnAlegreya\fs45\blur0.9\fad(1000,0)}Final Act
