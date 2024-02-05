@@ -7,35 +7,32 @@ Synch Point:
 Script Updated By:
 Update Details:
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.31,0:00:08.40,Signs,Text,0,0,0,,{\fad(2000,1200)\fsp0.5\fnTimes New Roman\fs22\b1\fscx90\an8\bord2\shad0\blur4\c&H8A687C&\pos(320,235)\3c&H8A687C&}Necromancy
-Dialogue: 1,0:00:03.31,0:00:08.40,Signs,Text,0,0,0,,{\fad(2000,1200)\fsp0.5\fnTimes New Roman\fs22\b1\fscx90\an8\bord0\shad0\blur0.3\c&H18112B&\pos(320,235)}Necromancy
-Dialogue: 0,0:00:05.69,0:00:07.41,Italics,Narrator,0,0,0,,Necromancy.
-Dialogue: 0,0:00:08.23,0:00:13.36,Italics,Narrator,0,0,0,,The art of resurrecting \Ncorpses as the undead.
-Dialogue: 0,0:00:15.47,0:00:19.86,Italics,Narrator,0,0,0,,Strict rules govern the \Npractice of resurrection.
-Dialogue: 0,0:00:20.90,0:00:27.28,Italics,Narrator,0,0,0,,It is forbidden to use necromancy without \Nconsent from the patient prior to death,
-Dialogue: 0,0:00:27.28,0:00:31.17,Italics,Narrator,0,0,0,,or from a relative within \Ntwo degrees of kinship.
-Dialogue: 0,0:00:31.57,0:00:36.00,Italics,Narrator,0,0,0,,Before performing the resurrection, \Nthe necromancer must also disclose
-Dialogue: 0,0:00:36.00,0:00:40.61,Italics,Narrator,0,0,0,,every detail of the \Nprocedure to their patient.
-Dialogue: 0,0:00:41.08,0:00:47.30,Italics,Narrator,0,0,0,,For you see, becoming undead \Ncarries with it a grave risk.
-Dialogue: 0,0:00:48.32,0:00:49.44,Italics,Narrator,0,0,0,,And that is...
+Dialogue: 0,0:00:03.31,0:00:08.40,Signs,Text,0,0,0,,{\fad(2000,1200)\fsp1.5\fnTimes New Roman\fs66\b1\fscx90\an8\bord6\shad0\blur12\c&H8A687C&\pos(960,705)\3c&H8A687C&}Necromancy
+Dialogue: 1,0:00:03.31,0:00:08.40,Signs,Text,0,0,0,,{\fad(2000,1200)\fsp1.5\fnTimes New Roman\fs66\b1\fscx90\an8\bord0\shad0\blur0.9\c&H18112B&\pos(960,705)}Necromancy
+Dialogue: 0,0:00:05.69,0:00:07.41,Default,Narrator,0,0,0,,{\i1}Necromancy.
+Dialogue: 0,0:00:08.23,0:00:13.36,Default,Narrator,0,0,0,,{\i1}The art of resurrecting \Ncorpses as the undead.
+Dialogue: 0,0:00:15.47,0:00:19.86,Default,Narrator,0,0,0,,{\i1}Strict rules govern the \Npractice of resurrection.
+Dialogue: 0,0:00:20.90,0:00:27.28,Default,Narrator,0,0,0,,{\i1}It is forbidden to use necromancy without \Nconsent from the patient prior to death,
+Dialogue: 0,0:00:27.28,0:00:31.17,Default,Narrator,0,0,0,,{\i1}or from a relative within \Ntwo degrees of kinship.
+Dialogue: 0,0:00:31.57,0:00:36.00,Default,Narrator,0,0,0,,{\i1}Before performing the resurrection, \Nthe necromancer must also disclose
+Dialogue: 0,0:00:36.00,0:00:40.61,Default,Narrator,0,0,0,,{\i1}every detail of the \Nprocedure to their patient.
+Dialogue: 0,0:00:41.08,0:00:47.30,Default,Narrator,0,0,0,,{\i1}For you see, becoming undead \Ncarries with it a grave risk.
+Dialogue: 0,0:00:48.32,0:00:49.44,Default,Narrator,0,0,0,,{\i1}And that is...
 Dialogue: 0,0:01:07.20,0:01:08.48,Default,Necromancer,0,0,0,,Hideous.
 Dialogue: 0,0:02:41.88,0:02:43.51,Default,Client,0,0,0,,Thank you so much.
 Dialogue: 0,0:02:43.51,0:02:45.60,Default,Client,0,0,0,,I really owe you one.
@@ -77,7 +74,7 @@ Dialogue: 0,0:04:34.96,0:04:36.17,Default,Jeff,0,0,0,,Then...
 Dialogue: 0,0:04:36.17,0:04:38.49,Default,Ashaf,0,0,0,,But rest assured.
 Dialogue: 0,0:04:38.49,0:04:41.13,Default,Ashaf,0,0,0,,Naturally, we retain someone who can.
 Dialogue: 0,0:04:41.49,0:04:44.05,Default,Ashaf,0,0,0,,The Order of Magical Resonance's finest...
-Dialogue: 0,0:04:45.68,0:04:50.97,Signs,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0\fnTimes New Roman\fscx90\fad(500,0)\3c&H281E11&\pos(98,316)}Beauty and Death:\N{\fs16}Opening Act
+Dialogue: 0,0:04:45.68,0:04:50.97,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad0\fnTimes New Roman\fscx90\fad(500,0)\3c&H281E11&\pos(294,948)}Beauty and Death:\N{\fs48}Opening Act
 Dialogue: 0,0:04:45.92,0:04:49.11,Default,Ashaf,0,0,0,,necromantic specialist.
 Dialogue: 0,0:04:52.56,0:04:54.89,Default,Phanora,0,0,0,,Quite chilly, this town.
 Dialogue: 0,0:04:58.38,0:05:00.52,Default,Johan,0,0,0,,Nah, it's plenty warm.
@@ -101,8 +98,8 @@ Dialogue: 0,0:05:59.66,0:06:01.04,Default,Jeff,0,0,0,,S-Sure.
 Dialogue: 0,0:06:01.04,0:06:02.50,Default,Jeff,0,0,0,,I'll start at the beginning.
 Dialogue: 0,0:06:02.50,0:06:07.97,Default,Jeff,0,0,0,,Two months ago, crazed undead rampages \Nstarted becoming a frequent occurrence.
 Dialogue: 0,0:06:08.34,0:06:12.08,Default,Jeff,0,0,0,,We currently have six \Nundead creatures in custody.
-Dialogue: 0,0:06:12.08,0:06:13.43,Italics,Jeff,0,0,0,,I can't explain it...
-Dialogue: 0,0:06:13.80,0:06:16.51,Italics,Jeff,0,0,0,,but the air seems colder around her.
+Dialogue: 0,0:06:12.08,0:06:13.43,Default,Jeff,0,0,0,,{\i1}I can't explain it...
+Dialogue: 0,0:06:13.80,0:06:16.51,Default,Jeff,0,0,0,,{\i1}but the air seems colder around her.
 Dialogue: 0,0:06:18.54,0:06:24.44,Default,Jeff,0,0,0,,And all of them are still waiting on \Nmaintenance from their necromancers.
 Dialogue: 0,0:06:25.37,0:06:26.45,Default,Johan,0,0,0,,How come?
 Dialogue: 0,0:06:26.95,0:06:29.99,Default,Johan,0,0,0,,Hurry up and bring in \Nwhoever resurrected them.
@@ -254,17 +251,17 @@ Dialogue: 0,0:15:12.80,0:15:17.10,Default,Phanora,0,0,0,,It's as if the necroman
 Dialogue: 0,0:15:19.33,0:15:24.06,Default,Phanora,0,0,0,,Necromancy once reached the heights \Nof prosperity as an art of control.
 Dialogue: 0,0:15:24.70,0:15:27.32,Default,Phanora,0,0,0,,Essentially, undead are familiars,
 Dialogue: 0,0:15:27.90,0:15:32.28,Default,Phanora,0,0,0,,and necromancers can switch them \Nbetween three states at will.
-Dialogue: 0,0:15:33.10,0:15:41.11,Top,Phanora,0,0,0,,First, a state free of control in which the \Nundead obey only their own wills: Auto.
-Dialogue: 0,0:15:34.37,0:15:40.29,Signs,Text,0,0,0,,{\fad(400,400)\fsp0.5\fnTimes New Roman\fs22\b1\fscx90\an8\bord2\shad0\blur4\c&HDFF0E3&\3c&HDFF0E3&\pos(323,314)}Autonomy
-Dialogue: 1,0:15:34.37,0:15:40.29,Signs,Text,0,0,0,,{\fad(400,400)\fsp0.5\fnTimes New Roman\fs22\b1\fscx90\an8\bord0\shad0\blur0.3\c&H18112B&\pos(323,314)}Autonomy
-Dialogue: 0,0:15:41.65,0:15:44.96,Top,Phanora,0,0,0,,Second, a state in which the \Nundead retain their own minds,
-Dialogue: 0,0:15:44.50,0:15:49.71,Signs,Text,0,0,0,,{\fad(400,400)\fsp0.5\fnTimes New Roman\fs22\b1\fscx90\an8\bord2\shad0\blur4\c&HDFF0E3&\3c&HDFF0E3&\pos(322,322)}Mind Control
-Dialogue: 1,0:15:44.50,0:15:49.71,Signs,Text,0,0,0,,{\fad(400,400)\fsp0.5\fnTimes New Roman\fs22\b1\fscx90\an8\bord0\shad0\blur0.3\c&H18112B&\pos(322,322)}Mind Control
-Dialogue: 0,0:15:44.96,0:15:49.88,Top,Phanora,0,0,0,,but the necromancer imprints \Nan objective onto them: Semi-auto.
-Dialogue: 0,0:15:50.42,0:15:54.89,Top,Phanora,0,0,0,,Third, a state in which the necromancer \Nfully usurps the undead's minds,
-Dialogue: 0,0:15:54.59,0:15:58.35,Signs,Text,0,0,0,,{\fad(400,400)\fsp0.5\fnTimes New Roman\fs22\b1\fscx90\an8\bord2\shad0\blur4\c&HDFF0E3&\3c&HDFF0E3&\pos(320,320)}Domination
-Dialogue: 1,0:15:54.59,0:15:58.35,Signs,Text,0,0,0,,{\fad(400,400)\fsp0.5\fnTimes New Roman\fs22\b1\fscx90\an8\bord0\shad0\blur0.3\c&H18112B&\pos(320,320)}Domination
-Dialogue: 0,0:15:54.89,0:15:58.96,Top,Phanora,0,0,0,,and controls them as they \Nwould their own body: Manual.
+Dialogue: 0,0:15:33.10,0:15:41.11,Default,Phanora,0,0,0,,{\an8}First, a state free of control in which the \Nundead obey only their own wills: Auto.
+Dialogue: 0,0:15:34.37,0:15:40.29,Signs,Text,0,0,0,,{\fad(400,400)\fsp1.5\fnTimes New Roman\fs66\b1\fscx90\an8\bord6\shad0\blur12\c&HDFF0E3&\3c&HDFF0E3&\pos(969,942)}Autonomy
+Dialogue: 1,0:15:34.37,0:15:40.29,Signs,Text,0,0,0,,{\fad(400,400)\fsp1.5\fnTimes New Roman\fs66\b1\fscx90\an8\bord0\shad0\blur0.9\c&H18112B&\pos(969,942)}Autonomy
+Dialogue: 0,0:15:41.65,0:15:44.96,Default,Phanora,0,0,0,,{\an8}Second, a state in which the \Nundead retain their own minds,
+Dialogue: 0,0:15:44.50,0:15:49.71,Signs,Text,0,0,0,,{\fad(400,400)\fsp1.5\fnTimes New Roman\fs66\b1\fscx90\an8\bord6\shad0\blur12\c&HDFF0E3&\3c&HDFF0E3&\pos(966,966)}Mind Control
+Dialogue: 1,0:15:44.50,0:15:49.71,Signs,Text,0,0,0,,{\fad(400,400)\fsp1.5\fnTimes New Roman\fs66\b1\fscx90\an8\bord0\shad0\blur0.9\c&H18112B&\pos(966,966)}Mind Control
+Dialogue: 0,0:15:44.96,0:15:49.88,Default,Phanora,0,0,0,,{\an8}but the necromancer imprints \Nan objective onto them: Semi-auto.
+Dialogue: 0,0:15:50.42,0:15:54.89,Default,Phanora,0,0,0,,{\an8}Third, a state in which the necromancer \Nfully usurps the undead's minds,
+Dialogue: 0,0:15:54.59,0:15:58.35,Signs,Text,0,0,0,,{\fad(400,400)\fsp1.5\fnTimes New Roman\fs66\b1\fscx90\an8\bord6\shad0\blur12\c&HDFF0E3&\3c&HDFF0E3&\pos(960,960)}Domination
+Dialogue: 1,0:15:54.59,0:15:58.35,Signs,Text,0,0,0,,{\fad(400,400)\fsp1.5\fnTimes New Roman\fs66\b1\fscx90\an8\bord0\shad0\blur0.9\c&H18112B&\pos(960,960)}Domination
+Dialogue: 0,0:15:54.89,0:15:58.96,Default,Phanora,0,0,0,,{\an8}and controls them as they \Nwould their own body: Manual.
 Dialogue: 0,0:16:00.00,0:16:04.85,Default,Phanora,0,0,0,,The lantern only attracts undead \Nin Auto or Semi-auto states.
 Dialogue: 0,0:16:05.25,0:16:12.72,Default,Phanora,0,0,0,,Though even in Semi-auto, they may prioritize\N a definite imprinted objective over its light.
 Dialogue: 0,0:16:12.72,0:16:16.94,Default,Jeff,0,0,0,,And what happens when they lose their minds?
@@ -355,5 +352,5 @@ Dialogue: 0,0:22:06.91,0:22:10.64,Default,Necromancer,0,0,0,,Do as I say, and yo
 Dialogue: 0,0:22:10.64,0:22:13.12,Default,Necromancer,0,0,0,,Now, follow me.
 Dialogue: 0,0:24:00.40,0:24:06.75,Default,Phanora,0,0,0,,But even knowing everything, \Nsome still offer themselves to necromancers.
 Dialogue: 0,0:24:06.75,0:24:09.92,Default,Ashaf,0,0,0,,Next time: "Beauty and Death: Final Act."
-Dialogue: 0,0:24:06.92,0:24:09.92,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs22\fscx90\an8\bord0\shad0\blur0.3\pos(320,124)}Beauty and Death
-Dialogue: 0,0:24:06.92,0:24:09.92,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs15\fscx90\an8\bord0\shad0\blur0.3\pos(320,212)}Final Act
+Dialogue: 0,0:24:06.92,0:24:09.92,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,372)}Beauty and Death
+Dialogue: 0,0:24:06.92,0:24:09.92,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Final Act
