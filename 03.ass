@@ -7,25 +7,22 @@ Synch Point:
 Script Updated By:
 Update Details:
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:47.16,0:01:51.54,Signs,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0\fnTimes New Roman\fscx90\fad(500,0)\pos(118,80)\3c&H281E11&}The Witch's Pastime:\N{\fs16}Final Act
+Dialogue: 0,0:01:47.16,0:01:51.54,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad0\fnTimes New Roman\fscx90\fad(500,0)\pos(354,240)\3c&H281E11&}The Witch's Pastime:\N{\fs48}Final Act
 Dialogue: 0,0:01:52.18,0:01:56.72,Default,Haines,0,0,0,,We suspect a witch, based on \Nthe overwhelming power.
 Dialogue: 0,0:01:56.72,0:01:59.59,Default,Haines,0,0,0,,Then there are the messages\Nleft at the crime scenes.
 Dialogue: 0,0:01:59.98,0:02:03.22,Default,Haines,0,0,0,,Each one points to the killer being a witch.
@@ -73,11 +70,11 @@ Dialogue: 0,0:04:21.88,0:04:23.35,Default,Haines,0,0,0,,Because of precedent.
 Dialogue: 0,0:04:24.44,0:04:27.34,Default,Haines,0,0,0,,Nothing good happens to people I'm close to.
 Dialogue: 0,0:04:30.86,0:04:31.91,Default,Haines,0,0,0,,What is it?
 Dialogue: 0,0:04:31.91,0:04:35.37,Default,Detective,0,0,0,,Ms. Haines, we've found a new body here, too.
-Dialogue: 0,0:04:35.89,0:04:37.53,Italics,Detective,0,0,0,,And a message.
+Dialogue: 0,0:04:35.89,0:04:37.53,Default,Detective,0,0,0,,{\i1}And a message.
 Dialogue: 0,0:04:37.53,0:04:38.84,Default,Haines,0,0,0,,What's it say?
-Dialogue: 0,0:04:41.44,0:04:43.42,Italics,Loran,0,0,0,,I'm a disease.
-Dialogue: 0,0:04:43.42,0:04:46.63,Italics,Loran,0,0,0,,Diseases propagate and spread.
-Dialogue: 0,0:04:46.63,0:04:50.71,Italics,Loran,0,0,0,,This disease is called a curse.\N A witch's curse.
+Dialogue: 0,0:04:41.44,0:04:43.42,Default,Loran,0,0,0,,{\i1}I'm a disease.
+Dialogue: 0,0:04:43.42,0:04:46.63,Default,Loran,0,0,0,,{\i1}Diseases propagate and spread.
+Dialogue: 0,0:04:46.63,0:04:50.71,Default,Loran,0,0,0,,{\i1}This disease is called a curse.\N A witch's curse.
 Dialogue: 0,0:04:53.17,0:04:57.48,Default,Haines,0,0,0,,Considering I took you to the crime scene,\N you didn't manage to find out much.
 Dialogue: 0,0:04:57.73,0:05:01.08,Default,Ashaf,0,0,0,,Oh, well. Corpses aren't my specialty.
 Dialogue: 0,0:05:01.08,0:05:03.49,Default,Haines,0,0,0,,Well, I'm not expecting much, anyway.
@@ -245,9 +242,9 @@ Dialogue: 0,0:13:32.52,0:13:35.33,Default,Ashaf,0,0,0,,Good grief. Rampaging rig
 Dialogue: 0,0:13:37.34,0:13:38.64,Default,Ashaf,0,0,0,,What's that sound?
 Dialogue: 0,0:13:38.64,0:13:41.13,Default,Haines,0,0,0,,Watch out! She's up to her old tricks!
 Dialogue: 0,0:13:42.41,0:13:44.10,Default,Guideau,0,0,0,,What just happened?!
-Dialogue: 0,0:13:44.10,0:13:48.11,Italics,Ashaf,0,0,0,,Given how little we can see, we can't \Nattack recklessly because we have allies.
-Dialogue: 0,0:13:48.11,0:13:50.48,Italics,Ashaf,0,0,0,,But our opponent is free to cut loose.
-Dialogue: 0,0:13:52.61,0:13:54.35,Italics,Ashaf,0,0,0,,Hardly an enviable position.
+Dialogue: 0,0:13:44.10,0:13:48.11,Default,Ashaf,0,0,0,,{\i1}Given how little we can see, we can't \Nattack recklessly because we have allies.
+Dialogue: 0,0:13:48.11,0:13:50.48,Default,Ashaf,0,0,0,,{\i1}But our opponent is free to cut loose.
+Dialogue: 0,0:13:52.61,0:13:54.35,Default,Ashaf,0,0,0,,{\i1}Hardly an enviable position.
 Dialogue: 0,0:14:07.88,0:14:09.28,Default,Ashaf,0,0,0,,Are you all unharmed?
 Dialogue: 0,0:14:09.28,0:14:13.85,Default,Haines,0,0,0,,Yeah. I can manage as long as \NI focus solely on staying alive.
 Dialogue: 0,0:14:15.25,0:14:16.13,Default,Haines,0,0,0,,Guideau!
@@ -365,12 +362,12 @@ Dialogue: 0,0:20:31.02,0:20:33.44,Default,Haines,0,0,0,,Now I don't even pity yo
 Dialogue: 0,0:20:37.90,0:20:40.34,Flashback,Loran,0,0,0,,Why'd you adopt us?
 Dialogue: 0,0:20:41.70,0:20:43.63,Flashback,Haines,0,0,0,,Because I wanted you to know.
 Dialogue: 0,0:20:43.63,0:20:44.63,Flashback,Loran,0,0,0,,Know what?
-Dialogue: 0,0:20:43.63,0:20:44.63,Flashback Top,Shulk,0,0,0,,Know what?
+Dialogue: 0,0:20:43.63,0:20:44.63,Flashback,Shulk,0,0,0,,{\an8}Know what?
 Dialogue: 0,0:20:44.98,0:20:46.90,Flashback,Haines,0,0,0,,What it is to love and be loved.
 Dialogue: 0,0:20:47.63,0:20:49.66,Flashback,Haines,0,0,0,,Ordinary things like that.
-Dialogue: 0,0:20:53.61,0:20:57.64,Top Italics,Newscaster,0,0,0,,The Witch's Pastime case,\Nwhich has long tormented Hayden,
-Dialogue: 0,0:20:57.64,0:20:59.90,Top Italics,Newscaster,0,0,0,,was thought to be the work of a witch,
-Dialogue: 0,0:20:59.90,0:21:04.20,Top Italics,Newscaster,0,0,0,,but we have just learned that \Ntwo boys committed the killings.
+Dialogue: 0,0:20:53.61,0:20:57.64,Default,Newscaster,0,0,0,,{\i1\an8}The Witch's Pastime case,\Nwhich has long tormented Hayden,
+Dialogue: 0,0:20:57.64,0:20:59.90,Default,Newscaster,0,0,0,,{\i1\an8}was thought to be the work of a witch,
+Dialogue: 0,0:20:59.90,0:21:04.20,Default,Newscaster,0,0,0,,{\i1\an8}but we have just learned that \Ntwo boys committed the killings.
 Dialogue: 0,0:21:04.43,0:21:08.66,Default,Guideau,0,0,0,,Damn it, Ashaf. You knew the \Nwitch was a fake, didn't you?
 Dialogue: 0,0:21:08.95,0:21:13.04,Default,Ashaf,0,0,0,,Well, you catch on quick when you know\N as many dark secrets as the Order does.
 Dialogue: 0,0:21:13.04,0:21:17.54,Default,Ashaf,0,0,0,,Nothing would have kept the \NPaladin Corps out of a real witch case.
@@ -399,6 +396,6 @@ Dialogue: 0,0:22:21.68,0:22:22.86,Default,Haines,0,0,0,,Sure.
 Dialogue: 0,0:22:23.81,0:22:25.11,Default,Haines,0,0,0,,I'll give you a call.
 Dialogue: 0,0:22:25.58,0:22:29.14,Default,Haines,0,0,0,,If a witch shows up, you can count on it.
 Dialogue: 0,0:24:00.45,0:24:06.46,Default,Ashaf,0,0,0,,Naturally, we retain a \Nnecromantic specialist.
-Dialogue: 0,0:24:06.46,0:24:10.71,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs22\fscx90\an8\bord0\shad0\blur0.3\pos(320,124)}Beauty and Death
-Dialogue: 0,0:24:06.46,0:24:10.71,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs15\fscx90\an8\bord0\shad0\blur0.3\pos(320,212)}Opening Act
+Dialogue: 0,0:24:06.46,0:24:10.71,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,372)}Beauty and Death
+Dialogue: 0,0:24:06.46,0:24:10.71,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Opening Act
 Dialogue: 0,0:24:06.71,0:24:09.88,Default,Ashaf,0,0,0,,Next time: "Beauty and Death: Opening Act."
