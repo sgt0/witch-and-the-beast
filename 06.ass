@@ -7,32 +7,29 @@ Synch Point:
 Script Updated By:
 Update Details:
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.98,0:00:16.74,Signs,Text,0,0,0,,{\fad(500,500)\fsp0.5\fnTimes New Roman\fs16\b1\fscx90\an8\bord0\shad0\blur0.3\c&H283E44&\pos(320,238)}The Paladin Corps
-Dialogue: 0,0:00:10.11,0:00:11.44,Italics,Narrator,0,0,0,,The Paladin Corps.
-Dialogue: 0,0:00:12.13,0:00:17.47,Italics,Narrator,0,0,0,,Serving the world's largest international \Norganization, the Global Holy Church,
-Dialogue: 0,0:00:17.82,0:00:21.77,Italics,Narrator,0,0,0,,this magical army fights for world peace.
-Dialogue: 0,0:00:23.49,0:00:29.98,Italics,Narrator,0,0,0,,Their mission: to resolve equally \Nmagical atrocities of massive proportions.
-Dialogue: 0,0:00:30.48,0:00:35.81,Italics,Narrator,0,0,0,,No other military organization \Ncan handle witch-related incidents.
-Dialogue: 0,0:00:37.37,0:00:45.87,Italics,Narrator,0,0,0,,But the peace-keeping Paladin Corps has \Na dark side that never enters the public eye.
-Dialogue: 0,0:00:46.43,0:00:47.55,Italics,Narrator,0,0,0,,Namely...
+Dialogue: 0,0:00:09.98,0:00:16.74,Signs,Text,0,0,0,,{\fad(500,500)\fsp1.5\fnTimes New Roman\fs48\b1\fscx90\an8\bord0\shad0\blur0.9\c&H283E44&\pos(960,714)}The Paladin Corps
+Dialogue: 0,0:00:10.11,0:00:11.44,Default,Narrator,0,0,0,,{\i1}The Paladin Corps.
+Dialogue: 0,0:00:12.13,0:00:17.47,Default,Narrator,0,0,0,,{\i1}Serving the world's largest international \Norganization, the Global Holy Church,
+Dialogue: 0,0:00:17.82,0:00:21.77,Default,Narrator,0,0,0,,{\i1}this magical army fights for world peace.
+Dialogue: 0,0:00:23.49,0:00:29.98,Default,Narrator,0,0,0,,{\i1}Their mission: to resolve equally \Nmagical atrocities of massive proportions.
+Dialogue: 0,0:00:30.48,0:00:35.81,Default,Narrator,0,0,0,,{\i1}No other military organization \Ncan handle witch-related incidents.
+Dialogue: 0,0:00:37.37,0:00:45.87,Default,Narrator,0,0,0,,{\i1}But the peace-keeping Paladin Corps has \Na dark side that never enters the public eye.
+Dialogue: 0,0:00:46.43,0:00:47.55,Default,Narrator,0,0,0,,{\i1}Namely...
 Dialogue: 0,0:02:48.35,0:02:51.19,Default,Guideau,0,0,0,,Ashaf! Stop holding out on me.
 Dialogue: 0,0:02:51.19,0:02:54.69,Default,Ashaf,0,0,0,,What's the rush? Your food will get cold.
 Dialogue: 0,0:02:55.43,0:02:56.84,Default,Ashaf,0,0,0,,What lovely weather.
@@ -49,7 +46,7 @@ Dialogue: 0,0:03:36.63,0:03:41.86,Default,Ashaf,0,0,0,,{\i1}They{\i0} would neve
 Dialogue: 0,0:03:42.70,0:03:48.66,Default,Ashaf,0,0,0,,Unfortunately, our mission is \Nto make contact with the witch,
 Dialogue: 0,0:03:48.66,0:03:52.25,Default,Ashaf,0,0,0,,and the Paladin Corps is \Ncertain to stand in our way.
 Dialogue: 0,0:03:56.90,0:04:00.07,Default,Ashaf,0,0,0,,Which means we'll have to fight to claim her.
-Dialogue: 0,0:04:02.17,0:04:07.55,Signs,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(500,0)\3c&H281E11&\pos(109.198,100.482)\c&HF8EBE4&\4c&H6E5F52&}The Witch and\N the Demon Sword\N{\fs16}Opening Act
+Dialogue: 0,0:04:02.17,0:04:07.55,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad1.5\fnTimes New Roman\fscx90\fad(500,0)\3c&H281E11&\pos(327.594,301.446)\c&HF8EBE4&\4c&H6E5F52&}The Witch and\N the Demon Sword\N{\fs48}Opening Act
 Dialogue: 0,0:04:09.35,0:04:10.39,Default,Townsperson A,0,0,0,,That tower just...
 Dialogue: 0,0:04:10.69,0:04:13.16,Default,Townsperson B,0,0,0,,They'll destroy the whole city at this rate.
 Dialogue: 0,0:04:13.16,0:04:15.05,Default,Townsperson C,0,0,0,,The witch is on a rampage.
@@ -330,6 +327,6 @@ Dialogue: 0,0:22:08.50,0:22:11.70,Default,Matt,0,0,0,,I've made up my mind not \
 Dialogue: 0,0:22:17.66,0:22:20.97,Default,Guideau,0,0,0,,Well, well. Here in the flesh this time?
 Dialogue: 0,0:22:21.68,0:22:24.68,Default,Guideau,0,0,0,,Then you'll stay dead when I kill you.
 Dialogue: 0,0:24:00.58,0:24:04.93,Default,Ashgan,0,0,0,,Everyone loses themselves \Nin pursuit of my power.
-Dialogue: 0,0:24:05.59,0:24:10.95,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs22\fscx90\an8\bord0\shad0\blur0.3\pos(320,100)}The Witch and \Nthe Demon Sword
-Dialogue: 0,0:24:05.59,0:24:10.95,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs15\fscx90\an8\bord0\shad0\blur0.3\pos(320,212)}Act II
+Dialogue: 0,0:24:05.59,0:24:10.95,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,300)}The Witch and \Nthe Demon Sword
+Dialogue: 0,0:24:05.59,0:24:10.95,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Act II
 Dialogue: 0,0:24:05.62,0:24:09.92,Default,Ashaf,0,0,0,,Next time: "The Witch \Nand the Demon Sword: Act II."
