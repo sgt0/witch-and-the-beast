@@ -11,6 +11,7 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,12 +23,12 @@ Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:47.16,0:01:51.54,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad0\fnTimes New Roman\fscx90\fad(500,0)\pos(354,240)\3c&H281E11&}The Witch's Pastime:\N{\fs48}Final Act
+Dialogue: 0,0:01:47.16,0:01:51.54,Signs,Text,0,0,0,,{\pos(355.94,254.2)\fscx90\fnAlegreya\fs70\bord1.5\3c&H281E11&\blur1.5\fad(500,0)}The Witch's Pastime:\N{\fs60}Final Act
 Dialogue: 0,0:01:52.18,0:01:56.72,Default,Haines,0,0,0,,We suspect a witch, based on \Nthe overwhelming power.
 Dialogue: 0,0:01:56.72,0:01:59.59,Default,Haines,0,0,0,,Then there are the messages\Nleft at the crime scenes.
 Dialogue: 0,0:01:59.98,0:02:03.22,Default,Haines,0,0,0,,Each one points to the killer being a witch.
-Dialogue: 0,0:02:03.22,0:02:05.20,Default,Ashaf,0,0,0,,Oh? For example?
-Dialogue: 0,0:02:05.20,0:02:09.65,Default,Haines,0,0,0,,"I live on and on without change. \NI bear heir after heir without change."
+Dialogue: 0,0:02:03.22,0:02:05.20,Default,Ashaf,0,0,0,,Oh? Such as?
+Dialogue: 0,0:02:05.20,0:02:09.65,Default,Haines,0,0,0,,"I live on and on without change. \NI bear heir after heir without change."{manga: "I live, and give birth, but I never change."}
 Dialogue: 0,0:02:09.65,0:02:11.31,Default,Haines,0,0,0,,Do you know what that points to?
 Dialogue: 0,0:02:11.31,0:02:15.08,Default,Ashaf,0,0,0,,A witch. Witches don't age \Nand their health doesn't decline.
 Dialogue: 0,0:02:15.08,0:02:18.15,Default,Ashaf,0,0,0,,And a witch's power is \Npassed on to her descendants,
@@ -42,24 +43,24 @@ Dialogue: 0,0:02:33.93,0:02:35.56,Default,Ashaf,0,0,0,,A human, I believe.
 Dialogue: 0,0:02:35.56,0:02:36.87,Default,Haines,0,0,0,,Right. A human.
 Dialogue: 0,0:02:37.56,0:02:40.50,Default,Ashaf,0,0,0,,How strange. Was that one of the messages?
 Dialogue: 0,0:02:40.50,0:02:43.76,Default,Haines,0,0,0,,That's right. None of it \Nmeans much of anything.
-Dialogue: 0,0:02:43.76,0:02:45.97,Default,Haines,0,0,0,,The killer's laughing at us.
+Dialogue: 0,0:02:43.76,0:02:45.97,Default,Haines,0,0,0,,The killer's playing with us.
 Dialogue: 0,0:02:45.97,0:02:51.74,Default,Haines,0,0,0,,We call it the "Witch's Pastime" case\Nbecause it's all a game to them.
 Dialogue: 0,0:02:56.36,0:02:58.45,Default,Haines,0,0,0,,But that game has come back to bite them.
-Dialogue: 0,0:02:58.45,0:03:03.91,Default,Haines,0,0,0,,I realized that some of the riddles \Nwere quotes from a book.
-Dialogue: 0,0:03:04.52,0:03:07.89,Default,Haines,0,0,0,,And it seems this bookshop\Nhad ordered a copy of it.
+Dialogue: 0,0:02:58.45,0:03:03.91,Default,Haines,0,0,0,,I realized that some of the riddles \Nwere taken from a book.
+Dialogue: 0,0:03:04.52,0:03:07.89,Default,Haines,0,0,0,,A book that was ordered from this bookshop.
 Dialogue: 0,0:03:07.89,0:03:09.87,Default,Haines,0,0,0,,Even the timing lines up.
-Dialogue: 0,0:03:10.13,0:03:12.58,Default,Ashaf,0,0,0,,I'm impressed you traced the quotations.
+Dialogue: 0,0:03:10.13,0:03:12.58,Default,Ashaf,0,0,0,,I'm impressed you traced the source.
 Dialogue: 0,0:03:12.58,0:03:16.50,Default,Haines,0,0,0,,I just got lucky. \NI have the same book at home.
-Dialogue: 0,0:03:19.22,0:03:20.32,Default,Guideau,0,0,0,,Something stinks.
+Dialogue: 0,0:03:19.22,0:03:20.32,Default,Guideau,0,0,0,,It reeks.
 Dialogue: 0,0:03:24.68,0:03:26.01,Default,Haines,0,0,0,,What do you think you're doing?!
 Dialogue: 0,0:03:27.20,0:03:28.84,Default,Guideau,0,0,0,,You guys go in.
 Dialogue: 0,0:03:41.60,0:03:42.86,Default,Haines,0,0,0,,Damn it!
 Dialogue: 0,0:03:45.20,0:03:47.91,Default,Ashaf,0,0,0,,The wound shows magical damage.
 Dialogue: 0,0:03:47.91,0:03:51.12,Default,Ashaf,0,0,0,,It seems natural to conclude \Nthat a witch inflicted it.
-Dialogue: 0,0:03:51.12,0:03:54.77,Default,Ashaf,0,0,0,,She must have gouged out his eyes\N because he saw something.
+Dialogue: 0,0:03:51.12,0:03:54.77,Default,Ashaf,0,0,0,,She must have gouged out his eyes\N because he was a witness.
 Dialogue: 0,0:03:54.77,0:03:56.75,Default,Ashaf,0,0,0,,An attempt at irony, I assume.
 Dialogue: 0,0:03:57.26,0:03:59.46,Default,Ashaf,0,0,0,,If she intended to cover her trail this way,
-Dialogue: 0,0:03:59.46,0:04:02.72,Default,Ashaf,0,0,0,,why bother leaving quotations \Nas messages in the first place?
+Dialogue: 0,0:03:59.46,0:04:02.72,Default,Ashaf,0,0,0,,why bother leaving messages in the first place?
 Dialogue: 0,0:04:03.15,0:04:07.02,Default,Haines,0,0,0,,I told you. It's just a game to her.
 Dialogue: 0,0:04:07.02,0:04:10.93,Default,Haines,0,0,0,,She probably just decided \Nshe might as well kill this guy, too.
 Dialogue: 0,0:04:10.93,0:04:13.03,Default,Ashaf,0,0,0,,We've lost our lead.
@@ -69,15 +70,15 @@ Dialogue: 0,0:04:20.26,0:04:21.22,Default,Ashaf,0,0,0,,Why not?
 Dialogue: 0,0:04:21.88,0:04:23.35,Default,Haines,0,0,0,,Because of precedent.
 Dialogue: 0,0:04:24.44,0:04:27.34,Default,Haines,0,0,0,,Nothing good happens to people I'm close to.
 Dialogue: 0,0:04:30.86,0:04:31.91,Default,Haines,0,0,0,,What is it?
-Dialogue: 0,0:04:31.91,0:04:35.37,Default,Detective,0,0,0,,Ms. Haines, we've found a new body here, too.
+Dialogue: 0,0:04:31.91,0:04:35.37,Default,Detective,0,0,0,,Ms. Haines, we've found another body over here.
 Dialogue: 0,0:04:35.89,0:04:37.53,Default,Detective,0,0,0,,{\i1}And a message.
 Dialogue: 0,0:04:37.53,0:04:38.84,Default,Haines,0,0,0,,What's it say?
 Dialogue: 0,0:04:41.44,0:04:43.42,Default,Loran,0,0,0,,{\i1}I'm a disease.
 Dialogue: 0,0:04:43.42,0:04:46.63,Default,Loran,0,0,0,,{\i1}Diseases propagate and spread.
 Dialogue: 0,0:04:46.63,0:04:50.71,Default,Loran,0,0,0,,{\i1}This disease is called a curse.\N A witch's curse.
-Dialogue: 0,0:04:53.17,0:04:57.48,Default,Haines,0,0,0,,Considering I took you to the crime scene,\N you didn't manage to find out much.
+Dialogue: 0,0:04:53.17,0:04:57.48,Default,Haines,0,0,0,,{\N you didn't manage to find out much.}I took you to the scene,\Nbut you didn't find out much.
 Dialogue: 0,0:04:57.73,0:05:01.08,Default,Ashaf,0,0,0,,Oh, well. Corpses aren't my specialty.
-Dialogue: 0,0:05:01.08,0:05:03.49,Default,Haines,0,0,0,,Well, I'm not expecting much, anyway.
+Dialogue: 0,0:05:01.08,0:05:03.49,Default,Haines,0,0,0,,Well, I'm not expecting much.
 Dialogue: 0,0:05:03.99,0:05:04.70,Default,Haines,0,0,0,,See you.
 Dialogue: 0,0:05:09.22,0:05:10.24,Default,Guideau,0,0,0,,Ashaf.
 Dialogue: 0,0:05:10.99,0:05:12.24,Default,Ashaf,0,0,0,,Yes?
@@ -86,7 +87,7 @@ Dialogue: 0,0:05:14.71,0:05:16.54,Default,Ashaf,0,0,0,,Really? You must be jokin
 Dialogue: 0,0:05:17.00,0:05:19.12,Default,Ashaf,0,0,0,,I left the coffin at the hotel.
 Dialogue: 0,0:05:21.69,0:05:23.80,Default,Ashaf,0,0,0,,Idiot! Don't just rush in blindly!
 Dialogue: 0,0:05:37.82,0:05:39.15,Default,Guideau,0,0,0,,She disappeared!
-Dialogue: 0,0:05:39.38,0:05:43.18,Default,Ashaf,0,0,0,,That she did. Quite literally like smoke.
+Dialogue: 0,0:05:39.38,0:05:43.18,Default,Ashaf,0,0,0,,In a puff of smoke, quite literally.
 Dialogue: 0,0:05:43.18,0:05:45.92,Default,Ashaf,0,0,0,,So she's powerful and an escape artist, too?
 Dialogue: 0,0:05:45.92,0:05:47.86,Default,Ashaf,0,0,0,,I'd say we have our work cut out for us.
 Dialogue: 0,0:05:48.35,0:05:50.36,Default,Ashaf,0,0,0,,Still, why would the witch...
@@ -103,7 +104,7 @@ Dialogue: 0,0:06:14.56,0:06:16.43,Default,Ashaf,0,0,0,,Yes, completely.
 Dialogue: 0,0:06:16.43,0:06:17.42,Default,Haines,0,0,0,,I see.
 Dialogue: 0,0:06:17.77,0:06:20.15,Default,Haines,0,0,0,,There goes what little hope I had for you.
 Dialogue: 0,0:06:20.85,0:06:22.98,Default,Haines,0,0,0,,You took quite a beating.
-Dialogue: 0,0:06:22.98,0:06:25.19,Default,Ashaf,0,0,0,,I've already performed healing.
+Dialogue: 0,0:06:22.98,0:06:25.19,Default,Ashaf,0,0,0,,I've already treated the wounds.
 Dialogue: 0,0:06:25.19,0:06:27.62,Default,Ashaf,0,0,0,,More importantly, \Nplease answer my question.
 Dialogue: 0,0:06:28.61,0:06:31.17,Default,Ashaf,0,0,0,,How are you connected to the witch?
 Dialogue: 0,0:06:31.17,0:06:32.16,Default,Haines,0,0,0,,What?
@@ -151,21 +152,21 @@ Dialogue: 0,0:08:45.58,0:08:47.81,Flashback,Reuben,0,0,0,,It's the time that was
 Dialogue: 0,0:08:47.81,0:08:48.62,Flashback,Haines,0,0,0,,Yeah.
 Dialogue: 0,0:08:51.32,0:08:53.44,Flashback,Haines,0,0,0,,Damn it! Not this purple smoke again!
 Dialogue: 0,0:08:53.44,0:08:55.00,Flashback,Detective,0,0,0,,We can't get a clear view!
-Dialogue: 0,0:08:55.00,0:08:57.39,Flashback,Haines,0,0,0,,Everyone, take shelter \Nin the magical array!
-Dialogue: 0,0:08:57.80,0:08:59.01,Flashback,Haines,0,0,0,,What are you doing, Reuben?!
+Dialogue: 0,0:08:55.00,0:08:57.39,Flashback,Haines,0,0,0,,Everyone, take shelter in the barrier!
+Dialogue: 0,0:08:57.80,0:08:59.01,Flashback,Haines,0,0,0,,Reuben, what are you doing?!
 Dialogue: 0,0:08:59.01,0:09:00.30,Flashback,Reuben,0,0,0,,I'll take her down.
 Dialogue: 0,0:09:00.30,0:09:02.70,Flashback,Haines,0,0,0,,Alone? That's crazy! She's a witch!
 Dialogue: 0,0:09:02.70,0:09:07.02,Flashback,Reuben,0,0,0,,Yes, I know. The witch who killed those kids!
 Dialogue: 0,0:09:20.30,0:09:23.25,Default,Haines,0,0,0,,I lost my sons and Reuben.
-Dialogue: 0,0:09:24.18,0:09:28.30,Default,Haines,0,0,0,,He was my magic teacher... and my boyfriend.
+Dialogue: 0,0:09:24.18,0:09:28.30,Default,Haines,0,0,0,,He was my magic teacher... and my boyfriend.{manga: lover}
 Dialogue: 0,0:09:31.84,0:09:34.32,Default,Ashaf,0,0,0,,I suspect that warning was meant to...
 Dialogue: 0,0:09:34.32,0:09:36.92,Default,Haines,0,0,0,,What you told me clinches it.
-Dialogue: 0,0:09:37.60,0:09:40.12,Default,Haines,0,0,0,,It was to lure him out and murder him.
+Dialogue: 0,0:09:37.60,0:09:40.12,Default,Haines,0,0,0,,It was to lure him to his death.
 Dialogue: 0,0:09:40.78,0:09:43.51,Default,Haines,0,0,0,,The witch is targeting people I care about.
 Dialogue: 0,0:09:44.32,0:09:46.69,Default,Haines,0,0,0,,You got too friendly with me.
 Dialogue: 0,0:09:46.69,0:09:49.05,Default,Ashaf,0,0,0,,So we gave her the wrong idea, huh?
 Dialogue: 0,0:09:49.05,0:09:51.12,Default,Ashaf,0,0,0,,But that clarifies things.
-Dialogue: 0,0:09:51.12,0:09:53.65,Default,Ashaf,0,0,0,,The witch must hold a grudge against you.
+Dialogue: 0,0:09:51.12,0:09:53.65,Default,Ashaf,0,0,0,,The witch has a vendetta against you.
 Dialogue: 0,0:09:53.65,0:09:54.91,Default,Ashaf,0,0,0,,Any idea why?
 Dialogue: 0,0:09:54.91,0:09:56.49,Default,Haines,0,0,0,,Of course not.
 Dialogue: 0,0:09:56.49,0:09:57.81,Default,Haines,0,0,0,,But that's perfect.
@@ -186,7 +187,7 @@ Dialogue: 0,0:10:39.62,0:10:41.87,Default,Haines,0,0,0,,I don't need you to tell
 Dialogue: 0,0:10:41.87,0:10:47.70,Default,Haines,0,0,0,,But I still can't do anything \Nabout this pain... this hatred.
 Dialogue: 0,0:10:49.20,0:10:50.67,Default,Guideau,0,0,0,,What the hell?
 Dialogue: 0,0:10:50.67,0:10:53.52,Default,Guideau,0,0,0,,You keep spouting crap that makes no sense.
-Dialogue: 0,0:10:53.52,0:10:56.25,Default,Guideau,0,0,0,,If you wanna get even, you do it.
+Dialogue: 0,0:10:53.52,0:10:56.25,Default,Guideau,0,0,0,,If you wanna get even, just do it.
 Dialogue: 0,0:10:56.96,0:10:58.97,Default,Guideau,0,0,0,,Who gives a shit who you do it for?
 Dialogue: 0,0:10:59.25,0:11:01.01,Default,Guideau,0,0,0,,You said it yourself.
 Dialogue: 0,0:11:01.01,0:11:02.74,Default,Guideau,0,0,0,,You'll kill her 'cause you hate her.
@@ -207,11 +208,11 @@ Dialogue: 0,0:11:34.80,0:11:37.90,Default,Guideau,0,0,0,,what makes revenge so s
 Dialogue: 0,0:11:44.97,0:11:48.93,Default,Haines,0,0,0,,The witch's main spell is purple smoke.\N I don't know how it works.
 Dialogue: 0,0:11:49.48,0:11:53.20,Default,Haines,0,0,0,,She can crush most things with it,\N or send them flying.
 Dialogue: 0,0:11:53.20,0:11:55.02,Default,Haines,0,0,0,,It also acts as a smoke screen.
-Dialogue: 0,0:11:55.97,0:11:59.25,Default,Ashaf,0,0,0,,I suppose her vanishing spell \Nis our biggest concern.
+Dialogue: 0,0:11:55.97,0:11:59.25,Default,Ashaf,0,0,0,,What's even more concerning\Nis her vanishing magic.
 Dialogue: 0,0:12:00.38,0:12:04.21,Default,Haines,0,0,0,,By the way, what did you do \Nwith those leather sacks I got you?
-Dialogue: 0,0:12:04.21,0:12:05.70,Default,Ashaf,0,0,0,,Oh, nothing much.
+Dialogue: 0,0:12:04.21,0:12:05.70,Default,Ashaf,0,0,0,,Oh, this and that.
 Dialogue: 0,0:12:07.77,0:12:10.79,Default,Haines,0,0,0,,About Guideau... I know what she said,
-Dialogue: 0,0:12:11.33,0:12:16.21,Default,Haines,0,0,0,,but if we manage to beat this witch, \Nwill that cheer everyone up a little?
+Dialogue: 0,0:12:11.33,0:12:16.21,Default,Haines,0,0,0,,but if we manage to beat this witch, \Nwill that soothe the dead a little?
 Dialogue: 0,0:12:16.89,0:12:18.78,Default,Ashaf,0,0,0,,Yes, I'm sure it will.
 Dialogue: 0,0:12:19.67,0:12:21.12,Default,Guideau,0,0,0,,She's late.
 Dialogue: 0,0:12:21.12,0:12:23.31,Default,Guideau,0,0,0,,I've already digested everything I ate.
@@ -226,11 +227,11 @@ Dialogue: 0,0:12:40.00,0:12:40.98,Default,Haines,0,0,0,,Wait a minute!
 Dialogue: 0,0:12:41.39,0:12:43.75,Default,Haines,0,0,0,,Don't tell me you're counting on {\i1}that{\i0}?
 Dialogue: 0,0:12:43.75,0:12:46.63,Default,Haines,0,0,0,,You must know how to undo a witch's curse.
 Dialogue: 0,0:12:46.63,0:12:51.67,Default,Haines,0,0,0,,You either kiss your true love, or get the \Nwitch who cast the curse to undo it. That's it!
-Dialogue: 0,0:12:51.67,0:12:54.98,Default,Haines,0,0,0,,Can you prove this witch \Nis the one who cursed you?
+Dialogue: 0,0:12:51.67,0:12:54.98,Default,Haines,0,0,0,,Can you prove this witch \Nis the one you're looking for?
 Dialogue: 0,0:12:54.98,0:12:56.50,Default,Guideau,0,0,0,,'Course not.
 Dialogue: 0,0:12:56.50,0:12:57.82,Default,Ashaf,0,0,0,,Don't worry.
 Dialogue: 0,0:12:58.50,0:13:02.50,Default,Ashaf,0,0,0,,You see, there's actually one \Nmore way to undo the curse.
-Dialogue: 0,0:13:03.31,0:13:06.00,Default,Ashaf,0,0,0,,That's what we're gambling on.
+Dialogue: 0,0:13:03.31,0:13:06.00,Default,Ashaf,0,0,0,,That's what we're betting on.
 Dialogue: 0,0:13:06.00,0:13:09.89,Default,Ashaf,0,0,0,,If we face a witch and meet certain \Nconditions, we'll see the return
 Dialogue: 0,0:13:10.22,0:13:12.65,Default,Ashaf,0,0,0,,of a monster even witches fear.
 Dialogue: 0,0:13:14.86,0:13:16.23,Default,Guideau,0,0,0,,She's here.
@@ -245,33 +246,33 @@ Dialogue: 0,0:13:42.41,0:13:44.10,Default,Guideau,0,0,0,,What just happened?!
 Dialogue: 0,0:13:44.10,0:13:48.11,Default,Ashaf,0,0,0,,{\i1}Given how little we can see, we can't \Nattack recklessly because we have allies.
 Dialogue: 0,0:13:48.11,0:13:50.48,Default,Ashaf,0,0,0,,{\i1}But our opponent is free to cut loose.
 Dialogue: 0,0:13:52.61,0:13:54.35,Default,Ashaf,0,0,0,,{\i1}Hardly an enviable position.
-Dialogue: 0,0:14:07.88,0:14:09.28,Default,Ashaf,0,0,0,,Are you all unharmed?
-Dialogue: 0,0:14:09.28,0:14:13.85,Default,Haines,0,0,0,,Yeah. I can manage as long as \NI focus solely on staying alive.
+Dialogue: 0,0:14:07.88,0:14:09.28,Default,Ashaf,0,0,0,,Is everyone all right?
+Dialogue: 0,0:14:09.28,0:14:13.85,Default,Haines,0,0,0,,Yeah. We can manage as long as \Nwe focus solely on staying alive.
 Dialogue: 0,0:14:15.25,0:14:16.13,Default,Haines,0,0,0,,Guideau!
 Dialogue: 0,0:14:17.35,0:14:18.46,Default,Guideau,0,0,0,,That asshole!
-Dialogue: 0,0:14:18.46,0:14:22.94,Default,Haines,0,0,0,,Thank goodness. That means \Nwe kept our losses to a minimum.
+Dialogue: 0,0:14:18.46,0:14:22.94,Default,Haines,0,0,0,,Thank goodness.\NWe kept our losses to a minimum.
 Dialogue: 0,0:14:22.94,0:14:26.59,Default,Guideau,0,0,0,,This sucks. Just let me kill her ass already!
 Dialogue: 0,0:14:26.84,0:14:30.39,Default,Ashaf,0,0,0,,What good will fighting do when \Nour enemy has a way to escape?
-Dialogue: 0,0:14:30.39,0:14:32.89,Default,Ashaf,0,0,0,,We should corner her before we strike.
-Dialogue: 0,0:14:32.89,0:14:35.32,Default,Haines,0,0,0,,I've done everything you've said so far.
+Dialogue: 0,0:14:30.39,0:14:32.89,Default,Ashaf,0,0,0,,We strike {\i1}after{\i0} we have her cornered.
+Dialogue: 0,0:14:32.89,0:14:35.32,Default,Haines,0,0,0,,We've done everything you've said so far.
 Dialogue: 0,0:14:35.32,0:14:37.85,Default,Haines,0,0,0,,You'd better have a plan for what comes next.
-Dialogue: 0,0:14:37.85,0:14:40.59,Default,Ashaf,0,0,0,,Not a problem. I've already found her.
-Dialogue: 0,0:14:41.34,0:14:42.77,Default,Haines,0,0,0,,How on earth...
+Dialogue: 0,0:14:37.85,0:14:40.59,Default,Ashaf,0,0,0,,Not a problem. I've already located her.
+Dialogue: 0,0:14:41.34,0:14:42.77,Default,Haines,0,0,0,,How could you have...
 Dialogue: 0,0:14:43.60,0:14:46.23,Default,Ashaf,0,0,0,,Have you noticed that \Nthere are more crows lately?
 Dialogue: 0,0:14:48.67,0:14:50.95,Default,Ashaf,0,0,0,,Those are my familiars.
-Dialogue: 0,0:14:51.27,0:14:56.75,Default,Ashaf,0,0,0,,And I can see everything they can.
-Dialogue: 0,0:14:57.39,0:15:00.00,Default,Ashaf,0,0,0,,So she can't escape us now, \Nno matter where she goes.
+Dialogue: 0,0:14:51.27,0:14:56.75,Default,Ashaf,0,0,0,,And I can borrow their eyes\Nto see what they see.
+Dialogue: 0,0:14:57.39,0:15:00.00,Default,Ashaf,0,0,0,,There's no escape for her now.
 Dialogue: 0,0:15:00.77,0:15:04.55,Default,Ashaf,0,0,0,,Now, shall we go see a witch?
 Dialogue: 0,0:15:31.11,0:15:31.82,Default,Guideau,0,0,0,,Huh?!
 Dialogue: 0,0:15:35.13,0:15:38.41,Default,Ashaf,0,0,0,,Honestly. Must you charge\Nin alone every single time?
 Dialogue: 0,0:15:38.88,0:15:41.37,Default,Guideau,0,0,0,,Ashaf, there were two of 'em.
 Dialogue: 0,0:15:41.67,0:15:45.13,Default,Guideau,0,0,0,,No, forget that. Damn it!
-Dialogue: 0,0:15:45.13,0:15:48.28,Default,Guideau,0,0,0,,These assholes aren't witches!
+Dialogue: 0,0:15:45.13,0:15:48.28,Default,Guideau,0,0,0,,These assholes aren't witches at all!
 Dialogue: 0,0:15:48.53,0:15:52.02,Default,Shulk,0,0,0,,Tch, another one. How'd they find us?
 Dialogue: 0,0:15:52.76,0:15:54.47,Default,Loran,0,0,0,,Dude, you survived?!
 Dialogue: 0,0:15:54.47,0:15:57.18,Default,Ashaf,0,0,0,,Yes. Did you think you'd killed me?
 Dialogue: 0,0:15:57.18,0:16:00.50,Default,Ashaf,0,0,0,,Well, of course you would,\Nafter a rampage like that.
-Dialogue: 0,0:16:00.50,0:16:03.17,Default,Ashaf,0,0,0,,Unfortunately for you, \NI have confidence in my wards.
+Dialogue: 0,0:16:00.50,0:16:03.17,Default,Ashaf,0,0,0,,Unfortunately for you, \NI'm confident in my barriers.
 Dialogue: 0,0:16:03.17,0:16:06.09,Default,Shulk,0,0,0,,Damn. This guy's a mage.
 Dialogue: 0,0:16:06.09,0:16:07.61,Default,Loran,0,0,0,,Are you two alone?
 Dialogue: 0,0:16:11.71,0:16:15.01,Default,Haines,0,0,0,,What's going on here? It can't be...
@@ -286,20 +287,20 @@ Dialogue: 0,0:16:37.05,0:16:38.20,Default,Haines,0,0,0,,Don't tell me...
 Dialogue: 0,0:16:39.52,0:16:40.77,Default,Haines,0,0,0,,There's no way!
 Dialogue: 0,0:16:41.19,0:16:41.98,Default,Haines,0,0,0,,Loran...
 Dialogue: 0,0:16:41.98,0:16:43.18,Default,Haines,0,0,0,,Shulk...
-Dialogue: 0,0:16:43.96,0:16:46.27,Default,Haines,0,0,0,,{\i1}You{\i0} were the witch?
+Dialogue: 0,0:16:43.96,0:16:46.27,Default,Haines,0,0,0,,You two were the witch all along?
 Dialogue: 0,0:16:46.27,0:16:48.56,Default,Haines,0,0,0,,No, that can't be.
 Dialogue: 0,0:16:48.56,0:16:51.44,Default,Haines,0,0,0,,I know you don't have that kind of power.
 Dialogue: 0,0:16:51.67,0:16:54.25,Default,Ashaf,0,0,0,,Look at what they're holding, Kiera.
 Dialogue: 0,0:16:55.52,0:16:58.32,Default,Ashaf,0,0,0,,There's the truth behind \Ntheir witch-like power.
-Dialogue: 0,0:16:59.09,0:17:02.54,Default,Ashaf,0,0,0,,The two-volume grimoire, Sarnovasus.
+Dialogue: 0,0:16:59.09,0:17:02.54,Default,Ashaf,0,0,0,,The two-volume grimoire, Sarnouasuth{Sarnovasus}.
 Dialogue: 0,0:17:02.54,0:17:04.00,Default,Haines,0,0,0,,A grimoire?
 Dialogue: 0,0:17:04.43,0:17:08.19,Default,Ashaf,0,0,0,,Grimoires provide power and \Nperform spells for their wielders.
-Dialogue: 0,0:17:08.19,0:17:10.86,Default,Ashaf,0,0,0,,No magical aptitude is needed.
+Dialogue: 0,0:17:08.19,0:17:10.86,Default,Ashaf,0,0,0,,No magical prowess required.
 Dialogue: 0,0:17:10.86,0:17:13.94,Default,Ashaf,0,0,0,,Just holding one grants power \Nalmost on par with a witch's.
 Dialogue: 0,0:17:13.94,0:17:17.72,Default,Ashaf,0,0,0,,They're a type of Forbidden Instrument, \Nwhich are taboo tools of dark magic.
 Dialogue: 0,0:17:17.72,0:17:21.46,Default,Ashaf,0,0,0,,And either part of a two-volume grimoire
 Dialogue: 0,0:17:21.46,0:17:24.68,Default,Ashaf,0,0,0,,can summon its other half \Ninstantly across space.
-Dialogue: 0,0:17:24.68,0:17:28.15,Default,Ashaf,0,0,0,,But only up to a distance \Nof roughly one kilometer.
+Dialogue: 0,0:17:24.68,0:17:28.15,Default,Ashaf,0,0,0,,But only up to a distance \Nof roughly one kilometer.{manga: no spacial limitation}
 Dialogue: 0,0:17:28.53,0:17:31.07,Default,Ashaf,0,0,0,,So I was able to locate them\N in next to no time.
 Dialogue: 0,0:17:31.07,0:17:32.86,Default,Loran,0,0,0,,Who is this guy?
 Dialogue: 0,0:17:32.86,0:17:36.17,Default,Haines,0,0,0,,Where did you get something like that?
@@ -314,8 +315,8 @@ Dialogue: 0,0:17:55.47,0:17:57.59,Default,Shulk,0,0,0,,Touching the grimoires ma
 Dialogue: 0,0:17:57.59,0:17:59.86,Default,Loran,0,0,0,,So we {\i1}had{\i0} to kill!
 Dialogue: 0,0:17:59.86,0:18:01.25,Default,Haines,0,0,0,,No...
 Dialogue: 0,0:18:03.69,0:18:05.57,Default,Guideau,0,0,0,,That's a good one.
-Dialogue: 0,0:18:05.57,0:18:08.48,Default,Guideau,0,0,0,,I've seen the bodies of a few people you killed,
-Dialogue: 0,0:18:08.79,0:18:11.94,Default,Guideau,0,0,0,,and I could tell you loved every moment.
+Dialogue: 0,0:18:05.57,0:18:08.48,Default,Guideau,0,0,0,,I saw the corpses you left behind,
+Dialogue: 0,0:18:08.79,0:18:11.94,Default,Guideau,0,0,0,,you definitely enjoyed every moment.
 Dialogue: 0,0:18:12.37,0:18:16.20,Default,Haines,0,0,0,,You had to? You had no choice?
 Dialogue: 0,0:18:16.72,0:18:18.15,Default,Haines,0,0,0,,Then...
 Dialogue: 0,0:18:18.15,0:18:21.01,Default,Haines,0,0,0,,Then why did you kill Reuben?!
@@ -332,15 +333,15 @@ Dialogue: 0,0:18:49.04,0:18:52.04,Default,Loran,0,0,0,,I know we killed at least
 Dialogue: 0,0:18:52.04,0:18:53.21,Default,Loran,0,0,0,,We made our sacrifices!
 Dialogue: 0,0:18:53.21,0:18:55.59,Default,Ashaf,0,0,0,,Oh, you mean these?
 Dialogue: 0,0:18:59.69,0:19:00.82,Default,Shulk,0,0,0,,What the hell is that?!
-Dialogue: 0,0:19:01.20,0:19:05.44,Default,Ashaf,0,0,0,,A mere dummy. A leather sack \Nstuffed full of red liquid.
-Dialogue: 0,0:19:05.44,0:19:08.14,Default,Ashaf,0,0,0,,Well, they don't stand up\N to close inspection,
+Dialogue: 0,0:19:01.20,0:19:05.44,Default,Ashaf,0,0,0,,A mere dummy. Red liquid in a leather sack.
+Dialogue: 0,0:19:05.44,0:19:08.14,Default,Ashaf,0,0,0,,Well, they don't stand up to close inspection,
 Dialogue: 0,0:19:08.14,0:19:11.25,Default,Ashaf,0,0,0,,but your smoke made it awfully hard to see.
 Dialogue: 0,0:19:11.25,0:19:12.80,Default,Loran,0,0,0,,So what?!
 Dialogue: 0,0:19:12.80,0:19:16.35,Default,Loran,0,0,0,,With this power, we can kill all we need!
 Dialogue: 0,0:19:16.92,0:19:18.09,Default,Shulk,0,0,0,,I'll crush you!
-Dialogue: 0,0:19:26.61,0:19:29.81,Default,Ashaf,0,0,0,,Second, even without undoing the curse...
-Dialogue: 0,0:19:32.30,0:19:34.44,Default,Ashaf,0,0,0,,we're fairly strong.
-Dialogue: 0,0:19:37.53,0:19:40.40,Default,Ashaf,0,0,0,,Well, what do you know? \NWe didn't need number three.
+Dialogue: 0,0:19:26.61,0:19:29.81,Default,Ashaf,0,0,0,,Second, even with the curse intact...
+Dialogue: 0,0:19:32.30,0:19:34.44,Default,Ashaf,0,0,0,,we're still quite strong.
+Dialogue: 0,0:19:37.53,0:19:40.40,Default,Ashaf,0,0,0,,Ah, well, no need for number three.
 Dialogue: 0,0:19:40.40,0:19:43.89,Default,Guideau,0,0,0,,You punks don't have what it takes\N to call yourselves witches.
 Dialogue: 0,0:19:43.89,0:19:45.18,Default,Guideau,0,0,0,,Assholes.
 Dialogue: 0,0:19:48.39,0:19:50.58,Default,Haines,0,0,0,,Why did you pretend to be witches?
@@ -362,23 +363,23 @@ Dialogue: 0,0:20:31.02,0:20:33.44,Default,Haines,0,0,0,,Now I don't even pity yo
 Dialogue: 0,0:20:37.90,0:20:40.34,Flashback,Loran,0,0,0,,Why'd you adopt us?
 Dialogue: 0,0:20:41.70,0:20:43.63,Flashback,Haines,0,0,0,,Because I wanted you to know.
 Dialogue: 0,0:20:43.63,0:20:44.63,Flashback,Loran,0,0,0,,Know what?
-Dialogue: 0,0:20:43.63,0:20:44.63,Flashback,Shulk,0,0,0,,{\an8}Know what?
+Dialogue: 0,0:20:43.63,0:20:44.63,Flashback,Shulk,0,0,0,,Know what?
 Dialogue: 0,0:20:44.98,0:20:46.90,Flashback,Haines,0,0,0,,What it is to love and be loved.
 Dialogue: 0,0:20:47.63,0:20:49.66,Flashback,Haines,0,0,0,,Ordinary things like that.
-Dialogue: 0,0:20:53.61,0:20:57.64,Default,Newscaster,0,0,0,,{\i1\an8}The Witch's Pastime case,\Nwhich has long tormented Hayden,
-Dialogue: 0,0:20:57.64,0:20:59.90,Default,Newscaster,0,0,0,,{\i1\an8}was thought to be the work of a witch,
-Dialogue: 0,0:20:59.90,0:21:04.20,Default,Newscaster,0,0,0,,{\i1\an8}but we have just learned that \Ntwo boys committed the killings.
+Dialogue: 0,0:20:53.61,0:20:57.64,Default,Newscaster,0,0,0,,The Witch's Pastime case,\Nwhich has long tormented Hayden,
+Dialogue: 0,0:20:57.64,0:20:59.90,Default,Newscaster,0,0,0,,was thought to be the work of a witch,
+Dialogue: 0,0:20:59.90,0:21:04.20,Default,Newscaster,0,0,0,,but we have just learned that \Ntwo boys committed the killings.
 Dialogue: 0,0:21:04.43,0:21:08.66,Default,Guideau,0,0,0,,Damn it, Ashaf. You knew the \Nwitch was a fake, didn't you?
 Dialogue: 0,0:21:08.95,0:21:13.04,Default,Ashaf,0,0,0,,Well, you catch on quick when you know\N as many dark secrets as the Order does.
 Dialogue: 0,0:21:13.04,0:21:17.54,Default,Ashaf,0,0,0,,Nothing would have kept the \NPaladin Corps out of a real witch case.
-Dialogue: 0,0:21:17.80,0:21:19.45,Default,Guideau,0,0,0,,You'll pay once I'm done eating.
+Dialogue: 0,0:21:17.80,0:21:19.45,Default,Guideau,0,0,0,,After I destroy this food, you're next.
 Dialogue: 0,0:21:19.45,0:21:21.62,Default,Ashaf,0,0,0,,Now, now. Be reasonable.
 Dialogue: 0,0:21:22.47,0:21:23.51,Default,Haines,0,0,0,,Hey.
 Dialogue: 0,0:21:23.95,0:21:24.79,Default,Ashaf,0,0,0,,Kiera.
 Dialogue: 0,0:21:26.17,0:21:27.53,Default,Haines,0,0,0,,Thanks.
 Dialogue: 0,0:21:27.53,0:21:30.82,Default,Haines,0,0,0,,We really wouldn't have had \Na prayer without you two.
 Dialogue: 0,0:21:30.82,0:21:31.93,Default,Ashaf,0,0,0,,Just doing our job.
-Dialogue: 0,0:21:32.43,0:21:35.14,Default,Ashaf,0,0,0,,And we'll be taking the grimoires with us.
+Dialogue: 0,0:21:32.43,0:21:35.14,Default,Ashaf,0,0,0,,And you paid us handsomely\Nwith these grimoires.
 Dialogue: 0,0:21:35.81,0:21:37.05,Default,Haines,0,0,0,,The grimoires...
 Dialogue: 0,0:21:37.05,0:21:40.03,Default,Haines,0,0,0,,I don't remember ever seeing them before.
 Dialogue: 0,0:21:40.03,0:21:42.14,Default,Ashaf,0,0,0,,Forbidden Instruments \Nhave wills of their own.
@@ -396,6 +397,6 @@ Dialogue: 0,0:22:21.68,0:22:22.86,Default,Haines,0,0,0,,Sure.
 Dialogue: 0,0:22:23.81,0:22:25.11,Default,Haines,0,0,0,,I'll give you a call.
 Dialogue: 0,0:22:25.58,0:22:29.14,Default,Haines,0,0,0,,If a witch shows up, you can count on it.
 Dialogue: 0,0:24:00.45,0:24:06.46,Default,Ashaf,0,0,0,,Naturally, we retain a \Nnecromantic specialist.
-Dialogue: 0,0:24:06.46,0:24:10.71,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,372)}Beauty and Death
-Dialogue: 0,0:24:06.46,0:24:10.71,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Opening Act
+Dialogue: 0,0:24:06.47,0:24:09.89,Signs,Text,0,0,0,,{\an8\pos(960,372)\fscx90\fnQuadraat\fs66\b1\bord0\blur0.9\fad(1000,0)}Beauty and Death
+Dialogue: 0,0:24:06.47,0:24:09.89,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnQuadraat\fs45\b1\bord0\blur0.9\fad(1000,0)}Opening Act
 Dialogue: 0,0:24:06.71,0:24:09.88,Default,Ashaf,0,0,0,,Next time: "Beauty and Death: Opening Act."
