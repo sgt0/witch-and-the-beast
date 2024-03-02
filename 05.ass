@@ -46,7 +46,7 @@ Dialogue: 0,0:03:30.28,0:03:32.83,Flashback,Necromancer,0,0,0,,I'm perfectly fin
 Dialogue: 0,0:03:32.83,0:03:34.85,Flashback,Coroner,0,0,0,,Is that so?
 Dialogue: 0,0:03:40.34,0:03:43.18,Flashback,Necromancer,0,0,0,,How hideous.
 Dialogue: 0,0:03:44.28,0:03:51.64,Flashback,Necromancer,0,0,0,,Mireille, I shall bring you back\N with flawless beauty.
-Dialogue: 0,0:03:56.79,0:04:01.63,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad0\fnTimes New Roman\fscx90\fad(500,0)\3c&H281E11&\pos(294,948)}Beauty and Death: \NFinal Act
+Dialogue: 0,0:03:56.80,0:04:01.64,Signs,Text,0,0,0,,{\pos(294,948)\fscx90\fnAlegreya\fs76\bord1.5\3c&H281E11&\blur1.5\fad(500,0)}Beauty and Death: \NFinal Act
 Dialogue: 0,0:04:13.86,0:04:16.38,Default,Jeff,0,0,0,,{\i1}Despite how she treated Johan,
 Dialogue: 0,0:04:16.38,0:04:20.07,Default,Jeff,0,0,0,,{\i1}she must've really cared about him.
 Dialogue: 0,0:04:50.48,0:04:52.34,Default,Necromancer,0,0,0,,Ah, excuse me.
@@ -301,5 +301,5 @@ Dialogue: 0,0:22:19.99,0:22:21.61,Default,Phanora,0,0,0,,What do you mean?
 Dialogue: 0,0:22:25.15,0:22:27.54,Default,Phanora,0,0,0,,That was for hurting Johan.
 Dialogue: 0,0:24:01.36,0:24:03.96,Default,Helga,0,0,0,,I haven't even had a boyfriend yet!
 Dialogue: 0,0:24:04.91,0:24:09.96,Default,Ashaf,0,0,0,,Next time: "The Witch and \Nthe Demon Sword: Opening Act."
-Dialogue: 0,0:24:06.00,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,372)}The Witch and the Demon Sword
-Dialogue: 0,0:24:06.00,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Opening Act
+Dialogue: 0,0:24:06.01,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,372)\fscx90\fnAlegreya\fs66\bord0\blur0.9\fad(1000,0)}The Witch and the Demon Sword
+Dialogue: 0,0:24:06.01,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnAlegreya\fs50\bord0\blur0.9\fad(1000,0)}Opening Act
