@@ -11,6 +11,7 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,10 +23,10 @@ Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.56,0:00:05.19,Default,Phanora,0,0,0,,Only the undead can see this lantern's light.
+Dialogue: 0,0:00:01.56,0:00:05.19,Default,Phanora,0,0,0,,Only the undead can see its light.
 Dialogue: 0,0:00:05.19,0:00:08.65,Default,Phanora,0,0,0,,And in the eyes of those who have lost\N their reason through neglect,
 Dialogue: 0,0:00:08.65,0:00:10.80,Default,Phanora,0,0,0,,it outshines all else.
-Dialogue: 0,0:00:12.61,0:00:15.91,Default,Phanora,0,0,0,,I chose a deserted area \Nto minimize the risk,
+Dialogue: 0,0:00:12.61,0:00:15.91,Default,Phanora,0,0,0,,I chose a deserted area to minimize the risk,
 Dialogue: 0,0:00:16.70,0:00:19.87,Default,Phanora,0,0,0,,but it appears we unintentionally \Nhit the nail on the head.
 Dialogue: 0,0:00:21.03,0:00:23.68,Default,Johan,0,0,0,,Oh, the trail keeps going this way.
 Dialogue: 0,0:00:28.44,0:00:30.48,Default,Necromancer,0,0,0,,With necromancy,
@@ -33,7 +34,7 @@ Dialogue: 0,0:00:31.50,0:00:34.95,Default,Necromancer,0,0,0,,no parting lasts fo
 Dialogue: 0,0:00:39.20,0:00:40.64,Default,Jeff,0,0,0,,What have you done?
 Dialogue: 0,0:00:41.77,0:00:43.68,Default,Jeff,0,0,0,,What have you done?!
 Dialogue: 0,0:00:44.35,0:00:47.14,Default,Necromancer,0,0,0,,This will suffice for him,
-Dialogue: 0,0:00:47.14,0:00:52.99,Default,Necromancer,0,0,0,,but as for you, woman, despite my efforts,\N I couldn't learn a thing about you.
+Dialogue: 0,0:00:47.14,0:00:52.99,Default,Necromancer,0,0,0,,but as for you, despite my efforts,\N I couldn't learn a thing about you.
 Dialogue: 0,0:00:52.99,0:00:56.96,Default,Necromancer,0,0,0,,I'll avail myself of a bargaining chip now.
 Dialogue: 0,0:01:03.75,0:01:04.79,Default,Phanora,0,0,0,,Johan!
 Dialogue: 0,0:01:06.40,0:01:10.09,Default,Necromancer,0,0,0,,Do as I say, and you'll see him again soon.
