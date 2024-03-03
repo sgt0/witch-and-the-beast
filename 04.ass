@@ -26,7 +26,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.32,0:00:08.40,Signs,Text,0,0,0,,{\an8\pos(960,705)\fscx90\fnQuadraat\fs76\fsp1.5\b1\bord6\c&H8A687C&\3c&H8A687C&\blur12\fad(2000,1200)}Necromancy
 Dialogue: 1,0:00:03.32,0:00:08.40,Signs,Text,0,0,0,,{\an8\pos(960,705)\fscx90\fnQuadraat\fs76\fsp1.5\b1\bord0\c&H18112B&\blur0.9\fad(2000,1200)}Necromancy
 Dialogue: 0,0:00:05.69,0:00:07.41,Default,Narrator,0,0,0,,{\i1}Necromancy.
-Dialogue: 0,0:00:08.23,0:00:13.36,Default,Narrator,0,0,0,,{\i1}The art of resurrecting \Ncorpses as the undead.
+Dialogue: 0,0:00:08.23,0:00:13.36,Default,Narrator,0,0,0,,{\i1}The art of resurrecting corpses as the undead.
 Dialogue: 0,0:00:15.47,0:00:19.86,Default,Narrator,0,0,0,,{\i1}Strict rules govern the \Npractice of resurrection.
 Dialogue: 0,0:00:20.90,0:00:27.28,Default,Narrator,0,0,0,,{\i1}It is forbidden to use necromancy without \Nconsent from the patient prior to death,
 Dialogue: 0,0:00:27.28,0:00:31.17,Default,Narrator,0,0,0,,{\i1}or from a relative within \Ntwo degrees of kinship.
@@ -37,19 +37,19 @@ Dialogue: 0,0:00:48.32,0:00:49.44,Default,Narrator,0,0,0,,{\i1}And that is...
 Dialogue: 0,0:01:07.20,0:01:08.48,Default,Necromancer,0,0,0,,Hideous.
 Dialogue: 0,0:02:41.88,0:02:43.51,Default,Client,0,0,0,,Thank you so much.
 Dialogue: 0,0:02:43.51,0:02:45.60,Default,Client,0,0,0,,I really owe you one.
-Dialogue: 0,0:02:45.60,0:02:47.98,Default,Ashaf,0,0,0,,I'm simply glad we could be of service.
+Dialogue: 0,0:02:45.60,0:02:47.98,Default,Ashaf,0,0,0,,Glad to be of service.
 Dialogue: 0,0:02:48.22,0:02:51.72,Default,Ashaf,0,0,0,,If you ever run into more magical trouble,
 Dialogue: 0,0:02:51.72,0:02:53.77,Default,Ashaf,0,0,0,,please call us, the Order of—
 Dialogue: 0,0:02:55.35,0:02:57.13,Default,Ashaf,0,0,0,,Oh? What have we here?
 Dialogue: 0,0:02:59.03,0:02:59.91,Default,Jeff,0,0,0,,Freeze!
 Dialogue: 0,0:02:59.91,0:03:01.74,Default,Partner,0,0,0,,Don't! There are too many bystanders!
 Dialogue: 0,0:03:10.23,0:03:12.94,Default,Ashaf,0,0,0,,Don't finish him off, Guideau.
-Dialogue: 0,0:03:16.31,0:03:19.56,Default,Jeff,0,0,0,,We're with the police. \NThank you for subduing him.
-Dialogue: 0,0:03:19.56,0:03:21.14,Default,Jeff,0,0,0,,You aren't hurt, are you?
+Dialogue: 0,0:03:16.31,0:03:19.56,Default,Jeff,0,0,0,,We're with the police. \NThanks for stopping him.
+Dialogue: 0,0:03:19.56,0:03:21.14,Default,Jeff,0,0,0,,Are you hurt?
 Dialogue: 0,0:03:21.14,0:03:25.43,Default,Ashaf,0,0,0,,No, we're fine. But would you \Nmind explaining the situation?
 Dialogue: 0,0:03:25.94,0:03:27.47,Default,Jeff,0,0,0,,Oh, right.
 Dialogue: 0,0:03:27.89,0:03:29.93,Default,Jeff,0,0,0,,This guy is undead,
-Dialogue: 0,0:03:29.93,0:03:35.56,Default,Jeff,0,0,0,,but it looks like he went a long time without \Nnecromantic maintenance and lost his mind.
+Dialogue: 0,0:03:29.93,0:03:35.56,Default,Jeff,0,0,0,,but it looks like he went too long without \Nnecromantic maintenance and lost his mind.
 Dialogue: 0,0:03:35.56,0:03:37.04,Default,Guideau,0,0,0,,He's undead?
 Dialogue: 0,0:03:37.04,0:03:38.95,Default,Ashaf,0,0,0,,Is this your first time seeing one?
 Dialogue: 0,0:03:38.95,0:03:41.32,Default,Guideau,0,0,0,,I figured they'd look freakier.
@@ -67,8 +67,8 @@ Dialogue: 0,0:04:12.78,0:04:14.40,Default,Client,0,0,0,,If you've got trouble, h
 Dialogue: 0,0:04:14.40,0:04:18.82,Default,Client,0,0,0,,Magic's involved, so why not ask the \NOrder of Magical Resonance here to help?
 Dialogue: 0,0:04:18.82,0:04:20.19,Default,Jeff,0,0,0,,The Order of Magical Resonance?
 Dialogue: 0,0:04:20.19,0:04:21.73,Default,Partner,0,0,0,,You're with {\i1}them{\i0}?
-Dialogue: 0,0:04:21.73,0:04:25.20,Default,Ashaf,0,0,0,,If what you've just described\Nor something worse is happening,
-Dialogue: 0,0:04:25.20,0:04:27.53,Default,Ashaf,0,0,0,,turning to us would be\N the quickest solution.
+Dialogue: 0,0:04:21.73,0:04:25.20,Default,Ashaf,0,0,0,ED,If this isn't an isolated incident,
+Dialogue: 0,0:04:25.20,0:04:27.53,Default,Ashaf,0,0,0,ED,you'd be best served leaving it to us.
 Dialogue: 0,0:04:27.96,0:04:31.58,Default,Ashaf,0,0,0,,But I'm sorry to say that the \Nundead are not my specialty,
 Dialogue: 0,0:04:31.58,0:04:34.96,Default,Ashaf,0,0,0,,and as such, the two of us can't assist you.
 Dialogue: 0,0:04:34.96,0:04:36.17,Default,Jeff,0,0,0,,Then...
@@ -83,9 +83,9 @@ Dialogue: 0,0:05:00.52,0:05:02.76,Default,Johan,0,0,0,,Blazing hot, if anything.
 Dialogue: 0,0:05:03.70,0:05:07.64,Default,Johan,0,0,0,,But anyway, have you considered \Ncarrying your own bags or—
 Dialogue: 0,0:05:07.64,0:05:10.87,Default,Phanora,0,0,0,,Johan, what are you to me?
 Dialogue: 0,0:05:10.87,0:05:11.82,Default,Johan,0,0,0,,Huh?
-Dialogue: 0,0:05:11.82,0:05:13.85,Default,Johan,0,0,0,,Well, I'm your talented right-hand man.
+Dialogue: 0,0:05:11.82,0:05:13.85,Default,Johan,0,0,0,,Well, I'm your talented assistant.
 Dialogue: 0,0:05:13.85,0:05:15.87,Default,Phanora,0,0,0,,Exactly. My servant.
-Dialogue: 0,0:05:15.87,0:05:18.18,Default,Phanora,0,0,0,,Don't forget your role.
+Dialogue: 0,0:05:15.87,0:05:18.18,Default,Phanora,0,0,0,,Don't forget your place.
 Dialogue: 0,0:05:20.27,0:05:23.61,Default,Jeff,0,0,0,,You're with the Order of \NMagical Resonance, right?
 Dialogue: 0,0:05:24.87,0:05:28.22,Default,Jeff,0,0,0,,I'm here to meet you. The name's Jeff Enker.
 Dialogue: 0,0:05:29.60,0:05:33.30,Default,Johan,0,0,0,,Huh? Oh, okay. I'll do the talking.
@@ -98,7 +98,7 @@ Dialogue: 0,0:05:56.54,0:05:59.66,Default,Phanora,0,0,0,,Now, could you give us 
 Dialogue: 0,0:05:59.66,0:06:01.04,Default,Jeff,0,0,0,,S-Sure.
 Dialogue: 0,0:06:01.04,0:06:02.50,Default,Jeff,0,0,0,,I'll start at the beginning.
 Dialogue: 0,0:06:02.50,0:06:07.97,Default,Jeff,0,0,0,,Two months ago, crazed undead rampages \Nstarted becoming a frequent occurrence.
-Dialogue: 0,0:06:08.34,0:06:12.08,Default,Jeff,0,0,0,,We currently have six \Nundead creatures in custody.
+Dialogue: 0,0:06:08.34,0:06:12.08,Default,Jeff,0,0,0,,We currently have six \Nundead creatures in custody.{sgt: note that him calling them "creatures" is referenced later. manga had "subjects" which is more neutral.}
 Dialogue: 0,0:06:12.08,0:06:13.43,Default,Jeff,0,0,0,,{\i1}I can't explain it...
 Dialogue: 0,0:06:13.80,0:06:16.51,Default,Jeff,0,0,0,,{\i1}but the air seems colder around her.
 Dialogue: 0,0:06:18.54,0:06:24.44,Default,Jeff,0,0,0,,And all of them are still waiting on \Nmaintenance from their necromancers.
@@ -108,18 +108,18 @@ Dialogue: 0,0:06:30.40,0:06:34.72,Default,Johan,0,0,0,,No other necromancer can 
 Dialogue: 0,0:06:34.72,0:06:38.13,Default,Jeff,0,0,0,,Yes, we are aware of that, of course.
 Dialogue: 0,0:06:38.13,0:06:40.96,Default,Jeff,0,0,0,,But unfortunately, \Nwe can't locate the necromancers.
 Dialogue: 0,0:06:41.49,0:06:42.83,Default,Jeff,0,0,0,,Or rather...
-Dialogue: 0,0:06:42.83,0:06:45.75,Default,Jeff,0,0,0,,We don't know who resurrected them.
-Dialogue: 0,0:06:46.29,0:06:49.26,Default,Jeff,0,0,0,,We'd have records if it had been done legally,
-Dialogue: 0,0:06:49.55,0:06:52.85,Default,Jeff,0,0,0,,but for some reason, \Nall six are undocumented.
+Dialogue: 0,0:06:42.83,0:06:45.75,Default,Jeff,0,0,0,,We don't know {\i1}who{\i0} resurrected them.
+Dialogue: 0,0:06:46.29,0:06:49.26,Default,Jeff,0,0,0,,We'd have records if these were legal revivals,
+Dialogue: 0,0:06:49.55,0:06:52.85,Default,Jeff,0,0,0,,but these six are all undocumented.
 Dialogue: 0,0:06:52.85,0:06:55.28,Default,Jeff,0,0,0,,If we could restore their sanity\N through maintenance,
 Dialogue: 0,0:06:55.28,0:06:58.73,Default,Jeff,0,0,0,,we might get some clue to \Nwhich necromancers are responsible.
 Dialogue: 0,0:06:58.73,0:07:02.16,Default,Johan,0,0,0,,Sounds like a chicken-and-egg situation.
-Dialogue: 0,0:07:02.85,0:07:07.65,Default,Jeff,0,0,0,,In any case, resurrection without following\Nthe proper procedures is totally illegal.
+Dialogue: 0,0:07:02.85,0:07:07.65,Default,Jeff,0,0,0,,In any case, resurrection outside\Nof an official procedure is a crime.
 Dialogue: 0,0:07:08.27,0:07:11.17,Default,Jeff,0,0,0,,We need to find these necromancers.
 Dialogue: 0,0:07:12.94,0:07:14.62,Default,Phanora,0,0,0,,They could be strays.
 Dialogue: 0,0:07:14.95,0:07:16.58,Default,Jeff,0,0,0,,What do you mean, "strays"?
 Dialogue: 0,0:07:17.04,0:07:19.34,Default,Phanora,0,0,0,,How much do you know about resurrection?
-Dialogue: 0,0:07:19.34,0:07:21.03,Default,Jeff,0,0,0,,Not much, I'm ashamed to admit.
+Dialogue: 0,0:07:19.34,0:07:21.03,Default,Jeff,0,0,0,,Not much, unfortunately.
 Dialogue: 0,0:07:21.03,0:07:25.71,Default,Jeff,0,0,0,,Only that the person themselves \Nand their family need to consent to it.
 Dialogue: 0,0:07:25.71,0:07:27.81,Default,Phanora,0,0,0,,And when performing a resurrection,
 Dialogue: 0,0:07:27.81,0:07:33.79,Default,Phanora,0,0,0,,a necromancer must disclose all the facts \Nof the procedure to their patient.
@@ -128,7 +128,7 @@ Dialogue: 0,0:07:38.00,0:07:42.81,Default,Phanora,0,0,0,,Reviving oneself or a r
 Dialogue: 0,0:07:43.12,0:07:45.64,Default,Johan,0,0,0,,But sometimes, even all that isn't enough.
 Dialogue: 0,0:07:45.64,0:07:49.76,Default,Johan,0,0,0,,"Strays" are people who were resurrected \Nillegally and given no explanation.
 Dialogue: 0,0:07:49.76,0:07:53.28,Default,Johan,0,0,0,,They don't even fully \Nunderstand that they're dead.
-Dialogue: 0,0:07:53.82,0:07:56.28,Default,Johan,0,0,0,,Turning undead comes with risks.
+Dialogue: 0,0:07:53.82,0:07:56.28,Default,Johan,0,0,0,,Turning undead has risks.
 Dialogue: 0,0:07:56.28,0:08:00.74,Default,Johan,0,0,0,,Strays aren't ready for that, but they're \Nforced to suffer the consequences.
 Dialogue: 0,0:08:00.74,0:08:02.02,Default,Jeff,0,0,0,,What risks?
 Dialogue: 0,0:08:03.54,0:08:06.26,Default,Phanora,0,0,0,,Still, this is all simply speculation.
@@ -157,12 +157,12 @@ Dialogue: 0,0:09:27.80,0:09:31.26,Default,Necromancer,0,0,0,,You'll see your lov
 Dialogue: 0,0:09:33.86,0:09:35.44,Default,Necromancer,0,0,0,,What lovely hair.
 Dialogue: 0,0:09:35.90,0:09:38.59,Default,Necromancer,0,0,0,,Is that its natural color?
 Dialogue: 0,0:09:41.88,0:09:47.98,Default,Jeff,0,0,0,,We have four necromancers in the province, \Nand each one oversees multiple undead,
-Dialogue: 0,0:09:47.98,0:09:51.13,Default,Jeff,0,0,0,,for a total of 21 undead creatures.
+Dialogue: 0,0:09:47.98,0:09:51.13,Default,Jeff,0,0,0,,for a total of 21 undead creatures.{sgt: second note that him calling them "creatures" is referenced later. manga had "subjects" which is more neutral.}
 Dialogue: 0,0:09:51.13,0:09:53.82,Default,Johan,0,0,0,,21, huh? That's a lot.
 Dialogue: 0,0:09:54.11,0:09:55.36,Default,Jeff,0,0,0,,Is it?
 Dialogue: 0,0:09:55.36,0:10:01.27,Default,Johan,0,0,0,,Sure it is. Most other provinces ban \Nit on ethical grounds or whatever.
 Dialogue: 0,0:10:01.66,0:10:03.29,Default,Jeff,0,0,0,,Can you blame them?
-Dialogue: 0,0:10:03.77,0:10:07.92,Default,Jeff,0,0,0,,Resurrecting the dead \Ngoes against nature.
+Dialogue: 0,0:10:03.77,0:10:07.92,Default,Jeff,0,0,0,,Resurrecting the dead goes against nature.
 Dialogue: 0,0:10:07.92,0:10:09.79,Default,Johan,0,0,0,,Oh, so you're against it?
 Dialogue: 0,0:10:09.79,0:10:12.75,Default,Jeff,0,0,0,,No, not entirely.
 Dialogue: 0,0:10:13.81,0:10:18.61,Default,Jeff,0,0,0,,When you lose someone, \Nwishing to see them again is natural enough.
@@ -179,12 +179,12 @@ Dialogue: 0,0:10:49.87,0:10:51.63,Default,Jeff,0,0,0,,But how?
 Dialogue: 0,0:10:51.63,0:10:53.31,Default,Phanora,0,0,0,,I'll use this lantern.
 Dialogue: 0,0:10:53.79,0:10:56.08,Default,Phanora,0,0,0,,Or rather, I already am.
 Dialogue: 0,0:10:57.83,0:11:00.47,Default,Jeff,0,0,0,,Um, but it's not lit.
-Dialogue: 0,0:11:00.73,0:11:04.30,Default,Phanora,0,0,0,,Only the undead can see this lantern's light.
+Dialogue: 0,0:11:00.73,0:11:04.30,Default,Phanora,0,0,0,,Only the undead can see its light.
 Dialogue: 0,0:11:04.30,0:11:08.00,Default,Phanora,0,0,0,,And in the eyes of those who have lost\N their reason through neglect,
 Dialogue: 0,0:11:08.00,0:11:10.02,Default,Phanora,0,0,0,,it outshines all else.
 Dialogue: 0,0:11:10.50,0:11:13.52,Default,Phanora,0,0,0,,Like a lighthouse in the dark.
 Dialogue: 0,0:11:13.81,0:11:15.84,Default,Phanora,0,0,0,,Its rays reach quite far,
-Dialogue: 0,0:11:15.84,0:11:20.10,Default,Phanora,0,0,0,,so we'll see how many more undead have \Nslipped through the cracks in the law once—
+Dialogue: 0,0:11:15.84,0:11:20.10,Default,Phanora,0,0,0,,so we'll see how many more\Nunauthorized undead have—
 Dialogue: 0,0:11:25.60,0:11:27.28,Default,Johan,0,0,0,,Whoa, whoa, whoa!
 Dialogue: 0,0:11:30.53,0:11:32.08,Default,Johan,0,0,0,,Hey, Phanora!
 Dialogue: 0,0:11:32.72,0:11:35.62,Default,Johan,0,0,0,,What the hell? Look at them all!
@@ -198,7 +198,7 @@ Dialogue: 0,0:12:15.05,0:12:16.56,Flashback,Jeff,0,0,0,,You call those things pe
 Dialogue: 0,0:12:17.41,0:12:23.13,Flashback,Jeff,0,0,0,,Techniques may improve, but no way are they\N"just like they were when they were alive."
 Dialogue: 0,0:12:23.82,0:12:25.49,Flashback,Jeff,0,0,0,,I love her.
 Dialogue: 0,0:12:26.04,0:12:27.39,Flashback,Jeff,0,0,0,,And that's why.
-Dialogue: 0,0:12:30.78,0:12:35.68,Flashback,Jeff,0,0,0,,I could never turn someone \NI love into one of those monsters.
+Dialogue: 0,0:12:30.78,0:12:35.68,Flashback,Jeff,0,0,0,,I would never let her become such a monster.
 Dialogue: 0,0:12:38.73,0:12:40.93,Default,Johan,0,0,0,,How the hell are there so many?!
 Dialogue: 0,0:12:40.93,0:12:42.24,Default,Johan,0,0,0,,There's gotta be 40 of 'em!
 Dialogue: 0,0:12:42.73,0:12:47.20,Default,Phanora,0,0,0,,I certainly didn't expect to attract \Nso many in such a short time.
@@ -210,23 +210,23 @@ Dialogue: 0,0:12:58.33,0:12:59.80,Default,Johan,0,0,0,,Damn it, Phanora!
 Dialogue: 0,0:13:02.09,0:13:04.62,Default,Johan,0,0,0,,You lit me up like a beacon, didn't you?!
 Dialogue: 0,0:13:07.76,0:13:08.94,Default,Jeff,0,0,0,,We have to help him!
 Dialogue: 0,0:13:08.94,0:13:10.45,Default,Phanora,0,0,0,,There's no need.
-Dialogue: 0,0:13:10.89,0:13:13.88,Default,Phanora,0,0,0,,My assistant Johan\N handles the manual labor.
+Dialogue: 0,0:13:10.89,0:13:13.88,Default,Phanora,0,0,0,,My assistant Johan handles the manual labor.
 Dialogue: 0,0:13:14.38,0:13:15.73,Default,Phanora,0,0,0,,You can leave him to it.
 Dialogue: 0,0:13:16.50,0:13:17.69,Default,Jeff,0,0,0,,But...
 Dialogue: 0,0:13:19.79,0:13:21.02,Default,Johan,0,0,0,,Come on!
 Dialogue: 0,0:13:21.02,0:13:23.42,Default,Johan,0,0,0,,Help me out here!
 Dialogue: 0,0:13:23.42,0:13:24.97,Default,Jeff,0,0,0,,He seems to disagree.
-Dialogue: 0,0:13:24.97,0:13:26.15,Default,Phanora,0,0,0,,Not to worry.
+Dialogue: 0,0:13:24.97,0:13:26.15,Default,Phanora,0,0,0,,He'll manage.
 Dialogue: 0,0:13:26.88,0:13:30.45,Default,Phanora,0,0,0,,More importantly, \Nthese numbers are abnormal.
-Dialogue: 0,0:13:30.75,0:13:34.72,Default,Jeff,0,0,0,,Could your lantern have \Ndrawn legal undead, as well?
+Dialogue: 0,0:13:30.75,0:13:34.72,Default,Jeff,0,0,0,,Could your lantern have \Nattracted legal undead as well?
 Dialogue: 0,0:13:34.72,0:13:37.01,Default,Phanora,0,0,0,,I can't deny the possibility.
 Dialogue: 0,0:13:37.01,0:13:37.83,Default,Jeff,0,0,0,,Then...
 Dialogue: 0,0:13:37.83,0:13:42.80,Default,Phanora,0,0,0,,That's why I asked to have the legal \Nundead monitored for unusual activity.
-Dialogue: 0,0:13:43.17,0:13:48.05,Default,Phanora,0,0,0,,Hence the request to gather their \Naddresses and contact information.
+Dialogue: 0,0:13:43.17,0:13:48.05,Default,Phanora,0,0,0,,Hence the request to gather their \Nlocations and contact information.
 Dialogue: 0,0:13:48.05,0:13:49.24,Default,Jeff,0,0,0,,I see.
 Dialogue: 0,0:13:49.24,0:13:52.26,Default,Phanora,0,0,0,,And I believe all these people \Ncame from the same place.
 Dialogue: 0,0:13:52.68,0:13:53.97,Default,Jeff,0,0,0,,Why?
-Dialogue: 0,0:13:53.97,0:13:56.69,Default,Phanora,0,0,0,,The undead can't move instantaneously.
+Dialogue: 0,0:13:53.97,0:13:56.69,Default,Phanora,0,0,0,,The undead can't move instantaneously.{manga: Well, it's not as if undead are able to teleport.}
 Dialogue: 0,0:13:57.00,0:13:58.48,Default,Partner,0,0,0,,Why, you...
 Dialogue: 0,0:14:00.03,0:14:01.06,Default,Johan,0,0,0,,Take a hint!
 Dialogue: 0,0:14:01.06,0:14:05.40,Default,Jeff,0,0,0,,You mean, if they'd been \Nscattered around town, laying low,
@@ -234,8 +234,8 @@ Dialogue: 0,0:14:05.40,0:14:10.34,Default,Jeff,0,0,0,,the distance would stop so
 Dialogue: 0,0:14:10.34,0:14:11.32,Default,Phanora,0,0,0,,Yes.
 Dialogue: 0,0:14:11.60,0:14:15.82,Default,Phanora,0,0,0,,I doubt this many could even hide in town.
 Dialogue: 0,0:14:16.22,0:14:19.57,Default,Phanora,0,0,0,,Just under 40 minutes have passed\N since I lit the lantern.
-Dialogue: 0,0:14:19.57,0:14:22.29,Default,Phanora,0,0,0,,They were somewhere a human \Ncan reach on foot in that time.
-Dialogue: 0,0:14:22.78,0:14:26.82,Default,Phanora,0,0,0,,I chose a deserted area \Nto minimize the risk,
+Dialogue: 0,0:14:19.57,0:14:22.29,Default,Phanora,0,0,0,,Their origin must be \Na 40-minute walk from here.
+Dialogue: 0,0:14:22.78,0:14:26.82,Default,Phanora,0,0,0,,I chose a deserted area to minimize the risk,
 Dialogue: 0,0:14:26.82,0:14:29.74,Default,Phanora,0,0,0,,but it appears we unintentionally \Nhit the nail on the head.
 Dialogue: 0,0:14:39.10,0:14:40.48,Default,Johan,0,0,0,,Phanora!
 Dialogue: 0,0:14:41.02,0:14:45.28,Default,Johan,0,0,0,,What good is your necromancy \Nif I always end up—
@@ -247,29 +247,29 @@ Dialogue: 0,0:14:58.67,0:14:59.94,Default,Phanora,0,0,0,,What a shame.
 Dialogue: 0,0:15:00.82,0:15:01.79,Default,Johan,0,0,0,,What is?
 Dialogue: 0,0:15:02.53,0:15:04.75,Default,Phanora,0,0,0,,Their fingers haven't all grown in.
 Dialogue: 0,0:15:05.20,0:15:09.82,Default,Phanora,0,0,0,,Some are missing arms, too. \NAnd none have fully formed faces.
-Dialogue: 0,0:15:10.57,0:15:12.27,Default,Phanora,0,0,0,,Such slapdash resurrections.
+Dialogue: 0,0:15:10.57,0:15:12.27,Default,Phanora,0,0,0,,Such careless revivals.
 Dialogue: 0,0:15:12.80,0:15:17.10,Default,Phanora,0,0,0,,It's as if the necromancer who raised them \Nnever intended to make people.
 Dialogue: 0,0:15:19.33,0:15:24.06,Default,Phanora,0,0,0,,Necromancy once reached the heights \Nof prosperity as an art of control.
 Dialogue: 0,0:15:24.70,0:15:27.32,Default,Phanora,0,0,0,,Essentially, undead are familiars,
-Dialogue: 0,0:15:27.90,0:15:32.28,Default,Phanora,0,0,0,,and necromancers can switch them \Nbetween three states at will.
-Dialogue: 0,0:15:33.10,0:15:41.11,Default,Phanora,0,0,0,,{\an8}First, a state free of control in which the \Nundead obey only their own wills: Auto.
+Dialogue: 0,0:15:27.90,0:15:32.28,Default,Phanora,0,0,0,,and necromancers can switch them \Nbetween three modes at will.
+Dialogue: 0,0:15:33.10,0:15:41.11,Default,Phanora,0,0,0,,{\an8}First, a mode free of control, in which the \Nundead obey only their own wills: Auto.
 Dialogue: 0,0:15:34.37,0:15:40.30,Signs,Text,0,0,0,,{\an8\pos(969,942)\fscx90\fnQuadraat\fs66\fsp1.5\b1\bord6\c&HDFF0E3&\3c&HDFF0E3&\blur12\fad(400,400)}Autonomy
 Dialogue: 1,0:15:34.37,0:15:40.30,Signs,Text,0,0,0,,{\an8\pos(969,942)\fscx90\fnQuadraat\fs66\fsp1.5\b1\bord0\c&H18112B&\blur0.9\fad(400,400)}Autonomy
-Dialogue: 0,0:15:41.65,0:15:44.96,Default,Phanora,0,0,0,,{\an8}Second, a state in which the \Nundead retain their own minds,
+Dialogue: 0,0:15:41.65,0:15:44.96,Default,Phanora,0,0,0,,{\an8}Second, a mode in which the \Nundead retain their own minds,
 Dialogue: 0,0:15:44.51,0:15:49.72,Signs,Text,0,0,0,,{\an8\pos(966,966)\fscx90\fnQuadraat\fs66\fsp1.5\b1\bord6\c&HDFF0E3&\3c&HDFF0E3&\blur12\fad(400,400)}Mind Control
 Dialogue: 1,0:15:44.51,0:15:49.72,Signs,Text,0,0,0,,{\an8\pos(966,966)\fscx90\fnQuadraat\fs66\fsp1.5\b1\bord0\c&H18112B&\blur0.9\fad(400,400)}Mind Control
 Dialogue: 0,0:15:44.96,0:15:49.88,Default,Phanora,0,0,0,,{\an8}but the necromancer imprints \Nan objective onto them: Semi-auto.
-Dialogue: 0,0:15:50.42,0:15:54.89,Default,Phanora,0,0,0,,{\an8}Third, a state in which the necromancer \Nfully usurps the undead's minds,
+Dialogue: 0,0:15:50.42,0:15:54.89,Default,Phanora,0,0,0,,{\an8}Third, a mode in which the necromancer \Nfully usurps the undead's minds,
 Dialogue: 0,0:15:54.60,0:15:58.35,Signs,Text,0,0,0,,{\an8\pos(960,960)\fscx90\fnQuadraat\fs66\fsp1.5\b1\bord6\c&HDFF0E3&\3c&HDFF0E3&\blur12\fad(400,400)}Domination
 Dialogue: 1,0:15:54.60,0:15:58.35,Signs,Text,0,0,0,,{\an8\pos(960,960)\fscx90\fnQuadraat\fs66\fsp1.5\b1\bord0\c&H18112B&\blur0.9\fad(400,400)}Domination
 Dialogue: 0,0:15:54.89,0:15:58.96,Default,Phanora,0,0,0,,{\an8}and controls them as they \Nwould their own body: Manual.
-Dialogue: 0,0:16:00.00,0:16:04.85,Default,Phanora,0,0,0,,The lantern only attracts undead \Nin Auto or Semi-auto states.
+Dialogue: 0,0:16:00.00,0:16:04.85,Default,Phanora,0,0,0,,Only Auto or Semi-auto undead\Nare attracted to the lantern.
 Dialogue: 0,0:16:05.25,0:16:12.72,Default,Phanora,0,0,0,,Though even in Semi-auto, they may prioritize\N a definite imprinted objective over its light.
 Dialogue: 0,0:16:12.72,0:16:16.94,Default,Jeff,0,0,0,,And what happens when they lose their minds?
 Dialogue: 0,0:16:16.94,0:16:21.85,Default,Phanora,0,0,0,,They pursue imprinted objectives \Nin an even greater frenzy,
 Dialogue: 0,0:16:21.85,0:16:24.62,Default,Phanora,0,0,0,,as if they have nothing else left to cling to.
 Dialogue: 0,0:16:24.62,0:16:26.92,Default,Johan,0,0,0,,So what are you getting at?
-Dialogue: 0,0:16:27.21,0:16:30.38,Default,Phanora,0,0,0,,I'm wondering why they were resurrected.
+Dialogue: 0,0:16:27.21,0:16:30.38,Default,Phanora,0,0,0,,I'm wondering {\i1}why{\i0} they were resurrected.
 Dialogue: 0,0:16:30.77,0:16:36.05,Default,Phanora,0,0,0,,They must have simply been \Nlet loose without any imprinting.
 Dialogue: 0,0:16:36.47,0:16:40.35,Default,Jeff,0,0,0,,Maybe whoever did it just \Ndidn't need them for anything.
 Dialogue: 0,0:16:40.35,0:16:43.81,Default,Phanora,0,0,0,,Then what about when the \Ntime came to call on them?
@@ -281,12 +281,12 @@ Dialogue: 0,0:16:58.87,0:17:00.58,Default,Johan,0,0,0,,But done using them for w
 Dialogue: 0,0:17:00.88,0:17:02.19,Default,Phanora,0,0,0,,Who knows?
 Dialogue: 0,0:17:02.19,0:17:03.56,Default,Johan,0,0,0,,Seriously?
 Dialogue: 0,0:17:03.98,0:17:08.67,Default,Phanora,0,0,0,,Just being human-shaped and mobile \Nmakes them suitable for any number of uses.
-Dialogue: 0,0:17:08.93,0:17:11.00,Default,Phanora,0,0,0,,Even human experimentation.
+Dialogue: 0,0:17:08.93,0:17:11.00,Default,Phanora,0,0,0,,Such as human experimentation.
 Dialogue: 0,0:17:11.75,0:17:14.22,Default,Jeff,0,0,0,,We can't let someone get away with that!
 Dialogue: 0,0:17:14.70,0:17:19.60,Default,Jeff,0,0,0,,You're saying these undead had not only \Ntheir bodies, but even their minds
 Dialogue: 0,0:17:19.60,0:17:23.43,Default,Jeff,0,0,0,,in the hands of some necromancer \Nwho used them, then abandoned them?
-Dialogue: 0,0:17:24.24,0:17:26.94,Default,Jeff,0,0,0,,They might as well be toys!
-Dialogue: 0,0:17:26.94,0:17:31.23,Default,Jeff,0,0,0,,I knew nothing good could \Ncome from resurrection!
+Dialogue: 0,0:17:24.24,0:17:26.94,Default,Jeff,0,0,0,,They're no more than toys!
+Dialogue: 0,0:17:26.94,0:17:31.23,Default,Jeff,0,0,0,,I knew nothing good could \Ncome from necromancy!
 Dialogue: 0,0:17:34.12,0:17:38.48,Default,Partner,0,0,0,,Uh, I was looking at the undead you took down,
 Dialogue: 0,0:17:38.48,0:17:42.54,Default,Partner,0,0,0,,and I see an awful lot of \Nredheads in this bunch.
 Dialogue: 0,0:17:42.54,0:17:45.50,Default,Partner,0,0,0,,Mostly women, too.
@@ -298,13 +298,13 @@ Dialogue: 0,0:17:55.54,0:17:57.84,Default,Jeff,0,0,0,,Speaking of which, \Nwe're
 Dialogue: 0,0:17:58.15,0:18:01.87,Default,Jeff,0,0,0,,but these undead won't get up \Nand start moving again, will they?
 Dialogue: 0,0:18:01.87,0:18:03.35,Default,Johan,0,0,0,,They'll stay put.
 Dialogue: 0,0:18:03.62,0:18:05.69,Default,Johan,0,0,0,,I killed their bodies.
-Dialogue: 0,0:18:06.76,0:18:10.44,Default,Johan,0,0,0,,Their souls are stuck \Nto their flesh by magic,
+Dialogue: 0,0:18:06.76,0:18:10.44,Default,Johan,0,0,0,,Their souls are bound to their flesh by magic,
 Dialogue: 0,0:18:10.90,0:18:13.81,Default,Johan,0,0,0,,so they can always come back \Nwith proper maintenance.
 Dialogue: 0,0:18:14.24,0:18:15.99,Default,Johan,0,0,0,,But on the other hand...
 Dialogue: 0,0:18:15.99,0:18:21.43,Default,Jeff,0,0,0,,Without maintenance, \Ntheir broken bodies will never move again?
 Dialogue: 0,0:18:21.43,0:18:22.78,Default,Johan,0,0,0,,Pretty much.
 Dialogue: 0,0:18:27.41,0:18:28.16,Default,Johan,0,0,0,,Phanora!
-Dialogue: 0,0:18:35.48,0:18:38.01,Default,Johan,0,0,0,,Sorry. I missed that one.
+Dialogue: 0,0:18:35.48,0:18:38.01,Default,Johan,0,0,0,,Sorry, must've missed that one.
 Dialogue: 0,0:18:40.89,0:18:41.98,Default,Jeff,0,0,0,,Are you all right?
 Dialogue: 0,0:18:44.22,0:18:45.44,Default,Phanora,0,0,0,,Were we being watched?
 Dialogue: 0,0:19:05.49,0:19:07.75,Default,Johan,0,0,0,,Oh, the trail keeps going this way.
@@ -325,14 +325,14 @@ Dialogue: 0,0:20:19.85,0:20:22.52,Default,Necromancer,0,0,0,,Welcome. Please com
 Dialogue: 0,0:20:23.10,0:20:26.49,Default,Necromancer,0,0,0,,Oh, and kindly drop your \Ncommunication devices.
 Dialogue: 0,0:20:28.33,0:20:29.45,Default,Jeff,0,0,0,,Let's run for it.
 Dialogue: 0,0:20:29.68,0:20:32.91,Default,Jeff,0,0,0,,Luckily, that big guy's \Nthe only thing in our way.
-Dialogue: 0,0:20:32.91,0:20:39.13,Default,Necromancer,0,0,0,,I would rather not leave so much as a mark \Non that woman. Won't you please do as I say?
+Dialogue: 0,0:20:32.91,0:20:39.13,Default,Necromancer,0,0,0,,I would rather not leave so much as a mark \Non the lady. Won't you please do as I say?
 Dialogue: 0,0:20:39.34,0:20:41.49,Default,Necromancer,0,0,0,,I have no taste for violence.
 Dialogue: 0,0:20:42.08,0:20:44.84,Default,Necromancer,0,0,0,,And I believe you lost someone dear to you,
 Dialogue: 0,0:20:44.84,0:20:47.10,Default,Necromancer,0,0,0,,Sergeant Jeff Enker.
 Dialogue: 0,0:20:47.77,0:20:49.35,Default,Jeff,0,0,0,,How do you know who I am?!
 Dialogue: 0,0:20:49.84,0:20:53.74,Default,Necromancer,0,0,0,,I have undead stationed everywhere.
 Dialogue: 0,0:20:53.74,0:20:55.56,Default,Necromancer,0,0,0,,The police are no exception.
-Dialogue: 0,0:20:55.87,0:20:59.82,Default,Necromancer,0,0,0,,Losing your fiancée must have \Ncaused you sorrow beyond imagination.
+Dialogue: 0,0:20:55.87,0:20:59.82,Default,Necromancer,0,0,0,,Losing your fiancée must have \Ncaused you unimaginable sorrow.
 Dialogue: 0,0:21:01.02,0:21:03.02,Default,Necromancer,0,0,0,,But have no fear.
 Dialogue: 0,0:21:05.11,0:21:07.28,Default,Necromancer,0,0,0,,With necromancy,
 Dialogue: 0,0:21:08.45,0:21:12.30,Default,Necromancer,0,0,0,,no parting lasts forever.
@@ -340,7 +340,7 @@ Dialogue: 0,0:21:26.16,0:21:27.83,Default,Jeff,0,0,0,,What have you done?
 Dialogue: 0,0:21:28.72,0:21:30.63,Default,Jeff,0,0,0,,What have you done?!
 Dialogue: 0,0:21:32.68,0:21:34.39,Default,Johan,0,0,0,,Scumbag.
 Dialogue: 0,0:21:37.08,0:21:39.65,Default,Necromancer,0,0,0,,This will suffice for him,
-Dialogue: 0,0:21:39.65,0:21:45.57,Default,Necromancer,0,0,0,,but as for you, woman, despite my efforts,\N I couldn't learn a thing about you.
+Dialogue: 0,0:21:39.65,0:21:45.57,Default,Necromancer,0,0,0,,but as for you, despite my efforts,\N I couldn't learn a thing about you.
 Dialogue: 0,0:21:45.57,0:21:49.55,Default,Necromancer,0,0,0,,I'll avail myself of a bargaining chip now.
 Dialogue: 0,0:21:56.33,0:21:57.32,Default,Phanora,0,0,0,,Johan!
 Dialogue: 0,0:21:57.32,0:21:57.83,Default,Jeff,0,0,0,,No!
