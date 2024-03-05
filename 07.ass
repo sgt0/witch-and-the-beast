@@ -1,0 +1,361 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.86,0:00:07.07,Default,Paladin 2,0,0,0,,Huh? Did you lose your way?
+Dialogue: 0,0:00:07.07,0:00:09.18,Default,Paladin 2,0,0,0,,I can get out a map, if you'd like.
+Dialogue: 0,0:00:10.08,0:00:11.82,Default,Ashaf,0,0,0,,Don't kill him, Guideau.
+Dialogue: 0,0:00:22.22,0:00:23.93,Default,Ashaf,0,0,0,,Come here, Guideau.
+Dialogue: 0,0:00:23.93,0:00:25.17,Default,Guideau,0,0,0,,You come here.
+Dialogue: 0,0:00:29.38,0:00:31.63,Default,Ashaf,0,0,0,,Recognize the insignia?
+Dialogue: 0,0:00:31.98,0:00:33.05,Default,Guideau,0,0,0,,Nope.
+Dialogue: 0,0:00:33.05,0:00:38.35,Default,Ashaf,0,0,0,,Good grief. You really have no interest \Nin anything but witches, do you?
+Dialogue: 0,0:00:38.57,0:00:41.44,Default,Ashaf,0,0,0,,Armies normally rely on strength in numbers.
+Dialogue: 0,0:00:41.44,0:00:45.04,Default,Ashaf,0,0,0,,Against witches, in particular, \Nhaving an elite few makes no sense.
+Dialogue: 0,0:00:45.04,0:00:48.81,Default,Ashaf,0,0,0,,They require a quantity \Nso vast, it seems infinite.
+Dialogue: 0,0:00:49.18,0:00:52.88,Default,Ashaf,0,0,0,,But annoyingly, this force \Nis built not on numbers,
+Dialogue: 0,0:00:52.88,0:00:55.82,Default,Ashaf,0,0,0,,but on overwhelming individual might.
+Dialogue: 0,0:00:56.66,0:00:59.68,Default,Ashaf,0,0,0,,If you encounter someone \Nwho looks like their commander,
+Dialogue: 0,0:00:59.68,0:01:01.85,Default,Ashaf,0,0,0,,don't assume you can beat him.
+Dialogue: 0,0:01:01.85,0:01:06.71,Default,Ashaf,0,0,0,,The Third Continent Paladin Corps's \N6th Battalion is led by the "Man of Ice,"
+Dialogue: 0,0:01:06.71,0:01:08.58,Default,Ashaf,0,0,0,,Matt Cugat.
+Dialogue: 0,0:01:08.58,0:01:11.40,Default,Ashaf,0,0,0,,His power rivals that of a witch.
+Dialogue: 0,0:01:12.76,0:01:14.88,Default,Guideau,0,0,0,,This must be him.
+Dialogue: 0,0:02:46.39,0:02:50.48,Default,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(500,500)\3c&H605E5B&\c&HF8EBE4&\4c&H6E5F52&\pos(96,316)}The Witch and\Nthe Demon Sword
+Dialogue: 0,0:02:46.39,0:02:50.48,Default,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(500,500)\3c&H605E5B&\c&HF8EBE4&\4c&H6E5F52&\pos(185,316)}Act II
+Dialogue: 0,0:02:58.03,0:02:59.12,Italics,Ashaf,0,0,0,,Stop, Guideau.
+Dialogue: 0,0:03:00.80,0:03:02.96,Italics,Ashaf,0,0,0,,Save the kiss for later.
+Dialogue: 0,0:03:02.96,0:03:04.67,Default,Guideau,0,0,0,,What? Why?
+Dialogue: 0,0:03:04.67,0:03:06.62,Default,Guideau,0,0,0,,This guy's gotta be the boss, right?
+Dialogue: 0,0:03:06.62,0:03:09.32,Default,Guideau,0,0,0,,If I take him out here, our job's done!
+Dialogue: 0,0:03:09.32,0:03:12.17,Italics,Ashaf,0,0,0,,Guideau, your strength \Nis our ace in the hole.
+Dialogue: 0,0:03:12.56,0:03:15.65,Italics,Ashaf,0,0,0,,We haven't gotten the \Nfull picture of this case yet.
+Dialogue: 0,0:03:15.65,0:03:19.80,Italics,Ashaf,0,0,0,,Always hide your ace in the hole \Nuntil all the cards are down.
+Dialogue: 0,0:03:20.09,0:03:24.19,Italics,Ashaf,0,0,0,,For the moment, buy her time to escape.
+Dialogue: 0,0:03:24.19,0:03:25.76,Italics,Ashaf,0,0,0,,Just concentrate on that.
+Dialogue: 0,0:03:27.93,0:03:29.48,Default,Ashaf,0,0,0,,Now...
+Dialogue: 0,0:03:29.48,0:03:32.48,Default,Ashaf,0,0,0,,I believe my attention is needed here.
+Dialogue: 0,0:03:32.48,0:03:34.99,Default,Helga,0,0,0,,What are you muttering to yourself for?
+Dialogue: 0,0:03:34.99,0:03:38.65,Default,Helga,0,0,0,,Wait, were you talking to that hot—\Nuh, that guy from before?
+Dialogue: 0,0:03:40.53,0:03:42.57,Default,Helga,0,0,0,,Hey! Put up a decent fight!
+Dialogue: 0,0:03:42.84,0:03:45.83,Default,Helga,0,0,0,,He'll focus on me if you go down.
+Dialogue: 0,0:03:45.83,0:03:47.63,Default,Guideau,0,0,0,,I'll help you escape.
+Dialogue: 0,0:03:47.63,0:03:50.23,Default,Guideau,0,0,0,,Get lost while I keep him busy.
+Dialogue: 0,0:03:50.23,0:03:53.67,Default,Helga,0,0,0,,What? But what will you do\N once I've gotten away?
+Dialogue: 0,0:03:53.90,0:03:55.68,Default,Guideau,0,0,0,,Shut up and move it.
+Dialogue: 0,0:03:56.15,0:03:59.76,Default,Guideau,0,0,0,,Having a witch next to me \Nmakes my damn skin crawl.
+Dialogue: 0,0:04:00.52,0:04:01.55,Default,Helga,0,0,0,,Well...
+Dialogue: 0,0:04:01.55,0:04:03.22,Default,Helga,0,0,0,,That works out great for me.
+Dialogue: 0,0:04:05.71,0:04:07.79,Italics,Matt,0,0,0,,So that's the Demon Sword?
+Dialogue: 0,0:04:07.79,0:04:09.39,Italics,Matt,0,0,0,,He was telling the truth.
+Dialogue: 0,0:04:10.03,0:04:12.23,Italics,Matt,0,0,0,,All the more reason to finish this now.
+Dialogue: 0,0:04:12.23,0:04:13.73,Default,Guideau,0,0,0,,Look this way!
+Dialogue: 0,0:04:13.73,0:04:15.56,Default,Matt,0,0,0,,I already am.
+Dialogue: 0,0:04:25.60,0:04:27.95,Default,Helga,0,0,0,,What? She lost already?
+Dialogue: 0,0:04:43.47,0:04:45.06,Default,Guideau,0,0,0,,Shit.
+Dialogue: 0,0:04:45.06,0:04:46.93,Default,Guideau,0,0,0,,I heard you were bad news,
+Dialogue: 0,0:04:46.93,0:04:50.47,Default,Guideau,0,0,0,,but you're not even a witch. How do \Nyou fire off spells without moving?
+Dialogue: 0,0:04:50.85,0:04:56.19,Default,Matt,0,0,0,,You surprised me, as well. \NI didn't expect you to be so fast or strong.
+Dialogue: 0,0:04:56.19,0:04:58.90,Default,Matt,0,0,0,,That weapon in your right \Nhand must be magical.
+Dialogue: 0,0:04:59.37,0:05:02.03,Default,Matt,0,0,0,,Is it the secret to your superhuman strength?
+Dialogue: 0,0:05:02.40,0:05:07.11,Default,Matt,0,0,0,,I have a lot of questions, but you can wait.
+Dialogue: 0,0:05:11.75,0:05:15.91,Default,Matt,0,0,0,,Witches don't die easily, \Neven when you strike to kill.
+Dialogue: 0,0:05:16.57,0:05:19.13,Default,Matt,0,0,0,,I hope that holds true.
+Dialogue: 0,0:05:21.69,0:05:22.82,Default,Helga,0,0,0,,What the...
+Dialogue: 0,0:05:31.07,0:05:35.32,Default,Ashaf,0,0,0,,It really is stunning \Nwhat an elemental can do.
+Dialogue: 0,0:05:36.40,0:05:38.20,Flashback,Guideau,0,0,0,,He's on par with a witch?
+Dialogue: 0,0:05:38.20,0:05:41.15,Flashback,Guideau,0,0,0,,How? You mean he's not human?
+Dialogue: 0,0:05:41.69,0:05:43.64,Flashback,Ashaf,0,0,0,,No, he's human.
+Dialogue: 0,0:05:44.18,0:05:46.24,Flashback,Ashaf,0,0,0,,But he made a pact.
+Dialogue: 0,0:05:46.65,0:05:47.95,Flashback,Guideau,0,0,0,,A "pact"?
+Dialogue: 0,0:05:48.23,0:05:49.32,Flashback,Ashaf,0,0,0,,Exactly.
+Dialogue: 0,0:05:50.14,0:05:53.89,Flashback,Ashaf,0,0,0,,Matt Cugat forged a pact with a \Nprimordial force to rival witches:
+Dialogue: 0,0:05:53.89,0:05:56.95,Flashback,Ashaf,0,0,0,,a great ice elemental.
+Dialogue: 0,0:05:58.54,0:06:00.71,Flashback,Ashaf,0,0,0,,He's an elemental mage.
+Dialogue: 0,0:06:12.62,0:06:13.47,Default,Helga,0,0,0,,Ow.
+Dialogue: 0,0:06:13.89,0:06:15.46,Default,Helga,0,0,0,,Who is this guy?
+Dialogue: 0,0:06:16.49,0:06:18.10,Default,Helga,0,0,0,,He's practically a witch.
+Dialogue: 0,0:06:19.42,0:06:21.31,Default,Helga,0,0,0,,Ashgan! Where are you?
+Dialogue: 0,0:06:21.59,0:06:22.68,Default,Ashgan,0,0,0,,I'm here.
+Dialogue: 0,0:06:23.31,0:06:24.75,Default,Ashgan,0,0,0,,Come to me.
+Dialogue: 0,0:06:26.35,0:06:27.16,Default,Helga,0,0,0,,Thank good—
+Dialogue: 0,0:06:27.16,0:06:28.36,Default,Ashgan,0,0,0,,No.
+Dialogue: 0,0:06:28.36,0:06:29.20,Default,Helga,0,0,0,,Huh?
+Dialogue: 0,0:06:29.20,0:06:31.25,Default,Ashgan,0,0,0,,I wasn't calling you.
+Dialogue: 0,0:06:32.16,0:06:33.03,Default,Ashgan,0,0,0,,I meant...
+Dialogue: 0,0:06:33.46,0:06:34.61,Default,Ashgan,0,0,0,,you.
+Dialogue: 0,0:06:38.32,0:06:43.17,Default,Matt,0,0,0,,The Demon Sword. I'm glad I secured \Nit before you could try anything.
+Dialogue: 0,0:06:43.17,0:06:44.34,Default,Helga,0,0,0,,Give it back!
+Dialogue: 0,0:06:44.71,0:06:50.18,Default,Matt,0,0,0,,Really? Return a weapon this \Ndangerous to a murderous witch?
+Dialogue: 0,0:06:55.90,0:06:59.73,Italics,Helga,0,0,0,,I know I can't beat him.\N But what else {\i0}can{\i1} I do?
+Dialogue: 0,0:07:03.25,0:07:04.36,Default,Guideau,0,0,0,,This time...
+Dialogue: 0,0:07:04.36,0:07:05.92,Default,Guideau,0,0,0,,I got you!
+Dialogue: 0,0:07:07.26,0:07:08.24,Default,Helga,0,0,0,,You survived?
+Dialogue: 0,0:07:08.24,0:07:11.70,Default,Guideau,0,0,0,,I bought you a few dozen seconds, \Nso why the hell are you still here?
+Dialogue: 0,0:07:11.98,0:07:13.53,Default,Guideau,0,0,0,,You're a witch, right?!
+Dialogue: 0,0:07:13.53,0:07:16.99,Default,Helga,0,0,0,,Well, excuse me for not being much of one.
+Dialogue: 0,0:07:20.20,0:07:20.96,Default,Guideau,0,0,0,,Huh?
+Dialogue: 0,0:07:22.51,0:07:24.33,Default,Helga,0,0,0,,No! Don't let them take it!
+Dialogue: 0,0:07:27.62,0:07:29.38,Italics,Lowell,0,0,0,,What strength.
+Dialogue: 0,0:07:31.44,0:07:33.47,Default,Matt,0,0,0,,Hand over the Demon Sword.
+Dialogue: 0,0:07:34.18,0:07:36.64,Default,Guideau,0,0,0,,Hah! You want this thing that bad?
+Dialogue: 0,0:07:42.68,0:07:45.44,Default,Guideau,0,0,0,,I don't really give a shit about this thing,
+Dialogue: 0,0:07:45.44,0:07:49.54,Default,Guideau,0,0,0,,but you assholes aren't\Ngetting anything out of me!
+Dialogue: 0,0:07:50.25,0:07:51.07,Default,Lowell,0,0,0,,Huh?
+Dialogue: 0,0:07:53.57,0:07:55.24,Default,Helga,0,0,0,,What's wrong with you?!
+Dialogue: 0,0:07:55.89,0:07:57.70,Default,Matt,0,0,0,,Of all the pointless....
+Dialogue: 0,0:07:59.41,0:08:04.63,Italics,Helga,0,0,0,,I don't believe it. She picked up\N Ashgan, then let it go again.
+Dialogue: 0,0:08:04.63,0:08:07.21,Italics,Helga,0,0,0,,I've never seen a human do that before.
+Dialogue: 0,0:08:14.26,0:08:15.15,Default,Helga,0,0,0,,Damn it!
+Dialogue: 0,0:08:18.01,0:08:19.92,Default,Ashgan,0,0,0,,You again?
+Dialogue: 0,0:08:19.92,0:08:21.48,Default,Helga,0,0,0,,Hey! Give it back!
+Dialogue: 0,0:08:21.77,0:08:24.16,Default,Helga,0,0,0,,You've got no right to carry that!
+Dialogue: 0,0:08:24.16,0:08:27.20,Default,Ashgan,0,0,0,,Yes, let go already. I can't stand you.
+Dialogue: 0,0:08:27.20,0:08:30.15,Default,Guideau,0,0,0,,You want it? Do what I say. \NNow, shut up and follow me.
+Dialogue: 0,0:08:30.15,0:08:31.34,Default,Helga,0,0,0,,Excuse me?!
+Dialogue: 0,0:08:31.34,0:08:33.28,Default,Guideau,0,0,0,,We're gonna meet up with Ashaf!
+Dialogue: 0,0:08:34.39,0:08:36.49,Default,Helga,0,0,0,,Why should I listen to this brat?
+Dialogue: 0,0:08:36.49,0:08:38.95,Default,Guideau,0,0,0,,Ashaf, where do you wanna meet?
+Dialogue: 0,0:08:39.28,0:08:41.87,Italics,Ashaf,0,0,0,,So you're safe, Guideau. What about her?
+Dialogue: 0,0:08:41.87,0:08:43.75,Default,Guideau,0,0,0,,She's with me, and she'll do what I say.
+Dialogue: 0,0:08:44.00,0:08:45.19,Italics,Ashaf,0,0,0,,Come again?
+Dialogue: 0,0:08:45.19,0:08:47.05,Default,Guideau,0,0,0,,Now we've just gotta get away and—
+Dialogue: 0,0:08:49.48,0:08:50.56,Italics,Ashaf,0,0,0,,Is something wrong?
+Dialogue: 0,0:08:52.26,0:08:54.77,Default,Guideau,0,0,0,,Hey! Run like hell!
+Dialogue: 0,0:08:59.56,0:09:00.64,Default,Helga,0,0,0,,Wha—
+Dialogue: 0,0:09:05.01,0:09:07.19,Default,Helga,0,0,0,,Is he trying to freeze the whole city?!
+Dialogue: 0,0:09:09.66,0:09:11.40,Default,Guideau,0,0,0,,Move it! He's gonna catch up to us!
+Dialogue: 0,0:09:11.85,0:09:12.78,Default,Helga,0,0,0,,Over here!
+Dialogue: 0,0:09:13.91,0:09:15.11,Default,Guideau,0,0,0,,What's your plan?
+Dialogue: 0,0:09:15.11,0:09:18.45,Default,Helga,0,0,0,,Once we're through here, no matter what,\N don't let go of my hand!
+Dialogue: 0,0:09:24.97,0:09:27.75,Default,Guideau,0,0,0,,Hey, what's with these puny-ass spells?
+Dialogue: 0,0:09:28.00,0:09:30.88,Default,Helga,0,0,0,,Never call them "puny" again, you hear me?
+Dialogue: 0,0:09:30.88,0:09:33.63,Default,Helga,0,0,0,,I hate that word.
+Dialogue: 0,0:09:33.63,0:09:36.61,Default,Ashgan,0,0,0,,You always say a woman's size isn't every—
+Dialogue: 0,0:09:35.85,0:09:38.47,Default,Helga,0,0,0,,Shut up! Both of you!
+Dialogue: 0,0:09:40.19,0:09:41.02,Default,Helga,0,0,0,,What?
+Dialogue: 0,0:09:45.25,0:09:46.31,Default,Helga,0,0,0,,You're kidding me!
+Dialogue: 0,0:09:52.52,0:09:55.94,Default,Helga,0,0,0,,What am I supposed to do against {\i1}that{\i0}?
+Dialogue: 0,0:10:02.01,0:10:03.51,Italics,Helga,0,0,0,,Pontevert.
+Dialogue: 0,0:10:03.51,0:10:09.02,Italics,Helga,0,0,0,,This city in the south of the Third \NContinent is blessed with great weather.
+Dialogue: 0,0:10:09.62,0:10:11.44,Italics,Helga,0,0,0,,The food is delicious, too.
+Dialogue: 0,0:10:11.82,0:10:13.00,Flashback,Waiter,0,0,0,,On the house.
+Dialogue: 0,0:10:13.00,0:10:13.82,Flashback,Helga,0,0,0,,Goodness!
+Dialogue: 0,0:10:13.82,0:10:15.56,Italics,Helga,0,0,0,,And passionate men.
+Dialogue: 0,0:10:16.08,0:10:19.38,Italics,Helga,0,0,0,,My witch blood makes me such \Na people magnet, it scares me.
+Dialogue: 0,0:10:20.63,0:10:21.98,Italics,Helga,0,0,0,,I love this town.
+Dialogue: 0,0:10:23.26,0:10:27.18,Flashback Top Italics,Newscaster,0,0,0,,Six corpses were discovered \Nin the city early this morning.
+Dialogue: 0,0:10:27.18,0:10:30.45,Flashback Top Italics,Newscaster,0,0,0,,All six bear cuts from \Nsome kind of edged weapon,
+Dialogue: 0,0:10:30.45,0:10:33.75,Flashback Top Italics,Newscaster,0,0,0,,and the wounds show signs \Nof extreme magical corrosion.
+Dialogue: 0,0:10:33.75,0:10:38.75,Flashback Top Italics,Newscaster,0,0,0,,Reports suggest a single killer\N using powerful magic.
+Dialogue: 0,0:10:39.44,0:10:44.33,Flashback Italics,Helga,0,0,0,,The victims are all people I met yesterday.
+Dialogue: 0,0:10:44.78,0:10:47.00,Flashback,Helga,0,0,0,,Ashgan, did you do something again?
+Dialogue: 0,0:10:48.90,0:10:52.50,Flashback,Ashgan,0,0,0,,What could I do, sealed away like this?
+Dialogue: 0,0:10:52.97,0:10:57.96,Flashback,Ashgan,0,0,0,,But, Helga, if you want to \Nmake me do something...
+Dialogue: 0,0:10:59.68,0:11:01.79,Default,Ashgan,0,0,0,,Draw me, Helga!
+Dialogue: 0,0:11:02.32,0:11:05.23,Default,Ashgan,0,0,0,,You have no other way out this time.
+Dialogue: 0,0:11:05.23,0:11:07.97,Default,Ashgan,0,0,0,,Unless you draw me, you'll die.
+Dialogue: 0,0:11:09.64,0:11:11.33,Default,Matt,0,0,0,,Save your breath, Demon Sword.
+Dialogue: 0,0:11:12.40,0:11:14.58,Default,Matt,0,0,0,,The witch can't move.
+Dialogue: 0,0:11:14.58,0:11:16.35,Default,Ashgan,0,0,0,,An elemental's protection?
+Dialogue: 0,0:11:16.79,0:11:18.82,Default,Ashgan,0,0,0,,I don't like you, either.
+Dialogue: 0,0:11:19.45,0:11:21.50,Default,Matt,0,0,0,,Put the witch and her ally in Armor.
+Dialogue: 0,0:11:28.66,0:11:31.71,Default,Matt,0,0,0,,I doubt you've ever been put in Armor before.
+Dialogue: 0,0:11:32.03,0:11:35.39,Default,Matt,0,0,0,,It hits pressure points that restrict \Nthe release of magical energy.
+Dialogue: 0,0:11:35.39,0:11:37.67,Default,Matt,0,0,0,,The perfect restraining\N device for witches.
+Dialogue: 0,0:11:40.85,0:11:43.60,Default,Lowell,0,0,0,,Come to think of it, \Ndidn't they have an accomplice?
+Dialogue: 0,0:11:43.60,0:11:45.97,Default,Lowell,0,0,0,,And quite a skilled one, \Naccording to the reports.
+Dialogue: 0,0:11:45.97,0:11:49.64,Default,Ashaf,0,0,0,,Quite skilled? You're too kind.
+Dialogue: 0,0:11:49.64,0:11:52.69,Default,Ashaf,0,0,0,,You're astonishingly powerful yourself.
+Dialogue: 0,0:11:53.13,0:11:56.90,Default,Ashaf,0,0,0,,I'll be in a real bind if you cart off \Nthose two and the Demon Sword.
+Dialogue: 0,0:11:57.25,0:11:58.47,Default,Matt,0,0,0,,Is that so?
+Dialogue: 0,0:12:00.20,0:12:02.26,Default,Matt,0,0,0,,Too bad for you, then.
+Dialogue: 0,0:12:10.33,0:12:14.78,Default,Matt,0,0,0,,Take them to the Castle.\N I'll take care of this one.
+Dialogue: 0,0:12:15.62,0:12:18.24,Default,Lowell,0,0,0,,I'll rendezvous with the commander.
+Dialogue: 0,0:12:18.24,0:12:20.32,Default,Lowell,0,0,0,,Take the witch and her friend to base.
+Dialogue: 0,0:12:21.80,0:12:25.89,Default,Ashaf,0,0,0,,I suppose I can't stop you from taking them.
+Dialogue: 0,0:12:26.18,0:12:30.60,Default,Ashaf,0,0,0,,Still, this works out well. \NI was hoping for a word with you.
+Dialogue: 0,0:12:31.11,0:12:32.31,Default,Matt,0,0,0,,What?
+Dialogue: 0,0:12:32.64,0:12:35.37,Default,Ashaf,0,0,0,,I have a good eye for people.
+Dialogue: 0,0:12:35.37,0:12:38.14,Default,Ashaf,0,0,0,,Matt Cugat, the Man of Ice,
+Dialogue: 0,0:12:38.14,0:12:42.56,Default,Ashaf,0,0,0,,you strike me as the type to listen \Nto an argument in good faith.
+Dialogue: 0,0:12:42.90,0:12:44.53,Default,Matt,0,0,0,,Don't give me that.
+Dialogue: 0,0:12:44.78,0:12:49.33,Default,Matt,0,0,0,,You obstructed our mission, \Nand now you talk about "good faith"?
+Dialogue: 0,0:12:52.68,0:12:55.34,Default,Ashaf,0,0,0,,Speaking of that mission,
+Dialogue: 0,0:12:55.34,0:12:58.00,Default,Ashaf,0,0,0,,don't you think it smells fishy?
+Dialogue: 0,0:12:59.68,0:13:01.88,Default,Ashaf,0,0,0,,A witch and six victims.
+Dialogue: 0,0:13:02.41,0:13:05.52,Default,Ashaf,0,0,0,,Each has a convenient witness,
+Dialogue: 0,0:13:05.52,0:13:08.97,Default,Ashaf,0,0,0,,and the witch committed every murder \Nwith her magical swordsmanship?
+Dialogue: 0,0:13:09.52,0:13:14.68,Default,Ashaf,0,0,0,,If a witch simply wants to kill a human, \Nshe has so many other ways of doing it.
+Dialogue: 0,0:13:15.02,0:13:18.48,Default,Ashaf,0,0,0,,She's practically asking you \Nto send her to the gallows.
+Dialogue: 0,0:13:18.48,0:13:21.27,Default,Ashaf,0,0,0,,A taunt like that shows true confidence.
+Dialogue: 0,0:13:21.27,0:13:23.36,Default,Ashaf,0,0,0,,A typical witch, you might say.
+Dialogue: 0,0:13:23.70,0:13:28.71,Default,Ashaf,0,0,0,,Fear of witches may have lessened, \Nbut it remains deeply rooted in society.
+Dialogue: 0,0:13:28.71,0:13:31.60,Default,Ashaf,0,0,0,,People are so on edge that \Na witch just being near a death
+Dialogue: 0,0:13:31.60,0:13:34.40,Default,Ashaf,0,0,0,,is enough to create a "witch incident."
+Dialogue: 0,0:13:35.08,0:13:40.29,Default,Ashaf,0,0,0,,Framing a witch for a crime is simple.\N No hard evidence is required.
+Dialogue: 0,0:13:40.74,0:13:43.00,Default,Ashaf,0,0,0,,And that's just what happened here.
+Dialogue: 0,0:13:43.66,0:13:47.50,Default,Ashaf,0,0,0,,Someone set a trap for Helga Velvette.
+Dialogue: 0,0:13:50.38,0:13:51.18,Default,Paladin 1,0,0,0,,What?
+Dialogue: 0,0:13:53.18,0:13:56.14,Default,Ashgan,0,0,0,,I'll teach you to put me on ice.
+Dialogue: 0,0:13:56.64,0:14:00.68,Default,Ashgan,0,0,0,,Don't think a trick like that \Nwill keep me asleep for long.
+Dialogue: 0,0:14:00.68,0:14:03.48,Default,Ashgan,0,0,0,,Nothing can imprison me
+Dialogue: 0,0:14:03.48,0:14:04.99,Default,Ashgan,0,0,0,,except a witch.
+Dialogue: 0,0:14:04.99,0:14:06.01,Default,Helga,0,0,0,,Oh, no!
+Dialogue: 0,0:14:06.84,0:14:08.30,Default,Paladin 2,0,0,0,,What are you doing? Don't struggle!
+Dialogue: 0,0:14:08.30,0:14:10.85,Default,Helga,0,0,0,,Stop! Don't touch the Demon Sword!
+Dialogue: 0,0:14:10.85,0:14:12.39,Default,Helga,0,0,0,,Don't even look at it!
+Dialogue: 0,0:14:15.58,0:14:17.50,Default,Paladin 4,0,0,0,,What's gotten into you?!
+Dialogue: 0,0:14:17.50,0:14:18.83,Default,Paladin 3,0,0,0,,Let go! It's mine!
+Dialogue: 0,0:14:18.83,0:14:21.25,Default,Paladin 5,0,0,0,,Enough! Stop! That doesn't belong to you!
+Dialogue: 0,0:14:21.25,0:14:23.17,Default,Paladin 5,0,0,0,,It belongs to {\i1}me{\i0}!
+Dialogue: 0,0:14:23.45,0:14:25.13,Italics,Helga,0,0,0,,It's begun.
+Dialogue: 0,0:14:25.13,0:14:31.60,Italics,Helga,0,0,0,,Even sealed, the Demon Sword's immense \Npower tempts and captivates people.
+Dialogue: 0,0:14:32.46,0:14:37.10,Italics,Helga,0,0,0,,Once it takes hold, \Nthe temptation spreads like ripples.
+Dialogue: 0,0:14:37.32,0:14:41.66,Default,Ashgan,0,0,0,,Everyone loses themselves \Nin pursuit of my power.
+Dialogue: 0,0:14:42.24,0:14:45.33,Default,Ashgan,0,0,0,,Mere humans can't help themselves.
+Dialogue: 0,0:14:46.00,0:14:49.15,Default,Ashgan,0,0,0,,The problem is that woman.
+Dialogue: 0,0:14:49.15,0:14:50.81,Default,Ashgan,0,0,0,,Why isn't she tempted?
+Dialogue: 0,0:14:51.50,0:14:53.63,Default,Ashgan,0,0,0,,What in the world is she?
+Dialogue: 0,0:14:54.54,0:14:56.11,Default,Farmus,0,0,0,,What is all this?
+Dialogue: 0,0:14:56.64,0:14:59.04,Default,Farmus,0,0,0,,What's happening here?
+Dialogue: 0,0:14:59.59,0:15:01.90,Default,Executioner,0,0,0,,You seem to be having trouble.
+Dialogue: 0,0:15:02.46,0:15:05.34,Default,Executioner,0,0,0,,Allow me to sort this out.
+Dialogue: 0,0:15:05.60,0:15:08.80,Default,Farmus,0,0,0,,I instructed you to remain \Nin the command center!
+Dialogue: 0,0:15:08.80,0:15:10.34,Default,Farmus,0,0,0,,That goes for all of you!
+Dialogue: 0,0:15:10.63,0:15:13.43,Default,Farmus,0,0,0,,I didn't order you to deploy seekers!
+Dialogue: 0,0:15:15.14,0:15:17.89,Default,Farmus,0,0,0,,Stop! Have you lost your minds, too?
+Dialogue: 0,0:15:18.15,0:15:19.48,Italics,Helga,0,0,0,,Ashgan?
+Dialogue: 0,0:15:19.48,0:15:25.32,Italics,Helga,0,0,0,,No. Humans tempted by Ashgan \Naren't so well-organized.
+Dialogue: 0,0:15:25.32,0:15:26.69,Default,Executioner,0,0,0,,Open fire.
+Dialogue: 0,0:15:30.44,0:15:33.10,Default,Matt,0,0,0,,Someone framed the witch?
+Dialogue: 0,0:15:33.10,0:15:36.64,Default,Ashaf,0,0,0,,Speaking from experience, \NI have a good idea who.
+Dialogue: 0,0:15:36.64,0:15:38.95,Default,Ashaf,0,0,0,,It's their oldest trick, after all.
+Dialogue: 0,0:15:38.95,0:15:40.41,Default,Ashaf,0,0,0,,You couldn't know about them,
+Dialogue: 0,0:15:40.91,0:15:42.97,Default,Ashaf,0,0,0,,but you do share a connection.
+Dialogue: 0,0:15:44.25,0:15:49.03,Default,Ashaf,0,0,0,,This group targets all witches,\N good and evil alike,
+Dialogue: 0,0:15:49.03,0:15:51.35,Default,Ashaf,0,0,0,,and uses any means to \Nhunt them to extinction.
+Dialogue: 0,0:15:51.97,0:15:56.14,Default,Ashaf,0,0,0,,The dark side of the\N righteous Paladin Corps.
+Dialogue: 0,0:15:56.14,0:15:59.10,Default,Ashaf,0,0,0,,A secret force of witch hunters:
+Dialogue: 0,0:15:59.66,0:16:01.18,Default,Ashaf,0,0,0,,the Executioners.
+Dialogue: 0,0:16:04.50,0:16:07.60,Default,Executioner,0,0,0,,I knew this would happen if you \Nbrought the Demon Sword here
+Dialogue: 0,0:16:07.60,0:16:10.03,Default,Executioner,0,0,0,,without knowing what to expect.
+Dialogue: 0,0:16:11.47,0:16:13.62,Default,Executioner,0,0,0,,So, all according to plan.
+Dialogue: 0,0:16:13.62,0:16:15.99,Default,Executioner,0,0,0,,Even amid all this chaos,
+Dialogue: 0,0:16:16.33,0:16:22.16,Default,Executioner,0,0,0,,I can create loyal soldiers who won't fall\N under the Demon Sword's influence.
+Dialogue: 0,0:16:23.99,0:16:26.63,Default,Executioner,0,0,0,,With this Forbidden Instrument.
+Dialogue: 0,0:16:30.16,0:16:33.04,Default,Executioner,0,0,0,,Now, where's Helga?
+Dialogue: 0,0:16:33.04,0:16:34.72,Default,Farmus,0,0,0,,Where could she be?
+Dialogue: 0,0:16:34.72,0:16:36.53,Default,Executioner,0,0,0,,Find her.
+Dialogue: 0,0:16:40.53,0:16:43.52,Default,Matt,0,0,0,,The Executioners set up this witch incident?
+Dialogue: 0,0:16:43.52,0:16:44.49,Default,Ashaf,0,0,0,,Yes.
+Dialogue: 0,0:16:44.49,0:16:46.16,Default,Matt,0,0,0,,Impossible.
+Dialogue: 0,0:16:46.16,0:16:49.11,Default,Matt,0,0,0,,The Executioners epitomize the Dark Ages.
+Dialogue: 0,0:16:49.11,0:16:51.94,Default,Matt,0,0,0,,A detestable product of a millennium ago.
+Dialogue: 0,0:16:51.94,0:16:55.66,Default,Ashaf,0,0,0,,The survival of the dark side would \Nnever make it into the history books.
+Dialogue: 0,0:16:55.95,0:17:00.11,Default,Ashaf,0,0,0,,Due to my work, I know the Holy Church\N at least as well as you do.
+Dialogue: 0,0:17:00.84,0:17:03.52,Default,Ashaf,0,0,0,,I can't prove the Executioners \Norchestrated this.
+Dialogue: 0,0:17:03.52,0:17:06.63,Default,Ashaf,0,0,0,,I'm merely speculating\N based on experience.
+Dialogue: 0,0:17:06.63,0:17:09.45,Default,Ashaf,0,0,0,,But are you sure my theory \Ndoesn't ring any bells?
+Dialogue: 0,0:17:10.89,0:17:16.34,Default,Ashaf,0,0,0,,Did no one approach you with a smile \Nplastered on their face, posing as a helper?
+Dialogue: 0,0:17:19.56,0:17:21.81,Default,Matt,0,0,0,,You said you were speculating?
+Dialogue: 0,0:17:21.81,0:17:24.31,Default,Ashaf,0,0,0,,Yes. Nothing more.
+Dialogue: 0,0:17:24.31,0:17:27.77,Default,Matt,0,0,0,,You're talking nonsense. At least, for now.
+Dialogue: 0,0:17:27.77,0:17:30.73,Default,Ashaf,0,0,0,,Yes. For now, that will do.
+Dialogue: 0,0:17:32.80,0:17:35.02,Default,Matt,0,0,0,,Come in, command center.
+Dialogue: 0,0:17:37.22,0:17:39.28,Default,Matt,0,0,0,,What's wrong? Come in!
+Dialogue: 0,0:17:39.75,0:17:42.74,Default,Ashaf,0,0,0,,Does it sound a bit less like nonsense now?
+Dialogue: 0,0:17:48.88,0:17:53.26,Default,Lowell,0,0,0,,Since you house a great elemental, \NI wasn't sure I could run you through.
+Dialogue: 0,0:17:53.26,0:17:54.36,Default,Lowell,0,0,0,,But thank goodness.
+Dialogue: 0,0:17:54.92,0:17:58.38,Default,Lowell,0,0,0,,I see you're still weak to heat, Commander.
+Dialogue: 0,0:17:58.38,0:18:00.60,Default,Matt,0,0,0,,Lowell...
+Dialogue: 0,0:18:04.27,0:18:08.85,Default,Lowell,0,0,0,,Harming you provokes the \Ngreat elemental's wrath, yes?
+Dialogue: 0,0:18:09.39,0:18:13.89,Default,Lowell,0,0,0,,Now that you've learned too much, \Nyou won't make such a good pawn anymore.
+Dialogue: 0,0:18:14.41,0:18:18.99,Default,Lowell,0,0,0,,Then again, I believe he always \Nplanned to dispose of you.
+Dialogue: 0,0:18:23.20,0:18:25.76,Default,Lowell,0,0,0,,Apparently, being so \Nrighteous and by-the-book
+Dialogue: 0,0:18:25.76,0:18:28.71,Default,Lowell,0,0,0,,made you harder for the \NExecutioners to make use of.
+Dialogue: 0,0:18:29.01,0:18:32.00,Default,Lowell,0,0,0,,He said you're perfect for \Nsending against witches,
+Dialogue: 0,0:18:32.00,0:18:35.67,Default,Lowell,0,0,0,,but still not worth as \Nmuch as the Demon Sword.
+Dialogue: 0,0:18:35.67,0:18:37.91,Default,Lowell,0,0,0,,Heartless, don't you think?
+Dialogue: 0,0:18:38.63,0:18:41.44,Default,Lowell,0,0,0,,Goodbye, sir.
+Dialogue: 0,0:18:48.98,0:18:51.33,Italics,Helga,0,0,0,,I have nowhere left to run\N and no way of escaping.
+Dialogue: 0,0:18:52.37,0:18:54.23,Italics,Helga,0,0,0,,This is it for me.
+Dialogue: 0,0:18:55.09,0:19:00.07,Italics,Helga,0,0,0,,My life is going to end like this, \Nslandered as a serial killer.
+Dialogue: 0,0:19:00.61,0:19:03.81,Italics,Helga,0,0,0,,Ah, I so wanted a boyfriend.
+Dialogue: 0,0:19:07.99,0:19:09.58,Default,Executioner,0,0,0,,What a nimble girl.
+Dialogue: 0,0:19:09.92,0:19:13.08,Default,Executioner,0,0,0,,Vice Commander, I'll let you handle her.
+Dialogue: 0,0:19:26.88,0:19:29.27,Default,Executioner,0,0,0,,I wonder who you are.
+Dialogue: 0,0:19:30.40,0:19:33.18,Default,Executioner,0,0,0,,You can tell me the whole story later.
+Dialogue: 0,0:19:37.44,0:19:38.59,Default,Helga,0,0,0,,Stop!
+Dialogue: 0,0:19:39.30,0:19:42.91,Default,Executioner,0,0,0,,Oh? So that's where you were, Helga.
+Dialogue: 0,0:19:44.55,0:19:45.41,Default,Ashgan,0,0,0,,Helga.
+Dialogue: 0,0:19:46.35,0:19:47.77,Default,Ashgan,0,0,0,,Draw me.
+Dialogue: 0,0:19:48.74,0:19:52.67,Default,Ashgan,0,0,0,,It's only a matter of time \Nuntil I'm unleashed now.
+Dialogue: 0,0:19:53.02,0:19:58.88,Default,Ashgan,0,0,0,,If you can't avoid it, then the \Nsmart choice is to draw me yourself.
+Dialogue: 0,0:19:59.35,0:20:04.39,Default,Ashgan,0,0,0,,Drawing me is the only way you can survive.
+Dialogue: 0,0:20:05.52,0:20:06.84,Italics,Helga,0,0,0,,True.
+Dialogue: 0,0:20:07.58,0:20:09.84,Italics,Helga,0,0,0,,That man wants the Demon Sword.
+Dialogue: 0,0:20:09.84,0:20:11.80,Italics,Helga,0,0,0,,And in the shape I'm in,
+Dialogue: 0,0:20:11.80,0:20:15.91,Italics,Helga,0,0,0,,I won't be able to resist \Ntelling him how to unleash it.
+Dialogue: 0,0:20:16.94,0:20:18.86,Italics,Helga,0,0,0,,But I won't let that happen.
+Dialogue: 0,0:20:19.30,0:20:23.41,Italics,Helga,0,0,0,,Anyone but me needs something \Nto draw the Demon Sword,
+Dialogue: 0,0:20:23.41,0:20:26.65,Italics,Helga,0,0,0,,and they'll never get it if I die.
+Dialogue: 0,0:20:27.24,0:20:32.06,Italics,Helga,0,0,0,,As long as I die, you won't be \Nable to have things your way.
+Dialogue: 0,0:20:32.99,0:20:34.73,Italics,Helga,0,0,0,,I wanted a boyfriend.
+Dialogue: 0,0:20:35.18,0:20:36.99,Italics,Helga,0,0,0,,I wanted to be happy.
+Dialogue: 0,0:20:37.71,0:20:39.55,Italics,Helga,0,0,0,,I don't want to go out like this,
+Dialogue: 0,0:20:40.16,0:20:42.84,Italics,Helga,0,0,0,,but there's no way I'll abandon my duty now!
+Dialogue: 0,0:20:43.32,0:20:46.32,Italics,Helga,0,0,0,,I keep the world safe \Nfrom the Demon Sword.
+Dialogue: 0,0:20:46.32,0:20:50.81,Italics,Helga,0,0,0,,That's the whole reason I've had \Nsuch rotten luck all this time!
+Dialogue: 0,0:20:53.31,0:20:55.52,Default,Executioner,0,0,0,,How is she moving on her own?
+Dialogue: 0,0:20:55.52,0:20:57.36,Default,Executioner,0,0,0,,Does my control have no effect on her?
+Dialogue: 0,0:20:57.62,0:20:59.27,Default,Executioner,0,0,0,,Is she really human?
+Dialogue: 0,0:21:01.15,0:21:03.49,Default,Guideau,0,0,0,,Hey! Cast some kind of spell!
+Dialogue: 0,0:21:03.49,0:21:05.53,Default,Helga,0,0,0,,I can't yet. I only just got it off.
+Dialogue: 0,0:21:11.87,0:21:13.44,Default,Executioner,0,0,0,,Naughty, naughty.
+Dialogue: 0,0:21:13.44,0:21:15.96,Default,Executioner,0,0,0,,The witch {\i1}and{\i0} the Demon Sword? \NWhat a greedy girl.
+Dialogue: 0,0:21:20.88,0:21:23.09,Default,Guideau,0,0,0,,Hey! What the hell are you thinking?!
+Dialogue: 0,0:21:25.39,0:21:28.30,Default,Helga,0,0,0,,Go! Forget me and protect the Demon Sword!
+Dialogue: 0,0:21:28.30,0:21:29.92,Default,Guideau,0,0,0,,Like hell I will!
+Dialogue: 0,0:21:29.92,0:21:33.18,Default,Guideau,0,0,0,,I've gotta take you with me,\N or I've wasted my time!
+Dialogue: 0,0:21:34.08,0:21:36.39,Default,Helga,0,0,0,,Then rescue me.
+Dialogue: 0,0:21:37.02,0:21:40.90,Default,Helga,0,0,0,,If bringing me back is your job,\N keep the Demon Sword safe!
+Dialogue: 0,0:21:42.51,0:21:44.62,Default,Helga,0,0,0,,Come back and rescue me!
+Dialogue: 0,0:21:48.64,0:21:51.22,Default,Helga,0,0,0,,As if that'll ever happen.
+Dialogue: 0,0:21:52.19,0:21:53.91,Default,Executioner,0,0,0,,Quite right.
+Dialogue: 0,0:21:54.36,0:21:57.87,Default,Executioner,0,0,0,,I know everything there is\N to know about you.
+Dialogue: 0,0:21:57.87,0:22:00.49,Default,Executioner,0,0,0,,Hope doesn't suit you.
+Dialogue: 0,0:22:01.68,0:22:05.05,Default,Executioner,0,0,0,,This base and the witch are now mine.
+Dialogue: 0,0:22:05.05,0:22:07.50,Default,Executioner,0,0,0,,And soon, the Demon Sword will be, too.
+Dialogue: 0,0:22:08.74,0:22:12.54,Default,Executioner,0,0,0,,There's never been any hope for you,\N and there never will be.
+Dialogue: 0,0:22:13.66,0:22:16.07,Italics,Helga,0,0,0,,I've gotten by on my own all this time.
+Dialogue: 0,0:22:16.58,0:22:19.83,Italics,Helga,0,0,0,,No one's coming to save me. I have no hope.
+Dialogue: 0,0:22:20.23,0:22:22.95,Italics,Helga,0,0,0,,I know all that.
+Dialogue: 0,0:24:00.52,0:24:05.19,Default,Ashaf,0,0,0,,Now, shall we show our own ace in the hole?
+Dialogue: 0,0:24:05.75,0:24:09.96,Default,Ashaf,0,0,0,,Next time: "The Witch and \Nthe Demon Sword: Act III."
+Dialogue: 0,0:24:05.88,0:24:09.96,Default,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs22\fscx90\an8\bord0\shad0\blur0.3\pos(320,100)}The Witch and \Nthe Demon Sword
+Dialogue: 0,0:24:05.88,0:24:09.96,Default,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs15\fscx90\an8\bord0\shad0\blur0.3\pos(320,212)}Act III
