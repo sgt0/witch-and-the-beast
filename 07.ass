@@ -7,11 +7,11 @@ Synch Point:
 Script Updated By:
 Update Details:
 ScriptType: v4.00+
-Collisions: Normal
 PlayResX: 640
 PlayResY: 360
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,6 +23,7 @@ Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
 Style: Flashback Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
 Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -45,8 +46,8 @@ Dialogue: 0,0:01:01.85,0:01:06.71,Default,Ashaf,0,0,0,,The Third Continent Palad
 Dialogue: 0,0:01:06.71,0:01:08.58,Default,Ashaf,0,0,0,,Matt Cugat.
 Dialogue: 0,0:01:08.58,0:01:11.40,Default,Ashaf,0,0,0,,His power rivals that of a witch.
 Dialogue: 0,0:01:12.76,0:01:14.88,Default,Guideau,0,0,0,,This must be him.
-Dialogue: 0,0:02:46.39,0:02:50.48,Default,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(500,500)\3c&H605E5B&\c&HF8EBE4&\4c&H6E5F52&\pos(96,316)}The Witch and\Nthe Demon Sword
-Dialogue: 0,0:02:46.39,0:02:50.48,Default,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(500,500)\3c&H605E5B&\c&HF8EBE4&\4c&H6E5F52&\pos(185,316)}Act II
+Dialogue: 0,0:02:46.39,0:02:50.48,Signs,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(500,500)\3c&H605E5B&\c&HF8EBE4&\4c&H6E5F52&\pos(96,316)}The Witch and\Nthe Demon Sword
+Dialogue: 0,0:02:46.39,0:02:50.48,Signs,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(500,500)\3c&H605E5B&\c&HF8EBE4&\4c&H6E5F52&\pos(185,316)}Act II
 Dialogue: 0,0:02:58.03,0:02:59.12,Italics,Ashaf,0,0,0,,Stop, Guideau.
 Dialogue: 0,0:03:00.80,0:03:02.96,Italics,Ashaf,0,0,0,,Save the kiss for later.
 Dialogue: 0,0:03:02.96,0:03:04.67,Default,Guideau,0,0,0,,What? Why?
@@ -357,5 +358,5 @@ Dialogue: 0,0:22:16.58,0:22:19.83,Italics,Helga,0,0,0,,No one's coming to save m
 Dialogue: 0,0:22:20.23,0:22:22.95,Italics,Helga,0,0,0,,I know all that.
 Dialogue: 0,0:24:00.52,0:24:05.19,Default,Ashaf,0,0,0,,Now, shall we show our own ace in the hole?
 Dialogue: 0,0:24:05.75,0:24:09.96,Default,Ashaf,0,0,0,,Next time: "The Witch and \Nthe Demon Sword: Act III."
-Dialogue: 0,0:24:05.88,0:24:09.96,Default,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs22\fscx90\an8\bord0\shad0\blur0.3\pos(320,100)}The Witch and \Nthe Demon Sword
-Dialogue: 0,0:24:05.88,0:24:09.96,Default,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs15\fscx90\an8\bord0\shad0\blur0.3\pos(320,212)}Act III
+Dialogue: 0,0:24:05.88,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs22\fscx90\an8\bord0\shad0\blur0.3\pos(320,100)}The Witch and \Nthe Demon Sword
+Dialogue: 0,0:24:05.88,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs15\fscx90\an8\bord0\shad0\blur0.3\pos(320,212)}Act III
