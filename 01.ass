@@ -64,7 +64,7 @@ Dialogue: 0,0:03:41.08,0:03:44.91,Default,Marie,0,0,0,,I doubt you even need to 
 Dialogue: 0,0:03:44.91,0:03:46.47,Default,Ashaf,0,0,0,,How do you mean?
 Dialogue: 0,0:03:58.77,0:03:59.70,Default,Policeman,0,0,0,,Fire!
 Dialogue: 0,0:04:06.24,0:04:09.43,Default,Ashaf,0,0,0,,Well... That's certainly quite the beast.
-Dialogue: 0,0:04:09.66,0:04:13.39,Default,Ashaf,0,0,0,,Must be a powerful spellcaster \Nto control or become such a thing.{sgt: ugh}
+Dialogue: 0,0:04:09.66,0:04:13.39,Default,Ashaf,0,0,0,ED,Must be a powerful spellcaster \Nto control or become such a thing.
 Dialogue: 0,0:04:13.39,0:04:16.12,Default,Guideau,0,0,0,,Hah! Already showin' themselves!
 Dialogue: 0,0:04:16.12,0:04:17.28,Default,Guideau,0,0,0,,It's the witch!
 Dialogue: 0,0:04:17.56,0:04:18.77,Default,Marie,0,0,0,,Not at all.
@@ -77,8 +77,8 @@ Dialogue: 0,0:04:53.08,0:04:54.87,Default,Policeman B,0,0,0,,Detain him!
 Dialogue: 0,0:04:56.18,0:04:59.40,Default,Male Bystander,0,0,0,,Amazing, Lady Ione!
 Dialogue: 0,0:04:59.40,0:05:03.89,Default,Ashaf,0,0,0,,What do we have here? \NQuite the celebrity, I see.
 Dialogue: 0,0:05:03.89,0:05:06.66,Default,Marie,0,0,0,,Of course. She's the city's hero.
-Dialogue: 0,0:05:06.66,0:05:08.35,Default,Ashaf,0,0,0,,A hero witch?
-Dialogue: 0,0:05:08.35,0:05:10.27,Default,Marie,0,0,0,,It's only fair judgment.{sgt: wtf do I do here}
+Dialogue: 0,0:05:06.66,0:05:08.37,Default,Ashaf,0,0,0,,A hero witch?
+Dialogue: 0,0:05:08.37,0:05:10.29,Default,Marie,0,0,0,ED,There's no question about it.{orig: It's only fair judgment.}{There's no denying it.}
 Dialogue: 0,0:05:10.27,0:05:11.74,Default,Ashaf,0,0,0,,You seem happy to say that.
 Dialogue: 0,0:05:11.74,0:05:15.32,Default,Marie,0,0,0,,What student wouldn't be happy \Nto see their mistress succeed?
 Dialogue: 0,0:05:15.56,0:05:16.66,Default,Ashaf,0,0,0,,That so?
@@ -139,9 +139,9 @@ Dialogue: 0,0:07:55.68,0:08:01.71,Default,Ashaf,0,0,0,,But the wicked witch was 
 Dialogue: 0,0:08:01.71,0:08:04.16,Default,Guideau,0,0,0,,The curse was {\i1}sealed{\i0}?
 Dialogue: 0,0:08:04.55,0:08:07.51,Default,Ashaf,0,0,0,,That's the supposed history of this city.
 Dialogue: 0,0:08:07.51,0:08:11.16,Default,Ashaf,0,0,0,,This castle is where the curse \Nis said to be sealed,
-Dialogue: 0,0:08:11.16,0:08:13.87,Default,Ashaf,0,0,0,,as well as being the current residence of our witch.{sgt: linebreak}
+Dialogue: 0,0:08:11.16,0:08:13.87,Default,Ashaf,0,0,0,ED,as well as being the current \Nresidence of our witch.{sgt: bad linebreak}
 Dialogue: 0,0:08:14.14,0:08:16.23,Default,Ashaf,0,0,0,,Or so says the pamphlet.
-Dialogue: 0,0:08:16.23,0:08:19.50,Default,Guideau,0,0,0,,How the hell can a witch live in public like this?{sgt: room for improvement. could also point to how extravagent it all is.}
+Dialogue: 0,0:08:16.23,0:08:19.50,Default,Guideau,0,0,0,ED,How the hell can a witch live in public like this?{sgt: could we also point to how extravagant it all is?}
 Dialogue: 0,0:08:19.50,0:08:24.85,Default,Ashaf,0,0,0,,That's how much support she's gained in 400 years.
 Dialogue: 0,0:08:25.41,0:08:26.60,Default,Guideau,0,0,0,,Bullshit.
 Dialogue: 0,0:08:26.60,0:08:30.12,Default,Ashaf,0,0,0,,Sure, to you, all witches are evil.
