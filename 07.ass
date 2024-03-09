@@ -153,7 +153,7 @@ Dialogue: 0,0:09:24.97,0:09:27.75,Default,Guideau,0,0,0,,Hey, what's with these 
 Dialogue: 0,0:09:28.00,0:09:30.88,Default,Helga,0,0,0,,Never call them "puny" again, you hear me?
 Dialogue: 0,0:09:30.88,0:09:33.63,Default,Helga,0,0,0,,I hate that word.
 Dialogue: 0,0:09:33.63,0:09:36.61,Default,Ashgan,0,0,0,,You always say a woman's size isn't every—
-Dialogue: 0,0:09:35.85,0:09:38.47,Default,Helga,0,0,0,,Shut up! Both of you!
+Dialogue: 0,0:09:35.85,0:09:38.47,Overlap,Helga,0,0,0,,Shut up! Both of you!
 Dialogue: 0,0:09:40.19,0:09:41.02,Default,Helga,0,0,0,,What?
 Dialogue: 0,0:09:45.25,0:09:46.31,Default,Helga,0,0,0,,You're kidding me!
 Dialogue: 0,0:09:52.52,0:09:55.94,Default,Helga,0,0,0,,What am I supposed to do against {\i1}that{\i0}?
