@@ -42,8 +42,8 @@ Dialogue: 0,0:01:01.85,0:01:06.71,Default,Ashaf,0,0,0,,The Third Continent Palad
 Dialogue: 0,0:01:06.71,0:01:08.58,Default,Ashaf,0,0,0,,Matt Cugat.
 Dialogue: 0,0:01:08.58,0:01:11.40,Default,Ashaf,0,0,0,,His power rivals that of a witch.
 Dialogue: 0,0:01:12.76,0:01:14.88,Default,Guideau,0,0,0,,This must be him.
-Dialogue: 0,0:02:46.39,0:02:50.48,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad1.5\fnTimes New Roman\fscx90\fad(500,500)\3c&H605E5B&\c&HF8EBE4&\4c&H6E5F52&\pos(288,948)}The Witch and\Nthe Demon Sword
-Dialogue: 0,0:02:46.39,0:02:50.48,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad1.5\fnTimes New Roman\fscx90\fad(500,500)\3c&H605E5B&\c&HF8EBE4&\4c&H6E5F52&\pos(555,948)}Act II
+Dialogue: 0,0:02:46.40,0:02:50.48,Signs,Text,0,0,0,,{\pos(244.88,970.88)\org(-100000,0)\fscx90\fnAlegreya\fs60\bord1.5\shad1.5\c&HF8EBE4&\3c&H605E5B&\4c&H6E5F52&\blur1.5\fad(500,500)}The Witch and\N{\frz0.005}the Demon Sword
+Dialogue: 0,0:02:46.40,0:02:50.48,Signs,Text,0,0,0,,{\pos(529.37,963.12)\fscx90\fnAlegreya\fs60\bord1.5\shad1.5\c&HF8EBE4&\3c&H605E5B&\4c&H6E5F52&\blur1.5\fad(500,500)}Act II
 Dialogue: 0,0:02:58.03,0:02:59.12,Default,Ashaf,0,0,0,,{\i1}Stop, Guideau.
 Dialogue: 0,0:03:00.80,0:03:02.96,Default,Ashaf,0,0,0,,{\i1}Save the kiss for later.
 Dialogue: 0,0:03:02.96,0:03:04.67,Default,Guideau,0,0,0,,What? Why?
@@ -165,10 +165,10 @@ Dialogue: 0,0:10:13.00,0:10:13.82,Flashback,Helga,0,0,0,,Goodness!
 Dialogue: 0,0:10:13.82,0:10:15.56,Default,Helga,0,0,0,,{\i1}And passionate men.
 Dialogue: 0,0:10:16.08,0:10:19.38,Default,Helga,0,0,0,,{\i1}My witch blood makes me such \Na people magnet, it scares me.
 Dialogue: 0,0:10:20.63,0:10:21.98,Default,Helga,0,0,0,,{\i1}I love this town.
-Dialogue: 0,0:10:23.26,0:10:27.18,Flashback,Newscaster,0,0,0,,{\i1\an8}Six corpses were discovered \Nin the city early this morning.
-Dialogue: 0,0:10:27.18,0:10:30.45,Flashback,Newscaster,0,0,0,,{\i1\an8}All six bear cuts from \Nsome kind of edged weapon,
-Dialogue: 0,0:10:30.45,0:10:33.75,Flashback,Newscaster,0,0,0,,{\i1\an8}and the wounds show signs \Nof extreme magical corrosion.
-Dialogue: 0,0:10:33.75,0:10:38.75,Flashback,Newscaster,0,0,0,,{\i1\an8}Reports suggest a single killer\N using powerful magic.
+Dialogue: 0,0:10:23.26,0:10:27.18,Flashback,Newscaster,0,0,0,,{\an8\i1}Six corpses were discovered \Nin the city early this morning.
+Dialogue: 0,0:10:27.18,0:10:30.45,Flashback,Newscaster,0,0,0,,{\an8\i1}All six bear cuts from \Nsome kind of edged weapon,
+Dialogue: 0,0:10:30.45,0:10:33.75,Flashback,Newscaster,0,0,0,,{\an8\i1}and the wounds show signs \Nof extreme magical corrosion.
+Dialogue: 0,0:10:33.75,0:10:38.75,Flashback,Newscaster,0,0,0,,{\an8\i1}Reports suggest a single killer\N using powerful magic.
 Dialogue: 0,0:10:39.44,0:10:44.33,Flashback,Helga,0,0,0,,{\i1}The victims are all people I met yesterday.
 Dialogue: 0,0:10:44.78,0:10:47.00,Flashback,Helga,0,0,0,,Ashgan, did you do something again?
 Dialogue: 0,0:10:48.90,0:10:52.50,Flashback,Ashgan,0,0,0,,What could I do, sealed away like this?
@@ -354,5 +354,5 @@ Dialogue: 0,0:22:16.58,0:22:19.83,Default,Helga,0,0,0,,{\i1}No one's coming to s
 Dialogue: 0,0:22:20.23,0:22:22.95,Default,Helga,0,0,0,,{\i1}I know all that.
 Dialogue: 0,0:24:00.52,0:24:05.19,Default,Ashaf,0,0,0,,Now, shall we show our own ace in the hole?
 Dialogue: 0,0:24:05.75,0:24:09.96,Default,Ashaf,0,0,0,,Next time: "The Witch and \Nthe Demon Sword: Act III."
-Dialogue: 0,0:24:05.88,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,300)}The Witch and \Nthe Demon Sword
-Dialogue: 0,0:24:05.88,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Act III
+Dialogue: 0,0:24:05.88,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,280)\fscx90\fnAlegreya\fs75\bord0\blur0.9\fad(1000,0)}The Witch and \Nthe Demon Sword
+Dialogue: 0,0:24:05.88,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnAlegreya\fs70\bord0\blur0.9\fad(1000,0)}Act III
