@@ -41,8 +41,8 @@ Dialogue: 0,0:00:59.09,0:01:02.39,Default,Helga,0,0,0,,{\i1}No one's coming to s
 Dialogue: 0,0:01:02.76,0:01:05.51,Default,Helga,0,0,0,,{\i1}I know all that.
 Dialogue: 0,0:02:42.33,0:02:44.68,Flashback,Helga,0,0,0,,Hey, are you Ashgan?
 Dialogue: 0,0:02:48.95,0:02:53.74,Flashback,Helga,0,0,0,,I kind of figured the Demon Sword \Nwould look like a bigger deal.
-Dialogue: 0,0:02:58.19,0:03:02.91,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad1.5\fnTimes New Roman\fscx90\fad(0,500)\3c&H020100&\c&HF8EBE4&\4c&H6E5F52&\pos(246,948)}The Witch and\Nthe Demon Sword
-Dialogue: 0,0:02:58.19,0:03:02.91,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad1.5\fnTimes New Roman\fscx90\fad(0,500)\3c&H020100&\c&HF8EBE4&\4c&H6E5F52&\pos(525,948)}Act III
+Dialogue: 0,0:02:58.20,0:03:02.91,Signs,Text,0,0,0,,{\org(-100000,0)\fscx90\fnAlegreya\fs60\bord1.5\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur1.5\fad(0,500)\pos(244.87,955.91)}The Witch and\N{\frz0.005}the Demon Sword
+Dialogue: 0,0:02:58.20,0:03:02.91,Signs,Text,0,0,0,,{\pos(525,948)\fscx90\fnAlegreya\fs60\bord1.5\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur1.5\fad(0,500)}Act III
 Dialogue: 0,0:03:05.22,0:03:09.00,Default,Ashgan,0,0,0,,Without Helga, lifting my seal is impossible.
 Dialogue: 0,0:03:09.36,0:03:10.62,Default,Ashgan,0,0,0,,Turn back at once.
 Dialogue: 0,0:03:10.62,0:03:11.83,Default,Guideau,0,0,0,,Shut up.
@@ -307,5 +307,5 @@ Dialogue: 0,0:22:12.39,0:22:14.52,Default,Ashaf,0,0,0,,Yes, of course.
 Dialogue: 0,0:22:14.52,0:22:16.37,Default,Ashaf,0,0,0,,I mean just that.
 Dialogue: 0,0:24:00.45,0:24:05.28,Default,Ashaf,0,0,0,,Power great enough to destroy \Nthe world is hardly unique.
 Dialogue: 0,0:24:05.88,0:24:09.67,Default,Ashaf,0,0,0,,Next time: "The Witch and \Nthe Demon Sword: Final Act."
-Dialogue: 0,0:24:06.54,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,300)}The Witch and \Nthe Demon Sword
-Dialogue: 0,0:24:06.54,0:24:09.96,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Final Act
+Dialogue: 0,0:24:06.55,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,280)\fscx90\fnAlegreya\fs75\bord0\blur0.9\fad(1000,0)}The Witch and \Nthe Demon Sword
+Dialogue: 0,0:24:06.55,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnAlegreya\fs70\bord0\blur0.9\fad(1000,0)}Final Act
