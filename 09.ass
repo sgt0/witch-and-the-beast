@@ -1,0 +1,286 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.70,0:00:03.95,Default,Executioner,0,0,0,,My mind control doesn't work?
+Dialogue: 0,0:00:04.31,0:00:06.23,Default,Executioner,0,0,0,,No, that can't be it.
+Dialogue: 0,0:00:06.23,0:00:10.13,Default,Executioner,0,0,0,,Sacrifices! I need more sacrifices! \NThat must be the answer!
+Dialogue: 0,0:00:13.95,0:00:18.39,Default,Lowell,0,0,0,,Hey! What's going on? I thought \Nyou could control the Demon Sword!
+Dialogue: 0,0:00:18.70,0:00:21.60,Default,Lowell,0,0,0,,Why do you think I went \Nalong with your plan?!
+Dialogue: 0,0:00:21.60,0:00:22.96,Default,Lowell,0,0,0,,Do something about—
+Dialogue: 0,0:00:24.19,0:00:24.88,Default,Lowell,0,0,0,,Hey!
+Dialogue: 0,0:00:25.24,0:00:28.61,Default,Executioner,0,0,0,,More. I need more sacrifices.
+Dialogue: 0,0:00:28.61,0:00:30.41,Default,Executioner,0,0,0,,So many more.
+Dialogue: 0,0:00:32.56,0:00:37.05,Italics,Executioner,0,0,0,,The Demon Sword can't touch me. \NI can try as many times as it takes.
+Dialogue: 0,0:00:37.05,0:00:40.35,Italics,Executioner,0,0,0,,I'll just add more sacrifices and come back.
+Dialogue: 0,0:02:10.98,0:02:15.69,Default,Text,0,0,0,,{\blur0.3\fs16\bord0.5\shad1\fnTimes New Roman\fscx90\fad(0,500)\3c&H275161&\c&HF8EBE4&\4c&H818486&\pos(82,316)}The Witch and\Nthe Demon Sword
+Dialogue: 0,0:02:10.98,0:02:15.69,Default,Text,0,0,0,,{\blur0.3\fs16\bord0.5\shad1\fnTimes New Roman\fscx90\fad(0,500)\3c&H275161&\\c&HF8EBE4&\4c&H818486&\pos(168,320)}Final Act
+Dialogue: 0,0:02:16.42,0:02:17.55,Default,Helga,0,0,0,,Ashgan.
+Dialogue: 0,0:02:18.44,0:02:19.87,Default,Ashaf,0,0,0,,Have you come to?
+Dialogue: 0,0:02:20.90,0:02:24.16,Default,Helga,0,0,0,,I broke the seal, didn't I?
+Dialogue: 0,0:02:24.78,0:02:25.59,Default,Ashaf,0,0,0,,Yes.
+Dialogue: 0,0:02:26.08,0:02:27.56,Default,Helga,0,0,0,,That's it, then.
+Dialogue: 0,0:02:28.27,0:02:30.57,Default,Helga,0,0,0,,I can't stop Ashgan.
+Dialogue: 0,0:02:31.33,0:02:34.18,Default,Helga,0,0,0,,Hurry. Leave me and run.
+Dialogue: 0,0:02:34.78,0:02:36.72,Default,Helga,0,0,0,,You'll be better off far away from me.
+Dialogue: 0,0:02:37.69,0:02:38.91,Default,Helga,0,0,0,,Ashgan...
+Dialogue: 0,0:02:39.35,0:02:42.57,Default,Helga,0,0,0,,must carry one hell of a \Ngrudge against my family.
+Dialogue: 0,0:02:44.47,0:02:45.56,Default,Helga,0,0,0,,In the end,
+Dialogue: 0,0:02:45.94,0:02:49.50,Default,Helga,0,0,0,,I failed in my duty, \Nand now I guess I'll die here.
+Dialogue: 0,0:02:51.64,0:02:52.89,Default,Helga,0,0,0,,What a letdown.
+Dialogue: 0,0:02:53.34,0:02:56.11,Default,Helga,0,0,0,,If only... If only...
+Dialogue: 0,0:02:56.85,0:02:59.96,Default,Helga,0,0,0,,I could've at least gotten a kiss at the end!
+Dialogue: 0,0:03:02.16,0:03:04.11,Default,Ashaf,0,0,0,,You've never kissed anyone?
+Dialogue: 0,0:03:04.11,0:03:06.00,Default,Helga,0,0,0,,No! Is that a problem?!
+Dialogue: 0,0:03:06.00,0:03:08.90,Default,Guideau,0,0,0,,Hey. Fix my legs, too.
+Dialogue: 0,0:03:08.90,0:03:10.80,Default,Guideau,0,0,0,,I can't walk right.
+Dialogue: 0,0:03:11.03,0:03:15.08,Default,Ashaf,0,0,0,,Guideau, it appears \Nall the cards are down.
+Dialogue: 0,0:03:16.84,0:03:19.77,Default,Ashaf,0,0,0,,We only expected the Paladins,
+Dialogue: 0,0:03:19.77,0:03:22.55,Default,Ashaf,0,0,0,,but a great elemental and\N the Executioners turned up.
+Dialogue: 0,0:03:22.55,0:03:25.48,Default,Ashaf,0,0,0,,And then the Demon Sword slipped its bonds.
+Dialogue: 0,0:03:26.16,0:03:29.24,Default,Ashaf,0,0,0,,Anyone and everyone has joined the game.
+Dialogue: 0,0:03:30.18,0:03:34.58,Default,Ashaf,0,0,0,,So what do you say we show \Nthem our ace in the hole?
+Dialogue: 0,0:03:38.31,0:03:39.28,Default,Ashaf,0,0,0,,Helga.
+Dialogue: 0,0:03:39.94,0:03:46.00,Default,Ashaf,0,0,0,,Would you permit us to \Ngrant that wish of yours?
+Dialogue: 0,0:03:46.44,0:03:47.12,Default,Helga,0,0,0,,Huh?
+Dialogue: 0,0:03:47.80,0:03:49.51,Default,Helga,0,0,0,,Wait, what?!
+Dialogue: 0,0:03:49.94,0:03:52.40,Default,Ashaf,0,0,0,,Now, close your eyes.
+Dialogue: 0,0:03:52.97,0:03:54.94,Default,Helga,0,0,0,,Hold on! Not so fast!
+Dialogue: 0,0:03:54.94,0:03:58.08,Default,Helga,0,0,0,,No! No way! I mean, not that I'd mind...
+Dialogue: 0,0:03:58.08,0:04:01.36,Default,Helga,0,0,0,,But, um, when you say\N you'll grant my wish,
+Dialogue: 0,0:04:01.36,0:04:03.06,Default,Helga,0,0,0,,do you... really mean it?!
+Dialogue: 0,0:04:03.43,0:04:05.38,Default,Ashaf,0,0,0,,Yes, of course.
+Dialogue: 0,0:04:05.93,0:04:07.67,Default,Ashaf,0,0,0,,I mean just that.
+Dialogue: 0,0:04:10.62,0:04:12.68,Italics,Helga,0,0,0,,Blood's filling my mouth,
+Dialogue: 0,0:04:13.26,0:04:16.94,Italics,Helga,0,0,0,,so I can't tell what \Nmy first kiss tastes like.
+Dialogue: 0,0:04:24.53,0:04:28.25,Italics,Helga,0,0,0,,But wow. A man's lips...
+Dialogue: 0,0:04:28.97,0:04:30.94,Italics,Helga,0,0,0,,sure are soft.
+Dialogue: 0,0:05:16.59,0:05:18.27,Default,Helga,0,0,0,,Huh? What?
+Dialogue: 0,0:05:31.73,0:05:34.35,Italics,Matt,0,0,0,,What is this awful chill?
+Dialogue: 0,0:05:36.46,0:05:39.07,Italics,Matt,0,0,0,,Even the Demon Sword has stopped dead.
+Dialogue: 0,0:05:41.03,0:05:46.15,Italics,Matt,0,0,0,,What on earth are we in for now?
+Dialogue: 0,0:06:16.95,0:06:17.98,Default,Executioner,0,0,0,,What's going on?
+Dialogue: 0,0:06:23.22,0:06:26.09,Italics,Helga,0,0,0,,Where'd that guy come from?
+Dialogue: 0,0:06:27.21,0:06:28.10,Default,Ashaf,0,0,0,,Guideau.
+Dialogue: 0,0:06:30.58,0:06:33.52,Default,Ashaf,0,0,0,,I'd prefer to take the Demon Sword alive.
+Dialogue: 0,0:06:33.52,0:06:35.00,Default,Ashaf,0,0,0,,Don't use your right hand.
+Dialogue: 0,0:06:35.28,0:06:36.97,Default,Helga,0,0,0,,Don't tell me he's going to fight!
+Dialogue: 0,0:06:37.20,0:06:40.43,Default,Ashaf,0,0,0,,Of course. Someone has to put a stop to this.
+Dialogue: 0,0:06:40.43,0:06:45.02,Default,Helga,0,0,0,,It's impossible! Why do you think \Nthe Dauntless Witches kept it sealed?
+Dialogue: 0,0:06:45.02,0:06:48.86,Default,Helga,0,0,0,,We weren't kidding when we \Nsaid it can destroy the world!
+Dialogue: 0,0:06:48.86,0:06:52.18,Default,Helga,0,0,0,,There's nothing it can't cut if it tries.
+Dialogue: 0,0:06:52.18,0:06:55.69,Default,Helga,0,0,0,,The Demon Sword Ashgan is \Na blade that slices all creation!
+Dialogue: 0,0:06:56.16,0:06:58.20,Default,Ashaf,0,0,0,,Yes, I realize that.
+Dialogue: 0,0:06:59.24,0:07:01.56,Default,Ashaf,0,0,0,,The Demon Sword has immense power.
+Dialogue: 0,0:07:01.56,0:07:03.75,Default,Ashaf,0,0,0,,We've established that beyond doubt.
+Dialogue: 0,0:07:04.49,0:07:05.49,Default,Ashaf,0,0,0,,But you see...
+Dialogue: 0,0:07:07.42,0:07:09.00,Default,Ashaf,0,0,0,,You have one thing wrong.
+Dialogue: 0,0:07:17.00,0:07:19.01,Default,Ashaf,0,0,0,,It's not one of a kind.
+Dialogue: 0,0:07:19.51,0:07:24.24,Default,Ashaf,0,0,0,,Power great enough to destroy \Nthe world is hardly unique.
+Dialogue: 0,0:07:24.85,0:07:26.61,Default,Ashaf,0,0,0,,Not in this world of ours.
+Dialogue: 0,0:07:30.83,0:07:32.86,Italics,Matt,0,0,0,,It's on its guard?
+Dialogue: 0,0:07:33.27,0:07:37.27,Italics,Matt,0,0,0,,The great elemental is warier of this \Nman than it is of the Demon Sword.
+Dialogue: 0,0:08:22.73,0:08:23.70,Italics,Matt,0,0,0,,Demon Sword...
+Dialogue: 0,0:08:25.35,0:08:27.62,Italics,Matt,0,0,0,,You must feel the same way.
+Dialogue: 0,0:08:28.78,0:08:33.94,Italics,Matt,0,0,0,,Just like the great elemental, \Nsomething unfathomable about this man
+Dialogue: 0,0:08:34.61,0:08:36.34,Italics,Matt,0,0,0,,fills you with fear.
+Dialogue: 0,0:09:05.11,0:09:06.45,Default,Matt,0,0,0,,Now's my chance to finish it!
+Dialogue: 0,0:09:50.66,0:09:52.99,Default,Ashaf,0,0,0,,It unleashed even more power.
+Dialogue: 0,0:09:52.99,0:09:54.14,Default,Ashaf,0,0,0,,Could it be...
+Dialogue: 0,0:09:54.61,0:09:56.04,Default,Ashaf,0,0,0,,But of course.
+Dialogue: 0,0:09:57.08,0:10:00.96,Default,Ashaf,0,0,0,,The Demon Sword was just unsealed \Nfor the first time in centuries.
+Dialogue: 0,0:10:00.96,0:10:02.96,Default,Ashaf,0,0,0,,Of course it had lost its edge.
+Dialogue: 0,0:10:03.36,0:10:06.55,Default,Ashaf,0,0,0,,So we've yet to witness \Nwhat it's truly capable of.
+Dialogue: 0,0:10:10.88,0:10:13.44,Flashback Italics,Guideau,0,0,0,,So it's strong as shit?
+Dialogue: 0,0:10:13.99,0:10:15.82,Flashback Italics,Ashaf,0,0,0,,Exactly.
+Dialogue: 0,0:10:15.82,0:10:17.23,Flashback Italics,Guideau,0,0,0,,Stronger than me?
+Dialogue: 0,0:10:18.03,0:10:19.52,Flashback Italics,Ashaf,0,0,0,,Who can say?
+Dialogue: 0,0:10:22.90,0:10:28.55,Flashback Italics,Ashaf,0,0,0,,But I'd be fascinated to learn \Nwhich of you comes out on top.
+Dialogue: 0,0:11:02.66,0:11:04.55,Default,Guideau,0,0,0,,Don't worry.
+Dialogue: 0,0:11:04.80,0:11:06.89,Default,Guideau,0,0,0,,I won't hit you with a right.
+Dialogue: 0,0:11:07.78,0:11:08.64,Default,Guideau,0,0,0,,Now...
+Dialogue: 0,0:11:09.49,0:11:12.02,Default,Guideau,0,0,0,,Grit those teeth!
+Dialogue: 0,0:11:31.92,0:11:33.00,Flashback,Quena,0,0,0,,Ashgan,
+Dialogue: 0,0:11:34.38,0:11:36.79,Flashback,Quena,0,0,0,,I'm going to seal you now.
+Dialogue: 0,0:11:40.25,0:11:41.67,Flashback,Ashgan,0,0,0,,Damn you.
+Dialogue: 0,0:11:45.06,0:11:49.39,Flashback,Quena,0,0,0,,You'll remain conscious\N but unable to move.
+Dialogue: 0,0:11:49.39,0:11:55.42,Flashback,Quena,0,0,0,,You'll live out an eternity of impairment,\N denied even of sleep, Ashgan.
+Dialogue: 0,0:11:56.08,0:11:59.02,Flashback,Ashgan,0,0,0,,You tricked me, Quena?
+Dialogue: 0,0:11:59.65,0:12:01.86,Flashback,Quena,0,0,0,,Yes, I tricked you.
+Dialogue: 0,0:12:02.78,0:12:05.21,Flashback,Quena,0,0,0,,You did too much killing.
+Dialogue: 0,0:12:06.06,0:12:09.20,Flashback,Quena,0,0,0,,I can't make excuses for you anymore.
+Dialogue: 0,0:12:10.36,0:12:13.17,Flashback,Quena,0,0,0,,I'd like to let you die quickly,
+Dialogue: 0,0:12:13.94,0:12:16.16,Flashback,Quena,0,0,0,,but the others don't want that.
+Dialogue: 0,0:12:18.13,0:12:22.22,Flashback,Quena,0,0,0,,I'd like to let you die,\Nbut I also want you to suffer.
+Dialogue: 0,0:12:23.82,0:12:29.26,Flashback,Quena,0,0,0,,I feel torn between hating you\N and another emotion.
+Dialogue: 0,0:12:31.82,0:12:39.86,Flashback,Quena,0,0,0,,I pray that my children, at least, \Ninherit the feeling that isn't hatred.
+Dialogue: 0,0:12:48.92,0:12:50.74,Default,Ashgan,0,0,0,,I'm surprised.
+Dialogue: 0,0:12:51.75,0:12:54.69,Default,Ashgan,0,0,0,,There's enough of the city left to recognize.
+Dialogue: 0,0:12:56.18,0:13:01.21,Default,Ashgan,0,0,0,,I never dreamed someone would exist\N who could stop me so quickly.
+Dialogue: 0,0:13:02.12,0:13:03.02,Default,Ashgan,0,0,0,,Still...
+Dialogue: 0,0:13:04.10,0:13:07.98,Default,Ashgan,0,0,0,,Thanks to them, I was spared killing you.
+Dialogue: 0,0:13:09.33,0:13:12.56,Default,Ashgan,0,0,0,,No matter how much danger I brought you,
+Dialogue: 0,0:13:12.56,0:13:16.54,Default,Ashgan,0,0,0,,you refused to draw me to the bitter end.
+Dialogue: 0,0:13:17.17,0:13:20.25,Default,Ashgan,0,0,0,,Nothing goes my way with you.
+Dialogue: 0,0:13:21.82,0:13:22.97,Default,Ashgan,0,0,0,,Helga...
+Dialogue: 0,0:13:23.38,0:13:28.07,Default,Ashgan,0,0,0,,What an extremely \Nheadstrong woman you are.
+Dialogue: 0,0:13:50.61,0:13:52.10,Default,Resident 1,0,0,0,,It's the end of the world!
+Dialogue: 0,0:13:52.10,0:13:53.81,Default,Paladin 1,0,0,0,,Calm down! Please remain calm!
+Dialogue: 0,0:13:54.13,0:13:55.90,Default,Resident 2,0,0,0,,We're safe here, aren't we?!
+Dialogue: 0,0:13:55.90,0:14:00.02,Default,Paladin 2,0,0,0,,Yes. Rest assured, \Nwe have wards protecting us here.
+Dialogue: 0,0:14:00.38,0:14:04.66,Default,Paladin 3,0,0,0,,The sky split apart, the earth quaked, \Nand the city is in shambles.
+Dialogue: 0,0:14:04.66,0:14:06.63,Default,Paladin 3,0,0,0,,What the hell is going on?
+Dialogue: 0,0:14:06.63,0:14:08.65,Default,Paladin 4,0,0,0,,We've lost contact with base, too.
+Dialogue: 0,0:14:09.54,0:14:10.61,Default,Paladin 3,0,0,0,,Hey, look!
+Dialogue: 0,0:14:13.90,0:14:15.11,Default,Executioner,0,0,0,,Help me!
+Dialogue: 0,0:14:15.44,0:14:17.34,Default,Executioner,0,0,0,,Let me in!
+Dialogue: 0,0:14:21.75,0:14:23.67,Default,Ashaf,0,0,0,,Guideau, straight ahead.
+Dialogue: 0,0:14:37.36,0:14:39.60,Default,Ashaf,0,0,0,,Whoops. He started running.
+Dialogue: 0,0:14:40.05,0:14:42.69,Default,Ashaf,0,0,0,,One millimeter to the right and three down.
+Dialogue: 0,0:14:43.30,0:14:45.78,Default,Guideau,0,0,0,,As if I can aim that precisely.
+Dialogue: 0,0:14:46.12,0:14:50.24,Default,Ashaf,0,0,0,,Oh, right. You lack your \Nother body's dexterity.
+Dialogue: 0,0:14:51.45,0:14:55.78,Default,Ashaf,0,0,0,,Well, then, just pray he doesn't die,
+Dialogue: 0,0:14:56.05,0:14:57.74,Default,Ashaf,0,0,0,,and go to town.
+Dialogue: 0,0:15:12.86,0:15:14.89,Default,Executioner,0,0,0,,S-Stop...
+Dialogue: 0,0:15:16.34,0:15:21.54,Default,Executioner,0,0,0,,P-Please, no more... Stop...
+Dialogue: 0,0:15:26.12,0:15:31.15,Default,Matt,0,0,0,,Tell me, Executioner. \NWhy did you need to attack us?
+Dialogue: 0,0:15:31.73,0:15:35.38,Default,Matt,0,0,0,,If your orders were to \Nretrieve the Demon Sword,
+Dialogue: 0,0:15:35.38,0:15:39.37,Default,Matt,0,0,0,,you could easily have carried \Nthem out with fewer sacrifices.
+Dialogue: 0,0:15:40.14,0:15:44.19,Default,Executioner,0,0,0,,Not my mission. It was my personal goal.
+Dialogue: 0,0:15:44.90,0:15:47.32,Default,Executioner,0,0,0,,Matt Cugat is inflexible,
+Dialogue: 0,0:15:47.32,0:15:51.52,Default,Executioner,0,0,0,,and his elemental may\Nprotect him from mind control.
+Dialogue: 0,0:15:52.17,0:15:55.09,Default,Executioner,0,0,0,,That left one option: \Ntake the sword by force.
+Dialogue: 0,0:15:55.87,0:15:57.66,Default,Executioner,0,0,0,,I wanted the Demon Sword.
+Dialogue: 0,0:15:58.09,0:16:01.44,Default,Executioner,0,0,0,,I spent such a long time trying to get it.
+Dialogue: 0,0:16:01.44,0:16:05.77,Default,Executioner,0,0,0,,But I'm not the only one \Nwho covets the sword's power.
+Dialogue: 0,0:16:06.06,0:16:11.74,Default,Executioner,0,0,0,,Other Executioners! The Holy Church! \NThey all have their sights on it!
+Dialogue: 0,0:16:11.98,0:16:18.50,Default,Executioner,0,0,0,,If Cugat retrieved the sword, \Nit would never make its way to me again.
+Dialogue: 0,0:16:18.93,0:16:20.16,Default,Executioner,0,0,0,,So I...
+Dialogue: 0,0:16:20.16,0:16:21.71,Default,Ashaf,0,0,0,,I see.
+Dialogue: 0,0:16:21.71,0:16:25.36,Default,Ashaf,0,0,0,,I believe Executioners \Ntypically operate in pairs.
+Dialogue: 0,0:16:25.36,0:16:29.67,Default,Ashaf,0,0,0,,Given that his partner hasn't appeared, \Nhe doesn't seem to be lying.
+Dialogue: 0,0:16:29.67,0:16:32.98,Default,Ashaf,0,0,0,,And this appears to be all he can tell us.
+Dialogue: 0,0:16:32.98,0:16:37.32,Default,Ashaf,0,0,0,,Executioners have their lips \Nsealed with contract magic.
+Dialogue: 0,0:16:37.32,0:16:39.68,Default,Ashaf,0,0,0,,We can't hope to get more out of him.
+Dialogue: 0,0:16:39.68,0:16:42.35,Default,Ashaf,0,0,0,,The only remaining use for them
+Dialogue: 0,0:16:42.35,0:16:47.32,Default,Ashaf,0,0,0,,is to bear responsibility \Nfor this unmitigated disaster.
+Dialogue: 0,0:16:47.32,0:16:49.36,Default,Ashaf,0,0,0,,But the Executioners \Nbelong to the dark side.
+Dialogue: 0,0:16:49.68,0:16:55.74,Default,Ashaf,0,0,0,,They don't exist, so arrest them as \Nthe true culprits and nothing more.
+Dialogue: 0,0:16:56.39,0:17:00.49,Default,Ashaf,0,0,0,,Oh, but of course, \Nyou don't need them alive.
+Dialogue: 0,0:17:01.17,0:17:03.74,Default,Ashaf,0,0,0,,After a magical battle on this scale,
+Dialogue: 0,0:17:03.74,0:17:06.62,Default,Ashaf,0,0,0,,no one would be surprised \Nto find them finely minced.
+Dialogue: 0,0:17:06.62,0:17:09.00,Default,Lowell,0,0,0,,N-No, wait.
+Dialogue: 0,0:17:09.00,0:17:11.84,Default,Lowell,0,0,0,,Please wait, sir! You have it all wrong!
+Dialogue: 0,0:17:12.18,0:17:14.57,Default,Lowell,0,0,0,,I was only being used!
+Dialogue: 0,0:17:15.80,0:17:18.34,Default,Matt,0,0,0,,You called me soft, didn't you?
+Dialogue: 0,0:17:18.56,0:17:20.30,Default,Ashaf,0,0,0,,Yes. You are.
+Dialogue: 0,0:17:21.84,0:17:25.37,Default,Matt,0,0,0,,You're right. I am soft.
+Dialogue: 0,0:17:26.13,0:17:29.90,Default,Matt,0,0,0,,My form of justice won't \Npermit a good person to die.
+Dialogue: 0,0:17:30.50,0:17:36.04,Default,Matt,0,0,0,,Or an evil person to die while \Nthey might still turn out to be good.
+Dialogue: 0,0:17:37.08,0:17:42.20,Default,Matt,0,0,0,,So I try to keep everyone alive as long \Nas I can, no matter who they are.
+Dialogue: 0,0:17:42.64,0:17:43.72,Default,Matt,0,0,0,,But...
+Dialogue: 0,0:17:45.32,0:17:49.50,Default,Matt,0,0,0,,Once someone crosses \Nthe line, I have no mercy.
+Dialogue: 0,0:17:50.40,0:17:54.07,Default,Matt,0,0,0,,Even so, the people I lost were soldiers.
+Dialogue: 0,0:17:54.07,0:17:56.16,Default,Matt,0,0,0,,They died in the line of duty.
+Dialogue: 0,0:17:57.48,0:18:00.17,Default,Matt,0,0,0,,I believe they took your family from you.
+Dialogue: 0,0:18:01.30,0:18:02.57,Default,Matt,0,0,0,,What do you want to do?
+Dialogue: 0,0:18:06.14,0:18:07.33,Default,Helga,0,0,0,,Nothing much.
+Dialogue: 0,0:18:07.72,0:18:11.97,Default,Helga,0,0,0,,I'm as sensitive as the next person, \Nand I've had all I can stomach.
+Dialogue: 0,0:18:12.68,0:18:16.69,Default,Helga,0,0,0,,I don't want to see any more. \NIf you finish the job, do it elsewhere.
+Dialogue: 0,0:18:17.86,0:18:19.04,Default,Matt,0,0,0,,I see.
+Dialogue: 0,0:18:19.57,0:18:21.54,Default,Helga,0,0,0,,I do have one request, though.
+Dialogue: 0,0:18:22.68,0:18:26.62,Default,Helga,0,0,0,,Make them hurt so bad that \Nthey wish they'd never been born.
+Dialogue: 0,0:18:29.80,0:18:31.20,Default,Matt,0,0,0,,Understood.
+Dialogue: 0,0:18:37.55,0:18:41.72,Default,Helga,0,0,0,,He left without even asking \Nwho you shady guys are.
+Dialogue: 0,0:18:42.15,0:18:44.58,Default,Ashaf,0,0,0,,He must have some inkling.
+Dialogue: 0,0:18:44.98,0:18:49.09,Default,Ashaf,0,0,0,,We have a tacit understanding \Nwith the Paladin Corps.
+Dialogue: 0,0:18:49.09,0:18:52.42,Default,Ashaf,0,0,0,,Sparks that might ignite \Na war are strictly taboo.
+Dialogue: 0,0:18:52.42,0:18:53.81,Default,Ashaf,0,0,0,,So he feigns ignorance.
+Dialogue: 0,0:18:54.21,0:18:55.37,Default,Helga,0,0,0,,Why?
+Dialogue: 0,0:18:55.37,0:18:59.15,Default,Ashaf,0,0,0,,Because an all-out war between \Nus would annihilate the world.
+Dialogue: 0,0:19:00.24,0:19:01.86,Default,Helga,0,0,0,,You've got to be kidding.
+Dialogue: 0,0:19:02.16,0:19:04.83,Default,Helga,0,0,0,,Oh, well. Too late for second thoughts.
+Dialogue: 0,0:19:06.01,0:19:08.29,Default,Helga,0,0,0,,You'll look out for me, right?
+Dialogue: 0,0:19:08.68,0:19:10.36,Default,Ashaf,0,0,0,,Yes, of course.
+Dialogue: 0,0:19:10.36,0:19:13.75,Default,Ashaf,0,0,0,,We can guard you like a precious gem.
+Dialogue: 0,0:19:17.10,0:19:22.84,Default,Ashaf,0,0,0,,But we'd also welcome your help, \Nif you should feel so inclined.
+Dialogue: 0,0:19:23.04,0:19:24.52,Default,Helga,0,0,0,,My help?
+Dialogue: 0,0:19:24.52,0:19:27.49,Default,Helga,0,0,0,,You're after a witch's power, right?
+Dialogue: 0,0:19:28.27,0:19:29.56,Default,Helga,0,0,0,,No can do, then.
+Dialogue: 0,0:19:30.22,0:19:33.48,Default,Helga,0,0,0,,Most of my power goes to Ashgan's seal.
+Dialogue: 0,0:19:33.48,0:19:36.99,Default,Helga,0,0,0,,I can only actually use \Na teeny bit of it, so...
+Dialogue: 0,0:19:39.39,0:19:44.85,Default,Helga,0,0,0,,Oh, right. I won't need the seal anymore.
+Dialogue: 0,0:19:47.26,0:19:50.45,Default,Ashaf,0,0,0,,Guideau only threw left-handed punches.
+Dialogue: 0,0:19:52.50,0:19:56.00,Default,Ashaf,0,0,0,,A monster of the Demon Sword's \Ncaliber must have survived them.
+Dialogue: 0,0:19:56.70,0:19:59.63,Default,Ashaf,0,0,0,,And our organization \Nshould be able to repair it.
+Dialogue: 0,0:19:59.63,0:20:03.36,Default,Ashaf,0,0,0,,It will take some time, \Nbut the sword will revive.
+Dialogue: 0,0:20:04.33,0:20:07.17,Default,Helga,0,0,0,,I'm sure the world would \Nbe better off if it died.
+Dialogue: 0,0:20:07.64,0:20:12.99,Default,Helga,0,0,0,,I thought that would've \Nbeen better for Ashgan, too.
+Dialogue: 0,0:20:16.14,0:20:19.04,Default,Helga,0,0,0,,But what do you know? It's alive.
+Dialogue: 0,0:20:24.29,0:20:27.69,Italics,Ashgan,0,0,0,,Ah. This is a curse.
+Dialogue: 0,0:20:31.71,0:20:33.93,Flashback,Helga,0,0,0,,Hey, are you Ashgan?
+Dialogue: 0,0:20:34.33,0:20:38.92,Flashback,Helga,0,0,0,,I kind of figured the Demon Sword \Nwould look like a bigger deal.
+Dialogue: 0,0:20:38.93,0:20:40.55,Flashback,Helga,0,0,0,,Hey, can you hear me?
+Dialogue: 0,0:20:40.55,0:20:42.05,Flashback Top,Helga,0,0,0,,Hello!
+Dialogue: 0,0:20:40.55,0:20:45.93,Italics,Ashgan,0,0,0,,Thinking back, I realized it the \Nmoment I first set eyes on her.
+Dialogue: 0,0:20:42.43,0:20:43.78,Flashback Top,Helga,0,0,0,,Is it sleeping?
+Dialogue: 0,0:20:43.78,0:20:45.93,Flashback Top,Helga,0,0,0,,Actually, can it even talk?
+Dialogue: 0,0:20:48.02,0:20:52.10,Italics,Ashgan,0,0,0,,But I couldn't bring myself to admit it.
+Dialogue: 0,0:20:52.33,0:20:54.08,Flashback,Mother,0,0,0,,Stop this, Helga.
+Dialogue: 0,0:20:54.08,0:20:57.13,Flashback,Mother,0,0,0,,Leave the Demon Sword \Nasleep in the basement.
+Dialogue: 0,0:20:58.96,0:21:00.23,Flashback,Mother,0,0,0,,It's dangerous.
+Dialogue: 0,0:21:00.88,0:21:03.62,Flashback,Helga,0,0,0,,But... I mean...
+Dialogue: 0,0:21:04.73,0:21:07.17,Flashback,Helga,0,0,0,,Don't you feel super bad for it?
+Dialogue: 0,0:21:07.17,0:21:10.15,Flashback,Helga,0,0,0,,It was a big, scary sword.\NPeople used to call it a disaster.
+Dialogue: 0,0:21:10.15,0:21:14.43,Flashback,Helga,0,0,0,,But now it looks like this, \Nand all it can do is roll its eyeball around!
+Dialogue: 0,0:21:14.71,0:21:17.32,Flashback,Helga,0,0,0,,And how can I "leave it asleep"\N when it can't sleep?
+Dialogue: 0,0:21:17.32,0:21:20.14,Flashback,Helga,0,0,0,,It just stares at the wall all day, right?
+Dialogue: 0,0:21:20.14,0:21:22.50,Flashback,Helga,0,0,0,,And it's all dusty! \NYou've gotta feel bad for it!
+Dialogue: 0,0:21:22.50,0:21:26.47,Flashback,Helga,0,0,0,,See here? Look at all the dirt \Nbuilt up in these grooves!
+Dialogue: 0,0:21:26.91,0:21:29.91,Flashback,Mother,0,0,0,,I get it, all right? Just put it back right now.
+Dialogue: 0,0:21:29.91,0:21:32.48,Flashback,Helga,0,0,0,,Hey, there's even more dirt here.
+Dialogue: 0,0:21:31.67,0:21:33.07,Flashback Top,Mother,0,0,0,,Enough, Helga.
+Dialogue: 0,0:21:32.48,0:21:37.39,Flashback,Sister 1,0,0,0,,Being so earnestly pitied by a little girl \Nprobably stings worse than anything.
+Dialogue: 0,0:21:37.39,0:21:38.63,Flashback,Sister 2,0,0,0,,You said it.
+Dialogue: 0,0:21:40.69,0:21:42.16,Flashback,Sister 1,0,0,0,,It's laughing.
+Dialogue: 0,0:21:42.16,0:21:43.23,Flashback,Sister 2,0,0,0,,That was a laugh?
+Dialogue: 0,0:21:43.49,0:21:47.16,Flashback,Sister 3,0,0,0,,Maybe it's one of those things, like when\N you get so scared, you start laughing?
+Dialogue: 0,0:21:47.16,0:21:49.86,Flashback,Sister 4,0,0,0,,Oh, so it's laughing because it blew its top?
+Dialogue: 0,0:21:50.18,0:21:52.61,Flashback Top,Helga,0,0,0,,C'mon, say something for yourself!
+Dialogue: 0,0:21:51.75,0:21:58.08,Flashback Italics,Ashgan,0,0,0,,She's making a fool of me, \Nyet I don't feel even a twinge of anger.
+Dialogue: 0,0:21:52.61,0:21:53.95,Flashback Top,Helga,0,0,0,,Hey! Are you listening?
+Dialogue: 0,0:21:53.95,0:21:57.02,Flashback Top,Helga,0,0,0,,Are you not even capable of saying "thank you"?
+Dialogue: 0,0:22:02.37,0:22:04.76,Flashback Italics,Ashgan,0,0,0,,She could be Quena's double.
+Dialogue: 0,0:22:05.28,0:22:08.26,Flashback Italics,Ashgan,0,0,0,,And something that isn't hatred...
+Dialogue: 0,0:22:09.02,0:22:11.97,Flashback Italics,Ashgan,0,0,0,,Must I accept it at this point?
+Dialogue: 0,0:22:13.60,0:22:16.06,Flashback Italics,Ashgan,0,0,0,,No, never.
+Dialogue: 0,0:22:17.35,0:22:19.07,Flashback Italics,Ashgan,0,0,0,,This is a curse.
+Dialogue: 0,0:22:22.10,0:22:24.95,Flashback Italics,Ashgan,0,0,0,,A witch's curse. It must be.
+Dialogue: 0,0:24:01.08,0:24:02.75,Default,Angela,0,0,0,,Long time no see.
+Dialogue: 0,0:24:02.76,0:24:04.00,Default,Angela,0,0,0,,I've missed you.
+Dialogue: 0,0:24:05.84,0:24:08.38,Default,Ashaf,0,0,0,,Next time: "Origin Witch."
+Dialogue: 0,0:24:06.79,0:24:09.92,Default,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs22\fscx90\an8\bord0\shad0\blur0.3\pos(320,140)}Origin Witch
