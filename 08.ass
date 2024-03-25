@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -131,7 +131,7 @@ Dialogue: 0,0:08:46.06,0:08:49.88,Default,Executioner,0,0,0,,"No amount of cares
 Dialogue: 0,0:08:50.32,0:08:51.82,Default,Executioner,0,0,0,,Forgive me.
 Dialogue: 0,0:08:52.28,0:08:55.27,Default,Executioner,0,0,0,,That was a lie.
 Dialogue: 0,0:08:59.84,0:09:01.30,Default,Helga,0,0,0,,Sorry, I guess.
-Dialogue: 0,0:09:02.20,0:09:06.65,Default,Helga,0,0,0,,I know you didn't want to,\Nbut you still saved me a bunch of times,
+Dialogue: 0,0:09:02.20,0:09:06.65,Default,Helga,0,0,0,,I know you didn't want to,\Nbut you still saved me a bunch of times.
 Dialogue: 0,0:09:13.84,0:09:15.74,Default,Helga,0,0,0,,Sorry for wasting all that.
 Dialogue: 0,0:09:24.72,0:09:27.32,Default,Executioner,0,0,0,,Well done, Helga.
 Dialogue: 0,0:09:27.32,0:09:28.71,Default,Executioner,0,0,0,,Come here.
