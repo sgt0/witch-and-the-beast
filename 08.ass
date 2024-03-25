@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -286,7 +286,7 @@ Dialogue: 0,0:20:53.92,0:20:54.94,Default,Helga,0,0,0,,In the end,
 Dialogue: 0,0:20:55.36,0:20:58.90,Default,Helga,0,0,0,,I failed in my duty, \Nand now I guess I'll die here.
 Dialogue: 0,0:21:01.02,0:21:02.24,Default,Helga,0,0,0,,What a letdown.
 Dialogue: 0,0:21:02.72,0:21:05.50,Default,Helga,0,0,0,,I wish... I wish...{orig: If only... If only...}{sgt: the anime doesn't have her wish for a kiss here, but later Ashaf says they'll grant her wish, so it's best to have her make that wish here first.}
-Dialogue: 0,0:21:06.23,0:21:09.33,Default,Helga,0,0,0,ED,I could've felt a kiss before it's all over.{I could've at least gotten a kiss at the end!}
+Dialogue: 0,0:21:06.23,0:21:09.33,Default,Helga,0,0,0,ED,I could've felt a kiss before it's all over!{I could've at least gotten a kiss at the end!}
 Dialogue: 0,0:21:11.56,0:21:13.55,Default,Ashaf,0,0,0,,You've never kissed anyone?
 Dialogue: 0,0:21:13.55,0:21:15.44,Default,Helga,0,0,0,,No! Is that so bad?!
 Dialogue: 0,0:21:15.44,0:21:18.23,Default,Guideau,0,0,0,,Hey. Fix my legs, too.
