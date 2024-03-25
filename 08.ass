@@ -277,7 +277,7 @@ Dialogue: 0,0:20:25.68,0:20:27.06,Default,Ashaf,0,0,0,,You're awake?
 Dialogue: 0,0:20:28.15,0:20:31.32,Default,Helga,0,0,0,,The seal is gone, isn't it?
 Dialogue: 0,0:20:32.06,0:20:32.83,Default,Ashaf,0,0,0,,Yes.
 Dialogue: 0,0:20:33.35,0:20:34.85,Default,Helga,0,0,0,,That's it, then.
-Dialogue: 0,0:20:35.54,0:20:37.78,Default,Helga,0,0,0,,We can't stop Ashgan.
+Dialogue: 0,0:20:35.54,0:20:37.78,Default,Helga,0,0,0,TLC,I{We} can't stop Ashgan.{sgt: manga has "we", CR has "I". storywise, I can think of arguments for each, so I'm not confident enough in changing this without a TLC.}
 Dialogue: 0,0:20:38.59,0:20:41.40,Default,Helga,0,0,0,,Hurry. Leave me and run.
 Dialogue: 0,0:20:42.01,0:20:43.90,Default,Helga,0,0,0,,You'll be better off far away from me.
 Dialogue: 0,0:20:46.97,0:20:47.97,Default,Helga,0,0,0,,Ashgan...
