@@ -36,8 +36,8 @@ Dialogue: 0,0:00:25.24,0:00:28.61,Default,Executioner,0,0,0,,More. I need more s
 Dialogue: 0,0:00:28.61,0:00:30.41,Default,Executioner,0,0,0,,So many more.
 Dialogue: 0,0:00:32.56,0:00:37.05,Default,Executioner,0,0,0,,{\i1}The Demon Sword can't touch me. \NI can try as many times as it takes.
 Dialogue: 0,0:00:37.05,0:00:40.35,Default,Executioner,0,0,0,,{\i1}I'll just add more sacrifices and come back.
-Dialogue: 0,0:02:10.98,0:02:15.69,Signs,Text,0,0,0,,{\blur0.9\fs48\bord1.5\shad3\fnTimes New Roman\fscx90\fad(0,500)\3c&H275161&\c&HF8EBE4&\4c&H818486&\pos(246,948)}The Witch and\Nthe Demon Sword
-Dialogue: 0,0:02:10.98,0:02:15.69,Signs,Text,0,0,0,,{\blur0.9\fs48\bord1.5\shad3\fnTimes New Roman\fscx90\fad(0,500)\3c&H275161&\\c&HF8EBE4&\4c&H818486&\pos(504,960)}Final Act
+Dialogue: 0,0:02:10.99,0:02:15.70,Signs,Text,0,0,0,,{\pos(245.55,966.79)\org(-100000,0)\fscx90\fnAlegreya\fs60\bord0.6\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur0.5\fad(0,500)}The Witch and\N{\frz0.005}the Demon Sword
+Dialogue: 0,0:02:10.99,0:02:15.70,Signs,Text,0,0,0,,{\pos(507.35,957.59)\fscx90\fnAlegreya\fs60\bord0.6\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur0.5\fad(0,500)}Final Act
 Dialogue: 0,0:02:16.42,0:02:17.55,Default,Helga,0,0,0,,Ashgan.
 Dialogue: 0,0:02:18.44,0:02:19.87,Default,Ashaf,0,0,0,,Have you come to?
 Dialogue: 0,0:02:20.90,0:02:24.16,Default,Helga,0,0,0,,I broke the seal, didn't I?
@@ -282,4 +282,4 @@ Dialogue: 0,0:22:22.10,0:22:24.95,Flashback,Ashgan,0,0,0,,{\i1}A witch's curse. 
 Dialogue: 0,0:24:01.08,0:24:02.75,Default,Angela,0,0,0,,Long time no see.
 Dialogue: 0,0:24:02.76,0:24:04.00,Default,Angela,0,0,0,,I've missed you.
 Dialogue: 0,0:24:05.84,0:24:08.38,Default,Ashaf,0,0,0,,Next time: "Origin Witch."
-Dialogue: 0,0:24:06.79,0:24:09.92,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,420)}Origin Witch
+Dialogue: 0,0:24:06.80,0:24:09.93,Signs,Text,0,0,0,,{\an8\pos(960,420)\fscx90\fnAlegreya\fs75\bord0\blur0.9\fad(1000,0)}Origin Witch
