@@ -13,6 +13,7 @@ LayoutResX: 1920
 LayoutResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +34,7 @@ Dialogue: 0,0:00:21.79,0:00:24.04,Default,Helga,0,0,0,,You'll look out for me, r
 Dialogue: 0,0:00:24.48,0:00:26.15,Default,Ashaf,0,0,0,,Yes, of course.
 Dialogue: 0,0:00:26.15,0:00:29.50,Default,Ashaf,0,0,0,,We can guard you like a precious gem.
 Dialogue: 0,0:00:33.04,0:00:38.79,Default,Ashaf,0,0,0,,But we'd also welcome your help, \Nif you should feel so inclined.
-Dialogue: 0,0:02:11.52,0:02:17.40,Signs,Text,0,0,0,,{\blur0.9\fs54\bord1.5\shad3\fnTimes New Roman\fscx90\fad(0,400)\1c&H000000&\3c&H000000&\4c&H000000&\t(0,500,\3c&H17282F&\c&HF8EBE4&\4c&H818486&)\t(3940,3941,\3c&H4D4732&)\pos(243,942)}Origin Witch
+Dialogue: 0,0:02:11.49,0:02:17.37,Signs,Text,0,0,0,,{\pos(243,942)\fscx90\fnAlegreya\fs70\bord0.6\shad1.5\1c&H000000&\blur0.9\fad(0,400)\t(0,500,\3c&H17282F&\c&HF8EBE4&\4c&H6E5F52&)\t(3940,3941,\3c&H4D4732&)}Origin Witch
 Dialogue: 0,0:02:20.28,0:02:21.45,Default,Helga,0,0,0,,Hey.
 Dialogue: 0,0:02:21.45,0:02:22.37,Default,Ashaf,0,0,0,,Hm?
 Dialogue: 0,0:02:22.37,0:02:27.62,Default,Helga,0,0,0,,I missed my chance to ask earlier, \Nbut did I have my precious first kiss with...
@@ -336,5 +337,5 @@ Dialogue: 0,0:22:18.12,0:22:19.60,Default,Ashaf,0,0,0,,This takes me back.
 Dialogue: 0,0:22:21.54,0:22:25.66,Default,Ashaf,0,0,0,,To three years ago, when we first met.
 Dialogue: 0,0:24:00.98,0:24:05.16,Default,Ashaf,0,0,0,,Lady Witch, would you return \Nto the Order with me?
 Dialogue: 0,0:24:05.97,0:24:09.92,Default,Ashaf,0,0,0,,Next time: "Eloquence \Nand Silence: Opening Act."
-Dialogue: 0,0:24:06.54,0:24:09.92,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,366)}Eloquence and Silence
-Dialogue: 0,0:24:06.54,0:24:09.92,Signs,Text,0,0,0,,{\fad(1000,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Opening Act
+Dialogue: 0,0:24:06.55,0:24:09.93,Signs,Text,0,0,0,,{\an8\pos(960,366)\fscx90\fnAlegreya\fs66\bord0\blur0.9\fad(1000,0)}Eloquence and Silence
+Dialogue: 0,0:24:06.55,0:24:09.93,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnAlegreya\fs45\bord0\blur0.9\fad(1000,0)}Opening Act
