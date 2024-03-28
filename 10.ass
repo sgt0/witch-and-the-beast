@@ -27,7 +27,7 @@ Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.14,0:00:03.48,Default,Ashaf,0,0,0,,I see.
 Dialogue: 0,0:00:03.91,0:00:07.44,Default,Ashaf,0,0,0,,I believe Executioners \Ntypically operate in pairs.
-Dialogue: 0,0:00:07.44,0:00:11.40,Default,Ashaf,0,0,0,,Given that his partner hasn't appeared, \Nhe doesn't seem to be lying.
+Dialogue: 0,0:00:07.44,0:00:11.40,Default,Ashaf,0,0,0,,Given that his partner hasn't appeared, \NI'm inclined to believe him.
 Dialogue: 0,0:00:11.94,0:00:15.87,Default,Helga,0,0,0,,Make them hurt so bad that \Nthey wish they'd never been born.
 Dialogue: 0,0:00:16.40,0:00:17.83,Default,Matt,0,0,0,,Understood.
 Dialogue: 0,0:00:21.79,0:00:24.04,Default,Helga,0,0,0,,You'll look out for me, right?
@@ -41,7 +41,7 @@ Dialogue: 0,0:02:22.37,0:02:27.62,Default,Helga,0,0,0,,I missed my chance to ask
 Dialogue: 0,0:02:36.47,0:02:37.18,Default,Helga,0,0,0,,Huh?
 Dialogue: 0,0:02:37.71,0:02:39.52,Default,Helga,0,0,0,,Was there always a door here?
 Dialogue: 0,0:02:39.52,0:02:42.03,Default,Ashaf,0,0,0,,No. Not until just now.
-Dialogue: 0,0:02:42.47,0:02:44.92,Default,Ashaf,0,0,0,,But never mind that. You were saying?
+Dialogue: 0,0:02:42.47,0:02:44.92,Default,Ashaf,0,0,0,,{But never mind that.}Anyways, you were saying?
 Dialogue: 0,0:02:44.92,0:02:48.06,Default,Helga,0,0,0,,Never mind. I'd rather not know.
 Dialogue: 0,0:02:48.62,0:02:55.20,Default,Helga,0,0,0,,So what is this place? The infamous \NOrder of Magical Resonance's HQ?
 Dialogue: 0,0:02:55.20,0:02:57.99,Default,Helga,0,0,0,,No way, right? It's way too small.
@@ -53,31 +53,31 @@ Dialogue: 0,0:03:08.64,0:03:14.31,Default,Ashaf,0,0,0,,Helga, this route is just
 Dialogue: 0,0:03:15.00,0:03:16.20,Default,Helga,0,0,0,,Huh.
 Dialogue: 0,0:03:17.34,0:03:19.51,Default,Ashaf,0,0,0,,Anyway, I'll be right back.
 Dialogue: 0,0:03:19.51,0:03:21.93,Default,Ashaf,0,0,0,,Be good and wait here, Guideau.
-Dialogue: 0,0:03:23.28,0:03:26.93,Default,Guideau,0,0,0,,Patch me up. Moving like \Nthis is a pain in the ass.
+Dialogue: 0,0:03:23.28,0:03:26.93,Default,Guideau,0,0,0,,Patch me up first. Moving like \Nthis is a pain in the ass.
 Dialogue: 0,0:03:26.93,0:03:28.35,Default,Ashaf,0,0,0,,You'll only be waiting.
 Dialogue: 0,0:03:28.82,0:03:30.94,Default,Ashaf,0,0,0,,Why do you need to move?
 Dialogue: 0,0:03:40.20,0:03:42.24,Default,Helga,0,0,0,,Are you sure about leaving her behind?
 Dialogue: 0,0:03:42.24,0:03:45.97,Default,Ashaf,0,0,0,,Yes. The Order demands \Nconfidentiality on several points.
-Dialogue: 0,0:03:45.97,0:03:50.33,Default,Ashaf,0,0,0,,I know you agreed to a magical \Ncontract to keep our secrets,
+Dialogue: 0,0:03:45.97,0:03:50.33,Default,Ashaf,0,0,0,,I know you agreed to a\Ncontract spell to keep our secrets,
 Dialogue: 0,0:03:50.33,0:03:52.19,Default,Ashaf,0,0,0,,but Guideau refused.
 Dialogue: 0,0:03:52.19,0:03:54.92,Default,Ashaf,0,0,0,,As such, the Order's inner \Nworkings remain off-limits.
 Dialogue: 0,0:03:54.92,0:03:57.25,Default,Helga,0,0,0,,All the more reason not to risk leaving her.
 Dialogue: 0,0:03:57.60,0:04:00.52,Default,Helga,0,0,0,,I can't see her sitting tight \Nand staying out of trouble.
 Dialogue: 0,0:04:00.52,0:04:01.81,Default,Ashaf,0,0,0,,Don't worry.
-Dialogue: 0,0:04:01.81,0:04:05.89,Default,Ashaf,0,0,0,,Following the mission and my orders is the shortest path to Guideau's goal,
-Dialogue: 0,0:04:05.89,0:04:08.22,Default,Ashaf,0,0,0,,and Guideau knows it.
+Dialogue: 0,0:04:01.81,0:04:05.89,Default,Ashaf,0,0,0,,Following my lead is the\Nshortest path to Guideau's goal,
+Dialogue: 0,0:04:05.89,0:04:08.22,Default,Ashaf,0,0,0,,and she knows it.
 Dialogue: 0,0:04:08.48,0:04:09.73,Default,Helga,0,0,0,,Really?
 Dialogue: 0,0:04:09.73,0:04:12.38,Default,Ashaf,0,0,0,,My partner is more rational \Nthan you might think.
 Dialogue: 0,0:04:12.38,0:04:14.69,Default,Ashaf,0,0,0,,We shouldn't need to worry \Nabout pointless mischief.
-Dialogue: 0,0:04:15.60,0:04:20.14,Default,Ashaf,0,0,0,,Then again, Guideau has been known \Nto act on instinct despite knowing better.
-Dialogue: 0,0:04:20.52,0:04:23.53,Default,Ashaf,0,0,0,,A few exceptions fall into that category,
+Dialogue: 0,0:04:15.60,0:04:20.14,Default,Ashaf,0,0,0,,Then again, sometimes\Ninstinct reacts before intellect can.
+Dialogue: 0,0:04:20.52,0:04:23.53,Default,Ashaf,0,0,0,,We have had a few exceptions like that,
 Dialogue: 0,0:04:23.53,0:04:28.68,Default,Ashaf,0,0,0,,but I hardly expect one to turn up\N in a country town like this.
 Dialogue: 0,0:04:31.50,0:04:32.91,Default,Boy 1,0,0,0,,A witch!
 Dialogue: 0,0:04:33.20,0:04:35.22,Default,Boy 2,0,0,0,,I saw her! I saw her! A witch!
 Dialogue: 0,0:04:35.22,0:04:36.37,Default,Boy 3,0,0,0,,For real?
 Dialogue: 0,0:04:37.75,0:04:40.38,Default,Boy 1,0,0,0,,Yeah! I saw her brewing some kinda potion.
 Dialogue: 0,0:04:40.38,0:04:43.34,Default,Boy 2,0,0,0,,She's really there! \NA witch with a big cauldron!
-Dialogue: 0,0:04:43.34,0:04:46.14,Default,Boy 3,0,0,0,,She's brewing up poisons to curse people!
+Dialogue: 0,0:04:43.34,0:04:46.14,Default,Boy 3,0,0,0,,She's brewing up potions to curse people!
 Dialogue: 0,0:04:46.14,0:04:49.42,Default,Angela,0,0,0,,See? What did I tell you?
 Dialogue: 0,0:04:49.42,0:04:51.20,Default,Angela,0,0,0,,And you didn't believe me!
 Dialogue: 0,0:04:51.20,0:04:52.89,Default,Boy 3,0,0,0,,Yeah. That was our bad.
@@ -86,7 +86,7 @@ Dialogue: 0,0:04:55.26,0:04:57.79,Default,Boy 1,0,0,0,,The grown-ups won't \Nbel
 Dialogue: 0,0:04:57.79,0:04:59.77,Default,Boy 2,0,0,0,,We'll have to get her ourselves.
 Dialogue: 0,0:04:59.77,0:05:00.56,Default,Guideau,0,0,0,,Hey!
 Dialogue: 0,0:05:00.56,0:05:01.48,Default,Boy 1; 2; Angela,0,0,0,,Huh?
-Dialogue: 0,0:05:03.25,0:05:04.72,Default,Boy 1,0,0,0,,Did you hear something?
+Dialogue: 0,0:05:03.25,0:05:04.72,Default,Boy 1,0,0,0,,Did you hear that?
 Dialogue: 0,0:05:05.42,0:05:06.57,Default,Boy 2,0,0,0,,Hey, look!
 Dialogue: 0,0:05:10.49,0:05:11.92,Default,Boy 1,0,0,0,,Wh-What the...
 Dialogue: 0,0:05:11.92,0:05:12.87,Default,Guideau,0,0,0,,Where?
@@ -105,7 +105,7 @@ Dialogue: 0,0:06:21.64,0:06:22.56,Default,Guideau,0,0,0,,What the hell?
 Dialogue: 0,0:06:22.85,0:06:24.53,Default,Guideau,0,0,0,,It won't move!
 Dialogue: 0,0:06:24.53,0:06:28.65,Default,Old Woman,0,0,0,,Your leg froze up? That's serious.
 Dialogue: 0,0:06:28.65,0:06:30.98,Default,Old Woman,0,0,0,,I'd better put it right for you.
-Dialogue: 0,0:06:36.12,0:06:38.30,Default,Guideau,0,0,0,,Hey! What's your problem?!\N Get out of my way!
+Dialogue: 0,0:06:36.12,0:06:38.30,Default,Guideau,0,0,0,,Hey! What's your problem?!\N Get the hell off me!
 Dialogue: 0,0:06:39.47,0:06:41.58,Default,Guideau,0,0,0,,Now my left arm's busted, too?
 Dialogue: 0,0:06:41.58,0:06:43.60,Default,Old Woman,0,0,0,,Hey, now. Stop that.
 Dialogue: 0,0:06:43.60,0:06:45.65,Default,Old Woman,0,0,0,,Injured people need care.
@@ -148,7 +148,7 @@ Dialogue: 0,0:08:54.16,0:08:55.14,Default,Guideau,0,0,0,,You're...
 Dialogue: 0,0:08:55.96,0:08:57.36,Default,Guideau,0,0,0,,an Executioner!
 Dialogue: 0,0:09:15.92,0:09:18.06,Default,Executioner,0,0,0,,You must be wondering where we are.
 Dialogue: 0,0:09:20.22,0:09:22.52,Default,Executioner,0,0,0,,This is my private world.
-Dialogue: 0,0:09:23.23,0:09:26.86,Default,Executioner,0,0,0,,An alternate dimension reached \Nby passing inside this cloak.
+Dialogue: 0,0:09:23.23,0:09:26.86,Default,Executioner,0,0,0,,An alternate dimension\Nthat lies within my cloak.
 Dialogue: 0,0:09:27.83,0:09:32.67,Default,Executioner,0,0,0,,You can't even perceive it \Nunless you have the cloak on.
 Dialogue: 0,0:09:33.26,0:09:37.76,Default,Executioner,0,0,0,,Your senses don't function.\N I doubt you can even think clearly.
 Dialogue: 0,0:09:38.37,0:09:40.44,Default,Executioner,0,0,0,,But you're special.
@@ -158,70 +158,70 @@ Dialogue: 0,0:09:48.91,0:09:53.83,Default,Executioner,0,0,0,,Executioners work i
 Dialogue: 0,0:09:54.36,0:09:59.74,Default,Executioner,0,0,0,,He started acting strangely, \Nso I followed him.
 Dialogue: 0,0:09:59.74,0:10:02.10,Default,Executioner,0,0,0,,But I suppose I caught on too late.
 Dialogue: 0,0:10:02.61,0:10:06.25,Default,Executioner,0,0,0,,By the time I arrived, \Neverything seemed to be over.
-Dialogue: 0,0:10:08.71,0:10:11.60,Default,Executioner,0,0,0,,You stayed at the scene, so I shadowed you.
+Dialogue: 0,0:10:08.71,0:10:11.60,Default,Executioner,0,0,0,,You stayed at the scene, so I tailed you.
 Dialogue: 0,0:10:11.60,0:10:12.84,Default,Executioner,0,0,0,,But what a surprise.
 Dialogue: 0,0:10:13.86,0:10:17.94,Default,Executioner,0,0,0,,I could never have managed it \Nwithout this Forbidden Instrument,
 Dialogue: 0,0:10:17.94,0:10:20.10,Default,Executioner,0,0,0,,which lets me vanish from the world.
 Dialogue: 0,0:10:20.96,0:10:23.56,Default,Executioner,0,0,0,,The Order of Magical Resonance \Nlives up to its reputation.
 Dialogue: 0,0:10:24.72,0:10:29.44,Default,Executioner,0,0,0,,Now you see where you stand.\N On to business.
 Dialogue: 0,0:10:29.76,0:10:32.94,Default,Executioner,0,0,0,,I have two questions for you,\N both quite simple.
-Dialogue: 0,0:10:34.24,0:10:38.07,Default,Executioner,0,0,0,,Where is my little brother \Nand his Forbidden Instrument?
+Dialogue: 0,0:10:34.24,0:10:38.07,Default,Executioner,0,0,0,,Where is my brother \Nand his Forbidden Instrument?
 Dialogue: 0,0:10:43.57,0:10:45.58,Default,Angela,0,0,0,,Hey, are you done now?
 Dialogue: 0,0:10:47.40,0:10:50.42,Default,Angela,0,0,0,,I'd like to chat with this little one, too.
 Dialogue: 0,0:10:58.46,0:10:59.46,Default,Helga,0,0,0,,Ashaf!
 Dialogue: 0,0:10:59.73,0:11:00.68,Default,Helga,0,0,0,,Ashaf!
 Dialogue: 0,0:11:00.99,0:11:04.14,Default,Helga,0,0,0,,What happened? What could\Nhave rattled you this badly?
 Dialogue: 0,0:11:04.56,0:11:07.10,Default,Ashaf,0,0,0,,Yes, I'm rattled, all right.
-Dialogue: 0,0:11:07.41,0:11:09.74,Default,Ashaf,0,0,0,,There's a witch in this city.
+Dialogue: 0,0:11:07.41,0:11:09.74,Default,Ashaf,0,0,0,,There's a witch in this town.
 Dialogue: 0,0:11:10.55,0:11:12.77,Default,Ashaf,0,0,0,,And not just any witch.
-Dialogue: 0,0:11:13.44,0:11:16.19,Default,Ashaf,0,0,0,,The "hateful witch" who cursed Guideau.
+Dialogue: 0,0:11:13.44,0:11:16.19,Default,Ashaf,0,0,0,,The "wrathful witch" who cursed Guideau.
 Dialogue: 0,0:11:17.34,0:11:18.81,Default,Ashaf,0,0,0,,Her name is...
 Dialogue: 0,0:11:26.25,0:11:29.42,Default,Guideau,0,0,0,,Angela!
 Dialogue: 0,0:11:38.80,0:11:40.47,Default,Guideau,0,0,0,,You bitch!
 Dialogue: 0,0:11:42.67,0:11:44.10,Default,Angela,0,0,0,,Long time no see.
 Dialogue: 0,0:11:44.10,0:11:45.39,Default,Angela,0,0,0,,I've missed you.
 Dialogue: 0,0:11:45.92,0:11:49.02,Default,Executioner,0,0,0,,Since this space isn't affecting you,
-Dialogue: 0,0:11:49.36,0:11:52.45,Default,Executioner,0,0,0,,that cloak must be more \Nthan a fashion statement.
-Dialogue: 0,0:11:52.45,0:11:55.36,Default,Executioner,0,0,0,,I thought mine was one of a kind.
-Dialogue: 0,0:11:55.81,0:11:58.82,Default,Angela,0,0,0,,Oh, this? I made one just like yours.
+Dialogue: 0,0:11:49.36,0:11:52.45,Default,Executioner,0,0,0,,that cloak must be no different from mine.
+Dialogue: 0,0:11:52.45,0:11:55.36,Default,Executioner,0,0,0,,I thought it was one of a kind.
+Dialogue: 0,0:11:55.81,0:11:58.82,Default,Angela,0,0,0,,Oh, this? I made it to be just like yours.
 Dialogue: 0,0:12:00.00,0:12:02.03,Default,Angela,0,0,0,,Nice, right? It comes in handy.
-Dialogue: 0,0:12:02.03,0:12:04.25,Default,Executioner,0,0,0,,{\i1}Does she mean she copied it?!
+Dialogue: 0,0:12:02.03,0:12:04.25,Default,Executioner,0,0,0,,{\i1}Does she mean she replicated it?!
 Dialogue: 0,0:12:04.25,0:12:07.74,Default,Executioner,0,0,0,,{\i1}This is no mere magical bauble.\N It's a Forbidden Instrument!
-Dialogue: 0,0:12:07.74,0:12:12.83,Default,Executioner,0,0,0,,{\i1}And she recreated it, \Nfunction and all, just by looking at it?!
+Dialogue: 0,0:12:07.74,0:12:12.83,Default,Executioner,0,0,0,,{\i1}And with one look she\Nduplicated it and its powers?!
 Dialogue: 0,0:12:14.00,0:12:18.27,Default,Angela,0,0,0,,But the ones I make wear out in no time.
 Dialogue: 0,0:12:19.25,0:12:21.72,Default,Angela,0,0,0,,So, if you wouldn't mind...
 Dialogue: 0,0:12:22.03,0:12:23.68,Default,Angela,0,0,0,,give me yours.
 Dialogue: 0,0:12:33.06,0:12:34.90,Default,Executioner,0,0,0,,{\i1}Impossible! How is she standing?!
 Dialogue: 0,0:12:35.69,0:12:40.34,Default,Executioner,0,0,0,,{\i1}I only granted this woman \Nminimal sight and hearing.
-Dialogue: 0,0:12:40.34,0:12:43.28,Default,Executioner,0,0,0,,{\i1}She's been deprived\N of all her other senses!
+Dialogue: 0,0:12:40.34,0:12:43.28,Default,Executioner,0,0,0,,{\i1}She's been deprived of all her other senses!
 Dialogue: 0,0:12:43.85,0:12:45.51,Default,Executioner,0,0,0,,{\i1}So how?!
 Dialogue: 0,0:12:46.16,0:12:48.07,Default,Executioner,0,0,0,,{\i1}They're both freaks!
 Dialogue: 0,0:12:52.30,0:12:53.60,Default,Helga,0,0,0,,Can you get in touch?
 Dialogue: 0,0:12:53.60,0:12:58.25,Default,Ashaf,0,0,0,,No, unfortunately. What rotten timing.
 Dialogue: 0,0:12:58.55,0:13:02.27,Default,Ashaf,0,0,0,,But even if I could, it wouldn't help.
 Dialogue: 0,0:13:02.27,0:13:04.72,Default,Ashaf,0,0,0,,It's too late for that.
-Dialogue: 0,0:13:06.05,0:13:08.30,Default,Ashaf,0,0,0,,The thread is already pulling.
+Dialogue: 0,0:13:06.05,0:13:08.30,Default,Ashaf,0,0,0,,The threads are already pulling.
 Dialogue: 0,0:13:08.64,0:13:11.01,Default,Helga,0,0,0,,What? What are you talking about?
 Dialogue: 0,0:13:11.31,0:13:14.68,Default,Ashaf,0,0,0,,A force that pulls people together.
-Dialogue: 0,0:13:15.52,0:13:21.57,Default,Ashaf,0,0,0,,The cursed and the curser \Ndevelop a special type of bond.
+Dialogue: 0,0:13:15.52,0:13:21.57,Default,Ashaf,0,0,0,,A unique bond forms between\Nthe curser and the cursed.{sgt: this is the part where having "eternal, unyielding bond" in E01 18:50 would pay off}{sgt: CR had "curser" which isn't in most dictionaries. The manga had "hexer" which is in as few dictionaries. This is a rare case where I don't follow the manga because it's too random how this is the one time these are called hexes instead of curses. I just wish we didn't have to use a fake(ish?) word.}
 Dialogue: 0,0:13:21.57,0:13:25.90,Default,Ashaf,0,0,0,,Those threads of fate \Ndraw them to each other.
 Dialogue: 0,0:13:26.18,0:13:29.10,Default,Ashaf,0,0,0,,We call that the threads' pull.
-Dialogue: 0,0:13:29.10,0:13:34.50,Default,Ashaf,0,0,0,,While their power is in play, \NI won't find it so easy to intervene.
+Dialogue: 0,0:13:29.10,0:13:34.50,Default,Ashaf,0,0,0,,While their power is in play, \Nit is difficult to stop them.
 Dialogue: 0,0:13:35.54,0:13:37.71,Default,Ashaf,0,0,0,,In any case, this doesn't look good.
 Dialogue: 0,0:13:38.08,0:13:42.74,Default,Ashaf,0,0,0,,When I healed Guideau's body,\N I left it fragile in places, just in case,
 Dialogue: 0,0:13:42.74,0:13:44.67,Default,Ashaf,0,0,0,,so the kid couldn't cause any trouble.
 Dialogue: 0,0:13:44.67,0:13:50.14,Default,Ashaf,0,0,0,,Of course, even in perfect health, \NGuideau wouldn't stand a chance against her.
-Dialogue: 0,0:13:50.47,0:13:53.10,Default,Ashaf,0,0,0,,But in this condition, \Neven escape will prove difficult.
+Dialogue: 0,0:13:50.47,0:13:53.10,Default,Ashaf,0,0,0,,But in her condition, \Neven escape will prove difficult.
 Dialogue: 0,0:13:53.10,0:13:56.81,Default,Ashaf,0,0,0,,Not that Guideau would ever \Ntry to run from her in any case.
 Dialogue: 0,0:13:56.81,0:13:58.69,Default,Helga,0,0,0,,H-Hang on! Calm down!
-Dialogue: 0,0:14:04.40,0:14:07.81,Default,Ashaf,0,0,0,,I'm quite calm. I sent out crows.
+Dialogue: 0,0:14:04.40,0:14:07.81,Default,Ashaf,0,0,0,,I'm quite calm. I sent out crows.{sgt: the manga calls them ravens all of a sudden? but in chapters 3, 5, and 12 they're crows. error!}
 Dialogue: 0,0:14:07.81,0:14:09.82,Default,Ashaf,0,0,0,,Flailing blindly will get us nowhere.
 Dialogue: 0,0:14:10.31,0:14:12.92,Default,Ashaf,0,0,0,,Regardless, you should go back inside.
 Dialogue: 0,0:14:12.92,0:14:15.00,Default,Helga,0,0,0,,Why? I'll help you look.
 Dialogue: 0,0:14:15.00,0:14:17.76,Default,Ashaf,0,0,0,,I've been entrusted with your safety.
 Dialogue: 0,0:14:17.76,0:14:21.30,Default,Ashaf,0,0,0,,And this is Guideau's problem. \NI can't drag you into it.
 Dialogue: 0,0:14:22.00,0:14:25.42,Default,Helga,0,0,0,,But I owe you two for saving me.
-Dialogue: 0,0:14:25.42,0:14:28.47,Flashback,Guideau,0,0,0,,I've gotta take you with me,\N or I've wasted my time!
+Dialogue: 0,0:14:25.42,0:14:28.47,Flashback,Guideau,0,0,0,,I've gotta take you with me,\N or I've wasted my time!{sgt: this is the *third* time this scene has appeared.}
 Dialogue: 0,0:14:29.36,0:14:31.39,Flashback,Helga,0,0,0,,Then rescue me.
 Dialogue: 0,0:14:32.24,0:14:36.64,Flashback,Helga,0,0,0,,If bringing me back is your job,\N keep the Demon Sword safe!
 Dialogue: 0,0:14:36.89,0:14:39.11,Flashback,Helga,0,0,0,,Come back and rescue me!
@@ -231,21 +231,21 @@ Dialogue: 0,0:14:45.67,0:14:48.36,Default,Helga,0,0,0,,She means a lot to you, r
 Dialogue: 0,0:14:51.28,0:14:53.66,Default,Ashaf,0,0,0,,Yes, a great deal.
 Dialogue: 0,0:14:54.64,0:14:56.85,Default,Ashaf,0,0,0,,Far more than my own life.
 Dialogue: 0,0:15:03.77,0:15:06.14,Default,Angela,0,0,0,,Funny, isn't it?
-Dialogue: 0,0:15:06.93,0:15:12.59,Default,Angela,0,0,0,,I wanted to see you, \Nbut not that guy who's always with you.
+Dialogue: 0,0:15:06.93,0:15:12.59,Default,Angela,0,0,0,,I wanted to see you, \Nbut not that man you're always with.
 Dialogue: 0,0:15:13.03,0:15:15.14,Default,Angela,0,0,0,,So I hid in this town,
 Dialogue: 0,0:15:15.14,0:15:19.31,Default,Angela,0,0,0,,and spread rumors the Church, the Order, \Nand the townsfolk would brush off.
-Dialogue: 0,0:15:20.23,0:15:24.61,Default,Angela,0,0,0,,Rumors only you would \Ntake seriously, Guideau.
+Dialogue: 0,0:15:20.23,0:15:24.61,Default,Angela,0,0,0,,Rumors only {\i1}you{\i0} would \Ntake seriously, Guideau.
 Dialogue: 0,0:15:24.98,0:15:27.65,Default,Angela,0,0,0,,Just a few tall tales.
 Dialogue: 0,0:15:28.15,0:15:31.82,Default,Angela,0,0,0,,And look how perfectly that little \Nbit of scheming worked out.
 Dialogue: 0,0:15:32.09,0:15:36.16,Default,Angela,0,0,0,,We can see each other anytime, \Nas long as we both feel like it.
 Dialogue: 0,0:15:36.16,0:15:38.32,Default,Angela,0,0,0,,Fate's handy that way.
 Dialogue: 0,0:15:40.16,0:15:41.37,Default,Angela,0,0,0,,So, Guideau...
-Dialogue: 0,0:15:41.79,0:15:44.45,Default,Angela,0,0,0,,How does it feel, using my body?
-Dialogue: 0,0:15:45.49,0:15:48.63,Default,Angela,0,0,0,,A witch's flesh is all about adaptability,
-Dialogue: 0,0:15:48.63,0:15:54.22,Default,Angela,0,0,0,,so I bet it adjusted to your soul \Nand made things a lot easier for you.
+Dialogue: 0,0:15:41.79,0:15:44.45,Default,Angela,0,0,0,,How does my body feel?{orig: How does it feel, using my body?}
+Dialogue: 0,0:15:45.49,0:15:48.63,Default,Angela,0,0,0,,A witch's flesh is infinitely adaptable,
+Dialogue: 0,0:15:48.63,0:15:54.22,Default,Angela,0,0,0,,so I bet it integrated with your soul \Nand has grown easier to use.
 Dialogue: 0,0:15:56.40,0:15:58.68,Default,Guideau,0,0,0,,Hands off.
-Dialogue: 0,0:15:59.20,0:16:03.44,Default,Angela,0,0,0,,You don't like being touched? Even though \Nyou have no problem throwing punches?
-Dialogue: 0,0:16:04.61,0:16:05.89,Default,Angela,0,0,0,,Talk about picky.
+Dialogue: 0,0:15:59.20,0:16:03.44,Default,Angela,0,0,0,,You don't like being touched?\NBut you have no problem throwing punches?
+Dialogue: 0,0:16:04.61,0:16:05.89,Default,Angela,0,0,0,,How selfish.
 Dialogue: 0,0:16:27.22,0:16:29.06,Default,Angela,0,0,0,,You look so upset.
 Dialogue: 0,0:16:29.84,0:16:31.39,Default,Angela,0,0,0,,Do you hate me?
 Dialogue: 0,0:16:32.59,0:16:36.71,Default,Angela,0,0,0,,You know, I was playing with \Nsomeone else until recently,
@@ -260,32 +260,32 @@ Dialogue: 0,0:17:03.55,0:17:04.54,Default,Angela,0,0,0,,But no.
 Dialogue: 0,0:17:04.96,0:17:08.45,Default,Angela,0,0,0,,If you really want to undo \Nmy curse, that isn't the way,
 Dialogue: 0,0:17:08.45,0:17:09.81,Default,Angela,0,0,0,,and this isn't the time.
 Dialogue: 0,0:17:12.03,0:17:13.56,Default,Angela,0,0,0,,Chase me, Guideau.
-Dialogue: 0,0:17:14.03,0:17:15.90,Default,Angela,0,0,0,,I'll give you signposts.
-Dialogue: 0,0:17:16.45,0:17:19.04,Default,Angela,0,0,0,,If you reach them all and catch up to me,
+Dialogue: 0,0:17:14.03,0:17:15.90,Default,Angela,0,0,0,,I'll lay the breadcrumbs.
+Dialogue: 0,0:17:16.45,0:17:19.04,Default,Angela,0,0,0,,If you can follow them all to me,
 Dialogue: 0,0:17:19.04,0:17:21.31,Default,Angela,0,0,0,,I'll live up to your expectations, too.
 Dialogue: 0,0:17:21.67,0:17:25.98,Default,Angela,0,0,0,,I forget how many decades it's been, \Nbut let's pick up where we left off that day.
 Dialogue: 0,0:17:29.20,0:17:32.06,Default,Angela,0,0,0,,The Order must have caught on by now.
-Dialogue: 0,0:17:32.57,0:17:35.70,Default,Angela,0,0,0,,Oh, right. They can't \Nfind me while I have this.
+Dialogue: 0,0:17:32.57,0:17:35.70,Default,Angela,0,0,0,,Oh, right. They can't find me while I have this.
 Dialogue: 0,0:17:36.08,0:17:37.78,Default,Angela,0,0,0,,What a lucky find.
 Dialogue: 0,0:17:41.81,0:17:43.75,Default,Angela,0,0,0,,I mean, seriously...
 Dialogue: 0,0:17:44.27,0:17:46.48,Default,Angela,0,0,0,,You just never break, do you?
 Dialogue: 0,0:17:47.64,0:17:50.09,Default,Guideau,0,0,0,,I swear, Angela...
 Dialogue: 0,0:17:50.69,0:17:54.87,Default,Guideau,0,0,0,,I'll kill you if it's the last thing I do!
-Dialogue: 0,0:17:55.50,0:17:57.98,Default,Angela,0,0,0,,I like that look in your eyes.
+Dialogue: 0,0:17:55.50,0:17:57.98,Default,Angela,0,0,0,,I do adore those eyes.
 Dialogue: 0,0:18:11.05,0:18:11.85,Default,Ashaf,0,0,0,,Guideau!
 Dialogue: 0,0:18:15.00,0:18:16.98,Default,Ashaf,0,0,0,,Still breathing. Nothing to worry about.
-Dialogue: 0,0:18:16.98,0:18:19.78,Default,Helga,0,0,0,,You call that "nothing"? \NShe's hanging on by a thread.
+Dialogue: 0,0:18:16.98,0:18:19.78,Default,Helga,0,0,0,,You call that "nothing"? \NShe's hanging on by a thread.{sgt: a thread of fate, hehe.}
 Dialogue: 0,0:18:19.78,0:18:22.79,Default,Ashaf,0,0,0,,As long as Guideau's breathing, \Nthe rest works itself out.
 Dialogue: 0,0:18:23.37,0:18:24.33,Default,Helga,0,0,0,,Hey, what's that?
 Dialogue: 0,0:18:29.17,0:18:30.65,Default,Helga,0,0,0,,An Executioner!
 Dialogue: 0,0:18:31.13,0:18:33.92,Default,Helga,0,0,0,,We weren't gone long, \Nand I don't see any sign of a struggle.
 Dialogue: 0,0:18:34.21,0:18:35.17,Default,Helga,0,0,0,,Angela...
-Dialogue: 0,0:18:35.67,0:18:38.13,Default,Helga,0,0,0,,Who in the world is that witch?
-Dialogue: 0,0:18:39.78,0:18:42.54,Default,Ashaf,0,0,0,,A celebrity. You've heard of her, too.
-Dialogue: 0,0:18:43.92,0:18:47.89,Default,Ashaf,0,0,0,,Angela the Origin Witch. \NThat should be all you need to hear.
+Dialogue: 0,0:18:35.67,0:18:38.13,Default,Helga,0,0,0,,What kind of witch is she?
+Dialogue: 0,0:18:39.78,0:18:42.54,Default,Ashaf,0,0,0,,A celebrity. You know of her.
+Dialogue: 0,0:18:43.92,0:18:47.89,Default,Ashaf,0,0,0,,Angela the Origin Witch.\NSurely that rings a bell?{sgt: Origin Witch my worst nemesis.}
 Dialogue: 0,0:18:48.17,0:18:49.51,Default,Helga,0,0,0,,No way!
 Dialogue: 0,0:18:49.51,0:18:51.56,Default,Helga,0,0,0,,You mean {\i1}the{\i0} Angela?!
-Dialogue: 0,0:18:51.87,0:18:54.73,Default,Helga,0,0,0,,That can't be right! \NThere's no way she could still be alive!
+Dialogue: 0,0:18:51.87,0:18:54.73,Default,Helga,0,0,0,,That's impossible! There's no way she's alive!
 Dialogue: 0,0:18:55.27,0:18:58.40,Default,Helga,0,0,0,,Witches are destined to \Nonly live for 200 years!
 Dialogue: 0,0:18:58.89,0:19:00.78,Default,Ashaf,0,0,0,,Oh, she's alive, all right.
 Dialogue: 0,0:19:01.84,0:19:05.12,Default,Ashaf,0,0,0,,The "Eternal Witch," Angela Anne Huell,
@@ -303,27 +303,27 @@ Dialogue: 0,0:19:53.67,0:19:56.37,Default,Ashaf,0,0,0,,No, can't say I have.
 Dialogue: 0,0:19:56.37,0:19:57.71,Default,Guideau,0,0,0,,Then get lost.
 Dialogue: 0,0:19:58.18,0:20:00.82,Default,Ashaf,0,0,0,,Why won't you touch your food?
 Dialogue: 0,0:20:00.82,0:20:02.91,Default,Ashaf,0,0,0,,Just look at you, still covered in wounds.
-Dialogue: 0,0:20:03.36,0:20:08.14,Default,Ashaf,0,0,0,,You eat and you heal, remember? \NHow could you starve yourself all this time?
+Dialogue: 0,0:20:03.36,0:20:08.14,Default,Ashaf,0,0,0,,Eating heals you, remember? \NHow could you starve yourself all this time?
 Dialogue: 0,0:20:08.68,0:20:11.47,Default,Ashaf,0,0,0,,If you won't eat, at least let me treat you.
 Dialogue: 0,0:20:11.47,0:20:12.60,Default,Ashaf,0,0,0,,Give me a look.
 Dialogue: 0,0:20:13.49,0:20:16.06,Default,Guideau,0,0,0,,What kind of crap are \Nyou gonna pull this time?
-Dialogue: 0,0:20:18.04,0:20:21.90,Default,Guideau,0,0,0,,Back there, my arm and leg gave out on me...
+Dialogue: 0,0:20:18.04,0:20:21.90,Default,Guideau,0,0,0,,Back then, my arm and leg gave out on me...
 Dialogue: 0,0:20:26.32,0:20:29.26,Default,Guideau,0,0,0,,because you did something \Nto them, didn't you?
 Dialogue: 0,0:20:29.74,0:20:31.04,Default,Ashaf,0,0,0,,Stop, Guideau.
 Dialogue: 0,0:20:46.64,0:20:48.79,Default,Ashaf,0,0,0,,You seem full of energy.
 Dialogue: 0,0:20:49.20,0:20:51.85,Default,Ashaf,0,0,0,,I guess you won't need healing.
 Dialogue: 0,0:20:53.12,0:20:54.81,Default,Guideau,0,0,0,,You won't get another chance.
-Dialogue: 0,0:20:55.36,0:20:58.88,Default,Guideau,0,0,0,,Try it again, and I won't wait \Nto undo the curse to kill you.
+Dialogue: 0,0:20:55.36,0:20:58.88,Default,Guideau,0,0,0,,Pull that shit again, and I'll kill you \N{\i1}before{\i0} I undo the curse.
 Dialogue: 0,0:20:59.41,0:21:01.15,Default,Ashaf,0,0,0,,I'm sorry.
 Dialogue: 0,0:21:01.15,0:21:06.16,Default,Ashaf,0,0,0,,But I had no intention \Nof setting you up to fail.
-Dialogue: 0,0:21:06.50,0:21:10.58,Default,Ashaf,0,0,0,,I'm doing my best to \Nassure things go smoothly.
-Dialogue: 0,0:21:11.02,0:21:16.17,Default,Ashaf,0,0,0,,Nothing I do is pointless, and I won't \Ndo anything against your interests.
-Dialogue: 0,0:21:16.58,0:21:18.88,Default,Ashaf,0,0,0,,You're a valuable human resource.
-Dialogue: 0,0:21:18.88,0:21:23.97,Default,Ashaf,0,0,0,,I would never do anything \Nthat might result in losing you.
+Dialogue: 0,0:21:06.50,0:21:10.58,Default,Ashaf,0,0,0,,I'm doing my best to \Nensure things go smoothly.
+Dialogue: 0,0:21:11.02,0:21:16.17,Default,Ashaf,0,0,0,,Nothing I do is pointless,\Nand I won't act against your interests.
+Dialogue: 0,0:21:16.58,0:21:18.88,Default,Ashaf,0,0,0,,You're a valuable asset.
+Dialogue: 0,0:21:18.88,0:21:23.97,Default,Ashaf,0,0,0,,I would never do anything to jeopardize that.
 Dialogue: 0,0:21:25.31,0:21:28.69,Default,Ashaf,0,0,0,,You understand that our interests align.
 Dialogue: 0,0:21:28.69,0:21:32.10,Default,Ashaf,0,0,0,,That's why you've obeyed my orders.
-Dialogue: 0,0:21:32.58,0:21:36.06,Default,Ashaf,0,0,0,,When you suspect I'm "pulling \Nsomething" in spite of that,
-Dialogue: 0,0:21:36.41,0:21:39.75,Default,Ashaf,0,0,0,,I'm only doing so for the sake\N of the larger picture.
+Dialogue: 0,0:21:32.58,0:21:36.06,Default,Ashaf,0,0,0,,When you suspect I'm \N"pulling something" in spite of that,
+Dialogue: 0,0:21:36.41,0:21:39.75,Default,Ashaf,0,0,0,,know that it all fits into the larger picture.
 Dialogue: 0,0:21:40.44,0:21:42.44,Default,Ashaf,0,0,0,,Let me repeat myself:
 Dialogue: 0,0:21:42.44,0:21:47.63,Default,Ashaf,0,0,0,,I'm not your enemy, \Nand I won't do anything to harm you.
 Dialogue: 0,0:21:47.63,0:21:50.45,Default,Ashaf,0,0,0,,I don't need your faith or trust.
@@ -331,7 +331,7 @@ Dialogue: 0,0:21:51.00,0:21:55.41,Default,Ashaf,0,0,0,,For now, just understand 
 Dialogue: 0,0:21:59.78,0:22:01.20,Default,Guideau,0,0,0,,Get out already.
 Dialogue: 0,0:22:01.20,0:22:03.96,Default,Ashaf,0,0,0,,Oh, I can't go anywhere until I heal up.
 Dialogue: 0,0:22:04.43,0:22:06.26,Default,Ashaf,0,0,0,,I have broken bones, you know.
-Dialogue: 0,0:22:08.73,0:22:10.78,Default,Ashaf,0,0,0,,Oh, that smarts.
+Dialogue: 0,0:22:08.73,0:22:10.78,Default,Ashaf,0,0,0,,Oh, so painful.
 Dialogue: 0,0:22:11.19,0:22:14.30,Default,Ashaf,0,0,0,,Dear me, what a mess you've made.
 Dialogue: 0,0:22:18.12,0:22:19.60,Default,Ashaf,0,0,0,,This takes me back.
 Dialogue: 0,0:22:21.54,0:22:25.66,Default,Ashaf,0,0,0,,To three years ago, when we first met.
