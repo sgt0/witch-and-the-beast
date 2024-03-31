@@ -42,8 +42,8 @@ Dialogue: 0,0:02:25.67,0:02:28.08,Default,Ashaf,0,0,0,,Oh, that smarts.
 Dialogue: 0,0:02:28.08,0:02:31.29,Default,Ashaf,0,0,0,,Dear me, what a mess you've made.
 Dialogue: 0,0:02:34.93,0:02:36.55,Default,Ashaf,0,0,0,,This takes me back.
 Dialogue: 0,0:02:38.46,0:02:42.64,Default,Ashaf,0,0,0,,To three years ago, when we first met.
-Dialogue: 0,0:02:44.72,0:02:49.73,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad1.5\fnTimes New Roman\fscx90\fad(500,0)\3c&H010705&\c&HF8EBE4&\4c&H010705&\pos(246,948)}Eloquence \Nand Silence
-Dialogue: 0,0:02:44.72,0:02:49.73,Signs,Text,0,0,0,,{\blur0.9\fs48\bord1.5\shad1.5\fnTimes New Roman\fscx90\fad(500,0)\3c&H010705&\c&HF8EBE4&\4c&H010705&\pos(498,948)}Opening Act
+Dialogue: 0,0:02:44.73,0:02:49.73,Signs,Text,0,0,0,,{\pos(246,948)\fscx90\fnAlegreya\fs60\bord0.6\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur0.9\fad(500,0)}Eloquence \Nand Silence
+Dialogue: 0,0:02:44.73,0:02:49.73,Signs,Text,0,0,0,,{\pos(498,948)\fscx90\fnAlegreya\fs48\bord0.6\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur0.9\fad(500,0)}Opening Act
 Dialogue: 0,0:02:56.88,0:02:59.36,Default,Ashaf,0,0,0,,{\i1}A village on the Fifth Continent.
 Dialogue: 0,0:02:59.36,0:03:06.43,Default,Ashaf,0,0,0,,{\i1}Being so far from the Global Holy Church's \Nheadquarters on the First Continent,
 Dialogue: 0,0:03:06.43,0:03:09.04,Default,Ashaf,0,0,0,,{\i1}this place hasn't developed \Na magical civilization.
@@ -216,7 +216,7 @@ Dialogue: 0,0:13:57.48,0:13:59.45,Default,Ashaf,0,0,0,,But there are exceptions.
 Dialogue: 0,0:13:59.92,0:14:04.15,Default,Ashaf,0,0,0,,And Falvell, I suspect your \Nbloodline is one of them.
 Dialogue: 0,0:14:05.43,0:14:09.47,Default,Ashaf,0,0,0,,Its Origin: the "Mystic Witch,"\N Luna Farmington.
 Dialogue: 0,0:14:10.16,0:14:15.41,Default,Ashaf,0,0,0,,A practitioner of vocative magic\Nwho cast all her spells with speech.
-Dialogue: 0,0:14:10.66,0:14:16.91,Signs,Text,0,0,0,,{\fad(500,0)\b1\fnTimes New Roman\fs60\fscx90\an8\bord0\shad0\blur0.9\c&H21262C&\pos(954,90)\t(5280,6230,\c&H000000&)}Invocation
+Dialogue: 0,0:14:10.66,0:14:16.92,Signs,Text,0,0,0,,{\an8\pos(960,90)\fscx90\fnQuadraat\fs60\b1\bord0\c&H21262C&\blur0.9\fad(500,0)\t(5280,6230,\c&H000000&)}Invocation
 Dialogue: 0,0:14:17.35,0:14:23.01,Default,Ashaf,0,0,0,,But since you can't use your voice, \Nyou naturally can't cast spells, either.
 Dialogue: 0,0:14:24.34,0:14:25.99,Default,Craig,0,0,0,,For real?
 Dialogue: 0,0:14:25.99,0:14:27.73,Default,Owent,0,0,0,,You sure know a lot.
@@ -347,5 +347,5 @@ Dialogue: 0,0:22:00.72,0:22:02.47,Default,Craig,0,0,0,,Adults don't play fair.
 Dialogue: 0,0:22:19.21,0:22:20.52,Default,Owent,0,0,0,,What?
 Dialogue: 0,0:24:01.00,0:24:04.29,Default,Ashaf,0,0,0,,I want to teach you what love is.
 Dialogue: 0,0:24:05.80,0:24:09.96,Default,Ashaf,0,0,0,,Next time: "Eloquence \Nand Silence: Final Act."
-Dialogue: 0,0:24:06.67,0:24:09.96,Signs,Text,0,0,0,,{\fad(480,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,372)}Eloquence and Silence
-Dialogue: 0,0:24:06.67,0:24:09.96,Signs,Text,0,0,0,,{\fad(480,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Final Act
+Dialogue: 0,0:24:06.68,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,372)\fscx90\fnAlegreya\fs70\bord0\blur0.9\fad(480,0)}Eloquence and Silence
+Dialogue: 0,0:24:06.68,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnAlegreya\fs54\bord0\blur0.9\fad(480,0)}Final Act
