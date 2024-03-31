@@ -7,23 +7,21 @@ Synch Point:
 Script Updated By:
 Update Details:
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Flashback Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -44,23 +42,23 @@ Dialogue: 0,0:02:25.67,0:02:28.08,Default,Ashaf,0,0,0,,Oh, that smarts.
 Dialogue: 0,0:02:28.08,0:02:31.29,Default,Ashaf,0,0,0,,Dear me, what a mess you've made.
 Dialogue: 0,0:02:34.93,0:02:36.55,Default,Ashaf,0,0,0,,This takes me back.
 Dialogue: 0,0:02:38.46,0:02:42.64,Default,Ashaf,0,0,0,,To three years ago, when we first met.
-Dialogue: 0,0:02:44.72,0:02:49.73,Signs,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(500,0)\3c&H010705&\c&HF8EBE4&\4c&H010705&\pos(82,316)}Eloquence \Nand Silence
-Dialogue: 0,0:02:44.72,0:02:49.73,Signs,Text,0,0,0,,{\blur0.3\fs16\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(500,0)\3c&H010705&\c&HF8EBE4&\4c&H010705&\pos(166,316)}Opening Act
-Dialogue: 0,0:02:56.88,0:02:59.36,Italics,Ashaf,0,0,0,,A village on the Fifth Continent.
-Dialogue: 0,0:02:59.36,0:03:06.43,Italics,Ashaf,0,0,0,,Being so far from the Global Holy Church's \Nheadquarters on the First Continent,
-Dialogue: 0,0:03:06.43,0:03:09.04,Italics,Ashaf,0,0,0,,this place hasn't developed \Na magical civilization.
-Dialogue: 0,0:03:09.62,0:03:16.93,Italics,Ashaf,0,0,0,,A remote, utterly un-magical village \Nin an ordinary, utterly un-magical country.
+Dialogue: 0,0:02:44.72,0:02:49.73,Signs,Text,0,0,0,,{\blur0.9\fs60\bord1.5\shad1.5\fnTimes New Roman\fscx90\fad(500,0)\3c&H010705&\c&HF8EBE4&\4c&H010705&\pos(246,948)}Eloquence \Nand Silence
+Dialogue: 0,0:02:44.72,0:02:49.73,Signs,Text,0,0,0,,{\blur0.9\fs48\bord1.5\shad1.5\fnTimes New Roman\fscx90\fad(500,0)\3c&H010705&\c&HF8EBE4&\4c&H010705&\pos(498,948)}Opening Act
+Dialogue: 0,0:02:56.88,0:02:59.36,Default,Ashaf,0,0,0,,{\i1}A village on the Fifth Continent.
+Dialogue: 0,0:02:59.36,0:03:06.43,Default,Ashaf,0,0,0,,{\i1}Being so far from the Global Holy Church's \Nheadquarters on the First Continent,
+Dialogue: 0,0:03:06.43,0:03:09.04,Default,Ashaf,0,0,0,,{\i1}this place hasn't developed \Na magical civilization.
+Dialogue: 0,0:03:09.62,0:03:16.93,Default,Ashaf,0,0,0,,{\i1}A remote, utterly un-magical village \Nin an ordinary, utterly un-magical country.
 Dialogue: 0,0:03:18.57,0:03:21.44,Default,Child,0,0,0,,A coffin! Hey, that was a coffin, right?
 Dialogue: 0,0:03:21.44,0:03:23.47,Default,Mother,0,0,0,,Yes, yes. I'm sure it was.
-Dialogue: 0,0:03:37.02,0:03:38.94,Italics,Ashaf,0,0,0,,It couldn't be less remarkable.
-Dialogue: 0,0:03:39.72,0:03:42.53,Italics,Ashaf,0,0,0,,But a witch calls this village home.
-Dialogue: 0,0:03:43.09,0:03:46.48,Italics,Ashaf,0,0,0,,She's apparently lived here a long time,
-Dialogue: 0,0:03:46.48,0:03:50.13,Italics,Ashaf,0,0,0,,but until now, she's never caused a fuss.
-Dialogue: 0,0:03:50.13,0:03:53.63,Italics,Ashaf,0,0,0,,Which explains why her presence\N went unremarked upon.
-Dialogue: 0,0:03:53.63,0:03:56.17,Italics,Ashaf,0,0,0,,But lately, it's been one \Nodd incident after another.
-Dialogue: 0,0:03:57.87,0:04:01.38,Italics,Ashaf,0,0,0,,And finally, the fuss drew attention.
-Dialogue: 0,0:04:02.00,0:04:07.22,Italics,Ashaf,0,0,0,,Now that this has happened, we must \Ntake the witch under our wing at once,
-Dialogue: 0,0:04:07.67,0:04:10.36,Italics,Ashaf,0,0,0,,before someone turns up dead.
+Dialogue: 0,0:03:37.02,0:03:38.94,Default,Ashaf,0,0,0,,{\i1}It couldn't be less remarkable.
+Dialogue: 0,0:03:39.72,0:03:42.53,Default,Ashaf,0,0,0,,{\i1}But a witch calls this village home.
+Dialogue: 0,0:03:43.09,0:03:46.48,Default,Ashaf,0,0,0,,{\i1}She's apparently lived here a long time,
+Dialogue: 0,0:03:46.48,0:03:50.13,Default,Ashaf,0,0,0,,{\i1}but until now, she's never caused a fuss.
+Dialogue: 0,0:03:50.13,0:03:53.63,Default,Ashaf,0,0,0,,{\i1}Which explains why her presence\N went unremarked upon.
+Dialogue: 0,0:03:53.63,0:03:56.17,Default,Ashaf,0,0,0,,{\i1}But lately, it's been one \Nodd incident after another.
+Dialogue: 0,0:03:57.87,0:04:01.38,Default,Ashaf,0,0,0,,{\i1}And finally, the fuss drew attention.
+Dialogue: 0,0:04:02.00,0:04:07.22,Default,Ashaf,0,0,0,,{\i1}Now that this has happened, we must \Ntake the witch under our wing at once,
+Dialogue: 0,0:04:07.67,0:04:10.36,Default,Ashaf,0,0,0,,{\i1}before someone turns up dead.
 Dialogue: 0,0:04:11.28,0:04:12.20,Default,Owent,0,0,0,,Let's go.
 Dialogue: 0,0:04:25.65,0:04:30.12,Default,Owent,0,0,0,,Well, this should do it for groceries. \NDo we have anything else to buy?
 Dialogue: 0,0:04:30.63,0:04:33.33,Default,Owent,0,0,0,,Falvell, do you want anything?
@@ -150,7 +148,7 @@ Dialogue: 0,0:09:22.24,0:09:23.58,Default,Owent,0,0,0,,That mark...
 Dialogue: 0,0:09:25.34,0:09:27.05,Default,Guideau,0,0,0,,Sounds like a yes.
 Dialogue: 0,0:09:43.02,0:09:45.05,Default,Owent,0,0,0,,What's this freaky thing?
 Dialogue: 0,0:09:46.93,0:09:47.95,Default,Craig,0,0,0,,It vanished.
-Dialogue: 0,0:09:49.77,0:09:51.61,Italics,Ashaf,0,0,0,,Did it protect her?
+Dialogue: 0,0:09:49.77,0:09:51.61,Default,Ashaf,0,0,0,,{\i1}Did it protect her?
 Dialogue: 0,0:09:54.00,0:09:55.65,Default,Villager,0,0,0,,Did you see that?
 Dialogue: 0,0:09:55.65,0:09:57.90,Default,Villager,0,0,0,,What was that monster just now?
 Dialogue: 0,0:09:57.90,0:09:59.59,Default,Villager,0,0,0,,There she is.
@@ -218,7 +216,7 @@ Dialogue: 0,0:13:57.48,0:13:59.45,Default,Ashaf,0,0,0,,But there are exceptions.
 Dialogue: 0,0:13:59.92,0:14:04.15,Default,Ashaf,0,0,0,,And Falvell, I suspect your \Nbloodline is one of them.
 Dialogue: 0,0:14:05.43,0:14:09.47,Default,Ashaf,0,0,0,,Its Origin: the "Mystic Witch,"\N Luna Farmington.
 Dialogue: 0,0:14:10.16,0:14:15.41,Default,Ashaf,0,0,0,,A practitioner of vocative magic\Nwho cast all her spells with speech.
-Dialogue: 0,0:14:10.66,0:14:16.91,Signs,Text,0,0,0,,{\fad(500,0)\b1\fnTimes New Roman\fs20\fscx90\an8\bord0\shad0\blur0.3\c&H21262C&\pos(318,30)\t(5280,6230,\c&H000000&)}Invocation
+Dialogue: 0,0:14:10.66,0:14:16.91,Signs,Text,0,0,0,,{\fad(500,0)\b1\fnTimes New Roman\fs60\fscx90\an8\bord0\shad0\blur0.9\c&H21262C&\pos(954,90)\t(5280,6230,\c&H000000&)}Invocation
 Dialogue: 0,0:14:17.35,0:14:23.01,Default,Ashaf,0,0,0,,But since you can't use your voice, \Nyou naturally can't cast spells, either.
 Dialogue: 0,0:14:24.34,0:14:25.99,Default,Craig,0,0,0,,For real?
 Dialogue: 0,0:14:25.99,0:14:27.73,Default,Owent,0,0,0,,You sure know a lot.
@@ -349,5 +347,5 @@ Dialogue: 0,0:22:00.72,0:22:02.47,Default,Craig,0,0,0,,Adults don't play fair.
 Dialogue: 0,0:22:19.21,0:22:20.52,Default,Owent,0,0,0,,What?
 Dialogue: 0,0:24:01.00,0:24:04.29,Default,Ashaf,0,0,0,,I want to teach you what love is.
 Dialogue: 0,0:24:05.80,0:24:09.96,Default,Ashaf,0,0,0,,Next time: "Eloquence \Nand Silence: Final Act."
-Dialogue: 0,0:24:06.67,0:24:09.96,Signs,Text,0,0,0,,{\fad(480,0)\fnTimes New Roman\fs22\fscx90\an8\bord0\shad0\blur0.3\pos(320,124)}Eloquence and Silence
-Dialogue: 0,0:24:06.67,0:24:09.96,Signs,Text,0,0,0,,{\fad(480,0)\fnTimes New Roman\fs15\fscx90\an8\bord0\shad0\blur0.3\pos(320,212)}Final Act
+Dialogue: 0,0:24:06.67,0:24:09.96,Signs,Text,0,0,0,,{\fad(480,0)\fnTimes New Roman\fs66\fscx90\an8\bord0\shad0\blur0.9\pos(960,372)}Eloquence and Silence
+Dialogue: 0,0:24:06.67,0:24:09.96,Signs,Text,0,0,0,,{\fad(480,0)\fnTimes New Roman\fs45\fscx90\an8\bord0\shad0\blur0.9\pos(960,636)}Final Act
