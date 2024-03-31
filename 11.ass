@@ -66,8 +66,8 @@ Dialogue: 0,0:04:36.04,0:04:38.71,Default,Owent,0,0,0,,Aw, come on. Don't hold b
 Dialogue: 0,0:04:38.71,0:04:44.16,Default,Owent,0,0,0,,The latest batch of tea leaves and dyed stuff\Nwere a hit, so the mayor paid us extra.
 Dialogue: 0,0:04:44.16,0:04:47.09,Default,Owent,0,0,0,,Treat yourself once in a while.
 Dialogue: 0,0:04:47.86,0:04:48.93,Default,Cowherd,0,0,0,,You there!
-Dialogue: 0,0:04:48.93,0:04:50.03,Default,Owent,0,0,0,,What do you—
 Dialogue: 0,0:04:48.93,0:04:50.89,Default,Cowherd,0,0,0,,Look what you've gone and done!
+Dialogue: 0,0:04:48.93,0:04:50.03,Overlap,Owent,0,0,0,,What do you—
 Dialogue: 0,0:04:51.25,0:04:53.04,Default,Cowherd,0,0,0,,My cows!
 Dialogue: 0,0:04:53.04,0:04:55.00,Default,Cowherd,0,0,0,,Those were {\i1}my{\i0} cows!
 Dialogue: 0,0:04:55.00,0:04:57.23,Default,Owent,0,0,0,,I don't know what you mean!\N We didn't touch them!
@@ -319,7 +319,7 @@ Dialogue: 0,0:20:22.89,0:20:24.67,Default,Ashaf,0,0,0,,True, it is a nuisance.
 Dialogue: 0,0:20:24.67,0:20:26.82,Default,Ashaf,0,0,0,,Undoing curses is a challenge.
 Dialogue: 0,0:20:27.32,0:20:31.79,Default,Ashaf,0,0,0,,Or it would be, if there \Nwere only two ways to do it.
 Dialogue: 0,0:20:32.75,0:20:35.24,Default,Guideau,0,0,0,,Hey! What do you know about—
-Dialogue: 0,0:20:34.27,0:20:35.24,Default,Ashaf,0,0,0,,Not now.
+Dialogue: 0,0:20:34.27,0:20:35.24,Overlap,Ashaf,0,0,0,,Not now.
 Dialogue: 0,0:20:36.31,0:20:38.38,Default,Ashaf,0,0,0,,I hear a commotion across the way.
 Dialogue: 0,0:20:42.38,0:20:43.24,Default,Ashaf,0,0,0,,Craig!
 Dialogue: 0,0:20:44.64,0:20:47.66,Default,Ashaf,0,0,0,,What's all the fuss? What happened?
