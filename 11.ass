@@ -25,12 +25,12 @@ Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.12,0:00:05.40,Default,Ashaf,0,0,0,,You're a valuable human resource.
-Dialogue: 0,0:00:05.40,0:00:10.48,Default,Ashaf,0,0,0,,I would never do anything \Nthat might result in losing you.
+Dialogue: 0,0:00:03.12,0:00:05.40,Default,Ashaf,0,0,0,,You're a valuable asset.
+Dialogue: 0,0:00:05.40,0:00:10.48,Default,Ashaf,0,0,0,,I would never do anything to jeopardize that.
 Dialogue: 0,0:00:11.88,0:00:14.78,Default,Ashaf,0,0,0,,You understand that our interests align.
 Dialogue: 0,0:00:15.29,0:00:18.62,Default,Ashaf,0,0,0,,That's why you've obeyed my orders.
-Dialogue: 0,0:00:19.12,0:00:22.58,Default,Ashaf,0,0,0,,When you suspect I'm "pulling \Nsomething" in spite of that,
-Dialogue: 0,0:00:22.97,0:00:26.30,Default,Ashaf,0,0,0,,I'm only doing so for the sake\N of the larger picture.
+Dialogue: 0,0:00:19.12,0:00:22.58,Default,Ashaf,0,0,0,,When you suspect I'm \N"pulling something" in spite of that,
+Dialogue: 0,0:00:22.97,0:00:26.30,Default,Ashaf,0,0,0,,know that it all fits into the larger picture.
 Dialogue: 0,0:00:26.98,0:00:28.97,Default,Ashaf,0,0,0,,Let me repeat myself:
 Dialogue: 0,0:00:28.97,0:00:34.16,Default,Ashaf,0,0,0,,I'm not your enemy, \Nand I won't do anything to harm you.
 Dialogue: 0,0:00:34.16,0:00:36.97,Default,Ashaf,0,0,0,,I don't need your faith or trust.
@@ -38,7 +38,7 @@ Dialogue: 0,0:00:37.53,0:00:41.93,Default,Ashaf,0,0,0,,For now, just understand 
 Dialogue: 0,0:02:16.72,0:02:18.16,Default,Guideau,0,0,0,,Get out already.
 Dialogue: 0,0:02:18.16,0:02:20.91,Default,Ashaf,0,0,0,,Oh, I can't go anywhere until I heal up.
 Dialogue: 0,0:02:21.39,0:02:23.20,Default,Ashaf,0,0,0,,I have broken bones, you know.
-Dialogue: 0,0:02:25.67,0:02:28.08,Default,Ashaf,0,0,0,,Oh, that smarts.
+Dialogue: 0,0:02:25.67,0:02:28.08,Default,Ashaf,0,0,0,,Oh, so painful.
 Dialogue: 0,0:02:28.08,0:02:31.29,Default,Ashaf,0,0,0,,Dear me, what a mess you've made.
 Dialogue: 0,0:02:34.93,0:02:36.55,Default,Ashaf,0,0,0,,This takes me back.
 Dialogue: 0,0:02:38.46,0:02:42.64,Default,Ashaf,0,0,0,,To three years ago, when we first met.
@@ -46,24 +46,24 @@ Dialogue: 0,0:02:44.73,0:02:49.73,Signs,Text,0,0,0,,{\pos(246,948)\fscx90\fnAleg
 Dialogue: 0,0:02:44.73,0:02:49.73,Signs,Text,0,0,0,,{\pos(498,948)\fscx90\fnAlegreya\fs48\bord0.6\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur0.9\fad(500,0)}Opening Act
 Dialogue: 0,0:02:56.88,0:02:59.36,Default,Ashaf,0,0,0,,{\i1}A village on the Fifth Continent.
 Dialogue: 0,0:02:59.36,0:03:06.43,Default,Ashaf,0,0,0,,{\i1}Being so far from the Global Holy Church's \Nheadquarters on the First Continent,
-Dialogue: 0,0:03:06.43,0:03:09.04,Default,Ashaf,0,0,0,,{\i1}this place hasn't developed \Na magical civilization.
-Dialogue: 0,0:03:09.62,0:03:16.93,Default,Ashaf,0,0,0,,{\i1}A remote, utterly un-magical village \Nin an ordinary, utterly un-magical country.
+Dialogue: 0,0:03:06.43,0:03:09.04,Default,Ashaf,0,0,0,,{\i1}a culture of magic has yet to develop here.{orig: this place hasn't developed a magical civilization.}
+Dialogue: 0,0:03:09.62,0:03:16.93,Default,Ashaf,0,0,0,,{\i1}A remote, utterly un-magical village \Nin an ordinary, utterly un-magical land.
 Dialogue: 0,0:03:18.57,0:03:21.44,Default,Child,0,0,0,,A coffin! Hey, that was a coffin, right?
 Dialogue: 0,0:03:21.44,0:03:23.47,Default,Mother,0,0,0,,Yes, yes. I'm sure it was.
 Dialogue: 0,0:03:37.02,0:03:38.94,Default,Ashaf,0,0,0,,{\i1}It couldn't be less remarkable.
-Dialogue: 0,0:03:39.72,0:03:42.53,Default,Ashaf,0,0,0,,{\i1}But a witch calls this village home.
+Dialogue: 0,0:03:39.72,0:03:42.53,Default,Ashaf,0,0,0,,{\i1}But this village is home to a witch.
 Dialogue: 0,0:03:43.09,0:03:46.48,Default,Ashaf,0,0,0,,{\i1}She's apparently lived here a long time,
 Dialogue: 0,0:03:46.48,0:03:50.13,Default,Ashaf,0,0,0,,{\i1}but until now, she's never caused a fuss.
 Dialogue: 0,0:03:50.13,0:03:53.63,Default,Ashaf,0,0,0,,{\i1}Which explains why her presence\N went unremarked upon.
 Dialogue: 0,0:03:53.63,0:03:56.17,Default,Ashaf,0,0,0,,{\i1}But lately, it's been one \Nodd incident after another.
 Dialogue: 0,0:03:57.87,0:04:01.38,Default,Ashaf,0,0,0,,{\i1}And finally, the fuss drew attention.
-Dialogue: 0,0:04:02.00,0:04:07.22,Default,Ashaf,0,0,0,,{\i1}Now that this has happened, we must \Ntake the witch under our wing at once,
+Dialogue: 0,0:04:02.00,0:04:07.22,Default,Ashaf,0,0,0,,{\i1}Given the circumstances,\NI must secure the witch at once,
 Dialogue: 0,0:04:07.67,0:04:10.36,Default,Ashaf,0,0,0,,{\i1}before someone turns up dead.
 Dialogue: 0,0:04:11.28,0:04:12.20,Default,Owent,0,0,0,,Let's go.
-Dialogue: 0,0:04:25.65,0:04:30.12,Default,Owent,0,0,0,,Well, this should do it for groceries. \NDo we have anything else to buy?
+Dialogue: 0,0:04:25.65,0:04:30.12,Default,Owent,0,0,0,,Well, this should do it for groceries. \NWas there anything else we had to get?
 Dialogue: 0,0:04:30.63,0:04:33.33,Default,Owent,0,0,0,,Falvell, do you want anything?
 Dialogue: 0,0:04:36.04,0:04:38.71,Default,Owent,0,0,0,,Aw, come on. Don't hold back.
-Dialogue: 0,0:04:38.71,0:04:44.16,Default,Owent,0,0,0,,The latest batch of tea leaves and dyed stuff\Nwere a hit, so the mayor paid us extra.
+Dialogue: 0,0:04:38.71,0:04:44.16,Default,Owent,0,0,0,,The latest batch of tea leaves and {dyed stuff}fabrics\Nwere a hit, so the mayor paid us extra.
 Dialogue: 0,0:04:44.16,0:04:47.09,Default,Owent,0,0,0,,Treat yourself once in a while.
 Dialogue: 0,0:04:47.86,0:04:48.93,Default,Cowherd,0,0,0,,You there!
 Dialogue: 0,0:04:48.93,0:04:50.89,Default,Cowherd,0,0,0,,Look what you've gone and done!
@@ -80,17 +80,17 @@ Dialogue: 0,0:05:12.24,0:05:14.09,Default,Craig,0,0,0,,That's prejudice.
 Dialogue: 0,0:05:14.97,0:05:17.79,Default,Craig,0,0,0,,Ideas like that belong \Nin the past, if you ask me.
 Dialogue: 0,0:05:17.79,0:05:19.12,Default,Owent,0,0,0,,Craig.
 Dialogue: 0,0:05:19.12,0:05:21.75,Default,Craig,0,0,0,,This is about what happened \Ntwo days ago, right?
-Dialogue: 0,0:05:22.89,0:05:28.62,Default,Craig,0,0,0,,I didn't witness it myself, \Nbut I hear livestock fell from the sky.
+Dialogue: 0,0:05:22.89,0:05:28.62,Default,Craig,0,0,0,,I didn't see it myself, \Nbut I heard livestock fell from the sky.
 Dialogue: 0,0:05:28.62,0:05:29.93,Default,Villager,0,0,0,,Hm? Huh?
 Dialogue: 0,0:05:31.09,0:05:32.14,Default,Villager,0,0,0,,What the...
 Dialogue: 0,0:05:36.56,0:05:39.67,Default,Cowherd,0,0,0,,That's right. And in pieces, too.
-Dialogue: 0,0:05:39.67,0:05:42.32,Default,Cowherd,0,0,0,,Could a human do something like that?
+Dialogue: 0,0:05:39.67,0:05:42.32,Default,Cowherd,0,0,0,ED,Could a regular person do that?
 Dialogue: 0,0:05:42.32,0:05:43.65,Default,Craig,0,0,0,,I doubt it.
 Dialogue: 0,0:05:44.14,0:05:46.74,Default,Craig,0,0,0,,But the same goes for her.
 Dialogue: 0,0:05:47.10,0:05:50.32,Default,Craig,0,0,0,,She couldn't do something like that\N in a million years, either.
 Dialogue: 0,0:05:50.32,0:05:52.32,Default,Cowherd,0,0,0,,What?! But she's a witch!
 Dialogue: 0,0:05:52.32,0:05:56.15,Default,Cowherd,0,0,0,,What makes this pair \Nof monsters so different?!
-Dialogue: 0,0:05:56.64,0:05:58.08,Default,Ashaf,0,0,0,,Hi there. Excuse me.
+Dialogue: 0,0:05:56.64,0:05:58.08,Default,Ashaf,0,0,0,,Hi there. Pardon me.
 Dialogue: 0,0:05:59.01,0:06:02.47,Default,Ashaf,0,0,0,,I hate to butt in on a quarrel,
 Dialogue: 0,0:06:02.47,0:06:05.02,Default,Ashaf,0,0,0,,but yours involves someone\N I came here to see,
 Dialogue: 0,0:06:05.02,0:06:08.01,Default,Ashaf,0,0,0,,and your discussion piqued my interest.
@@ -103,7 +103,7 @@ Dialogue: 0,0:06:24.40,0:06:29.86,Default,Owent,0,0,0,,but Falvell Farmington \N
 Dialogue: 0,0:06:30.10,0:06:30.94,Default,Ashaf,0,0,0,,Well, now.
 Dialogue: 0,0:06:30.94,0:06:35.08,Default,Cowherd,0,0,0,,What?! You expect me to believe she's \Ninnocent because she can't use magic?!
 Dialogue: 0,0:06:35.08,0:06:37.14,Default,Cowherd,0,0,0,,Anyone can make an excuse like that!
-Dialogue: 0,0:06:37.14,0:06:38.41,Default,Ashaf,0,0,0,,Not so loud.
+Dialogue: 0,0:06:37.14,0:06:38.41,Default,Ashaf,0,0,0,,Hush now.
 Dialogue: 0,0:06:39.01,0:06:42.13,Default,Ashaf,0,0,0,,I'm afraid I must ask you to leave us.
 Dialogue: 0,0:06:52.12,0:06:53.47,Default,Ashaf,0,0,0,,Put him down.
 Dialogue: 0,0:06:53.47,0:06:54.17,Default,Cowherd,0,0,0,,Sure.
@@ -114,7 +114,7 @@ Dialogue: 0,0:07:00.89,0:07:03.58,Default,Ashaf,0,0,0,,Oh, are you single?
 Dialogue: 0,0:07:03.58,0:07:05.51,Default,Cowherd,0,0,0,,No, I've got a wife.
 Dialogue: 0,0:07:05.51,0:07:06.36,Default,Friend,0,0,0,,Me, too.
 Dialogue: 0,0:07:06.75,0:07:10.18,Default,Ashaf,0,0,0,,Is that so? Then shower them with love.
-Dialogue: 0,0:07:10.18,0:07:12.57,Default,Ashaf,0,0,0,,Why not buy flowers for them on your way home?
+Dialogue: 0,0:07:10.18,0:07:12.57,Default,Ashaf,0,0,0,,Why not buy some flowers on your way home?
 Dialogue: 0,0:07:12.98,0:07:15.98,Default,Friend,0,0,0,,Good idea. I'll do that.
 Dialogue: 0,0:07:15.98,0:07:17.33,Default,Cowherd,0,0,0,,Once in a while, you know?
 Dialogue: 0,0:07:18.63,0:07:21.45,Default,Owent,0,0,0,,Was that... magic?
@@ -123,21 +123,21 @@ Dialogue: 0,0:07:23.38,0:07:26.69,Default,Owent,0,0,0,,Yikes! Magic gives me the
 Dialogue: 0,0:07:26.69,0:07:29.36,Default,Craig,0,0,0,,Don't tell me {\i1}you're{\i0} behind everything?
 Dialogue: 0,0:07:31.87,0:07:33.44,Default,Ashaf,0,0,0,,I wonder.
 Dialogue: 0,0:07:33.44,0:07:35.62,Default,Ashaf,0,0,0,,Well, all joking aside...
-Dialogue: 0,0:07:35.62,0:07:37.02,Default,Craig,0,0,0,,He passed it off as a joke!
+Dialogue: 0,0:07:35.62,0:07:37.02,Default,Craig,0,0,0,,It wasn't a joke!
 Dialogue: 0,0:07:37.75,0:07:40.75,Default,Ashaf,0,0,0,,Lady Witch, I'd like a word.
 Dialogue: 0,0:07:41.16,0:07:42.97,Default,Ashaf,0,0,0,,I've been looking for you.
 Dialogue: 0,0:07:43.90,0:07:48.36,Default,Ashaf,0,0,0,,I'm Ashaf. A first-rate mage, as you saw.
 Dialogue: 0,0:07:48.93,0:07:52.82,Default,Ashaf,0,0,0,,As you are a witch, \NI have an earnest request for you.
 Dialogue: 0,0:07:55.03,0:07:56.46,Default,Owent,0,0,0,,Suspicious.
 Dialogue: 0,0:07:56.46,0:07:58.62,Default,Craig,0,0,0,,You're super shady, Mister.
-Dialogue: 0,0:07:58.97,0:08:04.83,Default,Owent,0,0,0,,But, well, you did help us out, \Nso I guess we owe you a thank you.
+Dialogue: 0,0:07:58.97,0:08:04.83,Default,Owent,0,0,0,,But, well, you did help us out, \Nso I guess we need to repay you.
 Dialogue: 0,0:08:10.22,0:08:11.89,Default,Cowherd,0,0,0,,Hey, watch it.
-Dialogue: 0,0:08:11.89,0:08:13.10,Default,Cowherd,0,0,0,,You just jostled me.
+Dialogue: 0,0:08:11.89,0:08:13.10,Default,Cowherd,0,0,0,,You just {jostled}bumped into me.{sgt: "jostled" seems too advanced for this character.}
 Dialogue: 0,0:08:14.24,0:08:15.72,Default,Cowherd,0,0,0,,Are you listening?
 Dialogue: 0,0:08:43.50,0:08:44.93,Default,Ashaf,0,0,0,,Really, now?
-Dialogue: 0,0:08:53.97,0:08:58.14,Default,Ashaf,0,0,0,,I never thought I'd need {\i1}three{\i0} layers \Nagainst a flesh-and-blood opponent.
+Dialogue: 0,0:08:53.97,0:08:58.14,Default,Ashaf,0,0,0,,I never thought I'd need {\i1}three{\i0} layers \Nagainst an unarmed opponent.
 Dialogue: 0,0:08:59.26,0:09:00.85,Default,Guideau,0,0,0,,Move! You're in my way!
-Dialogue: 0,0:09:00.85,0:09:05.06,Default,Ashaf,0,0,0,,How fierce. What exactly \Nam I stopping you from doing?
+Dialogue: 0,0:09:00.85,0:09:05.06,Default,Ashaf,0,0,0,,How fierce. What exactly am I in the way of?
 Dialogue: 0,0:09:05.47,0:09:07.82,Default,Guideau,0,0,0,,Hand over that witch.
 Dialogue: 0,0:09:07.82,0:09:09.52,Default,Guideau,0,0,0,,She's {\i1}my{\i0} prey.
 Dialogue: 0,0:09:09.92,0:09:12.60,Default,Owent,0,0,0,,What's wrong with people today?
@@ -145,7 +145,7 @@ Dialogue: 0,0:09:12.60,0:09:15.24,Default,Owent,0,0,0,,What do you all want with
 Dialogue: 0,0:09:17.38,0:09:18.66,Default,Guideau,0,0,0,,Remember this face?
 Dialogue: 0,0:09:19.16,0:09:21.74,Default,Guideau,0,0,0,,Or this mark?!
 Dialogue: 0,0:09:22.24,0:09:23.58,Default,Owent,0,0,0,,That mark...
-Dialogue: 0,0:09:25.34,0:09:27.05,Default,Guideau,0,0,0,,Sounds like a yes.
+Dialogue: 0,0:09:25.34,0:09:27.05,Default,Guideau,0,0,0,,You have.{orig: Sounds like a yes.}
 Dialogue: 0,0:09:43.02,0:09:45.05,Default,Owent,0,0,0,,What's this freaky thing?
 Dialogue: 0,0:09:46.93,0:09:47.95,Default,Craig,0,0,0,,It vanished.
 Dialogue: 0,0:09:49.77,0:09:51.61,Default,Ashaf,0,0,0,,{\i1}Did it protect her?
@@ -166,24 +166,24 @@ Dialogue: 0,0:10:41.04,0:10:47.68,Default,Owent,0,0,0,,Falvell uses plants from 
 Dialogue: 0,0:10:47.68,0:10:50.96,Default,Owent,0,0,0,,and the mayor sells what \Nshe makes to acquaintances.
 Dialogue: 0,0:10:51.37,0:10:52.67,Default,Owent,0,0,0,,Her stuff's popular.
 Dialogue: 0,0:11:07.20,0:11:08.23,Default,Ashaf,0,0,0,,Well, I'll be.
-Dialogue: 0,0:11:08.23,0:11:10.68,Default,Craig,0,0,0,,Hard to believe how good it tastes, right?
+Dialogue: 0,0:11:08.23,0:11:10.68,Default,Craig,0,0,0,,Surprisingly tasty, right?
 Dialogue: 0,0:11:10.68,0:11:14.06,Default,Craig,0,0,0,,It's the best tea I've ever had.
 Dialogue: 0,0:11:14.34,0:11:18.78,Default,Owent,0,0,0,,She can't use magic, but she says this is \Npart of the witch knowledge she inherited.
 Dialogue: 0,0:11:19.52,0:11:20.62,Default,Ashaf,0,0,0,,I see.
 Dialogue: 0,0:11:21.31,0:11:23.16,Default,Ashaf,0,0,0,,Would you care for a cup, too?
 Dialogue: 0,0:11:23.60,0:11:25.12,Default,Ashaf,0,0,0,,It tastes wonderful.
 Dialogue: 0,0:11:30.77,0:11:32.00,Default,Ashaf,0,0,0,,What a surprise.
-Dialogue: 0,0:11:32.60,0:11:37.27,Default,Ashaf,0,0,0,,I expected you to scream at me to \Nundo the spell, but you've stayed calm.
+Dialogue: 0,0:11:32.60,0:11:37.27,Default,Ashaf,0,0,0,,I thought you'd be screaming at me to \Nremove the spell, but you're calm.
 Dialogue: 0,0:11:37.27,0:11:39.21,Default,Ashaf,0,0,0,,I guess you don't like to waste effort.
 Dialogue: 0,0:11:39.66,0:11:43.30,Default,Ashaf,0,0,0,,And I examined you \Nwhile you were unconscious,
-Dialogue: 0,0:11:43.72,0:11:47.07,Default,Ashaf,0,0,0,,but I found no signs\N of magical enhancement.
+Dialogue: 0,0:11:43.72,0:11:47.07,Default,Ashaf,0,0,0,,but I found no signs of magical enhancement.
 Dialogue: 0,0:11:47.07,0:11:53.09,Default,Ashaf,0,0,0,,Yet you're tough enough to have barely \Na scratch on you. And that brute strength...
 Dialogue: 0,0:11:53.09,0:11:55.77,Default,Ashaf,0,0,0,,You don't strike me as an ordinary human.
 Dialogue: 0,0:11:58.07,0:11:59.89,Default,Ashaf,0,0,0,,That mark on your neck.
-Dialogue: 0,0:12:00.37,0:12:03.32,Default,Ashaf,0,0,0,,It proves you're under \Na witch's curse, doesn't it?
+Dialogue: 0,0:12:00.37,0:12:03.32,Default,Ashaf,0,0,0,,It's the sign of a witch's curse, isn't it?
 Dialogue: 0,0:12:04.46,0:12:06.28,Default,Owent,0,0,0,,A witch's curse?
-Dialogue: 0,0:12:06.28,0:12:12.62,Default,Ashaf,0,0,0,,If my guess isn't wrong, you hoped \Nshe'd give you a clue about the caster.
-Dialogue: 0,0:12:12.62,0:12:17.10,Default,Ashaf,0,0,0,,Or you suspect her of \Ncasting the curse herself.
+Dialogue: 0,0:12:06.28,0:12:12.62,Default,Ashaf,0,0,0,,My guess is, you suspect this girl may have a clue as to who cursed you.
+Dialogue: 0,0:12:12.62,0:12:17.10,Default,Ashaf,0,0,0,,Or that she herself is the culprit.
 Dialogue: 0,0:12:18.26,0:12:20.60,Default,Ashaf,0,0,0,,Why don't we start there?
 Dialogue: 0,0:12:21.58,0:12:25.58,Default,Ashaf,0,0,0,,But first, may I have a second cup?
 Dialogue: 0,0:12:27.82,0:12:30.89,Default,Ashaf,0,0,0,,Now, let me see. You are?
@@ -192,58 +192,58 @@ Dialogue: 0,0:12:33.12,0:12:35.20,Default,Ashaf,0,0,0,,It's a pleasure, Owent.
 Dialogue: 0,0:12:35.20,0:12:36.77,Default,Ashaf,0,0,0,,I'd like your confirmation.
 Dialogue: 0,0:12:37.18,0:12:39.76,Default,Ashaf,0,0,0,,Falvell can't speak, can she?
 Dialogue: 0,0:12:39.76,0:12:41.70,Default,Owent,0,0,0,,No, she can't.
-Dialogue: 0,0:12:41.70,0:12:44.74,Default,Owent,0,0,0,,Not a single "witch" in our family ever can.
-Dialogue: 0,0:12:45.05,0:12:47.52,Default,Owent,0,0,0,,They can't even make \Nnoises in their throats.
+Dialogue: 0,0:12:41.70,0:12:44.74,Default,Owent,0,0,0,,In our family, only the witches turn out that way.
+Dialogue: 0,0:12:45.05,0:12:47.52,Default,Owent,0,0,0,,They can't even make noises in their throats.
 Dialogue: 0,0:12:47.52,0:12:50.62,Default,Craig,0,0,0,,What? You told me she was sick.
 Dialogue: 0,0:12:50.62,0:12:53.26,Default,Owent,0,0,0,,Well, I mean, it's a weird story, right?
 Dialogue: 0,0:12:53.26,0:12:57.87,Default,Owent,0,0,0,,We just saw so many crazy things \Nthat I figured I might as well come clean.
-Dialogue: 0,0:12:58.87,0:13:02.59,Default,Ashaf,0,0,0,,I see. And as such, she can't cast spells.
+Dialogue: 0,0:12:58.87,0:13:02.59,Default,Ashaf,0,0,0,,I see. And that is why she can't cast spells.
 Dialogue: 0,0:13:03.14,0:13:05.59,Default,Ashaf,0,0,0,,How much do you all know about magic?
 Dialogue: 0,0:13:05.59,0:13:06.54,Default,Owent,0,0,0,,Not much...
 Dialogue: 0,0:13:07.09,0:13:08.06,Default,Ashaf,0,0,0,,Thank you.
 Dialogue: 0,0:13:09.12,0:13:11.68,Default,Ashaf,0,0,0,,In that case, time for a lesson.
 Dialogue: 0,0:13:12.56,0:13:15.29,Default,Ashaf,0,0,0,,Generally speaking,
 Dialogue: 0,0:13:15.29,0:13:21.02,Default,Ashaf,0,0,0,,a person with magical energy \Ncasts spells by tracing runes.
-Dialogue: 0,0:13:21.44,0:13:25.77,Default,Ashaf,0,0,0,,We either pour magic\N into pre-written runes,
-Dialogue: 0,0:13:25.77,0:13:29.41,Default,Ashaf,0,0,0,,or write runes using magical energy itself.
+Dialogue: 0,0:13:21.44,0:13:25.77,Default,Ashaf,0,0,0,,We either pour magic into pre-written runes,
+Dialogue: 0,0:13:25.77,0:13:29.41,Default,Ashaf,0,0,0,,or write runes using pure magical energy.
 Dialogue: 0,0:13:37.16,0:13:38.54,Default,Ashaf,0,0,0,,Let me treat you.
 Dialogue: 0,0:13:40.00,0:13:41.37,Default,Guideau,0,0,0,,Listen, asshole—
 Dialogue: 0,0:13:46.33,0:13:47.99,Default,Craig,0,0,0,,She froze up?
 Dialogue: 0,0:13:47.99,0:13:50.16,Default,Ashaf,0,0,0,,Well, anyway...
-Dialogue: 0,0:13:50.16,0:13:53.14,Default,Ashaf,0,0,0,,As you can see, \Nwriting forms the basis of magic.
+Dialogue: 0,0:13:50.16,0:13:53.14,Default,Ashaf,0,0,0,,As you can see, \Nlettering forms the basis of magic.
 Dialogue: 0,0:13:53.60,0:13:57.48,Default,Ashaf,0,0,0,,Spellcasting relies on \Nspecial letters called "runes."
 Dialogue: 0,0:13:57.48,0:13:59.45,Default,Ashaf,0,0,0,,But there are exceptions.
 Dialogue: 0,0:13:59.92,0:14:04.15,Default,Ashaf,0,0,0,,And Falvell, I suspect your \Nbloodline is one of them.
 Dialogue: 0,0:14:05.43,0:14:09.47,Default,Ashaf,0,0,0,,Its Origin: the "Mystic Witch,"\N Luna Farmington.
-Dialogue: 0,0:14:10.16,0:14:15.41,Default,Ashaf,0,0,0,,A practitioner of vocative magic\Nwho cast all her spells with speech.
+Dialogue: 0,0:14:10.16,0:14:15.41,Default,Ashaf,0,0,0,,A master of vocative magic\Nwho cast all her spells with speech.
 Dialogue: 0,0:14:10.66,0:14:16.92,Signs,Text,0,0,0,,{\an8\pos(960,90)\fscx90\fnQuadraat\fs60\b1\bord0\c&H21262C&\blur0.9\fad(500,0)\t(5280,6230,\c&H000000&)}Invocation
-Dialogue: 0,0:14:17.35,0:14:23.01,Default,Ashaf,0,0,0,,But since you can't use your voice, \Nyou naturally can't cast spells, either.
+Dialogue: 0,0:14:17.35,0:14:23.01,Default,Ashaf,0,0,0,,But since you lack a voice, \Nyou naturally can't make use of that magic.
 Dialogue: 0,0:14:24.34,0:14:25.99,Default,Craig,0,0,0,,For real?
 Dialogue: 0,0:14:25.99,0:14:27.73,Default,Owent,0,0,0,,You sure know a lot.
 Dialogue: 0,0:14:27.73,0:14:31.55,Default,Owent,0,0,0,,Do all mages know so much about witches?
 Dialogue: 0,0:14:31.55,0:14:33.52,Default,Ashaf,0,0,0,,I don't believe so.
-Dialogue: 0,0:14:33.52,0:14:38.36,Default,Ashaf,0,0,0,,Very few have knowledge of \Nthe Mystic Witch, in particular.
+Dialogue: 0,0:14:33.52,0:14:38.36,Default,Ashaf,0,0,0,,And only a select few would \Neven know of the Mystic Witch.
 Dialogue: 0,0:14:39.09,0:14:40.16,Default,Ashaf,0,0,0,,Well?
 Dialogue: 0,0:14:40.16,0:14:41.19,Default,Guideau,0,0,0,,Huh?
 Dialogue: 0,0:14:41.45,0:14:44.38,Default,Ashaf,0,0,0,,Falvell descends from the Mystic Witch.
-Dialogue: 0,0:14:44.38,0:14:47.07,Default,Ashaf,0,0,0,,Does that match the witch who cursed you?
-Dialogue: 0,0:14:47.49,0:14:51.03,Default,Guideau,0,0,0,,Being a different bloodline \Ndoesn't prove shit.
-Dialogue: 0,0:14:51.40,0:14:53.99,Default,Guideau,0,0,0,,That bitch swaps bodies.
+Dialogue: 0,0:14:44.38,0:14:47.07,Default,Ashaf,0,0,0,,Is that the witch who cursed you?
+Dialogue: 0,0:14:47.49,0:14:51.03,Default,Guideau,0,0,0,,Her lineage doesn't mean shit.
+Dialogue: 0,0:14:51.40,0:14:53.99,Default,Guideau,0,0,0,,The bitch I want can swap bodies.
 Dialogue: 0,0:14:55.58,0:14:56.83,Default,Ashaf,0,0,0,,Oh?
-Dialogue: 0,0:14:56.83,0:14:59.54,Default,Guideau,0,0,0,,And you're telling me she can't use magic?
-Dialogue: 0,0:14:59.92,0:15:03.13,Default,Guideau,0,0,0,,What do you call that thing \Nthat sent me flying, then?!
-Dialogue: 0,0:15:03.13,0:15:05.52,Default,Ashaf,0,0,0,,Yes, that's the problem.
+Dialogue: 0,0:14:56.83,0:14:59.54,Default,Guideau,0,0,0,,And you say she can't use magic?
+Dialogue: 0,0:14:59.92,0:15:03.13,Default,Guideau,0,0,0,,Then what do you call \Nthat thing that sent me flying?!
+Dialogue: 0,0:15:03.13,0:15:05.52,Default,Ashaf,0,0,0,,Yes, that's also an issue.
 Dialogue: 0,0:15:05.52,0:15:08.01,Default,Ashaf,0,0,0,,I'm not saying it presents a contradiction.
 Dialogue: 0,0:15:08.41,0:15:12.09,Default,Ashaf,0,0,0,,The problem is that we may have enemies here.
-Dialogue: 0,0:15:12.45,0:15:17.31,Default,Ashaf,0,0,0,,That thing looked exactly \Nas though Falvell created it.
+Dialogue: 0,0:15:12.45,0:15:17.31,Default,Ashaf,0,0,0,,That creature was made \Nto look like Falvell's doing.
 Dialogue: 0,0:15:17.88,0:15:21.23,Default,Ashaf,0,0,0,,But Falvell can't use magic.
 Dialogue: 0,0:15:21.23,0:15:23.60,Default,Ashaf,0,0,0,,Working from that assumption,
 Dialogue: 0,0:15:23.60,0:15:27.61,Default,Ashaf,0,0,0,,someone must have orchestrated \Nit to appear that way.
-Dialogue: 0,0:15:27.97,0:15:33.03,Default,Ashaf,0,0,0,,Now that so many people have seen it,\N if any more incidents occur,
-Dialogue: 0,0:15:33.03,0:15:36.61,Default,Ashaf,0,0,0,,all the blame will fall upon the "wicked witch."
-Dialogue: 0,0:15:38.00,0:15:41.84,Default,Ashaf,0,0,0,,Just to check, are there \Nany local spellcasters?
+Dialogue: 0,0:15:27.97,0:15:33.03,Default,Ashaf,0,0,0,,Given how many people saw it,\N if any more incidents occur,
+Dialogue: 0,0:15:33.03,0:15:36.61,Default,Ashaf,0,0,0,,all the blame will fall upon the "nefarious" witch.
+Dialogue: 0,0:15:38.00,0:15:41.84,Default,Ashaf,0,0,0,,Just to check, are there any local sorcerers?
 Dialogue: 0,0:15:41.84,0:15:43.71,Default,Owent,0,0,0,,No. Not even one.
-Dialogue: 0,0:15:44.20,0:15:48.65,Default,Ashaf,0,0,0,,I hear these minor odd incidents\Nstarted about a month ago.
+Dialogue: 0,0:15:44.20,0:15:48.65,Default,Ashaf,0,0,0,,I heard these bizarre events\Nstarted about a month ago.
 Dialogue: 0,0:15:48.65,0:15:51.53,Default,Ashaf,0,0,0,,Did any outsiders come through around then?
 Dialogue: 0,0:15:51.53,0:15:53.62,Default,Owent,0,0,0,,Not really.
 Dialogue: 0,0:15:53.62,0:15:57.18,Default,Craig,0,0,0,,Well, I guess I might count.
@@ -254,15 +254,15 @@ Dialogue: 0,0:16:08.78,0:16:12.55,Default,Owent,0,0,0,,They protect us like the 
 Dialogue: 0,0:16:12.55,0:16:15.32,Default,Ashaf,0,0,0,,No need to be so protective.
 Dialogue: 0,0:16:16.26,0:16:18.70,Default,Ashaf,0,0,0,,I won't pounce on every suspect I find.
 Dialogue: 0,0:16:19.08,0:16:22.12,Default,Ashaf,0,0,0,,Half a year is too long ago. \NHe's in the clear.
-Dialogue: 0,0:16:22.12,0:16:24.88,Default,Ashaf,0,0,0,,Hmm... No clues, then.
+Dialogue: 0,0:16:22.12,0:16:24.88,Default,Ashaf,0,0,0,,Hmm... No leads, then.
 Dialogue: 0,0:16:25.47,0:16:27.98,Default,Ashaf,0,0,0,,Our guest still doesn't \Nseem convinced, either.
 Dialogue: 0,0:16:30.37,0:16:31.41,Default,Ashaf,0,0,0,,Are you scared?
 Dialogue: 0,0:16:32.54,0:16:39.09,Default,Ashaf,0,0,0,,A bestial woman, \Na mysterious mage, the villagers...
-Dialogue: 0,0:16:39.09,0:16:42.95,Default,Ashaf,0,0,0,,You and your brother are \Nsurrounded by too many enemies.
+Dialogue: 0,0:16:39.09,0:16:42.95,Default,Ashaf,0,0,0,,You two are surrounded by too many enemies.
 Dialogue: 0,0:16:42.95,0:16:45.02,Default,Craig,0,0,0,,Do you have to spell it out like that?
-Dialogue: 0,0:16:47.04,0:16:51.86,Default,Ashaf,0,0,0,,Don't worry. I've come to \Nprotect you two from now on.
+Dialogue: 0,0:16:47.04,0:16:51.86,Default,Ashaf,0,0,0,,Don't worry. I've come to \Nprotect you from all of that.
 Dialogue: 0,0:16:54.75,0:16:56.32,Default,Ashaf,0,0,0,,Let me reintroduce myself.
-Dialogue: 0,0:16:56.94,0:17:02.60,Default,Ashaf,0,0,0,,I come from an occult organization \Nof magic, by magic, and for magic:
+Dialogue: 0,0:16:56.94,0:17:02.60,Default,Ashaf,0,0,0,,I come from a group \Nby magic, for magic, and of magic:
 Dialogue: 0,0:17:02.60,0:17:05.29,Default,Ashaf,0,0,0,,the Order of Magical Resonance.
 Dialogue: 0,0:17:05.98,0:17:10.19,Default,Ashaf,0,0,0,,Lady Witch, would you return \Nto the Order with me?
 Dialogue: 0,0:17:18.20,0:17:19.70,Default,Craig,0,0,0,,I'm back.
@@ -277,17 +277,17 @@ Dialogue: 0,0:17:43.48,0:17:46.05,Default,Sven,0,0,0,,We pay her, just not with 
 Dialogue: 0,0:17:47.09,0:17:49.13,Default,Craig,0,0,0,,Oh, you won't believe what happened today.
 Dialogue: 0,0:17:51.83,0:17:53.09,Default,Owent,0,0,0,,What do you think?
 Dialogue: 0,0:17:54.08,0:17:58.18,Default,Owent,0,0,0,,I've never seriously \Nconsidered leaving the village.
-Dialogue: 0,0:17:58.92,0:18:00.80,Default,Owent,0,0,0,,It doesn't feel real.
-Dialogue: 0,0:18:01.12,0:18:05.07,Default,Owent,0,0,0,,I mean, can {\i1}you{\i0} imagine \Nthis hell ever ending?
+Dialogue: 0,0:17:58.92,0:18:00.80,Default,Owent,0,0,0,,It doesn't seem real.
+Dialogue: 0,0:18:01.12,0:18:05.07,Default,Owent,0,0,0,,I mean, can {\i1}you{\i0} imagine this hell ever ending?
 Dialogue: 0,0:18:05.73,0:18:09.69,Default,Owent,0,0,0,,Then again, what's to say things \Nwill get better if we go?
 Dialogue: 0,0:18:10.08,0:18:12.23,Default,Owent,0,0,0,,To start with, that guy's really shady.
 Dialogue: 0,0:18:12.54,0:18:14.42,Default,Owent,0,0,0,,I don't trust a word he says.
 Dialogue: 0,0:18:15.14,0:18:16.99,Flashback,Ashaf,0,0,0,,I'll come back tomorrow.
 Dialogue: 0,0:18:18.34,0:18:22.08,Default,Owent,0,0,0,,Don't worry. We're used \Nto having lots of enemies.
 Dialogue: 0,0:18:22.54,0:18:24.59,Default,Owent,0,0,0,,This is nothing new.
-Dialogue: 0,0:18:24.59,0:18:26.40,Default,Owent,0,0,0,,We can get by somehow.
-Dialogue: 0,0:18:28.25,0:18:29.82,Default,Owent,0,0,0,,Just like we always have.
-Dialogue: 0,0:18:31.18,0:18:34.30,Default,Owent,0,0,0,,It's all just like always.
+Dialogue: 0,0:18:24.59,0:18:26.40,Default,Owent,0,0,0,,We'll get by somehow.
+Dialogue: 0,0:18:28.25,0:18:29.82,Default,Owent,0,0,0,,We always do.
+Dialogue: 0,0:18:31.18,0:18:34.30,Default,Owent,0,0,0,,That's how it's always been.{orig: It's all just like always.}{sgt: what}
 Dialogue: 0,0:18:38.04,0:18:39.22,Default,Owent,0,0,0,,Hey, Falvell...
 Dialogue: 0,0:18:40.30,0:18:43.43,Default,Owent,0,0,0,,Do you trust him? That Ashaf guy?
 Dialogue: 0,0:18:47.77,0:18:50.47,Default,Owent,0,0,0,,Yeah. You're right.
@@ -297,8 +297,8 @@ Dialogue: 0,0:18:58.29,0:19:00.28,Default,Ashaf,0,0,0,,Sheltering a witch, you m
 Dialogue: 0,0:19:00.87,0:19:05.02,Default,Guideau,0,0,0,,A witch with no magic is just dead weight.
 Dialogue: 0,0:19:05.59,0:19:07.50,Default,Guideau,0,0,0,,What do you want her for?
 Dialogue: 0,0:19:07.50,0:19:12.10,Default,Ashaf,0,0,0,,Oh, so you believe she can't cast spells now?
-Dialogue: 0,0:19:12.55,0:19:17.51,Default,Guideau,0,0,0,,If I see someone up close long enough, I can \Ntell if she's that bitch or not on the inside.
-Dialogue: 0,0:19:17.51,0:19:20.97,Default,Ashaf,0,0,0,,Is that so? I'm glad she's \Nbeen cleared of suspicion.
+Dialogue: 0,0:19:12.55,0:19:17.51,Default,Guideau,0,0,0,,If I get a good long look, I can \Ntell if that bitch is in there.
+Dialogue: 0,0:19:17.51,0:19:20.97,Default,Ashaf,0,0,0,,Is that so? I'm glad the girl's been exonerated.
 Dialogue: 0,0:19:21.51,0:19:24.43,Default,Ashaf,0,0,0,,But I wouldn't call her "dead weight."
 Dialogue: 0,0:19:25.03,0:19:29.56,Default,Ashaf,0,0,0,,Do you remember how she \Nreacted to seeing your mark?
 Dialogue: 0,0:19:30.16,0:19:32.80,Default,Ashaf,0,0,0,,It clearly rang a bell.
@@ -307,9 +307,9 @@ Dialogue: 0,0:19:36.48,0:19:39.92,Default,Ashaf,0,0,0,,Maybe the hit that sent y
 Dialogue: 0,0:19:40.74,0:19:44.70,Default,Ashaf,0,0,0,,If you ask me, we shouldn't \Nbe surprised she recognized it.
 Dialogue: 0,0:19:45.38,0:19:50.30,Default,Ashaf,0,0,0,,She probably has a similar mark \Nsomewhere on her own body.
 Dialogue: 0,0:19:50.89,0:19:52.54,Default,Ashaf,0,0,0,,Don't you find it strange?
-Dialogue: 0,0:19:53.22,0:19:55.86,Default,Ashaf,0,0,0,,Her voice is the source of her magic.
-Dialogue: 0,0:19:55.86,0:19:59.77,Default,Ashaf,0,0,0,,Generations of witches, \Nand only witches, losing their voices
-Dialogue: 0,0:19:59.77,0:20:01.76,Default,Ashaf,0,0,0,,couldn't be more contrived.
+Dialogue: 0,0:19:53.22,0:19:55.86,Default,Ashaf,0,0,0,,Speech is the source of her magic.
+Dialogue: 0,0:19:55.86,0:19:59.77,Default,Ashaf,0,0,0,,And yet, only the witches \Nof their lineage lose their voices.
+Dialogue: 0,0:19:59.77,0:20:01.76,Default,Ashaf,0,0,0,,Couldn't be more contrived.
 Dialogue: 0,0:20:02.31,0:20:06.22,Default,Ashaf,0,0,0,,So, could she be under a type of curse, too?
 Dialogue: 0,0:20:08.19,0:20:10.95,Default,Ashaf,0,0,0,,Vocative magic boasts unparalleled power.
 Dialogue: 0,0:20:11.47,0:20:16.61,Default,Ashaf,0,0,0,,Perhaps another witch got scared \Nand sealed it away with a curse.
@@ -330,16 +330,16 @@ Dialogue: 0,0:20:53.69,0:20:54.95,Default,Villager,0,0,0,,How gruesome.
 Dialogue: 0,0:20:54.95,0:20:57.28,Default,Villager,0,0,0,,Her greatest benefactor, of all people.
 Dialogue: 0,0:20:57.28,0:20:59.11,Default,Villager,0,0,0,,Then we were right all along.
 Dialogue: 0,0:20:59.11,0:21:00.98,Default,Villager,0,0,0,,That girl is a devil.
-Dialogue: 0,0:21:00.98,0:21:02.82,Default,Villager,0,0,0,,We can't leave her alive!
+Dialogue: 0,0:21:00.98,0:21:02.82,Default,Villager,0,0,0,,We can't let her live!
 Dialogue: 0,0:21:03.08,0:21:04.99,Default,Craig,0,0,0,,And it gets worse!
-Dialogue: 0,0:21:04.99,0:21:11.41,Default,Craig,0,0,0,,An "expert witch hunter" showed up \Nand led the villagers to Falvell's house!
+Dialogue: 0,0:21:04.99,0:21:11.41,Default,Craig,0,0,0,,An "expert witch hunter" showed up \Nto lead a mob to Falvell's house!
 Dialogue: 0,0:21:11.41,0:21:13.79,Default,Craig,0,0,0,,He had this weird mask on and...
 Dialogue: 0,0:21:22.96,0:21:24.13,Default,Ashaf,0,0,0,,An Executioner!
-Dialogue: 0,0:21:24.13,0:21:25.76,Default,Ashaf,0,0,0,,This really is bad news!
+Dialogue: 0,0:21:24.13,0:21:25.76,Default,Ashaf,0,0,0,,This is bad news!
 Dialogue: 0,0:21:25.76,0:21:26.59,Default,Craig,0,0,0,,I'll go with you!
-Dialogue: 0,0:21:27.62,0:21:28.74,Default,Ashaf,0,0,0,,That makes twice.
+Dialogue: 0,0:21:27.62,0:21:28.74,Default,Ashaf,0,0,0,,That makes twice.{sgt: second time he's put his hand on his neck.}
 Dialogue: 0,0:21:36.91,0:21:39.61,Default,Ashaf,0,0,0,,Executioners work in pairs.
-Dialogue: 0,0:21:40.04,0:21:42.57,Default,Ashaf,0,0,0,,I take it you're one of them.
+Dialogue: 0,0:21:40.04,0:21:42.57,Default,Ashaf,0,0,0,,You must be one of them.
 Dialogue: 0,0:21:45.89,0:21:51.24,Default,Craig,0,0,0,,That's all the proof you \Nneeded to pull the trigger?
 Dialogue: 0,0:21:53.77,0:21:55.31,Default,Craig,0,0,0,,You said you'd cleared me,
 Dialogue: 0,0:21:57.00,0:21:59.69,Default,Craig,0,0,0,,but you suspected me this whole time.
