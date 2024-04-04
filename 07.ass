@@ -44,8 +44,8 @@ Dialogue: 0,0:01:01.85,0:01:06.71,Default,Ashaf,0,0,0,,The Third Continent Palad
 Dialogue: 0,0:01:06.71,0:01:08.58,Default,Ashaf,0,0,0,,Matt Cugat.
 Dialogue: 0,0:01:08.58,0:01:11.40,Default,Ashaf,0,0,0,,His power rivals that of a witch.
 Dialogue: 0,0:01:12.76,0:01:14.88,Default,Guideau,0,0,0,,This must be him.
-Dialogue: 0,0:02:46.40,0:02:50.48,Signs,Text,0,0,0,,{\pos(244.88,970.88)\org(-100000,0)\fscx90\fnAlegreya\fs60\bord1.5\shad1.5\c&HF8EBE4&\3c&H605E5B&\4c&H6E5F52&\blur1.5\fad(500,500)}The Witch and\N{\frz0.005}the Demon Sword
-Dialogue: 0,0:02:46.40,0:02:50.48,Signs,Text,0,0,0,,{\pos(529.37,963.12)\fscx90\fnAlegreya\fs60\bord1.5\shad1.5\c&HF8EBE4&\3c&H605E5B&\4c&H6E5F52&\blur1.5\fad(500,500)}Act II
+Dialogue: 0,0:02:46.40,0:02:50.48,Signs,Text,0,0,0,,{\pos(244.88,970.88)\org(-100000,0)\fscx90\fnAlegreya\fs60\bord0.75\shad1.5\c&HF8EBE4&\3c&H605E5B&\4c&H6E5F52&\blur3.5\fad(500,500)}The Witch and\N{\frz0.005}the Demon Sword
+Dialogue: 0,0:02:46.40,0:02:50.48,Signs,Text,0,0,0,,{\pos(529.37,963.12)\fscx90\fnAlegreya\fs60\bord0.75\shad1.5\c&HF8EBE4&\3c&H605E5B&\4c&H6E5F52&\blur3.5\fad(500,500)}Act II
 Dialogue: 0,0:02:58.03,0:02:59.12,Default,Ashaf,0,0,0,,{\i1}Stop, Guideau.
 Dialogue: 0,0:03:00.80,0:03:02.96,Default,Ashaf,0,0,0,,{\i1}Save the kiss for later.
 Dialogue: 0,0:03:02.96,0:03:04.67,Default,Guideau,0,0,0,,What? Why?
