@@ -21,7 +21,7 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
-Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: Signs,Gandhi Sans,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -77,7 +77,8 @@ Dialogue: 0,0:04:34.96,0:04:36.17,Default,Jeff,0,0,0,,Then...
 Dialogue: 0,0:04:36.17,0:04:38.49,Default,Ashaf,0,0,0,,But rest assured.
 Dialogue: 0,0:04:38.49,0:04:41.13,Default,Ashaf,0,0,0,,Naturally, we retain someone who can.
 Dialogue: 0,0:04:41.49,0:04:44.05,Default,Ashaf,0,0,0,,The Order of Magical Resonance's finest...
-Dialogue: 0,0:04:45.68,0:04:50.98,Signs,Text,0,0,0,,{\pos(294,948)\fscx90\fnAlegreya\fs62\bord1.5\3c&H281E11&\blur1.5\fad(500,0)}Beauty and Death:\N{\fs58}Opening Act
+Dialogue: 0,0:04:45.68,0:04:50.98,Signs,Text,0,0,0,,{\fscx90\fnAlegreya\fs64\bord0.5\3c&H281E11&\blur3.5\fad(500,0)\pos(298,960)}Beauty and Death
+Dialogue: 0,0:04:45.68,0:04:50.98,Signs,Text,0,0,0,,{\fscx90\fnAlegreya\fs60\bord0.5\3c&H281E11&\blur3.5\fad(500,0)\pos(298,1072)}Opening Act
 Dialogue: 0,0:04:45.92,0:04:49.11,Default,Ashaf,0,0,0,,necromantic specialist.
 Dialogue: 0,0:04:52.56,0:04:54.89,Default,Phanora,0,0,0,,Quite chilly, this town.
 Dialogue: 0,0:04:58.38,0:05:00.52,Default,Johan,0,0,0,,Nah, it's plenty warm.
@@ -140,7 +141,7 @@ Dialogue: 0,0:08:14.32,0:08:17.72,Default,Phanora,0,0,0,,For now, let's take wha
 Dialogue: 0,0:08:17.72,0:08:19.12,Default,Jeff,0,0,0,,R-Right.
 Dialogue: 0,0:08:19.12,0:08:20.63,Default,Jeff,0,0,0,,Oh, that reminds me.
 Dialogue: 0,0:08:21.43,0:08:26.22,Default,Jeff,0,0,0,,The gentleman who recommended \Nyou to us left some instructions.
-Dialogue: 4,0:08:26.71,0:08:33.53,Flashback,Ashaf,0,0,0,,Locate all the registered undead in \Nthis province and their necromancers.
+Dialogue: 0,0:08:26.71,0:08:33.53,Flashback,Ashaf,0,0,0,,Locate all the registered undead in \Nthis province and their necromancers.
 Dialogue: 0,0:08:33.53,0:08:36.44,Flashback,Ashaf,0,0,0,,Note their movements \Nand contact information.
 Dialogue: 0,0:08:36.44,0:08:39.04,Flashback,Ashaf,0,0,0,,Have it all ready before \Nmy colleagues arrive.
 Dialogue: 0,0:08:39.04,0:08:40.69,Flashback,Ashaf,0,0,0,,They're sure to need it.
@@ -235,7 +236,7 @@ Dialogue: 0,0:14:01.06,0:14:05.40,Default,Jeff,0,0,0,,You mean, if they'd been \
 Dialogue: 0,0:14:05.40,0:14:10.34,Default,Jeff,0,0,0,,the distance would stop so many\Nfrom arriving at once like this?
 Dialogue: 0,0:14:10.34,0:14:11.32,Default,Phanora,0,0,0,,Yes.
 Dialogue: 0,0:14:11.60,0:14:15.82,Default,Phanora,0,0,0,,I doubt this many could even hide in town.
-Dialogue: 0,0:14:16.22,0:14:19.57,Default,Phanora,0,0,0,,Just under 40 minutes have passed\N since I lit the lantern.
+Dialogue: 0,0:14:16.22,0:14:19.57,Default,Phanora,0,0,0,,Just under 40 minutes have \Npassed since I lit the lantern.
 Dialogue: 0,0:14:19.57,0:14:22.29,Default,Phanora,0,0,0,,Their origin must be \Na 40-minute walk from here.
 Dialogue: 0,0:14:22.78,0:14:26.82,Default,Phanora,0,0,0,,I chose a deserted area to minimize the risk,
 Dialogue: 0,0:14:26.82,0:14:29.74,Default,Phanora,0,0,0,,but it appears we unintentionally \Nhit the nail on the head.
