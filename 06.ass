@@ -21,7 +21,7 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
-Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: Signs,Gandhi Sans,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -49,7 +49,7 @@ Dialogue: 0,0:03:36.63,0:03:41.86,Default,Ashaf,0,0,0,,{\i1}They{\i0} would neve
 Dialogue: 0,0:03:42.70,0:03:48.66,Default,Ashaf,0,0,0,,Unfortunately, our mission is \Nto make contact with the witch,
 Dialogue: 0,0:03:48.66,0:03:52.25,Default,Ashaf,0,0,0,,and the Paladin Corps is \Ncertain to stand in our way.
 Dialogue: 0,0:03:56.90,0:04:00.07,Default,Ashaf,0,0,0,,It'll be a free-for-all for the witch.{orig: Which means we'll have to fight to claim her.}
-Dialogue: 0,0:04:02.18,0:04:07.56,Signs,Text,0,0,0,,{\pos(327.594,301.446)\org(-100000,0)\fscx90\fnAlegreya\fs60\bord0.5\shad1.5\c&HF8EBE4&\3c&H281E11&\4c&H6E5F52&\blur1.5\fad(500,0)}The Witch and\N{\frz0.005} the Demon Sword\N{\fs48}Opening Act
+Dialogue: 0,0:04:02.18,0:04:07.56,Signs,Text,0,0,0,,{\pos(359,217)\org(-100000,0)\fscx90\fnAlegreya\fs50\bord0.5\shad1.5\c&HF8EBE4&\3c&H281E11&\4c&H6E5F52&\blur3.5\fad(500,0)}The Witch and the Demon Sword\N{\frz0.005\fs48}Opening Act
 Dialogue: 0,0:04:09.35,0:04:10.39,Default,Townsperson A,0,0,0,,That tower just...
 Dialogue: 0,0:04:10.69,0:04:13.16,Default,Townsperson B,0,0,0,,They'll destroy the whole city at this rate.
 Dialogue: 0,0:04:13.16,0:04:15.05,Default,Townsperson C,0,0,0,,The witch is on a rampage.
@@ -143,18 +143,18 @@ Dialogue: 0,0:09:41.74,0:09:43.53,Default,Helga,0,0,0,,I can't let myself die.
 Dialogue: 0,0:09:44.40,0:09:47.24,Default,Helga,0,0,0,,I haven't even had a boyfriend yet!
 Dialogue: 0,0:10:00.78,0:10:03.03,Default,Matt,0,0,0,,So she got them, too, huh?
 Dialogue: 0,0:10:03.03,0:10:06.86,Default,Paladin 3,0,0,0,,Sir! My Seekers were eliminated by the witch!
-Dialogue: 0,0:10:06.86,0:10:09.68,Default,Lowell,0,0,0,,Meaning she wiped out\N the entire search team.
+Dialogue: 0,0:10:06.86,0:10:09.68,Default,Lowell,0,0,0,,Meaning she wiped out the entire search team.
 Dialogue: 0,0:10:09.68,0:10:11.61,Default,Matt,0,0,0,,Prepare for a second sweep.
 Dialogue: 0,0:10:11.61,0:10:17.21,Default,Lowell,0,0,0,,Based on data from the first sweep, \Nthe witch creates and controls blades.
 Dialogue: 0,0:10:17.62,0:10:21.86,Default,Lowell,0,0,0,,She's roughly 170 centimeters \Ntall and has long black hair.
-Dialogue: 0,0:10:21.86,0:10:24.80,Default,Lowell,0,0,0,,We've confirmed Ultoma\N around her right eye.
+Dialogue: 0,0:10:21.86,0:10:24.80,Default,Lowell,0,0,0,,We've confirmed Ultoma around her right eye.
 Dialogue: 0,0:10:25.25,0:10:26.76,Default,Lowell,0,0,0,,But I don't see how this—
 Dialogue: 0,0:10:26.76,0:10:28.56,Default,Executioner,0,0,0,,It's 168 centimeters.
 Dialogue: 0,0:10:29.08,0:10:30.05,Default,Lowell,0,0,0,,Excuse me?
 Dialogue: 0,0:10:30.30,0:10:32.11,Default,Executioner,0,0,0,,Her height.
 Dialogue: 0,0:10:32.11,0:10:35.64,Default,Executioner,0,0,0,,And her hair is black with \Na red tinge, to be precise.
-Dialogue: 0,0:10:35.91,0:10:39.16,Default,Executioner,0,0,0,,She prefers monotones for her clothes,{orig: She seems to prefer \Nneutral-colored clothing,}
-Dialogue: 0,0:10:39.16,0:10:43.40,Default,Executioner,0,0,0,,and she always carries \Na tubular leather case.
+Dialogue: 0,0:10:35.91,0:10:39.16,Default,Executioner,0,0,0,,She prefers monotones for her clothes,{orig: She seems to prefer neutral-colored clothing,}
+Dialogue: 0,0:10:39.16,0:10:43.40,Default,Executioner,0,0,0,,and she always carries a tubular leather case.
 Dialogue: 0,0:10:43.40,0:10:44.86,Default,Executioner,0,0,0,,Apart from that...
 Dialogue: 0,0:10:44.86,0:10:47.57,Default,Matt,0,0,0,,You seem strangely well-informed.
 Dialogue: 0,0:10:48.93,0:10:53.28,Default,Matt,0,0,0,,So maybe you know which \Nlineage this witch belongs to?
@@ -163,7 +163,7 @@ Dialogue: 0,0:10:56.71,0:11:01.25,Default,Matt,0,0,0,,Knowing her lineage will t
 Dialogue: 0,0:11:03.08,0:11:05.03,Default,Farmus,0,0,0,,He's part of the pursuit team.
 Dialogue: 0,0:11:05.03,0:11:07.05,Default,Paladin 4,0,0,0,,Sir! Seekers destroyed!
 Dialogue: 0,0:11:07.05,0:11:08.79,Default,Paladin 4,0,0,0,,Cause unknown!
-Dialogue: 0,0:11:08.79,0:11:11.90,Default,Farmus,0,0,0,,The pursuit team was \Nsupposed to stay hidden.
+Dialogue: 0,0:11:08.79,0:11:11.90,Default,Farmus,0,0,0,,The pursuit team was supposed to stay hidden.
 Dialogue: 0,0:11:11.90,0:11:13.01,Default,Farmus,0,0,0,,What happened?
 Dialogue: 0,0:11:13.32,0:11:17.07,Default,Paladin 4,0,0,0,,I was monitoring the witch from \Noutside her estimated attack range,
 Dialogue: 0,0:11:17.07,0:11:19.64,Default,Paladin 4,0,0,0,,but I didn't see her make a move.
@@ -196,7 +196,7 @@ Dialogue: 0,0:13:34.10,0:13:37.51,Default,Executioner,0,0,0,,I realize I'm not w
 Dialogue: 0,0:13:37.51,0:13:42.32,Default,Executioner,0,0,0,,I was worried you'd kick me out\N if I told you all I knew.
 Dialogue: 0,0:13:42.78,0:13:44.87,Default,Executioner,0,0,0,,But very well.
 Dialogue: 0,0:13:46.30,0:13:53.09,Default,Executioner,0,0,0,,Creating and controlling weapons\N doesn't require a witch to achieve.
-Dialogue: 0,0:13:53.60,0:14:01.05,Default,Executioner,0,0,0,,But only one witch's mark—her \NUltoma—takes the shape of swords.
+Dialogue: 0,0:13:53.60,0:14:01.05,Default,Executioner,0,0,0,,But only one witch's mark, her Ultoma, \Ntakes the shape of swords.
 Dialogue: 0,0:14:01.82,0:14:02.97,Default,Matt,0,0,0,,You don't mean...
 Dialogue: 0,0:14:06.09,0:14:12.59,Default,Executioner,0,0,0,,She's a descendant of an Origin, \Nthe Dauntless Witch, Quena Velvette.
 Dialogue: 0,0:14:13.84,0:14:15.69,Default,Executioner,0,0,0,,Helga Velvette.
@@ -327,7 +327,7 @@ Dialogue: 0,0:21:54.08,0:21:54.84,Default,Ashgan,0,0,0,,Yes.
 Dialogue: 0,0:21:55.64,0:21:57.61,Default,Ashgan,0,0,0,,It looks like he's here.
 Dialogue: 0,0:22:00.01,0:22:03.33,Default,Matt,0,0,0,,Enough of this pointless struggle, witch.
 Dialogue: 0,0:22:08.50,0:22:11.70,Default,Matt,0,0,0,,I've made up my mind not \Nto let you get away again.
-Dialogue: 0,0:22:17.66,0:22:20.97,Default,Guideau,0,0,0,,Well, well. A paladin flesh this time?
+Dialogue: 0,0:22:17.66,0:22:20.97,Default,Guideau,0,0,0,,Well, well. A paladin in the flesh this time?
 Dialogue: 0,0:22:21.68,0:22:24.68,Default,Guideau,0,0,0,,Then you'll stay dead when I kill you.
 Dialogue: 0,0:24:00.58,0:24:04.93,Default,Ashgan,0,0,0,,Everyone loses themselves \Nin pursuit of my power.
 Dialogue: 0,0:24:05.59,0:24:10.93,Signs,Text,0,0,0,,{\an8\pos(960,280)\fscx90\fnAlegreya\fs75\bord0\blur0.9\fad(1000,0)}The Witch and \Nthe Demon Sword
