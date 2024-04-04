@@ -1,0 +1,288 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.92,0:00:09.11,Default,Ashaf,0,0,0,,An Executioner!
+Dialogue: 0,0:00:09.11,0:00:10.77,Default,Ashaf,0,0,0,,This really is bad news!
+Dialogue: 0,0:00:10.77,0:00:11.57,Default,Craig,0,0,0,,I'll go with you!
+Dialogue: 0,0:00:12.58,0:00:13.71,Default,Ashaf,0,0,0,,That makes twice.
+Dialogue: 0,0:00:21.87,0:00:24.58,Default,Ashaf,0,0,0,,Executioners work in pairs.
+Dialogue: 0,0:00:24.98,0:00:27.54,Default,Ashaf,0,0,0,,I take it you're one of them.
+Dialogue: 0,0:00:30.89,0:00:36.22,Default,Craig,0,0,0,,That's all the proof you \Nneeded to pull the trigger?
+Dialogue: 0,0:00:38.80,0:00:40.30,Default,Craig,0,0,0,,You said you'd cleared me,
+Dialogue: 0,0:00:42.02,0:00:45.10,Default,Craig,0,0,0,,but you suspected me this whole time.
+Dialogue: 0,0:00:45.69,0:00:47.45,Default,Craig,0,0,0,,Adults don't play fair.
+Dialogue: 0,0:01:04.06,0:01:05.17,Default,Owent,0,0,0,,What?
+Dialogue: 0,0:02:44.76,0:02:50.44,Default,Text,0,0,0,,{\blur0.3\fs20\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(1500,1000)\3c&H010705&\c&HF8EBE4&\4c&H010705&\pos(82,316)}Eloquence \Nand Silence
+Dialogue: 0,0:02:44.76,0:02:50.44,Default,Text,0,0,0,,{\blur0.3\fs16\bord0.5\shad0.5\fnTimes New Roman\fscx90\fad(1500,1000)\3c&H010705&\c&HF8EBE4&\4c&H010705&\pos(166,316)}Final Act
+Dialogue: 0,0:02:59.94,0:03:01.00,Default,Ashaf,0,0,0,,Hi there.
+Dialogue: 0,0:03:03.41,0:03:06.92,Default,Guideau,0,0,0,,Before you die, \Ntell me how to undo the curse.
+Dialogue: 0,0:03:07.74,0:03:09.87,Default,Guideau,0,0,0,,You know something, don't you, jackass?
+Dialogue: 0,0:03:10.63,0:03:16.88,Default,Ashaf,0,0,0,,Given the circumstances, I suggest \Noffering to save me in exchange.
+Dialogue: 0,0:03:17.28,0:03:21.92,Default,Guideau,0,0,0,,I've got no clue how to help you, \Nand I'm gonna kill you anyway.
+Dialogue: 0,0:03:22.61,0:03:25.85,Default,Guideau,0,0,0,,Hurry up and tell me, \Nunless you want it to hurt.
+Dialogue: 0,0:03:25.85,0:03:28.39,Default,Ashaf,0,0,0,,That won't do at all.
+Dialogue: 0,0:03:28.39,0:03:31.90,Default,Ashaf,0,0,0,,Threats can't get you everything.
+Dialogue: 0,0:03:32.39,0:03:35.81,Default,Ashaf,0,0,0,,To get what you want, \Nyou need to learn how to give, too.
+Dialogue: 0,0:03:35.81,0:03:37.62,Default,Guideau,0,0,0,,Yap, yap, yap.
+Dialogue: 0,0:03:39.93,0:03:42.59,Default,Guideau,0,0,0,,You sure don't know when to shut up.
+Dialogue: 0,0:03:42.59,0:03:46.61,Default,Ashaf,0,0,0,,There {\i1}is{\i0} a way to undo a witch's curse.
+Dialogue: 0,0:03:47.24,0:03:51.71,Default,Ashaf,0,0,0,,If you want to know what it is, \Naccept my terms.
+Dialogue: 0,0:03:52.52,0:03:55.96,Default,Ashaf,0,0,0,,Protect the girl. Protect Falvell.
+Dialogue: 0,0:03:56.77,0:03:59.21,Default,Guideau,0,0,0,,You expect {\i1}me{\i0} to guard a witch?
+Dialogue: 0,0:03:59.21,0:04:00.80,Default,Ashaf,0,0,0,,You have to!
+Dialogue: 0,0:04:01.19,0:04:06.76,Default,Ashaf,0,0,0,,You'll never undo the curse without her!
+Dialogue: 0,0:04:24.10,0:04:27.12,Default,Sven,0,0,0,,Hi. You're home late.
+Dialogue: 0,0:04:27.76,0:04:31.73,Default,Sven,0,0,0,,I had hoped to at least \Nlet you say your goodbyes.
+Dialogue: 0,0:04:42.97,0:04:44.07,Default,Sven,0,0,0,,Seize her.
+Dialogue: 0,0:04:44.82,0:04:45.48,Default,Villager 1,0,0,0,,But...
+Dialogue: 0,0:04:45.48,0:04:48.28,Default,Sven,0,0,0,,Don't worry. She won't resist.
+Dialogue: 0,0:04:56.85,0:04:58.39,Default,Sven,0,0,0,,You're rather late.
+Dialogue: 0,0:04:59.13,0:05:01.59,Default,Craig,0,0,0,,Did you kill Owent?
+Dialogue: 0,0:05:01.59,0:05:05.57,Default,Sven,0,0,0,,Yes. The villagers wouldn't listen to me.
+Dialogue: 0,0:05:09.50,0:05:12.12,Default,Sven,0,0,0,,Owent told me before he drew his last breath.
+Dialogue: 0,0:05:12.62,0:05:17.59,Default,Sven,0,0,0,,She can't use her power \Nbecause of a witch's curse.
+Dialogue: 0,0:05:20.70,0:05:23.67,Default,Sven,0,0,0,,Yes, there's the curse's mark.
+Dialogue: 0,0:05:24.86,0:05:26.35,Default,Sven,0,0,0,,Good grief.
+Dialogue: 0,0:05:26.88,0:05:33.64,Default,Sven,0,0,0,,We spent half a year investigating \Nin case she was hiding her power.
+Dialogue: 0,0:05:34.29,0:05:35.93,Default,Sven,0,0,0,,What a shame.
+Dialogue: 0,0:05:35.93,0:05:38.83,Default,Sven,0,0,0,,Undoing a witch's curse is beyond us.
+Dialogue: 0,0:05:38.83,0:05:42.30,Default,Craig,0,0,0,,I guess we can't steal Falvell's power, then.
+Dialogue: 0,0:05:42.30,0:05:45.24,Default,Sven,0,0,0,,Right. We'll just have to dispose of her.
+Dialogue: 0,0:05:45.53,0:05:50.45,Default,Sven,0,0,0,,I hate to lose the Mystic Witch's power,\N but it is what it is.
+Dialogue: 0,0:05:51.14,0:05:56.33,Default,Sven,0,0,0,,But my biggest regret of all, Falvell,
+Dialogue: 0,0:05:57.57,0:06:00.88,Default,Sven,0,0,0,,is that I won't be able to \Nenjoy your tea anymore.
+Dialogue: 0,0:06:06.15,0:06:09.90,Default,Craig,0,0,0,,Sven, if you mind that much, \Nwant to call off the execution?
+Dialogue: 0,0:06:10.45,0:06:17.77,Default,Sven,0,0,0,,Craig, when it comes to tea, \Nthe last drop in the pot is always the best.
+Dialogue: 0,0:06:19.43,0:06:22.33,Default,Sven,0,0,0,,I've sheltered and supported you myself.
+Dialogue: 0,0:06:22.33,0:06:27.82,Default,Sven,0,0,0,,You're a stranger to mistrust, \Nmy sweet, innocent Falvell.
+Dialogue: 0,0:06:28.68,0:06:32.06,Default,Sven,0,0,0,,I savored my days as your dear neighbor.
+Dialogue: 0,0:06:32.75,0:06:37.83,Default,Sven,0,0,0,,Now, more than anything, \NI want to taste the last drop.
+Dialogue: 0,0:06:46.24,0:06:52.71,Default,Guideau,0,0,0,,Stir up hatred against a witch and \Ntoss everything she's got into a fire.
+Dialogue: 0,0:06:52.71,0:06:57.27,Default,Guideau,0,0,0,,"Dispel evil with purifying flame"\N or something like that, right?
+Dialogue: 0,0:06:57.55,0:07:01.77,Default,Guideau,0,0,0,,You really stick to that \Nplaybook of yours, Executioners.
+Dialogue: 0,0:07:02.23,0:07:05.64,Default,Craig,0,0,0,,What? I figured you had run away.
+Dialogue: 0,0:07:05.64,0:07:09.71,Default,Sven,0,0,0,,Craig, is this the woman \Nwith the coffin you mentioned?
+Dialogue: 0,0:07:09.71,0:07:10.45,Default,Craig,0,0,0,,Yeah.
+Dialogue: 0,0:07:10.92,0:07:11.86,Default,Sven,0,0,0,,Well, now.
+Dialogue: 0,0:07:11.86,0:07:14.20,Default,Sven,0,0,0,,Don't tell me you came to protect Falvell?
+Dialogue: 0,0:07:16.63,0:07:19.54,Default,Sven,0,0,0,,Where did you come from?
+Dialogue: 0,0:07:24.48,0:07:28.38,Default,Sven,0,0,0,,How do you know how Executioners operate?
+Dialogue: 0,0:07:28.38,0:07:31.34,Default,Sven,0,0,0,,Just who are you?
+Dialogue: 0,0:07:34.55,0:07:35.87,Default,Guideau,0,0,0,,Out of my way!
+Dialogue: 0,0:07:35.87,0:07:37.14,Default,Guideau,0,0,0,,Get lost already!
+Dialogue: 0,0:07:37.57,0:07:39.31,Default,Sven,0,0,0,,A metal coffin?
+Dialogue: 0,0:07:39.91,0:07:43.68,Default,Sven,0,0,0,,Carrying this thing around \Nmakes you stranger than ever.
+Dialogue: 0,0:07:43.68,0:07:45.77,Default,Sven,0,0,0,,What's inside it?
+Dialogue: 0,0:07:54.38,0:07:56.71,Default,Sven,0,0,0,,Well, the woman can wait.
+Dialogue: 0,0:07:57.67,0:08:00.95,Default,Sven,0,0,0,,I don't want anything \Ninterrupting Falvell's execution.
+Dialogue: 0,0:08:02.83,0:08:05.00,Default,Guideau,0,0,0,,What's wrong with you?! Run for it!
+Dialogue: 0,0:08:07.28,0:08:09.09,Default,Sven,0,0,0,,How irritating.
+Dialogue: 0,0:08:19.55,0:08:21.89,Default,Sven,0,0,0,,You couldn't possibly escape, could you?
+Dialogue: 0,0:08:22.35,0:08:30.77,Default,Sven,0,0,0,,Kind little Falvell could never leave \NOwent and run, even if he is a corpse.
+Dialogue: 0,0:08:33.18,0:08:34.54,Default,Sven,0,0,0,,Do you hate me?
+Dialogue: 0,0:08:35.16,0:08:38.84,Default,Sven,0,0,0,,I've never seen you make that face before.
+Dialogue: 0,0:08:45.23,0:08:49.92,Default,Ashaf,0,0,0,,You can't possibly escape the \NExecutioners without magic.
+Dialogue: 0,0:08:50.19,0:08:54.88,Default,Ashaf,0,0,0,,I know I promised to protect you.\NI'm sorry it turned out this way.
+Dialogue: 0,0:08:55.28,0:08:59.51,Default,Ashaf,0,0,0,,But Falvell, you're our only hope now.
+Dialogue: 0,0:08:59.51,0:09:02.12,Default,Ashaf,0,0,0,,Now, listen closely, understand?
+Dialogue: 0,0:09:11.47,0:09:14.58,Default,Guideau,0,0,0,,Huh? What're you doing here?
+Dialogue: 0,0:09:15.06,0:09:18.49,Default,Guideau,0,0,0,,How many times do I have \Nto tell you... to run for it?
+Dialogue: 0,0:09:19.75,0:09:22.87,Flashback,Ashaf,0,0,0,,To get what you want, you need to give.
+Dialogue: 0,0:09:25.69,0:09:27.74,Default,Guideau,0,0,0,,Man, what a pain in the ass.
+Dialogue: 0,0:09:29.30,0:09:32.97,Default,Guideau,0,0,0,,You hate those bastards, right?
+Dialogue: 0,0:09:33.85,0:09:37.30,Default,Guideau,0,0,0,,I'll kick their asses for you.
+Dialogue: 0,0:09:37.95,0:09:41.93,Default,Guideau,0,0,0,,So do what I say and get lost.
+Dialogue: 0,0:09:41.93,0:09:45.18,Default,Guideau,0,0,0,,How will I undo this curse if you die on me?
+Dialogue: 0,0:10:09.42,0:10:12.04,Default,Sven,0,0,0,,You've seemed to be in pain since you got here.
+Dialogue: 0,0:10:15.26,0:10:20.14,Default,Sven,0,0,0,,As much as I hate to put you out of your \Nmisery by dealing the coup de grâce...
+Dialogue: 0,0:10:30.71,0:10:31.61,Default,Craig,0,0,0,,What?
+Dialogue: 0,0:10:34.55,0:10:36.28,Default,Craig,0,0,0,,Who are you?!
+Dialogue: 0,0:10:47.72,0:10:49.64,Default,Craig,0,0,0,,Who are you?!
+Dialogue: 0,0:11:01.44,0:11:05.43,Default,Guideau,0,0,0,,Shit. I've gotten rusty.
+Dialogue: 0,0:11:06.98,0:11:08.39,Default,Ashaf,0,0,0,,Now there's a surprise.
+Dialogue: 0,0:11:09.29,0:11:11.85,Default,Ashaf,0,0,0,,I see. This means...
+Dialogue: 0,0:11:15.27,0:11:17.36,Default,Sven,0,0,0,,What are you all standing around for?!
+Dialogue: 0,0:11:17.36,0:11:19.57,Default,Sven,0,0,0,,Hurry up and grab the witch!
+Dialogue: 0,0:11:19.57,0:11:22.40,Default,Sven,0,0,0,,They're desperate to protect her!
+Dialogue: 0,0:11:22.40,0:11:24.03,Default,Sven,0,0,0,,Take her hostage!
+Dialogue: 0,0:11:24.03,0:11:25.16,Default,Villager 3,0,0,0,,That's right!
+Dialogue: 0,0:11:25.16,0:11:26.03,Default,Villager 4,0,0,0,,Quickly!
+Dialogue: 0,0:11:27.79,0:11:29.16,Default,Guideau,0,0,0,,A hostage?
+Dialogue: 0,0:11:30.13,0:11:31.79,Default,Guideau,0,0,0,,Like I give a shit.
+Dialogue: 0,0:11:33.84,0:11:35.74,Default,Guideau,0,0,0,,I'm done with you.
+Dialogue: 0,0:11:35.74,0:11:40.49,Default,Guideau,0,0,0,,I'll get revenge for you, \Nbut protect your own damn self!
+Dialogue: 0,0:11:41.05,0:11:42.80,Default,Falvell,0,0,0,,People, I command you:
+Dialogue: 0,0:11:42.80,0:11:43.47,Default,Falvell,0,0,0,,don't move!
+Dialogue: 0,0:11:46.26,0:11:47.27,Default,Villager 5,0,0,0,,Huh?
+Dialogue: 0,0:11:47.27,0:11:50.48,Default,Villager 4,0,0,0,,I... I can't move a...
+Dialogue: 0,0:11:53.43,0:11:54.92,Default,Falvell,0,0,0,,Fire, I command you:
+Dialogue: 0,0:11:55.49,0:11:56.44,Default,Falvell,0,0,0,,go out.
+Dialogue: 0,0:12:02.62,0:12:03.57,Default,Sven,0,0,0,,What?
+Dialogue: 0,0:12:04.04,0:12:05.57,Default,Sven,0,0,0,,What's going on?
+Dialogue: 0,0:12:05.57,0:12:08.34,Default,Ashaf,0,0,0,,Oh, I see now.
+Dialogue: 0,0:12:08.34,0:12:13.63,Default,Ashaf,0,0,0,,So she has a witch's body, too.
+Dialogue: 0,0:12:14.80,0:12:20.18,Default,Ashaf,0,0,0,,By kissing a witch, \Nthey undid each other's curses.
+Dialogue: 0,0:12:21.11,0:12:23.48,Default,Ashaf,0,0,0,,And you'd best brace yourself.
+Dialogue: 0,0:12:23.48,0:12:26.99,Default,Ashaf,0,0,0,,You're witnessing vocative magic. \NA true rarity.
+Dialogue: 0,0:12:26.99,0:12:31.81,Default,Ashaf,0,0,0,,Everything in existence \Nis now hers to command.
+Dialogue: 0,0:12:33.77,0:12:35.23,Default,Falvell,0,0,0,,Executioner...
+Dialogue: 0,0:12:35.58,0:12:37.30,Default,Sven,0,0,0,,W-Wait!
+Dialogue: 0,0:12:37.30,0:12:39.07,Default,Sven,0,0,0,,Don't be hasty, Falvell!
+Dialogue: 0,0:12:40.01,0:12:41.68,Default,Sven,0,0,0,,Stop, Falvell!
+Dialogue: 0,0:12:41.68,0:12:42.94,Default,Falvell,0,0,0,,I command you...
+Dialogue: 0,0:12:42.94,0:12:43.95,Default,Sven,0,0,0,,Falvell!
+Dialogue: 0,0:12:43.95,0:12:45.12,Default,Falvell,0,0,0,,Perish!
+Dialogue: 0,0:12:54.51,0:12:56.46,Default,Craig,0,0,0,,Talk about power.
+Dialogue: 0,0:12:58.01,0:12:59.72,Default,Craig,0,0,0,,Both Falvell...
+Dialogue: 0,0:13:00.76,0:13:03.13,Default,Craig,0,0,0,,and that monster.
+Dialogue: 0,0:13:03.52,0:13:07.78,Default,Craig,0,0,0,,Forget curses. Those were more like seals.
+Dialogue: 0,0:13:09.42,0:13:15.35,Default,Craig,0,0,0,,Damn it. The whole world's full of monsters.
+Dialogue: 0,0:13:24.06,0:13:29.99,Default,Owent,0,0,0,,No matter how many times I hear about\N Falvell's magic, it still blows me away.
+Dialogue: 0,0:13:29.99,0:13:33.88,Default,Owent,0,0,0,,It's only a day later, \Nand I couldn't be healthier!
+Dialogue: 0,0:13:33.88,0:13:38.06,Default,Ashaf,0,0,0,,I'd say things worked out because \Nyou only had a stopped heart.
+Dialogue: 0,0:13:38.06,0:13:39.63,Default,Owent,0,0,0,,"Only"?
+Dialogue: 0,0:13:40.12,0:13:42.44,Default,Ashaf,0,0,0,,Falvell's still a child.
+Dialogue: 0,0:13:42.44,0:13:46.92,Default,Ashaf,0,0,0,,When she grows up, I doubt even \Nthe dead will be beyond her.
+Dialogue: 0,0:13:48.25,0:13:51.26,Default,Ashaf,0,0,0,,Now, what will you do?
+Dialogue: 0,0:13:51.74,0:13:58.76,Default,Ashaf,0,0,0,,As I already told you, kissing a witch \Nonly undoes a curse temporarily.
+Dialogue: 0,0:13:59.26,0:14:03.23,Default,Ashaf,0,0,0,,And the power to dispel \Ncurses dwells in purity,
+Dialogue: 0,0:14:03.56,0:14:06.83,Default,Ashaf,0,0,0,,which means it only works once per witch.
+Dialogue: 0,0:14:09.17,0:14:11.80,Default,Ashaf,0,0,0,,So that just leaves the conventional method.
+Dialogue: 0,0:14:12.37,0:14:14.83,Default,Ashaf,0,0,0,,You need to find the one who cursed you.
+Dialogue: 0,0:14:15.47,0:14:22.17,Default,Ashaf,0,0,0,,And the Order can teach you about witches\Nplus lots of other things you don't know.
+Dialogue: 0,0:14:23.17,0:14:25.63,Default,Ashaf,0,0,0,,So what will it be?
+Dialogue: 0,0:14:27.13,0:14:29.59,Default,Guideau,0,0,0,,Lift the spell first, then.
+Dialogue: 0,0:14:29.93,0:14:31.05,Default,Ashaf,0,0,0,,What spell?
+Dialogue: 0,0:14:31.05,0:14:33.58,Default,Guideau,0,0,0,,That weird broth you fed me.
+Dialogue: 0,0:14:33.58,0:14:36.64,Default,Guideau,0,0,0,,I've been dying to have it\N again for a while now.
+Dialogue: 0,0:14:36.96,0:14:38.68,Default,Guideau,0,0,0,,What kind of spell was that?
+Dialogue: 0,0:14:39.39,0:14:44.03,Default,Guideau,0,0,0,,Nothing I've eaten before \Nhas ever made me feel like this.
+Dialogue: 0,0:14:44.03,0:14:46.58,Default,Guideau,0,0,0,,You did something to my body!
+Dialogue: 0,0:14:46.58,0:14:48.90,Default,Guideau,0,0,0,,Unless you've got a death wish, undo it {\i1}now{\i0}!
+Dialogue: 0,0:14:50.05,0:14:52.87,Default,Ashaf,0,0,0,,Do you mean you really can't tell?
+Dialogue: 0,0:14:55.02,0:14:57.83,Default,Ashaf,0,0,0,,Well, well. Dear me.
+Dialogue: 0,0:15:00.00,0:15:04.93,Default,Ashaf,0,0,0,,I see you have a lot you need to learn.
+Dialogue: 0,0:15:04.93,0:15:05.80,Default,Guideau,0,0,0,,Huh?
+Dialogue: 0,0:15:05.80,0:15:07.27,Default,Ashaf,0,0,0,,Listen.
+Dialogue: 0,0:15:07.27,0:15:12.57,Default,Ashaf,0,0,0,,No spell or curse caused that \Nstrange sensation you're feeling.
+Dialogue: 0,0:15:12.57,0:15:15.33,Default,Ashaf,0,0,0,,It's something everyone experiences.
+Dialogue: 0,0:15:15.33,0:15:19.77,Default,Ashaf,0,0,0,,Given the way you speak, \NI can guess how you'd describe it.
+Dialogue: 0,0:15:20.39,0:15:21.35,Default,Ashaf,0,0,0,,Namely...
+Dialogue: 0,0:15:21.74,0:15:23.16,Default,Ashaf,0,0,0,,"It was damn tasty."
+Dialogue: 0,0:15:33.79,0:15:37.33,Default,Ashaf,0,0,0,,Guideau, you have a will of steel.
+Dialogue: 0,0:15:37.33,0:15:41.79,Default,Ashaf,0,0,0,,You'll never bend or soak up\Nothers' ways of seeing things.
+Dialogue: 0,0:15:43.91,0:15:50.07,Default,Ashaf,0,0,0,,Your fierce sense of self can even \Nshake off magical brainwashing.
+Dialogue: 0,0:15:50.07,0:15:53.95,Default,Ashaf,0,0,0,,Even so, you've learned a lot \Nin the three years since we met,
+Dialogue: 0,0:15:53.95,0:15:57.63,Default,Ashaf,0,0,0,,and you've changed of your \Nown free will, albeit gradually.
+Dialogue: 0,0:16:01.26,0:16:06.01,Default,Ashaf,0,0,0,,Yet just one unfortunate meeting \Nhas sent you right back to that day.
+Dialogue: 0,0:16:07.40,0:16:12.06,Default,Ashaf,0,0,0,,Angela Anne Huell. \NWhat a despicable witch.
+Dialogue: 0,0:16:14.49,0:16:18.16,Default,Ashaf,0,0,0,,I'm not fully recovered, \Nbut I can more or less move now.
+Dialogue: 0,0:16:19.36,0:16:23.39,Default,Ashaf,0,0,0,,I have faith that what we've \Nbuilt up hasn't crumbled,
+Dialogue: 0,0:16:23.39,0:16:26.92,Default,Ashaf,0,0,0,,and that this was just\N a temporary outburst.
+Dialogue: 0,0:16:27.49,0:16:32.92,Default,Ashaf,0,0,0,,I still have something I want\N to teach you more than anything.
+Dialogue: 0,0:16:34.27,0:16:35.43,Default,Guideau,0,0,0,,Wait.
+Dialogue: 0,0:16:36.22,0:16:37.72,Default,Guideau,0,0,0,,What does that mean?
+Dialogue: 0,0:16:38.09,0:16:43.37,Default,Ashaf,0,0,0,,Do you imagine I'm still keeping \Nuseful information from you?
+Dialogue: 0,0:16:46.44,0:16:48.31,Default,Ashaf,0,0,0,,It's nothing like that.
+Dialogue: 0,0:16:49.22,0:16:51.65,Default,Ashaf,0,0,0,,Love, Guideau.
+Dialogue: 0,0:16:52.64,0:16:56.15,Default,Ashaf,0,0,0,,I want to teach you what love is.
+Dialogue: 0,0:17:05.51,0:17:09.67,Default,Ashaf,0,0,0,,I assume you know that \Nour world has eight continents.
+Dialogue: 0,0:17:10.20,0:17:14.72,Default,Ashaf,0,0,0,,The world's most influential \Norganization, the Global Holy Church,
+Dialogue: 0,0:17:14.72,0:17:17.99,Default,Ashaf,0,0,0,,has its headquarters on the First Continent.
+Dialogue: 0,0:17:15.47,0:17:23.68,Default,Text,0,0,0,,{\fad(900,0)\blur0.3\fs15\bord0\shad0\fnTimes New Roman\fscx90\c&HFFFFFF&\move(115,78,122,81)\t(\fscx87\fscy97)}First Continent
+Dialogue: 0,0:17:17.99,0:17:23.68,Default,Ashaf,0,0,0,,The Second Continent lies east \Nof that, followed by the Third.
+Dialogue: 0,0:17:19.85,0:17:23.68,Default,Text,0,0,0,,{\fad(900,0)\blur0.3\fs14\bord0\shad0\fnTimes New Roman\fscx90\c&HFFFFFF&\t(\fscx88\fscy98)\move(203.333,123.333,205.333,124.333)}Second Continent
+Dialogue: 0,0:17:19.85,0:17:23.68,Default,Text,0,0,0,,{\fad(900,0)\blur0.3\fs14\bord0\shad0\fnTimes New Roman\fscx90\c&HFFFFFF&\t(\fscx88\fscy98)\move(218.667,191.333,219.667,191.333)}Third Continent
+Dialogue: 0,0:17:24.29,0:17:30.59,Default,Ashaf,0,0,0,,The farther you go from the progenitor \Nof magic, the Global Holy Church,
+Dialogue: 0,0:17:30.59,0:17:33.69,Default,Ashaf,0,0,0,,the lower the level of \Nmagical civilization grows.
+Dialogue: 0,0:17:34.12,0:17:38.61,Default,Ashaf,0,0,0,,But the Eighth Continent, \Nthe farthest from the First,
+Dialogue: 0,0:17:38.61,0:17:41.83,Default,Ashaf,0,0,0,,flourishes through its \Nown distinctive sorcery.
+Dialogue: 0,0:17:42.23,0:17:45.90,Default,Ashaf,0,0,0,,You live on the Seventh Continent,
+Dialogue: 0,0:17:45.90,0:17:51.29,Default,Ashaf,0,0,0,,but you likely find it quite comfortable,\Nthanks to having the Eighth next door.
+Dialogue: 0,0:17:51.91,0:17:54.12,Default,Ashaf,0,0,0,,Well, that aside...
+Dialogue: 0,0:17:54.62,0:17:59.97,Default,Ashaf,0,0,0,,This world of ours also\Nincludes a few anomalous areas.
+Dialogue: 0,0:18:00.23,0:18:06.01,Default,Ashaf,0,0,0,,Like the isolated island between \Nthe Seventh and Eighth continents.
+Dialogue: 0,0:18:06.01,0:18:08.37,Default,Ashaf,0,0,0,,It has a hole in it.
+Dialogue: 0,0:18:08.37,0:18:10.59,Default,Ashaf,0,0,0,,A bottomless pit.
+Dialogue: 0,0:18:15.23,0:18:20.37,Default,Ashaf,0,0,0,,You might think, \N"Where that pit leads, no one knows."
+Dialogue: 0,0:18:20.37,0:18:22.94,Default,Ashaf,0,0,0,,But not in the least.
+Dialogue: 0,0:18:22.94,0:18:25.87,Default,Ashaf,0,0,0,,That question has already \Nbeen thoroughly answered.
+Dialogue: 0,0:18:26.23,0:18:29.84,Default,Ashaf,0,0,0,,You can even book a tour, if you like.
+Dialogue: 0,0:18:29.84,0:18:35.19,Default,Ashaf,0,0,0,,Although for that, \Nyou'd need privilege, wealth,
+Dialogue: 0,0:18:35.19,0:18:39.09,Default,Ashaf,0,0,0,,and the resolve to risk your life.
+Dialogue: 0,0:18:39.56,0:18:44.47,Default,Ashaf,0,0,0,,The Order has all three, \Nso we got approval.
+Dialogue: 0,0:18:44.47,0:18:50.04,Top,Ashaf,0,0,0,,This is the entrance to a hole \Nout of this world: the Fall.
+Dialogue: 0,0:18:48.27,0:18:52.77,Default,Text,0,0,0,,{\fad(650,1300)\pos(320,274)\bord0\shad0\blur0.3\fnTimes New Roman\fs14}(Tiered Worlds)\N{\fs28}The Fall
+Dialogue: 0,0:18:59.83,0:19:03.45,Default,Receptionist,0,0,0,,We appreciate your visit, Mr. Ashaf.
+Dialogue: 0,0:19:05.27,0:19:08.21,Default,Receptionist,0,0,0,,Please proceed to your right.
+Dialogue: 0,0:19:16.16,0:19:19.82,Default,Ashaf,0,0,0,,The Fall has seventeen levels.
+Dialogue: 0,0:19:21.30,0:19:24.67,Default,Ashaf,0,0,0,,Each one connects to a \Ndifferent, independent world.
+Dialogue: 0,0:19:27.51,0:19:30.23,Default,Ashaf,0,0,0,,The letters Angela carved \Ninto that Executioner...
+Dialogue: 0,0:19:32.05,0:19:34.15,Default,Ashaf,0,0,0,,are part of a writing system from the Fall.
+Dialogue: 0,0:19:34.68,0:19:38.51,Default,Ashaf,0,0,0,,To outsiders, this is the only \Nplace that comes to mind.
+Dialogue: 0,0:19:38.51,0:19:43.74,Default,Ashaf,0,0,0,,If we're going to pursue Angela, \Nwe should find her or another clue here.
+Dialogue: 0,0:19:50.44,0:19:53.12,Default,Guide,0,0,0,,Welcome to Level Four.
+Dialogue: 0,0:19:53.56,0:19:58.59,Default,Guide,0,0,0,,Or the final floor leading \Nto Level Four, to be precise.
+Dialogue: 0,0:19:58.59,0:20:02.05,Default,Guide,0,0,0,,This level can be rather dangerous.
+Dialogue: 0,0:20:02.05,0:20:07.06,Default,Guide,0,0,0,,Even more so if its residents \Nrecognize you as travelers.
+Dialogue: 0,0:20:07.48,0:20:11.27,Default,Guide,0,0,0,,This floor offers services \Nincluding changes of wardrobe
+Dialogue: 0,0:20:11.27,0:20:17.95,Default,Guide,0,0,0,,and local coordinators \Nwell-versed in the level's customs.
+Dialogue: 0,0:20:17.95,0:20:19.48,Default,Ashaf,0,0,0,,No, thank you.
+Dialogue: 0,0:20:20.03,0:20:22.78,Default,Ashaf,0,0,0,,Show us to the dressing rooms.
+Dialogue: 0,0:20:26.12,0:20:28.62,Default,Stylist,0,0,0,,What may I do for you?
+Dialogue: 0,0:20:28.62,0:20:29.95,Default,Ashaf,0,0,0,,Let me see...
+Dialogue: 0,0:20:29.95,0:20:32.88,Default,Ashaf,0,0,0,,We'd prefer middle-class outfits,
+Dialogue: 0,0:20:32.88,0:20:36.08,Default,Ashaf,0,0,0,,and we'd like to visit \Nupper-class venues, as well.
+Dialogue: 0,0:20:36.08,0:20:37.71,Default,Stylist,0,0,0,,Certainly, sir.
+Dialogue: 0,0:20:38.00,0:20:42.26,Default,Ashaf,0,0,0,,Give us outfits for ten days,\N plus a few spares.
+Dialogue: 0,0:20:42.26,0:20:45.89,Default,Stylist,0,0,0,,That will be a lot to carry.
+Dialogue: 0,0:20:45.89,0:20:49.68,Default,Stylist,0,0,0,,I'll prepare a servant and carriage, as well.
+Dialogue: 0,0:20:49.68,0:20:53.43,Default,Stylist,0,0,0,,Or will you store them in that bag?
+Dialogue: 0,0:20:53.43,0:20:57.02,Default,Ashaf,0,0,0,,No, I'd like the carriage for this coffin.
+Dialogue: 0,0:20:57.02,0:21:01.60,Default,Ashaf,0,0,0,,As you guessed, my case can fit most things,
+Dialogue: 0,0:21:01.60,0:21:05.25,Default,Ashaf,0,0,0,,but this has too much mass to compress.
+Dialogue: 0,0:21:05.25,0:21:07.02,Default,Stylist,0,0,0,,Understood.
+Dialogue: 0,0:21:07.02,0:21:09.74,Default,Ashaf,0,0,0,,And one last request.
+Dialogue: 0,0:21:10.11,0:21:13.20,Default,Ashaf,0,0,0,,We'd like some all-black outfits.
+Dialogue: 0,0:21:14.66,0:21:17.03,Default,Ashaf,0,0,0,,Several sets of those, too.
+Dialogue: 0,0:21:17.03,0:21:21.15,Default,Stylist,0,0,0,,Um, wearing all black on this level signals...
+Dialogue: 0,0:21:21.15,0:21:22.91,Default,Ashaf,0,0,0,,Oh, don't worry.
+Dialogue: 0,0:21:24.66,0:21:26.05,Default,Ashaf,0,0,0,,I know.
+Dialogue: 0,0:21:27.68,0:21:30.64,Default,Stylist,0,0,0,,Please wait a few moments, then.
+Dialogue: 0,0:21:32.91,0:21:35.77,Default,Ashaf,0,0,0,,Now we're ready.
+Dialogue: 0,0:21:36.39,0:21:38.23,Default,Ashaf,0,0,0,,How does your outfit feel?
+Dialogue: 0,0:21:38.23,0:21:41.50,Default,Guideau,0,0,0,,Who cares? It's just cloth.
+Dialogue: 0,0:21:41.50,0:21:44.44,Default,Guideau,0,0,0,,It's all the same as long as I can tear it up.
+Dialogue: 0,0:21:44.44,0:21:47.12,Default,Ashaf,0,0,0,,You will, of course, \Nkeep it all clean and intact.
+Dialogue: 0,0:21:47.12,0:21:49.20,Default,Guideau,0,0,0,,In that case, it's a pain\N in the ass to move in.
+Dialogue: 0,0:21:51.12,0:21:54.54,Default,Ashaf,0,0,0,,Comfort aside, it suits you to a T.
+Dialogue: 0,0:22:01.58,0:22:02.71,Default,Ashaf,0,0,0,,That said...
+Dialogue: 0,0:22:03.09,0:22:07.58,Default,Ashaf,0,0,0,,You'll have no shortage of chances \Nto ruin your clothes in this world.
+Dialogue: 0,0:22:09.45,0:22:11.50,Default,Ashaf,0,0,0,,Now, shall we go?
+Dialogue: 0,0:22:13.53,0:22:17.73,Default,Ashaf,0,0,0,,Level Four: Orlencia Sett.
+Dialogue: 0,0:22:17.73,0:22:20.76,Default,Ashaf,0,0,0,,A world where vampires dwell.
