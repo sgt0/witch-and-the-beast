@@ -25,7 +25,8 @@ Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:47.16,0:01:51.54,Signs,Text,0,0,0,,{\pos(355.94,254.2)\fscx90\fnAlegreya\fs70\bord1.5\3c&H281E11&\blur1.5\fad(500,0)}The Witch's Pastime:\N{\fs60}Final Act
+Dialogue: 0,0:01:47.17,0:01:51.55,Signs,Text,0,0,0,,{\pos(244,171)\fscx90\fnAlegreya\fs54\bord0.5\3c&H281E11&\blur3.5\fad(500,0)}The Witch's Pastime
+Dialogue: 0,0:01:47.17,0:01:51.55,Signs,Text,0,0,0,,{\pos(510,171)\fscx90\fnAlegreya\fs50\bord0.5\3c&H281E11&\blur3.5\fad(500,0)}Final Act
 Dialogue: 0,0:01:52.18,0:01:56.72,Default,Haines,0,0,0,,We suspect a witch, based on \Nthe overwhelming power.
 Dialogue: 0,0:01:56.72,0:01:59.59,Default,Haines,0,0,0,,Then there are the messages\Nleft at the crime scenes.
 Dialogue: 0,0:01:59.98,0:02:03.22,Default,Haines,0,0,0,,Each one points to the killer being a witch.
@@ -293,7 +294,7 @@ Dialogue: 0,0:16:43.96,0:16:46.27,Default,Haines,0,0,0,,You two were the witch a
 Dialogue: 0,0:16:46.27,0:16:48.56,Default,Haines,0,0,0,,No, that can't be.
 Dialogue: 0,0:16:48.56,0:16:51.44,Default,Haines,0,0,0,,I know you don't have that kind of power.
 Dialogue: 0,0:16:51.67,0:16:54.25,Default,Ashaf,0,0,0,,Look at what they're holding, Kiera.
-Dialogue: 0,0:16:55.52,0:16:58.32,Default,Ashaf,0,0,0,,There's the truth behind \Ntheir witch-like power.
+Dialogue: 0,0:16:55.52,0:16:58.32,Default,Ashaf,0,0,0,,There's the truth behind their witch-like power.
 Dialogue: 0,0:16:59.09,0:17:02.54,Default,Ashaf,0,0,0,,The two-volume grimoire, Sarnouasuth{Sarnovasus}.
 Dialogue: 0,0:17:02.54,0:17:04.00,Default,Haines,0,0,0,,A grimoire?
 Dialogue: 0,0:17:04.43,0:17:08.19,Default,Ashaf,0,0,0,,Grimoires provide power and \Nperform spells for their wielders.
@@ -303,7 +304,7 @@ Dialogue: 0,0:17:13.94,0:17:17.72,Default,Ashaf,0,0,0,,They're a type of Forbidd
 Dialogue: 0,0:17:17.72,0:17:21.46,Default,Ashaf,0,0,0,,And either part of a two-volume grimoire
 Dialogue: 0,0:17:21.46,0:17:24.68,Default,Ashaf,0,0,0,,can summon its other half \Ninstantly across space.
 Dialogue: 0,0:17:24.68,0:17:28.15,Default,Ashaf,0,0,0,,But only up to a distance \Nof roughly one kilometer.{manga: no spacial limitation}
-Dialogue: 0,0:17:28.53,0:17:31.07,Default,Ashaf,0,0,0,,So I was able to locate them\N in next to no time.
+Dialogue: 0,0:17:28.53,0:17:31.07,Default,Ashaf,0,0,0,,So I was able to locate them in next to no time.
 Dialogue: 0,0:17:31.07,0:17:32.86,Default,Loran,0,0,0,,Who is this guy?
 Dialogue: 0,0:17:32.86,0:17:36.17,Default,Haines,0,0,0,,Where did you get something like that?
 Dialogue: 0,0:17:36.17,0:17:38.91,Default,Shulk,0,0,0,,What are you talking about? \NThey were on your desk!
@@ -312,7 +313,7 @@ Dialogue: 0,0:17:40.10,0:17:42.66,Default,Loran,0,0,0,,You have no right to puni
 Dialogue: 0,0:17:42.91,0:17:45.62,Default,Loran,0,0,0,,It's your fault we ended up this way!
 Dialogue: 0,0:17:45.91,0:17:48.30,Default,Loran,0,0,0,,We don't kill because we like it!
 Dialogue: 0,0:17:48.30,0:17:52.34,Default,Loran,0,0,0,,These grimoires give us power, \Nbut we have to feed them lives!
-Dialogue: 0,0:17:52.34,0:17:55.47,Default,Shulk,0,0,0,,They'll eat {\i1}us{\i0} if we don't \Ngive them sacrifices!
+Dialogue: 0,0:17:52.34,0:17:55.47,Default,Shulk,0,0,0,,They'll eat {\i1}us{\i0} if we don't give them sacrifices!
 Dialogue: 0,0:17:55.47,0:17:57.59,Default,Shulk,0,0,0,,Touching the grimoires made us this way!
 Dialogue: 0,0:17:57.59,0:17:59.86,Default,Loran,0,0,0,,So we {\i1}had{\i0} to kill!
 Dialogue: 0,0:17:59.86,0:18:01.25,Default,Haines,0,0,0,,No...
@@ -329,7 +330,7 @@ Dialogue: 0,0:18:30.42,0:18:32.96,Default,Loran,0,0,0,,And this is a fight to th
 Dialogue: 0,0:18:36.05,0:18:37.30,Default,Ashaf,0,0,0,,Unfortunately for you,
 Dialogue: 0,0:18:37.63,0:18:41.68,Default,Ashaf,0,0,0,,there are three reasons why \Nyou stand no chance against us.
 Dialogue: 0,0:18:41.68,0:18:42.85,Default,Shulk,0,0,0,,Huh?
-Dialogue: 0,0:18:42.85,0:18:47.31,Default,Ashaf,0,0,0,,First, you failed to pay \Nyour grimoires' price.
+Dialogue: 0,0:18:42.85,0:18:47.31,Default,Ashaf,0,0,0,,First, you failed to pay your grimoires' price.
 Dialogue: 0,0:18:47.65,0:18:49.04,Default,Loran,0,0,0,,What are you talking about?!
 Dialogue: 0,0:18:49.04,0:18:52.04,Default,Loran,0,0,0,,I know we killed at least ten people today!
 Dialogue: 0,0:18:52.04,0:18:53.21,Default,Loran,0,0,0,,We made our sacrifices!
@@ -398,7 +399,7 @@ Dialogue: 0,0:22:14.55,0:22:18.27,Default,Ashaf,0,0,0,,Next time you run into tr
 Dialogue: 0,0:22:21.68,0:22:22.86,Default,Haines,0,0,0,,Sure.
 Dialogue: 0,0:22:23.81,0:22:25.11,Default,Haines,0,0,0,,I'll give you a call.
 Dialogue: 0,0:22:25.58,0:22:29.14,Default,Haines,0,0,0,,If a witch shows up, you can count on it.
-Dialogue: 0,0:24:00.45,0:24:06.46,Default,Ashaf,0,0,0,,Naturally, we retain a \Nnecromantic specialist.
+Dialogue: 0,0:24:00.45,0:24:06.46,Default,Ashaf,0,0,0,,Naturally, we retain a necromantic specialist.
 Dialogue: 0,0:24:06.47,0:24:09.89,Signs,Text,0,0,0,,{\an8\pos(960,372)\fscx90\fnQuadraat\fs66\b1\bord0\blur0.9\fad(1000,0)}Beauty and Death
 Dialogue: 0,0:24:06.47,0:24:09.89,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnQuadraat\fs45\b1\bord0\blur0.9\fad(1000,0)}Opening Act
 Dialogue: 0,0:24:06.71,0:24:09.88,Default,Ashaf,0,0,0,,Next time: "Beauty and Death: Opening Act."
