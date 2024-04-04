@@ -46,7 +46,8 @@ Dialogue: 0,0:02:23.70,0:02:24.60,Default,Woman,0,0,0,,Goodnight.
 Dialogue: 0,0:02:35.77,0:02:38.09,Default,Woman,0,0,0,,{\i1}There sure are a lot of crows.
 Dialogue: 0,0:03:23.00,0:03:26.26,Default,Shulk,0,0,0,,Not yet. It's still not enough.
 Dialogue: 0,0:03:27.00,0:03:29.50,Default,Shulk,0,0,0,,I've got to add more.
-Dialogue: 0,0:03:30.56,0:03:35.90,Signs,Episode title,0,0,0,,{\an2\pos(351,939)\fscx90\fnAlegreya\fs62\bord0.5\blur1.5\fad(500,0)}The Witch's Pastime:\N{\fs58}Opening Act
+Dialogue: 0,0:03:30.57,0:03:35.90,Signs,Episode title,0,0,0,,{\an2\pos(246,956)\fscx90\fnAlegreya\fs54\bord0.5\blur3.5\fad(500,0)}The Witch's Pastime
+Dialogue: 0,0:03:30.57,0:03:35.90,Signs,Episode title,0,0,0,,{\an2\pos(509,956)\fscx90\fnAlegreya\fs50\bord0.5\blur3.5\fad(500,0)}Opening Act
 Dialogue: 0,0:03:35.90,0:03:39.11,Default,Guideau,0,0,0,,Hey. Is there a witch around here?
 Dialogue: 0,0:03:42.19,0:03:46.49,Default,Ashaf,0,0,0,,Beats me. They're supposed \Nto tell us the details in person.
 Dialogue: 0,0:03:49.33,0:03:52.98,Default,Ashaf,0,0,0,,So how can we be of service?
