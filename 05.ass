@@ -21,7 +21,7 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
-Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: Signs,Gandhi Sans,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -48,7 +48,12 @@ Dialogue: 0,0:03:30.28,0:03:32.83,Flashback,Necromancer,0,0,0,,I'm perfectly fin
 Dialogue: 0,0:03:32.83,0:03:34.85,Flashback,Coroner,0,0,0,,Is that so?
 Dialogue: 0,0:03:40.34,0:03:43.18,Flashback,Necromancer,0,0,0,,How hideous.
 Dialogue: 0,0:03:44.28,0:03:51.64,Flashback,Necromancer,0,0,0,,Mireille, I shall bring you back\N with flawless beauty.
-Dialogue: 0,0:03:56.80,0:04:01.64,Signs,Text,0,0,0,,{\pos(294,948)\fscx90\fnAlegreya\fs76\bord1.5\3c&H281E11&\blur1.5\fad(500,0)}Beauty and Death: \NFinal Act
+Comment: 0,0:03:56.80,0:04:01.64,Signs,Text,0,0,0,,{\fscx90\fnAlegreya\fs54\bord0.5\3c&H281E11&\blur3.5\fad(500,0)\pos(297.18,956.16)}Beauty and Death: Final Act
+Comment: 0,0:03:56.80,0:04:01.64,Signs,Text,0,0,0,,{\org(-100000,0)\fscx90\fnAlegreya\fs60\bord0.5\3c&H281E11&\blur3.5\fad(500,0)\pos(297.18,956.16)}Beauty and Death:\N{\frz0.005}Final Act
+Comment: 0,0:03:56.80,0:04:01.64,Signs,Text,0,0,0,,{\fscx90\fnAlegreya\fs54\bord0.5\3c&H281E11&\blur3.5\fad(500,0)\pos(187,950)}Beauty and Death
+Comment: 0,0:03:56.80,0:04:01.64,Signs,Text,0,0,0,,{\fscx90\fnAlegreya\fs50\bord0.5\3c&H281E11&\blur3.5\fad(500,0)\pos(386,1069)}Final Act
+Dialogue: 0,0:03:56.80,0:04:01.64,Signs,Text,0,0,0,,{\fscx90\fnAlegreya\fs64\bord0.5\3c&H281E11&\blur3.5\fad(500,0)\pos(302,961)}Beauty and Death
+Dialogue: 0,0:03:56.80,0:04:01.64,Signs,Text,0,0,0,,{\fscx90\fnAlegreya\fs60\bord0.5\3c&H281E11&\blur3.5\fad(500,0)\pos(302,1070)}Final Act
 Dialogue: 0,0:04:13.86,0:04:16.38,Default,Jeff,0,0,0,,{\i1}Despite how she treated Johan,
 Dialogue: 0,0:04:16.38,0:04:20.07,Default,Jeff,0,0,0,,{\i1}she must've really cared about him.
 Dialogue: 0,0:04:50.48,0:04:52.34,Default,Necromancer,0,0,0,,Ah, excuse me.
@@ -182,10 +187,10 @@ Dialogue: 0,0:14:14.88,0:14:16.25,Default,Necromancer,0,0,0,,You're bluffing.
 Dialogue: 0,0:14:17.03,0:14:22.02,Default,Phanora,0,0,0,,Few people wish to become undead \Nonce they learn of the Void.
 Dialogue: 0,0:14:22.88,0:14:29.51,Default,Phanora,0,0,0,,Even fewer would put themselves \Nin a necromancer's service or control.
 Dialogue: 0,0:14:29.51,0:14:32.97,Default,Phanora,0,0,0,,But even knowing all of that,
-Dialogue: 0,0:14:33.40,0:14:36.68,Default,Phanora,0,0,0,,some still offer themselves\N to necromancers.
+Dialogue: 0,0:14:33.40,0:14:36.68,Default,Phanora,0,0,0,,some still offer themselves to necromancers.
 Dialogue: 0,0:14:37.95,0:14:39.94,Default,Phanora,0,0,0,,With the utmost respect, I call them...
 Dialogue: 0,0:14:43.61,0:14:45.39,Default,Phanora,0,0,0,,Death Knights.
-Dialogue: 0,0:14:50.19,0:14:54.78,Default,Phanora,0,0,0,,None of you lay a hand \Non that bearded man.
+Dialogue: 0,0:14:50.19,0:14:54.78,Default,Phanora,0,0,0,,None of you lay a hand on that bearded man.
 Dialogue: 0,0:14:55.75,0:14:57.66,Default,Phanora,0,0,0,,As for everyone else, well...
 Dialogue: 0,0:14:58.28,0:15:00.37,Default,Phanora,0,0,0,,Do as you please.
 Dialogue: 0,0:15:15.06,0:15:15.85,Default,Jeff,0,0,0,,Stop!
