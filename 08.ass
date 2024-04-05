@@ -21,7 +21,7 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
-Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: Signs,Gandhi Sans,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -44,8 +44,8 @@ Dialogue: 0,0:00:59.09,0:01:02.39,Default,Helga,0,0,0,,{\i1}No one's coming to s
 Dialogue: 0,0:01:02.76,0:01:05.51,Default,Helga,0,0,0,,{\i1}I know all that.
 Dialogue: 0,0:02:42.33,0:02:44.68,Flashback,Helga,0,0,0,,Hey, are you Ashgan?
 Dialogue: 0,0:02:48.95,0:02:53.74,Flashback,Helga,0,0,0,,I kind of figured the Demon Sword \Nwould look like a bigger deal.
-Dialogue: 0,0:02:58.20,0:03:02.91,Signs,Text,0,0,0,,{\org(-100000,0)\fscx90\fnAlegreya\fs60\bord1.5\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur1.5\fad(0,500)\pos(244.87,955.91)}The Witch and\N{\frz0.005}the Demon Sword
-Dialogue: 0,0:02:58.20,0:03:02.91,Signs,Text,0,0,0,,{\pos(525,948)\fscx90\fnAlegreya\fs60\bord1.5\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur1.5\fad(0,500)}Act III
+Dialogue: 0,0:02:58.20,0:03:02.91,Signs,Text,0,0,0,,{\pos(244.87,955.91)\org(-100000,0)\fscx90\fnAlegreya\fs60\bord0.75\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur3.5\fad(0,500)}The Witch and\N{\frz0.005}the Demon Sword
+Dialogue: 0,0:02:58.20,0:03:02.91,Signs,Text,0,0,0,,{\pos(525,948)\fscx90\fnAlegreya\fs60\bord0.75\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur3.5\fad(0,500)}Act III
 Dialogue: 0,0:03:05.22,0:03:09.00,Default,Ashgan,0,0,0,,Without Helga, lifting my seal is impossible.
 Dialogue: 0,0:03:09.36,0:03:10.62,Default,Ashgan,0,0,0,,Turn back at once.
 Dialogue: 0,0:03:10.62,0:03:11.83,Default,Guideau,0,0,0,,Shut up.
@@ -73,7 +73,7 @@ Dialogue: 0,0:04:36.97,0:04:40.04,Default,Matt,0,0,0,ED,So they left me alive. B
 Dialogue: 0,0:04:40.04,0:04:41.84,Default,Ashaf,0,0,0,,Why did you hold back?
 Dialogue: 0,0:04:42.22,0:04:45.47,Default,Ashaf,0,0,0,,That can't have been the extent \Nof a great elemental's power.
 Dialogue: 0,0:04:46.43,0:04:48.55,Default,Matt,0,0,0,,Magic comes in all types.
-Dialogue: 0,0:04:49.34,0:04:54.88,Default,Matt,0,0,0,,Did my subordinate willingly betray me,\N or was she controlled?
+Dialogue: 0,0:04:49.34,0:04:54.88,Default,Matt,0,0,0,,Did my subordinate willingly betray me,\N or was she controlled{manipulated}?
 Dialogue: 0,0:04:55.52,0:04:57.67,Default,Matt,0,0,0,,I couldn't be sure.
 Dialogue: 0,0:04:58.90,0:05:05.31,Default,Matt,0,0,0,,The elemental would have killed \Nher if I hadn't restrained it.
 Dialogue: 0,0:05:05.73,0:05:07.36,Default,Ashaf,0,0,0,,That wasn't the only time.
@@ -188,7 +188,7 @@ Dialogue: 0,0:13:22.21,0:13:25.62,Flashback,Sister 1,0,0,0,,You were hiding, \Ns
 Dialogue: 0,0:13:26.30,0:13:29.41,Flashback,Sister 1,0,0,0,,You have the Demon Sword, just take it and run.
 Dialogue: 0,0:13:30.77,0:13:32.40,Flashback,Sister 1,0,0,0,,Our home is done for.{orig: This placed is doomed.}{sgt: CR typo}
 Dialogue: 0,0:13:33.20,0:13:34.04,Flashback,Sister 1,0,0,0,,They...
-Dialogue: 0,0:13:34.54,0:13:36.57,Flashback,Sister 1,0,0,0,,Mom called them "Executioners."
+Dialogue: 0,0:13:34.54,0:13:36.57,Flashback,Sister 1,0,0,0,,Mother called them "Executioners."
 Dialogue: 0,0:13:37.40,0:13:40.34,Flashback,Sister 1,0,0,0,,They've turned everyone else crazy.{orig: Everyone went crazy because of them.}
 Dialogue: 0,0:13:45.53,0:13:48.92,Flashback,Sister 1,0,0,0,,They even got to Mother.
 Dialogue: 0,0:13:49.89,0:13:53.07,Flashback,Sister 1,0,0,0,,Listen. No matter what, \Ndon't give them the Demon Sword.
