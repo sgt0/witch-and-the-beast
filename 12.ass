@@ -81,8 +81,9 @@ Dialogue: 0,0:06:19.43,0:06:22.33,Default,Sven,0,0,0,,I've sheltered and support
 Dialogue: 0,0:06:22.33,0:06:27.82,Default,Sven,0,0,0,,You're a stranger to mistrust, \Nmy sweet, innocent Falvell.
 Dialogue: 0,0:06:28.68,0:06:32.06,Default,Sven,0,0,0,,I savored my days as your dear neighbor.
 Dialogue: 0,0:06:32.75,0:06:37.83,Default,Sven,0,0,0,,Now, more than anything, \NI want to taste the last drop.
-Dialogue: 0,0:06:46.24,0:06:52.71,Default,Guideau,0,0,0,,"Spread hate for the witch\Nand burn all that she has."{Stir up hatred against a witch and toss everything she's got into a fire.}
-Dialogue: 0,0:06:52.71,0:06:57.27,Default,Guideau,0,0,0,,"And cleanse the demon with sacred fire."\N Was that it?
+Dialogue: 0,0:06:46.24,0:06:52.80,Default,Guideau,0,0,0,,"Spread hate for the witch\Nand burn all that she has."{Stir up hatred against a witch and toss everything she's got into a fire.}
+Dialogue: 0,0:06:52.80,0:06:55.40,Default,Guideau,0,0,0,,"And cleanse the demon with sacred fire."
+Dialogue: 0,0:06:55.82,0:06:57.27,Default,Guideau,0,0,0,,Was that it?
 Dialogue: 0,0:06:57.55,0:07:01.77,Default,Guideau,0,0,0,,You really stick to that \Nplaybook of yours, Executioners.{sgt: I would rather have the manga's "doing it by the book here" somehow}
 Dialogue: 0,0:07:02.23,0:07:05.64,Default,Craig,0,0,0,,What? I figured you had run away.
 Dialogue: 0,0:07:05.64,0:07:09.71,Default,Sven,0,0,0,,Craig, is this the coffin girl you mentioned?
@@ -215,8 +216,8 @@ Dialogue: 0,0:17:10.20,0:17:14.72,Default,Ashaf,0,0,0,,The world's most influent
 Dialogue: 0,0:17:14.72,0:17:17.99,Default,Ashaf,0,0,0,,has its headquarters on the First Continent.
 Dialogue: 0,0:17:15.47,0:17:23.69,Signs,Text,0,0,0,,{\move(345,234,366,243)\fscx90\fnQuadraat\fs45\b1\bord0\blur0.7\fad(900,0)\t(\fscx87\fscy97)}First Continent
 Dialogue: 0,0:17:17.99,0:17:23.68,Default,Ashaf,0,0,0,,The Second Continent lies east \Nof that, followed by the Third.
-Dialogue: 0,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{\move(609.999,369.999,615.999,372.999)\fscx90\fnQuadraat\fs42\bord0\blur0.7\fad(900,0)\t(\fscx88\fscy98)}Second Continent
-Dialogue: 0,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{\move(656.001,573.999,659.001,573.999)\fscx90\fnQuadraat\fs42\bord0\blur0.7\fad(900,0)\t(\fscx88\fscy98)\b1}Third Continent
+Dialogue: 0,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{\move(609.999,369.999,615.999,372.999)\fscx90\fnQuadraat\fs42\b1\bord0\blur0.7\fad(900,0)\t(\fscx88\fscy98)}Second Continent
+Dialogue: 0,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{\move(656.001,573.999,659.001,573.999)\fscx90\fnQuadraat\fs42\b1\bord0\blur0.7\fad(900,0)\t(\fscx88\fscy98)}Third Continent
 Dialogue: 0,0:17:24.29,0:17:30.59,Default,Ashaf,0,0,0,,The farther you go from the progenitor \Nof magic, the Global Holy Church,
 Dialogue: 0,0:17:30.59,0:17:33.69,Default,Ashaf,0,0,0,,the cruder the level of magic culture becomes.
 Dialogue: 0,0:17:34.12,0:17:38.61,Default,Ashaf,0,0,0,,But the Eighth Continent, \Nthe farthest from the First,
@@ -261,7 +262,7 @@ Dialogue: 0,0:20:36.08,0:20:37.71,Default,Stylist,0,0,0,,Certainly, sir.
 Dialogue: 0,0:20:38.00,0:20:42.26,Default,Ashaf,0,0,0,,Give us outfits for ten days, plus a few spares.
 Dialogue: 0,0:20:42.26,0:20:45.89,Default,Stylist,0,0,0,,That will be a lot to carry.
 Dialogue: 0,0:20:45.89,0:20:49.68,Default,Stylist,0,0,0,,I'll prepare a servant and carriage, as well.
-Dialogue: 0,0:20:49.68,0:20:53.43,Default,Stylist,0,0,0,,Or will you store them in that bag?
+Dialogue: 0,0:20:49.68,0:20:53.43,Default,Stylist,0,0,0,,Or will you store them in that {bag}suitcase?
 Dialogue: 0,0:20:53.43,0:20:57.02,Default,Ashaf,0,0,0,,No, I'd like the carriage for this coffin.
 Dialogue: 0,0:20:57.02,0:21:01.60,Default,Ashaf,0,0,0,,As you guessed, my case can fit most things,
 Dialogue: 0,0:21:01.60,0:21:05.25,Default,Ashaf,0,0,0,,but this has too much mass to compress.
