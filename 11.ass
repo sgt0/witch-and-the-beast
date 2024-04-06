@@ -21,7 +21,7 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
-Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: Signs,Gandhi Sans,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -42,8 +42,10 @@ Dialogue: 0,0:02:25.67,0:02:28.08,Default,Ashaf,0,0,0,,Oh, so painful.
 Dialogue: 0,0:02:28.08,0:02:31.29,Default,Ashaf,0,0,0,,Dear me, what a mess you've made.
 Dialogue: 0,0:02:34.93,0:02:36.55,Default,Ashaf,0,0,0,,This takes me back.
 Dialogue: 0,0:02:38.46,0:02:42.64,Default,Ashaf,0,0,0,,To three years ago, when we first met.
-Dialogue: 0,0:02:44.73,0:02:49.73,Signs,Text,0,0,0,,{\pos(246,948)\fscx90\fnAlegreya\fs60\bord0.6\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur0.9\fad(500,0)}Eloquence \Nand Silence
-Dialogue: 0,0:02:44.73,0:02:49.73,Signs,Text,0,0,0,,{\pos(498,948)\fscx90\fnAlegreya\fs48\bord0.6\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur0.9\fad(500,0)}Opening Act
+Comment: 0,0:02:44.73,0:02:49.73,Signs,Text,0,0,0,,{\pos(246,948)\fscx90\fnAlegreya\fs60\bord0.6\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur3.5\fad(500,0)}Eloquence \Nand Silence
+Comment: 0,0:02:44.73,0:02:49.73,Signs,Text,0,0,0,,{\pos(498,948)\fscx90\fnAlegreya\fs48\bord0.6\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur3.5\fad(500,0)}Opening Act
+Dialogue: 0,0:02:44.73,0:02:49.73,Signs,Text,0,0,0,,{\pos(350,955)\fscx90\fnAlegreya\fs64\bord0.5\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur3.5\fad(500,0)}Eloquence and Silence
+Dialogue: 0,0:02:44.73,0:02:49.73,Signs,Text,0,0,0,,{\pos(350,1071)\fscx90\fnAlegreya\fs60\bord0.5\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur3.5\fad(500,0)}Opening Act
 Dialogue: 0,0:02:56.88,0:02:59.36,Default,Ashaf,0,0,0,,{\i1}A village on the Fifth Continent.
 Dialogue: 0,0:02:59.36,0:03:06.43,Default,Ashaf,0,0,0,,{\i1}Being so far from the Global Holy Church's \Nheadquarters on the First Continent,
 Dialogue: 0,0:03:06.43,0:03:09.04,Default,Ashaf,0,0,0,,{\i1}a culture of magic has yet to develop here.{orig: this place hasn't developed a magical civilization.}
@@ -77,9 +79,9 @@ Dialogue: 0,0:05:03.07,0:05:05.98,Default,Cowherd,0,0,0,,Who else but a witch co
 Dialogue: 0,0:05:05.98,0:05:08.23,Default,Cowherd,0,0,0,,No human could've, that's for sure!
 Dialogue: 0,0:05:08.23,0:05:10.66,Default,Cowherd,0,0,0,,A crazy witch must've done it!
 Dialogue: 0,0:05:12.24,0:05:14.09,Default,Craig,0,0,0,,That's prejudice.
-Dialogue: 0,0:05:14.97,0:05:17.79,Default,Craig,0,0,0,,Ideas like that belong \Nin the past, if you ask me.
+Dialogue: 0,0:05:14.97,0:05:17.79,Default,Craig,0,0,0,,Ideas like that belong in the past, if you ask me.
 Dialogue: 0,0:05:17.79,0:05:19.12,Default,Owent,0,0,0,,Craig.
-Dialogue: 0,0:05:19.12,0:05:21.75,Default,Craig,0,0,0,,This is about what happened \Ntwo days ago, right?
+Dialogue: 0,0:05:19.12,0:05:21.75,Default,Craig,0,0,0,,This is about what happened two days ago, right?
 Dialogue: 0,0:05:22.89,0:05:28.62,Default,Craig,0,0,0,,I didn't see it myself, \Nbut I heard livestock fell from the sky.
 Dialogue: 0,0:05:28.62,0:05:29.93,Default,Villager,0,0,0,,Hm? Huh?
 Dialogue: 0,0:05:31.09,0:05:32.14,Default,Villager,0,0,0,,What the...
@@ -89,10 +91,10 @@ Dialogue: 0,0:05:42.32,0:05:43.65,Default,Craig,0,0,0,,I doubt it.
 Dialogue: 0,0:05:44.14,0:05:46.74,Default,Craig,0,0,0,,But the same goes for her.
 Dialogue: 0,0:05:47.10,0:05:50.32,Default,Craig,0,0,0,,She couldn't do something like that\N in a million years, either.
 Dialogue: 0,0:05:50.32,0:05:52.32,Default,Cowherd,0,0,0,,What?! But she's a witch!
-Dialogue: 0,0:05:52.32,0:05:56.15,Default,Cowherd,0,0,0,,What makes this pair \Nof monsters so different?!
+Dialogue: 0,0:05:52.32,0:05:56.15,Default,Cowherd,0,0,0,,What makes this pair of monsters so different?!
 Dialogue: 0,0:05:56.64,0:05:58.08,Default,Ashaf,0,0,0,,Hi there. Pardon me.
 Dialogue: 0,0:05:59.01,0:06:02.47,Default,Ashaf,0,0,0,,I hate to butt in on a quarrel,
-Dialogue: 0,0:06:02.47,0:06:05.02,Default,Ashaf,0,0,0,,but yours involves someone\N I came here to see,
+Dialogue: 0,0:06:02.47,0:06:05.02,Default,Ashaf,0,0,0,,but yours involves someone I came here to see,
 Dialogue: 0,0:06:05.02,0:06:08.01,Default,Ashaf,0,0,0,,and your discussion piqued my interest.
 Dialogue: 0,0:06:08.46,0:06:13.72,Default,Ashaf,0,0,0,,Why do you say that she, a witch,\N couldn't have done it?
 Dialogue: 0,0:06:14.12,0:06:16.24,Default,Cowherd,0,0,0,,Wh-Who are you?
@@ -100,7 +102,7 @@ Dialogue: 0,0:06:16.24,0:06:19.92,Default,Owent,0,0,0,,Why? Because it's true.
 Dialogue: 0,0:06:19.92,0:06:20.56,Default,Ashaf,0,0,0,,Oh?
 Dialogue: 0,0:06:21.04,0:06:24.40,Default,Owent,0,0,0,,Everyone calls my big sister a witch,
 Dialogue: 0,0:06:24.40,0:06:29.86,Default,Owent,0,0,0,,but Falvell Farmington \Ncan't cast a single spell!
-Dialogue: 0,0:06:30.10,0:06:30.94,Default,Ashaf,0,0,0,,Well, now.
+Dialogue: 0,0:06:30.10,0:06:30.94,Default,Ashaf,0,0,0,,Oh?
 Dialogue: 0,0:06:30.94,0:06:35.08,Default,Cowherd,0,0,0,,What?! You expect me to believe she's \Ninnocent because she can't use magic?!
 Dialogue: 0,0:06:35.08,0:06:37.14,Default,Cowherd,0,0,0,,Anyone can make an excuse like that!
 Dialogue: 0,0:06:37.14,0:06:38.41,Default,Ashaf,0,0,0,,Hush now.
@@ -162,7 +164,7 @@ Dialogue: 0,0:10:11.48,0:10:13.35,Default,Owent,0,0,0,,She didn't!
 Dialogue: 0,0:10:32.44,0:10:33.73,Default,Owent,0,0,0,,We don't have parents.
 Dialogue: 0,0:10:34.15,0:10:37.76,Default,Owent,0,0,0,,The villagers don't treat us like people,
 Dialogue: 0,0:10:37.76,0:10:40.61,Default,Owent,0,0,0,,but the mayor's always been good to us.
-Dialogue: 0,0:10:41.04,0:10:47.68,Default,Owent,0,0,0,,Falvell uses plants from our garden and \Nthe mountain out back for dyeing and tea,
+Dialogue: 0,0:10:41.04,0:10:47.68,Default,Owent,0,0,0,ED,Falvell uses plants from our garden and \Nthe mountain out back for dye and tea,{sgt: countable?}
 Dialogue: 0,0:10:47.68,0:10:50.96,Default,Owent,0,0,0,,and the mayor sells what \Nshe makes to acquaintances.
 Dialogue: 0,0:10:51.37,0:10:52.67,Default,Owent,0,0,0,,Her stuff's popular.
 Dialogue: 0,0:11:07.20,0:11:08.23,Default,Ashaf,0,0,0,,Well, I'll be.
@@ -251,11 +253,11 @@ Dialogue: 0,0:15:58.18,0:16:01.00,Default,Craig,0,0,0,,My dad and I moved here h
 Dialogue: 0,0:16:01.61,0:16:05.19,Default,Craig,0,0,0,,Of course, neither of us can do magic, though.
 Dialogue: 0,0:16:05.19,0:16:08.16,Default,Owent,0,0,0,,Craig and his dad help us out!
 Dialogue: 0,0:16:08.78,0:16:12.55,Default,Owent,0,0,0,,They protect us like the mayor does!
-Dialogue: 0,0:16:12.55,0:16:15.32,Default,Ashaf,0,0,0,,No need to be so protective.
+Dialogue: 0,0:16:12.55,0:16:15.32,Default,Ashaf,0,0,0,,No need to be so defensive.
 Dialogue: 0,0:16:16.26,0:16:18.70,Default,Ashaf,0,0,0,,I won't pounce on every suspect I find.
-Dialogue: 0,0:16:19.08,0:16:22.12,Default,Ashaf,0,0,0,,Half a year is too long ago. \NHe's in the clear.
+Dialogue: 0,0:16:19.08,0:16:22.12,Default,Ashaf,0,0,0,,Half a year is too long ago. He's in the clear.
 Dialogue: 0,0:16:22.12,0:16:24.88,Default,Ashaf,0,0,0,,Hmm... No leads, then.
-Dialogue: 0,0:16:25.47,0:16:27.98,Default,Ashaf,0,0,0,,Our guest still doesn't \Nseem convinced, either.
+Dialogue: 0,0:16:25.47,0:16:27.98,Default,Ashaf,0,0,0,,Our guest still doesn't seem convinced, either.
 Dialogue: 0,0:16:30.37,0:16:31.41,Default,Ashaf,0,0,0,,Are you scared?
 Dialogue: 0,0:16:32.54,0:16:39.09,Default,Ashaf,0,0,0,,A bestial woman, \Na mysterious mage, the villagers...
 Dialogue: 0,0:16:39.09,0:16:42.95,Default,Ashaf,0,0,0,,You two are surrounded by too many enemies.
@@ -264,7 +266,7 @@ Dialogue: 0,0:16:47.04,0:16:51.86,Default,Ashaf,0,0,0,,Don't worry. I've come to
 Dialogue: 0,0:16:54.75,0:16:56.32,Default,Ashaf,0,0,0,,Let me reintroduce myself.
 Dialogue: 0,0:16:56.94,0:17:02.60,Default,Ashaf,0,0,0,,I come from a group \Nby magic, for magic, and of magic:
 Dialogue: 0,0:17:02.60,0:17:05.29,Default,Ashaf,0,0,0,,the Order of Magical Resonance.
-Dialogue: 0,0:17:05.98,0:17:10.19,Default,Ashaf,0,0,0,,Lady Witch, would you return \Nto the Order with me?
+Dialogue: 0,0:17:05.98,0:17:10.19,Default,Ashaf,0,0,0,,Lady Witch, would you return to the Order with me?
 Dialogue: 0,0:17:18.20,0:17:19.70,Default,Craig,0,0,0,,I'm back.
 Dialogue: 0,0:17:20.23,0:17:21.85,Default,Sven,0,0,0,,You're home late.
 Dialogue: 0,0:17:23.84,0:17:27.38,Default,Craig,0,0,0,,Hey! Are you drinking Falvell's tea again?
@@ -283,7 +285,7 @@ Dialogue: 0,0:18:05.73,0:18:09.69,Default,Owent,0,0,0,,Then again, what's to say
 Dialogue: 0,0:18:10.08,0:18:12.23,Default,Owent,0,0,0,,To start with, that guy's really shady.
 Dialogue: 0,0:18:12.54,0:18:14.42,Default,Owent,0,0,0,,I don't trust a word he says.
 Dialogue: 0,0:18:15.14,0:18:16.99,Flashback,Ashaf,0,0,0,,I'll come back tomorrow.
-Dialogue: 0,0:18:18.34,0:18:22.08,Default,Owent,0,0,0,,Don't worry. We're used \Nto having lots of enemies.
+Dialogue: 0,0:18:18.34,0:18:22.08,Default,Owent,0,0,0,,Don't worry. We're used to having lots of enemies.
 Dialogue: 0,0:18:22.54,0:18:24.59,Default,Owent,0,0,0,,This is nothing new.
 Dialogue: 0,0:18:24.59,0:18:26.40,Default,Owent,0,0,0,,We'll get by somehow.
 Dialogue: 0,0:18:28.25,0:18:29.82,Default,Owent,0,0,0,,We always do.
@@ -291,7 +293,7 @@ Dialogue: 0,0:18:31.18,0:18:34.30,Default,Owent,0,0,0,,That's how it's always be
 Dialogue: 0,0:18:38.04,0:18:39.22,Default,Owent,0,0,0,,Hey, Falvell...
 Dialogue: 0,0:18:40.30,0:18:43.43,Default,Owent,0,0,0,,Do you trust him? That Ashaf guy?
 Dialogue: 0,0:18:47.77,0:18:50.47,Default,Owent,0,0,0,,Yeah. You're right.
-Dialogue: 0,0:18:50.47,0:18:53.85,Default,Owent,0,0,0,,Okay! I'll whip up something \Nextra tasty tonight!
+Dialogue: 0,0:18:50.47,0:18:53.85,Default,Owent,0,0,0,,Okay! I'll whip up something extra tasty tonight!
 Dialogue: 0,0:18:56.13,0:18:57.94,Default,Ashaf,0,0,0,,You can't understand it?
 Dialogue: 0,0:18:58.29,0:19:00.28,Default,Ashaf,0,0,0,,Sheltering a witch, you mean?
 Dialogue: 0,0:19:00.87,0:19:05.02,Default,Guideau,0,0,0,,A witch with no magic is just dead weight.
@@ -337,7 +339,7 @@ Dialogue: 0,0:21:11.41,0:21:13.79,Default,Craig,0,0,0,,He had this weird mask on
 Dialogue: 0,0:21:22.96,0:21:24.13,Default,Ashaf,0,0,0,,An Executioner!
 Dialogue: 0,0:21:24.13,0:21:25.76,Default,Ashaf,0,0,0,,This is bad news!
 Dialogue: 0,0:21:25.76,0:21:26.59,Default,Craig,0,0,0,,I'll go with you!
-Dialogue: 0,0:21:27.62,0:21:28.74,Default,Ashaf,0,0,0,,That makes twice.{sgt: second time he's put his hand on his neck.}
+Dialogue: 0,0:21:27.62,0:21:28.74,Default,Ashaf,0,0,0,,That makes twice.{sgt: twice that he's put his hand on his neck.}
 Dialogue: 0,0:21:36.91,0:21:39.61,Default,Ashaf,0,0,0,,Executioners work in pairs.
 Dialogue: 0,0:21:40.04,0:21:42.57,Default,Ashaf,0,0,0,,You must be one of them.
 Dialogue: 0,0:21:45.89,0:21:51.24,Default,Craig,0,0,0,,That's all the proof you \Nneeded to pull the trigger?
