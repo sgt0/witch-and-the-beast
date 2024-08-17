@@ -25,314 +25,314 @@ Style: Signs,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.00,0:00:05.14,Default,Narrator,0,0,0,,{\i1}Forbidden Instruments.
-Dialogue: 0,0:00:06.56,0:00:11.31,Default,Narrator,0,0,0,,{\i1}Merely possessing these sorcery tools \Ngrants might approaching that of a witch.
-Dialogue: 0,0:00:06.69,0:00:11.57,Signs,Text,0,0,0,,{\an8\fscx90\fnQuadraat\fs48\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)\pos(586.93,658.75)}Forbidden Instruments
-Dialogue: 0,0:00:12.32,0:00:16.70,Signs,Text,0,0,0,,{\an8\pos(1347,378)\fscx90\fnQuadraat\fs56\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)}Sorcery Tools
-Dialogue: 0,0:00:12.48,0:00:16.99,Default,Narrator,0,0,0,,{\i1}But while their wielders gain power,
-Dialogue: 0,0:00:17.53,0:00:23.33,Signs,Text,0,0,0,,{\an8\fscx90\fnQuadraat\fs52\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)\pos(562.89,645)}Payment
-Dialogue: 0,0:00:17.68,0:00:23.33,Default,Narrator,0,0,0,,{\i1}they must make sacrifices in payment\Nor else forfeit their lives.
-Dialogue: 0,0:00:24.12,0:00:27.61,Default,Narrator,0,0,0,,{\i1}Thus, the use of Instruments \Nis strictly forbidden.
-Dialogue: 0,0:00:24.29,0:00:33.51,Signs,Text,0,0,0,,{\an8\pos(1263,366)\fscx90\fnQuadraat\fs52\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,0)}Sacrifice
-Dialogue: 0,0:00:28.48,0:00:32.08,Default,Narrator,0,0,0,,{\i1}Yet those who turn to them \Nare never in short supply.
-Dialogue: 0,0:00:32.86,0:00:34.18,Default,Narrator,0,0,0,,{\i1}For you see...
-Dialogue: 0,0:02:11.99,0:02:13.18,Default,Woman,0,0,0,,What was that sound?
-Dialogue: 0,0:02:13.70,0:02:15.36,Default,Man,0,0,0,,Did you hear something?
-Dialogue: 0,0:02:15.84,0:02:16.58,Default,Woman,0,0,0,,Yeah.
-Dialogue: 0,0:02:17.50,0:02:19.05,Default,Woman,0,0,0,,I'm going home.
-Dialogue: 0,0:02:19.05,0:02:20.66,Default,Man,0,0,0,,If you're worried, I can walk you.
-Dialogue: 0,0:02:20.87,0:02:23.70,Default,Woman,0,0,0,,I'll be fine. It's not far.
-Dialogue: 0,0:02:23.70,0:02:24.60,Default,Woman,0,0,0,,Goodnight.
-Dialogue: 0,0:02:35.77,0:02:38.09,Default,Woman,0,0,0,,{\i1}There sure are a lot of crows.
-Dialogue: 0,0:03:23.00,0:03:26.26,Default,Shulk,0,0,0,,Not yet. It's still not enough.
-Dialogue: 0,0:03:27.00,0:03:29.50,Default,Shulk,0,0,0,,I've got to add more.
-Dialogue: 0,0:03:30.57,0:03:35.90,Signs,Episode title,0,0,0,,{\an2\pos(246,956)\fscx90\fnAlegreya\fs54\bord0.5\blur3.5\fad(500,0)}The Witch's Pastime
-Dialogue: 0,0:03:30.57,0:03:35.90,Signs,Episode title,0,0,0,,{\an2\pos(509,956)\fscx90\fnAlegreya\fs50\bord0.5\blur3.5\fad(500,0)}Opening Act
-Dialogue: 0,0:03:35.90,0:03:39.11,Default,Guideau,0,0,0,,Hey. Is there a witch around here?
-Dialogue: 0,0:03:42.19,0:03:46.49,Default,Ashaf,0,0,0,,Beats me. They're supposed \Nto tell us the details in person.
-Dialogue: 0,0:03:49.33,0:03:52.98,Default,Ashaf,0,0,0,,So how can we be of service?
-Dialogue: 0,0:03:52.98,0:03:55.55,Default,Servant 1,0,0,0,,Please keep this between us,
-Dialogue: 0,0:03:55.55,0:03:58.93,Default,Servant 1,0,0,0,,but the master of the house \Nhas a penchant for collecting.
-Dialogue: 0,0:03:59.45,0:04:03.88,Default,Servant 1,0,0,0,,And I'm ashamed to say that a specimen\N has escaped from his collection.
-Dialogue: 0,0:04:04.19,0:04:07.12,Default,Ashaf,0,0,0,,Escaped? So it's an animal?
-Dialogue: 0,0:04:07.12,0:04:11.10,Default,Servant 1,0,0,0,,Yes, sir. And quite a violent one at that.
-Dialogue: 0,0:04:12.56,0:04:15.79,Default,Servant 1,0,0,0,,It has claimed many victims already.
-Dialogue: 0,0:04:17.30,0:04:22.62,Default,Ashaf,0,0,0,,Since you called in the Order, \NI assume it's not just a rare creature.
-Dialogue: 0,0:04:23.07,0:04:26.16,Default,Ashaf,0,0,0,,Don't tell me you have a magical beast here.
-Dialogue: 0,0:04:28.80,0:04:29.50,Default,Servant 1,0,0,0,,Yes.
-Dialogue: 0,0:04:29.92,0:04:32.58,Default,Servant 1,0,0,0,,As you say, the creature is magical.
-Dialogue: 0,0:04:39.41,0:04:42.39,Default,Ashaf,0,0,0,,So you want us to subdue it?
-Dialogue: 0,0:04:42.39,0:04:46.93,Default,Servant 1,0,0,0,,You are to recapture it with the\N utmost haste, and without harming it.
-Dialogue: 0,0:04:46.93,0:04:48.91,Default,Ashaf,0,0,0,,Without harming it?
-Dialogue: 0,0:04:48.91,0:04:51.42,Default,Ashaf,0,0,0,,I see. That explains why you're struggling.
-Dialogue: 0,0:04:52.20,0:04:54.64,Default,Ashaf,0,0,0,,Hm? Where are you going, Guideau?
-Dialogue: 0,0:04:54.64,0:04:57.48,Default,Guideau,0,0,0,,I'm done with this bullshit.
-Dialogue: 0,0:04:57.48,0:04:59.36,Default,Ashaf,0,0,0,,Now, now. We're on the clock.
-Dialogue: 0,0:04:59.61,0:05:02.53,Default,Guideau,0,0,0,,As if I care about a plain old beast.
-Dialogue: 0,0:05:02.53,0:05:04.99,Default,Guideau,0,0,0,,You can handle the pet-sitting.
-Dialogue: 0,0:05:05.26,0:05:06.66,Default,Ashaf,0,0,0,,Dear me.
-Dialogue: 0,0:05:07.13,0:05:10.20,Default,Ashaf,0,0,0,,Who do you think you are, a king?
-Dialogue: 0,0:05:16.08,0:05:18.79,Default,Ashaf,0,0,0,,Excuse me. Pardon the intrusion.
-Dialogue: 0,0:05:19.25,0:05:22.84,Default,Ashaf,0,0,0,,Matter manipulation is the \Nmost basic of magic spells,
-Dialogue: 0,0:05:22.84,0:05:25.76,Default,Ashaf,0,0,0,,but controlling fluids \Nrequires a particular knack.
-Dialogue: 0,0:05:26.22,0:05:29.51,Default,Ashaf,0,0,0,,Honestly, I've always struggled with it.
-Dialogue: 0,0:05:30.88,0:05:32.10,Default,Guideau,0,0,0,,You're full of it.
-Dialogue: 0,0:05:32.34,0:05:34.29,Default,Ashaf,0,0,0,,You wound me, Guideau.
-Dialogue: 0,0:05:34.83,0:05:38.11,Default,Ashaf,0,0,0,,It's not nice to call people liars.
-Dialogue: 0,0:06:09.60,0:06:11.35,Default,Ashaf,0,0,0,,Will that do?
-Dialogue: 0,0:06:15.87,0:06:18.02,Default,Owner,0,0,0,,Splendid work.
-Dialogue: 0,0:06:18.34,0:06:20.86,Default,Owner,0,0,0,,I was right to call on you.
-Dialogue: 0,0:06:21.27,0:06:22.81,Default,Ashaf,0,0,0,,We're honored.
-Dialogue: 0,0:06:22.81,0:06:26.18,Default,Owner,0,0,0,,Magical beasts are illegal \Nin this country, you see.
-Dialogue: 0,0:06:26.18,0:06:28.20,Default,Owner,0,0,0,,I wanted to handle this quietly.
-Dialogue: 0,0:06:28.64,0:06:33.00,Default,Owner,0,0,0,,I heard that you'd take on any job,\N and I see that info was correct.
-Dialogue: 0,0:06:33.00,0:06:34.99,Default,Ashaf,0,0,0,,Oh, not quite.
-Dialogue: 0,0:06:35.38,0:06:40.36,Default,Ashaf,0,0,0,,We only stick our noses into magical trouble.
-Dialogue: 0,0:06:42.96,0:06:47.17,Default,Ashaf,0,0,0,,We're a group that works by magic, \Nfor magic, and of magic.
-Dialogue: 0,0:06:47.68,0:06:52.57,Default,Ashaf,0,0,0,,If you have any more difficulties, \Ncall the Order of Magical Resonance.
-Dialogue: 0,0:06:59.03,0:07:02.81,Default,Ashaf,0,0,0,,Treating oneself after work\N sure hits the spot.
-Dialogue: 0,0:07:04.16,0:07:06.22,Default,Ashaf,0,0,0,,What's wrong? Not eating anything?
-Dialogue: 0,0:07:07.29,0:07:08.78,Default,Guideau,0,0,0,,Gimme a break.
-Dialogue: 0,0:07:10.92,0:07:13.95,Default,Guideau,0,0,0,,Tell me what our last job was, jackass.
-Dialogue: 0,0:07:14.49,0:07:20.36,Default,Ashaf,0,0,0,,We apprehended a petty burglar who had\Ncommitted heinous crimes using magic.
-Dialogue: 0,0:07:20.36,0:07:22.58,Default,Ashaf,0,0,0,,Quite a good deed, if I do say so.
-Dialogue: 0,0:07:22.58,0:07:24.08,Default,Guideau,0,0,0,,And before that?
-Dialogue: 0,0:07:24.08,0:07:27.55,Default,Ashaf,0,0,0,,We exterminated a ghastly tree \Nthat fed on magical power.
-Dialogue: 0,0:07:27.55,0:07:28.71,Default,Guideau,0,0,0,,And before {\i1}that{\i0}?
-Dialogue: 0,0:07:28.71,0:07:31.45,Default,Ashaf,0,0,0,,Let me think...
-Dialogue: 0,0:07:31.45,0:07:34.30,Default,Ashaf,0,0,0,,Oh, yes. A stalker abusing magic—
-Dialogue: 0,0:07:34.30,0:07:35.26,Default,Guideau,0,0,0,,Before that?!
-Dialogue: 0,0:07:35.26,0:07:37.43,Default,Ashaf,0,0,0,,Babysitting a young magical beast.
-Dialogue: 0,0:07:38.93,0:07:40.63,Default,Guideau,0,0,0,,Are you screwing with me?
-Dialogue: 0,0:07:40.63,0:07:44.96,Default,Guideau,0,0,0,,What the hell do you think \NI joined your shitty Order for?
-Dialogue: 0,0:07:44.96,0:07:48.31,Default,Ashaf,0,0,0,,You don't need to remind me.
-Dialogue: 0,0:07:48.66,0:07:51.28,Default,Ashaf,0,0,0,,Oh, dear. That was good wine.
-Dialogue: 0,0:07:51.28,0:07:53.30,Default,Guideau,0,0,0,,Hurry up and find me a witch!
-Dialogue: 0,0:07:53.30,0:07:55.99,Default,Guideau,0,0,0,,If you can't do that, \Nthe Order's a waste of my time.
-Dialogue: 0,0:07:56.16,0:08:01.37,Default,Ashaf,0,0,0,,You must realize that cases \Ninvolving witches don't grow on trees.
-Dialogue: 0,0:08:01.37,0:08:05.00,Default,Ashaf,0,0,0,,And our relationship is give and take.
-Dialogue: 0,0:08:05.00,0:08:08.50,Default,Ashaf,0,0,0,,In exchange for our full support \Nin achieving your goal,
-Dialogue: 0,0:08:08.50,0:08:11.72,Default,Ashaf,0,0,0,,you agreed to serve \Nat the Order's discretion.
-Dialogue: 0,0:08:11.72,0:08:16.00,Default,Ashaf,0,0,0,,We get priority when witch cases comes up.
-Dialogue: 0,0:08:16.00,0:08:19.16,Default,Ashaf,0,0,0,,So until one does, do your job.
-Dialogue: 0,0:08:19.58,0:08:21.39,Default,Ashaf,0,0,0,,If you slack off like you did today,
-Dialogue: 0,0:08:21.39,0:08:24.56,Default,Ashaf,0,0,0,,we won't give you witches, \Nfine food, or anything else.
-Dialogue: 0,0:08:27.12,0:08:30.69,Default,Guideau,0,0,0,,You didn't need me today, anyway.
-Dialogue: 0,0:08:31.12,0:08:32.20,Default,Ashaf,0,0,0,,True enough.
-Dialogue: 0,0:08:33.12,0:08:34.15,Default,Waiter 1,0,0,0,,Excuse me, sir.
-Dialogue: 0,0:08:35.32,0:08:37.24,Default,Waiter 1,0,0,0,,I was asked to give you this.
-Dialogue: 0,0:08:37.86,0:08:38.95,Default,Ashaf,0,0,0,,Thank you.
-Dialogue: 0,0:08:41.84,0:08:43.08,Default,Ashaf,0,0,0,,It's from the Order.
-Dialogue: 0,0:08:43.08,0:08:45.67,Default,Guideau,0,0,0,,Is it a witch?! Gimme!
-Dialogue: 0,0:08:47.20,0:08:52.08,Default,Ashaf,0,0,0,,How many times must I tell you? You need \Nan Order signet ring to break this seal.
-Dialogue: 0,0:08:55.09,0:08:58.69,Default,Ashaf,0,0,0,,Although you should have \None of these brands, too.
-Dialogue: 0,0:09:02.98,0:09:05.39,Default,Ashaf,0,0,0,,Oh? Cheer up, Guideau.
-Dialogue: 0,0:09:05.78,0:09:08.23,Default,Ashaf,0,0,0,,Speak of the devil.
-Dialogue: 0,0:09:27.92,0:09:28.63,Default,Guideau,0,0,0,,A witch!
-Dialogue: 0,0:09:28.84,0:09:31.35,Default,Ashaf,0,0,0,,This lady is merely our client.
-Dialogue: 0,0:09:31.35,0:09:33.48,Default,Guideau,0,0,0,,So where's the damn witch, then?!
-Dialogue: 0,0:09:33.48,0:09:36.09,Default,Ashaf,0,0,0,,We're with the Order of Magical Resonance.
-Dialogue: 0,0:09:36.09,0:09:38.43,Default,Ashaf,0,0,0,,I believe you have a job for us?
-Dialogue: 0,0:09:38.43,0:09:42.46,Default,Old Woman,0,0,0,,I'm sorry to have you come \Nall this way. Please come in.
-Dialogue: 0,0:09:44.24,0:09:48.98,Default,Old Woman,0,0,0,,I can't seem to open this case anymore. \NCan you do something about it?
-Dialogue: 0,0:09:53.56,0:09:57.28,Default,Ashaf,0,0,0,,I see. A runic inscription.
-Dialogue: 0,0:09:57.76,0:10:01.75,Default,Ashaf,0,0,0,,You're in luck. \NSpellpicking is my specialty.{orig: undoing spells}
-Dialogue: 0,0:10:01.75,0:10:02.62,Default,Old Woman,0,0,0,,Goodness.
-Dialogue: 0,0:10:14.00,0:10:18.17,Default,Ashaf,0,0,0,,Another good deed done.\NI live for people's smiles.{orig: Then what was that "Speak of the devil" about?}{CC: 善行はいいね～ 人の笑顔は糧になる}{sgt: this line was completely wrong}
-Dialogue: 0,0:10:20.80,0:10:24.43,Default,Guideau,0,0,0,,Get ready for what's coming to you, asshole.
-Dialogue: 0,0:10:25.04,0:10:28.14,Default,Ashaf,0,0,0,,I never said anything about a witch, did I?
-Dialogue: 0,0:10:28.68,0:10:31.86,Default,Ashaf,0,0,0,,You should have realized that\Nwhen I left the coffin behind.
-Dialogue: 0,0:10:32.12,0:10:34.52,Default,Guideau,0,0,0,,Then what was that \N"Speak of the devil" about?
-Dialogue: 0,0:10:34.89,0:10:38.86,Default,Ashaf,0,0,0,,I was just saying that you should \Ntake non-witch cases seriously.
-Dialogue: 0,0:10:38.86,0:10:40.30,Default,Guideau,0,0,0,,Bullshit!
-Dialogue: 0,0:10:40.30,0:10:43.65,Default,Ashaf,0,0,0,,If you feel you were fooled, \Nconsider it a learning experience.
-Dialogue: 0,0:10:43.65,0:10:45.37,Default,Ashaf,0,0,0,,It taught you a lesson.
-Dialogue: 0,0:10:45.37,0:10:50.25,Default,Guideau,0,0,0,,Like hell I will. \NTrusting you was my big mistake.
-Dialogue: 0,0:10:50.25,0:10:53.57,Default,Ashaf,0,0,0,,"Mistake" is another word for "experience."
-Dialogue: 0,0:10:53.57,0:10:55.46,Default,Ashaf,0,0,0,,They're both shortcuts to wisdom.
-Dialogue: 0,0:10:55.97,0:10:58.66,Default,Ashaf,0,0,0,,Sorry, but we don't have time to quarrel.
-Dialogue: 0,0:10:58.66,0:11:01.09,Default,Ashaf,0,0,0,,There's a job waiting for us.
-Dialogue: 0,0:11:01.70,0:11:05.23,Default,Ashaf,0,0,0,,Hope for better luck on this one.
-Dialogue: 0,0:11:06.54,0:11:09.47,Default,Guideau,0,0,0,,I'll let it slide, but only for the time being.
-Dialogue: 0,0:11:09.47,0:11:13.15,Default,Guideau,0,0,0,,As soon as my curse is lifted\N and I don't need the Order anymore,
-Dialogue: 0,0:11:13.75,0:11:16.27,Default,Guideau,0,0,0,,the first thing I'm gonna do is kill you.
-Dialogue: 0,0:11:16.96,0:11:18.24,Default,Ashaf,0,0,0,,Glad to hear it.
-Dialogue: 0,0:11:18.98,0:11:23.30,Default,Ashaf,0,0,0,,I'm looking forward to that day myself.
-Dialogue: 0,0:11:27.98,0:11:32.90,Default,Ashaf,0,0,0,,A peaceful, witch-free month\N has passed since then.
-Dialogue: 0,0:11:32.90,0:11:35.45,Default,Ashaf,0,0,0,,What a tranquil afternoon.
-Dialogue: 0,0:11:36.18,0:11:40.57,Default,Ashaf,0,0,0,,I'd say the day you reclaim your \Nreal body is still a long way off.
-Dialogue: 0,0:11:40.57,0:11:44.34,Default,Guideau,0,0,0,,I'll kill you later, \Nbut I can always kick your ass now.
-Dialogue: 0,0:11:44.34,0:11:46.85,Default,Ashaf,0,0,0,,Temper, temper.
-Dialogue: 0,0:11:47.31,0:11:49.68,Default,Ashaf,0,0,0,,Anyway, eat your fill.
-Dialogue: 0,0:11:49.68,0:11:50.77,Default,Ashaf,0,0,0,,Good, isn't it?
-Dialogue: 0,0:11:50.77,0:11:52.14,Default,Guideau,0,0,0,,It's gross as hell.
-Dialogue: 0,0:11:54.07,0:11:56.89,Default,Waiter 2,0,0,0,,For you, mister.
-Dialogue: 0,0:11:56.89,0:11:58.60,Default,Guideau,0,0,0,,From the Order again?
-Dialogue: 0,0:11:58.60,0:11:59.28,Default,Ashaf,0,0,0,,Yes.
-Dialogue: 0,0:11:59.28,0:12:02.33,Default,Guideau,0,0,0,,More busy work, I bet.
-Dialogue: 0,0:12:02.33,0:12:04.70,Default,Guideau,0,0,0,,To hell with that crap. Rip it up.
-Dialogue: 0,0:12:05.44,0:12:08.54,Default,Ashaf,0,0,0,,No, you'll like this one, Guideau.
-Dialogue: 0,0:12:09.96,0:12:11.79,Default,Ashaf,0,0,0,,It came in a black envelope.
-Dialogue: 0,0:12:12.54,0:12:14.42,Default,Guideau,0,0,0,,So what?
-Dialogue: 0,0:12:14.90,0:12:22.01,Default,Ashaf,0,0,0,,They only send these when a witch \Nis involved and central to the case.
-Dialogue: 0,0:12:22.61,0:12:28.73,Default,Ashaf,0,0,0,,It seems a witch is committing serial \Nmurders in Hayden, the capital of Pheres.
-Dialogue: 0,0:12:28.73,0:12:33.35,Default,Ashaf,0,0,0,,They even make a point of \Ncalling the case "grotesque."
-Dialogue: 0,0:12:33.35,0:12:34.26,Default,Ashaf,0,0,0,,Besides which—
-Dialogue: 0,0:12:34.26,0:12:36.02,Default,Guideau,0,0,0,,Enough. Gimme.
-Dialogue: 0,0:12:36.43,0:12:38.32,Default,Ashaf,0,0,0,,You're so impatient.
-Dialogue: 0,0:12:40.98,0:12:42.72,Default,Ashaf,0,0,0,,We're about to be busy.
-Dialogue: 0,0:12:42.72,0:12:45.24,Default,Ashaf,0,0,0,,There's an ocean between us and this case.
-Dialogue: 0,0:12:45.58,0:12:46.83,Default,Ashaf,0,0,0,,Pack your bags.
-Dialogue: 0,0:12:51.92,0:12:54.25,Default,Ashaf,0,0,0,,{\i1}So a witch {\i0}and{\i1} a grimoire?
-Dialogue: 0,0:12:56.67,0:12:59.63,Default,Ashaf,0,0,0,,{\i1}We won't have an easy time of it.{manga: What a slog this'll be...}
-Dialogue: 0,0:13:07.15,0:13:09.01,Flashback,Police Officer,0,0,0,,Ms. Haines, it's dangerous!
-Dialogue: 0,0:13:09.01,0:13:11.22,Flashback,Haines,0,0,0,,My children are in there!
-Dialogue: 0,0:13:11.44,0:13:13.82,Flashback,Haines,0,0,0,,Shulk! Loran!
-Dialogue: 0,0:13:24.36,0:13:26.24,Default,Detective,0,0,0,,You were groaning in your sleep.
-Dialogue: 0,0:13:26.76,0:13:28.26,Default,Detective,0,0,0,,Are you okay?
-Dialogue: 0,0:13:28.26,0:13:30.30,Default,Haines,0,0,0,,Yeah, I'm fine.
-Dialogue: 0,0:13:30.71,0:13:32.20,Default,Detective,0,0,0,,If you say so.
-Dialogue: 0,0:13:39.58,0:13:42.70,Default,Detective,0,0,0,,Sorry. She gave us the slip again.
-Dialogue: 0,0:13:43.18,0:13:44.24,Default,Haines,0,0,0,,How many dead?
-Dialogue: 0,0:13:44.80,0:13:46.72,Default,Detective,0,0,0,,At least five.
-Dialogue: 0,0:13:47.12,0:13:49.63,Default,Detective,0,0,0,,And the bodies were...
-Dialogue: 0,0:13:51.22,0:13:55.97,Default,Haines,0,0,0,,"Consumed, sacrificed, \Nor something similar by a witch"?
-Dialogue: 0,0:13:56.95,0:14:01.26,Default,Detective,0,0,0,,How could anyone do something \Nso horrible? She must be crazy.
-Dialogue: 0,0:14:01.81,0:14:03.94,Default,Haines,0,0,0,,"Crazy," huh?
-Dialogue: 0,0:14:05.04,0:14:08.00,Default,Haines,0,0,0,,I've seen plenty of perps with a screw loose.
-Dialogue: 0,0:14:08.00,0:14:10.14,Default,Haines,0,0,0,,They all had one thing in common.
-Dialogue: 0,0:14:10.69,0:14:12.25,Default,Haines,0,0,0,,Know what that is?
-Dialogue: 0,0:14:12.25,0:14:13.08,Default,Detective,0,0,0,,No.
-Dialogue: 0,0:14:13.44,0:14:17.83,Default,Haines,0,0,0,,Unfulfilled desires born \Nfrom a sense of inferiority.
-Dialogue: 0,0:14:18.35,0:14:24.46,Default,Haines,0,0,0,,Losing control of them can turn even \Nupstanding people into crazed villains.
-Dialogue: 0,0:14:24.83,0:14:27.04,Default,Detective,0,0,0,,You mean no person is born evil?
-Dialogue: 0,0:14:27.76,0:14:28.90,Default,Haines,0,0,0,,"Person," huh?
-Dialogue: 0,0:14:29.79,0:14:31.70,Default,Haines,0,0,0,,Is a witch a person?
-Dialogue: 0,0:14:32.22,0:14:33.64,Default,Detective,0,0,0,,Beats me.
-Dialogue: 0,0:14:33.64,0:14:39.69,Default,Detective,0,0,0,,But witch or human, \Nanyone who can do this must be scum.
-Dialogue: 0,0:14:40.45,0:14:41.71,Default,Haines,0,0,0,,I couldn't agree more.
-Dialogue: 0,0:14:42.14,0:14:44.76,Default,Detective,0,0,0,,We didn't expect this fight.
-Dialogue: 0,0:14:44.76,0:14:48.32,Default,Detective,0,0,0,,Is that why you didn't set \Nall your barriers in time?{orig: wards}
-Dialogue: 0,0:14:48.32,0:14:50.97,Default,Haines,0,0,0,,You mean she wouldn't \Nhave escaped if I'd finished?
-Dialogue: 0,0:14:51.46,0:14:52.21,Default,Detective,0,0,0,,Er, no.
-Dialogue: 0,0:14:53.09,0:14:57.62,Default,Haines,0,0,0,,Closing off the scene would've made \Nno difference. She slips through barriers.
-Dialogue: 0,0:14:58.23,0:14:59.35,Default,Detective,0,0,0,,What I meant was—
-Dialogue: 0,0:14:59.35,0:15:00.57,Default,Haines,0,0,0,,I know.
-Dialogue: 0,0:15:01.20,0:15:07.07,Default,Haines,0,0,0,,We need to box her in to make \Nher cast as many spells as possible,
-Dialogue: 0,0:15:07.07,0:15:09.17,Default,Haines,0,0,0,,or we'll never figure out her magic.
-Dialogue: 0,0:15:10.46,0:15:13.35,Default,Haines,0,0,0,,But even if we solve that mystery, \Nit's just the first step.
-Dialogue: 0,0:15:13.98,0:15:18.01,Default,Haines,0,0,0,,The full force of the Hayden Police \Nstill has to take this slow and steady.
-Dialogue: 0,0:15:19.20,0:15:23.66,Default,Haines,0,0,0,,A feeble police force can't \Nfight a monster any other way.
-Dialogue: 0,0:15:24.19,0:15:27.50,Default,Detective,0,0,0,,Ms. Haines, I shouldn't have to tell you
-Dialogue: 0,0:15:27.50,0:15:31.15,Default,Detective,0,0,0,,that this goes way beyond \Nregular serial murder.
-Dialogue: 0,0:15:31.90,0:15:34.04,Default,Detective,0,0,0,,You're the only mage we've got.
-Dialogue: 0,0:15:34.60,0:15:37.78,Default,Detective,0,0,0,,If you feel powerless, talk to the mayor.
-Dialogue: 0,0:15:39.70,0:15:42.62,Default,Detective,0,0,0,,Witches are the Paladin Corps' jurisdiction.
-Dialogue: 0,0:15:42.96,0:15:46.16,Default,Detective,0,0,0,,Unless something changes, \Nthe body count will just keep growing.
-Dialogue: 0,0:15:46.16,0:15:47.38,Default,Haines,0,0,0,,I know.
-Dialogue: 0,0:15:49.83,0:15:51.30,Default,Haines,0,0,0,,I know that.
-Dialogue: 0,0:15:55.94,0:15:57.75,Default,Detective,0,0,0,,I know it's easier said than done,
-Dialogue: 0,0:15:57.75,0:16:01.18,Default,Detective,0,0,0,,but try not to beat yourself up over \Nwhat happened to Inspector Cole.
-Dialogue: 0,0:16:01.75,0:16:04.88,Default,Haines,0,0,0,,I've handled plenty of horrific cases.
-Dialogue: 0,0:16:04.88,0:16:08.02,Default,Haines,0,0,0,,I thought people always \Nremembered the perpetrators
-Dialogue: 0,0:16:08.53,0:16:12.28,Default,Haines,0,0,0,,and forgot the victims in no time.
-Dialogue: 0,0:16:12.84,0:16:17.74,Default,Haines,0,0,0,,But then someone murdered \Npeople I cared about,
-Dialogue: 0,0:16:18.42,0:16:21.39,Default,Haines,0,0,0,,and I realized that I'd never \Nforget the names of either.
-Dialogue: 0,0:16:22.71,0:16:26.29,Default,Haines,0,0,0,,Don't worry. I'll do my job.
-Dialogue: 0,0:16:35.30,0:16:38.51,Default,Ashaf,0,0,0,,Oh, dear. It appears we're too late.
-Dialogue: 0,0:16:38.51,0:16:42.85,Default,Guideau,0,0,0,,Don't give me that crap. \NYou let her slip right out from under us.
-Dialogue: 0,0:16:42.85,0:16:44.61,Default,Ashaf,0,0,0,,Cut me some slack.
-Dialogue: 0,0:16:44.61,0:16:49.25,Default,Ashaf,0,0,0,,And rest easy. The witch \Nin this case will be back.
-Dialogue: 0,0:16:50.71,0:16:56.53,Default,Ashaf,0,0,0,,Grotesque mass murder committed by\N a witch, a.k.a. the "Witch's Pastime" case.
-Dialogue: 0,0:16:56.53,0:17:00.83,Default,Ashaf,0,0,0,,As of last week, the victims \Nnumbered 36, including police officers.
-Dialogue: 0,0:17:00.83,0:17:02.33,Default,Ashaf,0,0,0,,Quite a tough nut to crack.
-Dialogue: 0,0:17:02.88,0:17:05.87,Default,Ashaf,0,0,0,,What did tonight make the body count?
-Dialogue: 0,0:17:06.88,0:17:08.74,Default,Haines,0,0,0,,Who are you people?{sgt: keeping this consistent with E01 23:26}
-Dialogue: 0,0:17:09.23,0:17:11.92,Default,Haines,0,0,0,,You know how to test my patience,{orig: You're saying things \NI don't want to think about,}
-Dialogue: 0,0:17:12.43,0:17:14.59,Default,Haines,0,0,0,,so you must know who I am.
-Dialogue: 0,0:17:15.13,0:17:17.01,Default,Haines,0,0,0,,And you look suspicious.
-Dialogue: 0,0:17:17.44,0:17:19.76,Default,Haines,0,0,0,,What's in that coffin?
-Dialogue: 0,0:17:19.76,0:17:22.38,Default,Ashaf,0,0,0,,Peppering us with questions already?{orig: Grilling us already?}{sgt: unsure if Ashaf would say "grilling"}
-Dialogue: 0,0:17:22.38,0:17:24.16,Default,Ashaf,0,0,0,,Well, I can't blame you.
-Dialogue: 0,0:17:24.58,0:17:28.06,Default,Ashaf,0,0,0,,Rest assured, we're perfectly respectable.
-Dialogue: 0,0:17:28.65,0:17:30.52,Default,Ashaf,0,0,0,,So please, stay your hand.
-Dialogue: 0,0:17:34.05,0:17:36.42,Default,Ashaf,0,0,0,,We mean you no harm.
-Dialogue: 0,0:17:36.78,0:17:39.07,Default,Ashaf,0,0,0,,In fact, we'd like to help you.
-Dialogue: 0,0:17:40.13,0:17:41.28,Default,Haines,0,0,0,,Help how?
-Dialogue: 0,0:17:41.79,0:17:45.07,Default,Ashaf,0,0,0,,We're with The Order of Magical Resonance.
-Dialogue: 0,0:17:45.07,0:17:47.81,Default,Ashaf,0,0,0,,A major incident is disturbing your city.
-Dialogue: 0,0:17:47.81,0:17:53.00,Default,Ashaf,0,0,0,,If you suspect a witch is responsible, \Nthen we have much to offer you.
-Dialogue: 0,0:18:02.48,0:18:04.20,Default,Haines,0,0,0,,Hayden Police.
-Dialogue: 0,0:18:04.20,0:18:08.10,Default,Haines,0,0,0,,We'll take a table in the back, \Nbut I'd like to set a soundproof barrier.
-Dialogue: 0,0:18:08.10,0:18:09.65,Default,Waiter 3,0,0,0,,S-Sure.
-Dialogue: 0,0:18:10.76,0:18:12.22,Default,Haines,0,0,0,,I got confirmation.
-Dialogue: 0,0:18:12.72,0:18:16.36,Default,Haines,0,0,0,,It seems the mayor really did \Nsign off on a request to the Order.
-Dialogue: 0,0:18:16.36,0:18:19.29,Default,Ashaf,0,0,0,,I would never lie to a beautiful lady.
-Dialogue: 0,0:18:19.81,0:18:24.70,Default,Ashaf,0,0,0,,By the way, could you hold off on that barrier\N until we've received our order?
-Dialogue: 0,0:18:24.92,0:18:28.29,Default,Haines,0,0,0,,Of course. At least let me\N have a cup of coffee.
-Dialogue: 0,0:18:28.29,0:18:31.85,Default,Ashaf,0,0,0,,No, please wait for our full meal.
-Dialogue: 0,0:18:31.85,0:18:33.76,Default,Ashaf,0,0,0,,Replacing barriers is a hassle, no?
-Dialogue: 0,0:18:40.22,0:18:44.06,Default,Ashaf,0,0,0,,For our part, we'd like to hear \Nabout the case as soon as possible.
-Dialogue: 0,0:18:44.57,0:18:46.93,Default,Haines,0,0,0,,Tell me your story first.
-Dialogue: 0,0:18:46.93,0:18:50.85,Default,Haines,0,0,0,,The mayor might trust you, \Nbut I certainly don't.
-Dialogue: 0,0:18:50.85,0:18:53.12,Default,Ashaf,0,0,0,,But you have a witch case on your hands.
-Dialogue: 0,0:18:53.61,0:18:55.95,Default,Ashaf,0,0,0,,Sooner or later, \Nthe Paladin Corps will step in.
-Dialogue: 0,0:18:55.95,0:18:58.82,Default,Ashaf,0,0,0,,But for some reason, \Nthe mayor is stalling them.
-Dialogue: 0,0:18:59.17,0:19:01.57,Default,Haines,0,0,0,,Making you our only hope?
-Dialogue: 0,0:19:01.57,0:19:02.74,Default,Ashaf,0,0,0,,Looks that way.
-Dialogue: 0,0:19:03.32,0:19:06.32,Default,Ashaf,0,0,0,,To begin with, \Nthis whole situation is strange.
-Dialogue: 0,0:19:06.32,0:19:09.62,Default,Ashaf,0,0,0,,Police forces aren't \Nequipped to combat witches.
-Dialogue: 0,0:19:09.62,0:19:11.71,Default,Ashaf,0,0,0,,What you need is an army.
-Dialogue: 0,0:19:12.02,0:19:16.69,Default,Ashaf,0,0,0,,That's why global peacekeepers \Nlike the Paladin Corps handle witches.
-Dialogue: 0,0:19:17.37,0:19:21.52,Default,Ashaf,0,0,0,,The mayor is probably refusing their help
-Dialogue: 0,0:19:21.52,0:19:24.35,Default,Ashaf,0,0,0,,to claim the glory of \Nsolving the case without them.
-Dialogue: 0,0:19:24.64,0:19:28.94,Default,Ashaf,0,0,0,,Anyone can see how foolish that is, \Nso why do you all go along with it?
-Dialogue: 0,0:19:29.47,0:19:34.22,Default,Ashaf,0,0,0,,As the force's only mage, \NI believe you're in charge of the case.
-Dialogue: 0,0:19:34.22,0:19:37.11,Default,Ashaf,0,0,0,,You ought to protest. Why don't you?
-Dialogue: 0,0:19:39.65,0:19:40.96,Default,Guideau,0,0,0,,Who gives a shit?
-Dialogue: 0,0:19:40.96,0:19:44.07,Default,Guideau,0,0,0,,Just tell me everything \Nyou know about the witch.
-Dialogue: 0,0:19:44.07,0:19:46.78,Default,Guideau,0,0,0,,Then I'll kick all the witch ass you want.
-Dialogue: 0,0:19:47.47,0:19:49.98,Default,Haines,0,0,0,,Why are {\i1}you{\i0} so fixated on the witch?
-Dialogue: 0,0:19:50.41,0:19:53.37,Default,Haines,0,0,0,,Most people would steer clear \Nof a witch serial killer.
-Dialogue: 0,0:19:53.75,0:19:54.40,Default,Guideau,0,0,0,,That's—
-Dialogue: 0,0:19:54.40,0:19:56.22,Default,Ashaf,0,0,0,,Guideau, have a bone.
-Dialogue: 0,0:19:58.53,0:20:01.28,Default,Ashaf,0,0,0,,For our organization, essentially.
-Dialogue: 0,0:20:01.28,0:20:05.05,Default,Ashaf,0,0,0,,We cover all magic, \Nwhich includes witchcraft—{orig: We collect the essence of magic. \NWitches, naturally, and—}
-Dialogue: 0,0:20:05.05,0:20:08.33,Default,Haines,0,0,0,,Don't hide anything unless \Nyou want to lose even more trust.
-Dialogue: 0,0:20:09.93,0:20:12.44,Default,Haines,0,0,0,,I came up with this barrier myself.
-Dialogue: 0,0:20:13.16,0:20:16.56,Default,Haines,0,0,0,,Lies can't fool me in here.
-Dialogue: 0,0:20:17.63,0:20:18.78,Default,Guideau,0,0,0,,Asshole.
-Dialogue: 0,0:20:21.09,0:20:23.99,Default,Ashaf,0,0,0,,Dear me. How shrewd of you.
-Dialogue: 0,0:20:25.45,0:20:26.70,Default,Haines,0,0,0,,Answer me.
-Dialogue: 0,0:20:32.96,0:20:36.08,Default,Ashaf,0,0,0,,Well, our circumstances aren't worth hiding.
-Dialogue: 0,0:20:36.68,0:20:39.92,Default,Ashaf,0,0,0,,We just want to undo a curse.
-Dialogue: 0,0:20:40.55,0:20:41.63,Default,Haines,0,0,0,,A curse?
-Dialogue: 0,0:20:42.08,0:20:45.22,Default,Ashaf,0,0,0,,A witch's curse. You must know of them.
-Dialogue: 0,0:20:45.22,0:20:49.10,Default,Haines,0,0,0,,Sure. Anyone who's even \Ndabbled in magic does.
-Dialogue: 0,0:20:49.36,0:20:51.54,Default,Ashaf,0,0,0,,Then I'll be brief.
-Dialogue: 0,0:20:51.54,0:20:53.94,Default,Ashaf,0,0,0,,My friend here has one of those.
-Dialogue: 0,0:20:55.16,0:20:58.30,Default,Ashaf,0,0,0,,So we're looking for the witch who cast it.
-Dialogue: 0,0:20:58.30,0:21:01.52,Default,Ashaf,0,0,0,,And more or less at random, \Nsince we have almost nothing to go on.
-Dialogue: 0,0:21:01.52,0:21:03.15,Default,Guideau,0,0,0,,That's not all.
-Dialogue: 0,0:21:03.15,0:21:06.14,Default,Guideau,0,0,0,,I'll find her and kill her.
-Dialogue: 0,0:21:06.14,0:21:07.99,Default,Guideau,0,0,0,,This is revenge.
-Dialogue: 0,0:21:08.87,0:21:10.45,Default,Haines,0,0,0,,Revenge...
-Dialogue: 0,0:21:13.62,0:21:15.87,Default,Ashaf,0,0,0,,We can't be lying, right?{orig: I don't believe we're lying.}
-Dialogue: 0,0:21:17.17,0:21:18.04,Default,Haines,0,0,0,,Right.
-Dialogue: 0,0:21:19.29,0:21:21.17,Default,Haines,0,0,0,,No, I believe you.
-Dialogue: 0,0:21:21.85,0:21:24.04,Default,Haines,0,0,0,,It's a very selfish reason,
-Dialogue: 0,0:21:24.04,0:21:27.09,Default,Haines,0,0,0,,but I can trust it more than \Nsome great and noble cause.
-Dialogue: 0,0:21:27.09,0:21:32.52,Default,Ashaf,0,0,0,,Oh? You need to use reasoning?\N I thought you could tell if we were lying.
-Dialogue: 0,0:21:32.52,0:21:34.38,Default,Haines,0,0,0,,{\i1}That{\i0} was a lie, actually.
-Dialogue: 0,0:21:34.98,0:21:37.35,Default,Haines,0,0,0,,I can't cast a spell {\i1}that{\i0} good.
-Dialogue: 0,0:21:37.59,0:21:39.40,Default,Guideau,0,0,0,,What?! Screw you!
-Dialogue: 0,0:21:39.40,0:21:40.71,Default,Haines,0,0,0,,All right, fine.
-Dialogue: 0,0:21:41.16,0:21:43.26,Default,Haines,0,0,0,,I'll work with you.
-Dialogue: 0,0:21:44.15,0:21:45.74,Default,Haines,0,0,0,,We start tomorrow.
-Dialogue: 0,0:21:46.34,0:21:48.22,Default,Haines,0,0,0,,Meet here at 9 AM.
-Dialogue: 0,0:21:51.28,0:21:53.03,Default,Guideau,0,0,0,,Hey, did she just...{orig: Hey, when you get down to it...}
-Dialogue: 0,0:21:53.44,0:21:56.84,Default,Ashaf,0,0,0,,Make us do all the talking? Why, yes.{orig: She found out what we knew\N and gave us nothing.}
-Dialogue: 0,0:24:01.11,0:24:04.85,Default,Ashaf,0,0,0,,Now, shall we go see a witch?
-Dialogue: 0,0:24:05.59,0:24:09.96,Default,Ashaf,0,0,0,,Next time: "The Witch's Pastime: Final Act."
-Dialogue: 0,0:24:05.71,0:24:09.96,Signs,Text,0,0,0,,{\an8\pos(960,372)\fscx90\fnAlegreya\fs75\blur0.9\fad(1000,0)}The Witch's Pastime
-Dialogue: 0,0:24:05.71,0:24:09.96,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnAlegreya\fs45\blur0.9\fad(1000,0)}Final Act
+Dialogue: 10,0:00:04.00,0:00:05.14,Default,Narrator,0,0,0,,{\i1}Forbidden Instruments.
+Dialogue: 10,0:00:06.56,0:00:11.31,Default,Narrator,0,0,0,,{\i1}Merely possessing these sorcery tools \Ngrants might approaching that of a witch.
+Dialogue: 1,0:00:06.69,0:00:11.57,Signs,Text,0,0,0,,{\an8\fscx90\fnQuadraat\fs48\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)\pos(586.93,658.75)}Forbidden Instruments
+Dialogue: 1,0:00:12.32,0:00:16.70,Signs,Text,0,0,0,,{\an8\pos(1347,378)\fscx90\fnQuadraat\fs56\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)}Sorcery Tools
+Dialogue: 10,0:00:12.48,0:00:16.99,Default,Narrator,0,0,0,,{\i1}But while their wielders gain power,
+Dialogue: 1,0:00:17.53,0:00:23.33,Signs,Text,0,0,0,,{\an8\fscx90\fnQuadraat\fs52\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,500)\pos(562.89,645)}Payment
+Dialogue: 10,0:00:17.68,0:00:23.33,Default,Narrator,0,0,0,,{\i1}they must make sacrifices in payment\Nor else forfeit their lives.
+Dialogue: 10,0:00:24.12,0:00:27.61,Default,Narrator,0,0,0,,{\i1}Thus, the use of Instruments \Nis strictly forbidden.
+Dialogue: 1,0:00:24.29,0:00:33.51,Signs,Text,0,0,0,,{\an8\pos(1263,366)\fscx90\fnQuadraat\fs52\fsp1.5\b1\c&H212D38&\blur0.9\fad(500,0)}Sacrifice
+Dialogue: 10,0:00:28.48,0:00:32.08,Default,Narrator,0,0,0,,{\i1}Yet those who turn to them \Nare never in short supply.
+Dialogue: 10,0:00:32.86,0:00:34.18,Default,Narrator,0,0,0,,{\i1}For you see...
+Dialogue: 10,0:02:11.99,0:02:13.18,Default,Woman,0,0,0,,What was that sound?
+Dialogue: 10,0:02:13.70,0:02:15.36,Default,Man,0,0,0,,Did you hear something?
+Dialogue: 10,0:02:15.84,0:02:16.58,Default,Woman,0,0,0,,Yeah.
+Dialogue: 10,0:02:17.50,0:02:19.05,Default,Woman,0,0,0,,I'm going home.
+Dialogue: 10,0:02:19.05,0:02:20.66,Default,Man,0,0,0,,If you're worried, I can walk you.
+Dialogue: 10,0:02:20.87,0:02:23.70,Default,Woman,0,0,0,,I'll be fine. It's not far.
+Dialogue: 10,0:02:23.70,0:02:24.60,Default,Woman,0,0,0,,Goodnight.
+Dialogue: 10,0:02:35.77,0:02:38.09,Default,Woman,0,0,0,,{\i1}There sure are a lot of crows.
+Dialogue: 10,0:03:23.00,0:03:26.26,Default,Shulk,0,0,0,,Not yet. It's still not enough.
+Dialogue: 10,0:03:27.00,0:03:29.50,Default,Shulk,0,0,0,,I've got to add more.
+Dialogue: 1,0:03:30.57,0:03:35.90,Signs,Episode title,0,0,0,,{\an2\pos(246,956)\fscx90\fnAlegreya\fs54\bord0.5\blur3.5\fad(500,0)}The Witch's Pastime
+Dialogue: 1,0:03:30.57,0:03:35.90,Signs,Episode title,0,0,0,,{\an2\pos(509,956)\fscx90\fnAlegreya\fs50\bord0.5\blur3.5\fad(500,0)}Opening Act
+Dialogue: 10,0:03:35.90,0:03:39.11,Default,Guideau,0,0,0,,Hey. Is there a witch around here?
+Dialogue: 10,0:03:42.19,0:03:46.49,Default,Ashaf,0,0,0,,Beats me. They're supposed \Nto tell us the details in person.
+Dialogue: 10,0:03:49.33,0:03:52.98,Default,Ashaf,0,0,0,,So how can we be of service?
+Dialogue: 10,0:03:52.98,0:03:55.55,Default,Servant 1,0,0,0,,Please keep this between us,
+Dialogue: 10,0:03:55.55,0:03:58.93,Default,Servant 1,0,0,0,,but the master of the house \Nhas a penchant for collecting.
+Dialogue: 10,0:03:59.45,0:04:03.88,Default,Servant 1,0,0,0,,And I'm ashamed to say that a specimen\N has escaped from his collection.
+Dialogue: 10,0:04:04.19,0:04:07.12,Default,Ashaf,0,0,0,,Escaped? So it's an animal?
+Dialogue: 10,0:04:07.12,0:04:11.10,Default,Servant 1,0,0,0,,Yes, sir. And quite a violent one at that.
+Dialogue: 10,0:04:12.56,0:04:15.79,Default,Servant 1,0,0,0,,It has claimed many victims already.
+Dialogue: 10,0:04:17.30,0:04:22.62,Default,Ashaf,0,0,0,,Since you called in the Order, \NI assume it's not just a rare creature.
+Dialogue: 10,0:04:23.07,0:04:26.16,Default,Ashaf,0,0,0,,Don't tell me you have a magical beast here.
+Dialogue: 10,0:04:28.80,0:04:29.50,Default,Servant 1,0,0,0,,Yes.
+Dialogue: 10,0:04:29.92,0:04:32.58,Default,Servant 1,0,0,0,,As you say, the creature is magical.
+Dialogue: 10,0:04:39.41,0:04:42.39,Default,Ashaf,0,0,0,,So you want us to subdue it?
+Dialogue: 10,0:04:42.39,0:04:46.93,Default,Servant 1,0,0,0,,You are to recapture it with the\N utmost haste, and without harming it.
+Dialogue: 10,0:04:46.93,0:04:48.91,Default,Ashaf,0,0,0,,Without harming it?
+Dialogue: 10,0:04:48.91,0:04:51.42,Default,Ashaf,0,0,0,,I see. That explains why you're struggling.
+Dialogue: 10,0:04:52.20,0:04:54.64,Default,Ashaf,0,0,0,,Hm? Where are you going, Guideau?
+Dialogue: 10,0:04:54.64,0:04:57.48,Default,Guideau,0,0,0,,I'm done with this bullshit.
+Dialogue: 10,0:04:57.48,0:04:59.36,Default,Ashaf,0,0,0,,Now, now. We're on the clock.
+Dialogue: 10,0:04:59.61,0:05:02.53,Default,Guideau,0,0,0,,As if I care about a plain old beast.
+Dialogue: 10,0:05:02.53,0:05:04.99,Default,Guideau,0,0,0,,You can handle the pet-sitting.
+Dialogue: 10,0:05:05.26,0:05:06.66,Default,Ashaf,0,0,0,,Dear me.
+Dialogue: 10,0:05:07.13,0:05:10.20,Default,Ashaf,0,0,0,,Who do you think you are, a king?
+Dialogue: 10,0:05:16.08,0:05:18.79,Default,Ashaf,0,0,0,,Excuse me. Pardon the intrusion.
+Dialogue: 10,0:05:19.25,0:05:22.84,Default,Ashaf,0,0,0,,Matter manipulation is the \Nmost basic of magic spells,
+Dialogue: 10,0:05:22.84,0:05:25.76,Default,Ashaf,0,0,0,,but controlling fluids \Nrequires a particular knack.
+Dialogue: 10,0:05:26.22,0:05:29.51,Default,Ashaf,0,0,0,,Honestly, I've always struggled with it.
+Dialogue: 10,0:05:30.88,0:05:32.10,Default,Guideau,0,0,0,,You're full of it.
+Dialogue: 10,0:05:32.34,0:05:34.29,Default,Ashaf,0,0,0,,You wound me, Guideau.
+Dialogue: 10,0:05:34.83,0:05:38.11,Default,Ashaf,0,0,0,,It's not nice to call people liars.
+Dialogue: 10,0:06:09.60,0:06:11.35,Default,Ashaf,0,0,0,,Will that do?
+Dialogue: 10,0:06:15.87,0:06:18.02,Default,Owner,0,0,0,,Splendid work.
+Dialogue: 10,0:06:18.34,0:06:20.86,Default,Owner,0,0,0,,I was right to call on you.
+Dialogue: 10,0:06:21.27,0:06:22.81,Default,Ashaf,0,0,0,,We're honored.
+Dialogue: 10,0:06:22.81,0:06:26.18,Default,Owner,0,0,0,,Magical beasts are illegal \Nin this country, you see.
+Dialogue: 10,0:06:26.18,0:06:28.20,Default,Owner,0,0,0,,I wanted to handle this quietly.
+Dialogue: 10,0:06:28.64,0:06:33.00,Default,Owner,0,0,0,,I heard that you'd take on any job,\N and I see that info was correct.
+Dialogue: 10,0:06:33.00,0:06:34.99,Default,Ashaf,0,0,0,,Oh, not quite.
+Dialogue: 10,0:06:35.38,0:06:40.36,Default,Ashaf,0,0,0,,We only stick our noses into magical trouble.
+Dialogue: 10,0:06:42.96,0:06:47.17,Default,Ashaf,0,0,0,,We're a group that works by magic, \Nfor magic, and of magic.
+Dialogue: 10,0:06:47.68,0:06:52.57,Default,Ashaf,0,0,0,,If you have any more difficulties, \Ncall the Order of Magical Resonance.
+Dialogue: 10,0:06:59.03,0:07:02.81,Default,Ashaf,0,0,0,,Treating oneself after work\N sure hits the spot.
+Dialogue: 10,0:07:04.16,0:07:06.22,Default,Ashaf,0,0,0,,What's wrong? Not eating anything?
+Dialogue: 10,0:07:07.29,0:07:08.78,Default,Guideau,0,0,0,,Gimme a break.
+Dialogue: 10,0:07:10.92,0:07:13.95,Default,Guideau,0,0,0,,Tell me what our last job was, jackass.
+Dialogue: 10,0:07:14.49,0:07:20.36,Default,Ashaf,0,0,0,,We apprehended a petty burglar who had\Ncommitted heinous crimes using magic.
+Dialogue: 10,0:07:20.36,0:07:22.58,Default,Ashaf,0,0,0,,Quite a good deed, if I do say so.
+Dialogue: 10,0:07:22.58,0:07:24.08,Default,Guideau,0,0,0,,And before that?
+Dialogue: 10,0:07:24.08,0:07:27.55,Default,Ashaf,0,0,0,,We exterminated a ghastly tree \Nthat fed on magical power.
+Dialogue: 10,0:07:27.55,0:07:28.71,Default,Guideau,0,0,0,,And before {\i1}that{\i0}?
+Dialogue: 10,0:07:28.71,0:07:31.45,Default,Ashaf,0,0,0,,Let me think...
+Dialogue: 10,0:07:31.45,0:07:34.30,Default,Ashaf,0,0,0,,Oh, yes. A stalker abusing magic—
+Dialogue: 10,0:07:34.30,0:07:35.26,Default,Guideau,0,0,0,,Before that?!
+Dialogue: 10,0:07:35.26,0:07:37.43,Default,Ashaf,0,0,0,,Babysitting a young magical beast.
+Dialogue: 10,0:07:38.93,0:07:40.63,Default,Guideau,0,0,0,,Are you screwing with me?
+Dialogue: 10,0:07:40.63,0:07:44.96,Default,Guideau,0,0,0,,What the hell do you think \NI joined your shitty Order for?
+Dialogue: 10,0:07:44.96,0:07:48.31,Default,Ashaf,0,0,0,,You don't need to remind me.
+Dialogue: 10,0:07:48.66,0:07:51.28,Default,Ashaf,0,0,0,,Oh, dear. That was good wine.
+Dialogue: 10,0:07:51.28,0:07:53.30,Default,Guideau,0,0,0,,Hurry up and find me a witch!
+Dialogue: 10,0:07:53.30,0:07:55.99,Default,Guideau,0,0,0,,If you can't do that, \Nthe Order's a waste of my time.
+Dialogue: 10,0:07:56.16,0:08:01.37,Default,Ashaf,0,0,0,,You must realize that cases \Ninvolving witches don't grow on trees.
+Dialogue: 10,0:08:01.37,0:08:05.00,Default,Ashaf,0,0,0,,And our relationship is give and take.
+Dialogue: 10,0:08:05.00,0:08:08.50,Default,Ashaf,0,0,0,,In exchange for our full support \Nin achieving your goal,
+Dialogue: 10,0:08:08.50,0:08:11.72,Default,Ashaf,0,0,0,,you agreed to serve \Nat the Order's discretion.
+Dialogue: 10,0:08:11.72,0:08:16.00,Default,Ashaf,0,0,0,,We get priority when witch cases comes up.
+Dialogue: 10,0:08:16.00,0:08:19.16,Default,Ashaf,0,0,0,,So until one does, do your job.
+Dialogue: 10,0:08:19.58,0:08:21.39,Default,Ashaf,0,0,0,,If you slack off like you did today,
+Dialogue: 10,0:08:21.39,0:08:24.56,Default,Ashaf,0,0,0,,we won't give you witches, \Nfine food, or anything else.
+Dialogue: 10,0:08:27.12,0:08:30.69,Default,Guideau,0,0,0,,You didn't need me today, anyway.
+Dialogue: 10,0:08:31.12,0:08:32.20,Default,Ashaf,0,0,0,,True enough.
+Dialogue: 10,0:08:33.12,0:08:34.15,Default,Waiter 1,0,0,0,,Excuse me, sir.
+Dialogue: 10,0:08:35.32,0:08:37.24,Default,Waiter 1,0,0,0,,I was asked to give you this.
+Dialogue: 10,0:08:37.86,0:08:38.95,Default,Ashaf,0,0,0,,Thank you.
+Dialogue: 10,0:08:41.84,0:08:43.08,Default,Ashaf,0,0,0,,It's from the Order.
+Dialogue: 10,0:08:43.08,0:08:45.67,Default,Guideau,0,0,0,,Is it a witch?! Gimme!
+Dialogue: 10,0:08:47.20,0:08:52.08,Default,Ashaf,0,0,0,,How many times must I tell you? You need \Nan Order signet ring to break this seal.
+Dialogue: 10,0:08:55.09,0:08:58.69,Default,Ashaf,0,0,0,,Although you should have \None of these brands, too.
+Dialogue: 10,0:09:02.98,0:09:05.39,Default,Ashaf,0,0,0,,Oh? Cheer up, Guideau.
+Dialogue: 10,0:09:05.78,0:09:08.23,Default,Ashaf,0,0,0,,Speak of the devil.
+Dialogue: 10,0:09:27.92,0:09:28.63,Default,Guideau,0,0,0,,A witch!
+Dialogue: 10,0:09:28.84,0:09:31.35,Default,Ashaf,0,0,0,,This lady is merely our client.
+Dialogue: 10,0:09:31.35,0:09:33.48,Default,Guideau,0,0,0,,So where's the damn witch, then?!
+Dialogue: 10,0:09:33.48,0:09:36.09,Default,Ashaf,0,0,0,,We're with the Order of Magical Resonance.
+Dialogue: 10,0:09:36.09,0:09:38.43,Default,Ashaf,0,0,0,,I believe you have a job for us?
+Dialogue: 10,0:09:38.43,0:09:42.46,Default,Old Woman,0,0,0,,I'm sorry to have you come \Nall this way. Please come in.
+Dialogue: 10,0:09:44.24,0:09:48.98,Default,Old Woman,0,0,0,,I can't seem to open this case anymore. \NCan you do something about it?
+Dialogue: 10,0:09:53.56,0:09:57.28,Default,Ashaf,0,0,0,,I see. A runic inscription.
+Dialogue: 10,0:09:57.76,0:10:01.75,Default,Ashaf,0,0,0,,You're in luck. \NSpellpicking is my specialty.{orig: undoing spells}
+Dialogue: 10,0:10:01.75,0:10:02.62,Default,Old Woman,0,0,0,,Goodness.
+Dialogue: 10,0:10:14.00,0:10:18.17,Default,Ashaf,0,0,0,,Another good deed done.\NI live for people's smiles.{orig: Then what was that "Speak of the devil" about?}{CC: 善行はいいね～ 人の笑顔は糧になる}{sgt: this line was completely wrong}
+Dialogue: 10,0:10:20.80,0:10:24.43,Default,Guideau,0,0,0,,Get ready for what's coming to you, asshole.
+Dialogue: 10,0:10:25.04,0:10:28.14,Default,Ashaf,0,0,0,,I never said anything about a witch, did I?
+Dialogue: 10,0:10:28.68,0:10:31.86,Default,Ashaf,0,0,0,,You should have realized that\Nwhen I left the coffin behind.
+Dialogue: 10,0:10:32.12,0:10:34.52,Default,Guideau,0,0,0,,Then what was that \N"Speak of the devil" about?
+Dialogue: 10,0:10:34.89,0:10:38.86,Default,Ashaf,0,0,0,,I was just saying that you should \Ntake non-witch cases seriously.
+Dialogue: 10,0:10:38.86,0:10:40.30,Default,Guideau,0,0,0,,Bullshit!
+Dialogue: 10,0:10:40.30,0:10:43.65,Default,Ashaf,0,0,0,,If you feel you were fooled, \Nconsider it a learning experience.
+Dialogue: 10,0:10:43.65,0:10:45.37,Default,Ashaf,0,0,0,,It taught you a lesson.
+Dialogue: 10,0:10:45.37,0:10:50.25,Default,Guideau,0,0,0,,Like hell I will. \NTrusting you was my big mistake.
+Dialogue: 10,0:10:50.25,0:10:53.57,Default,Ashaf,0,0,0,,"Mistake" is another word for "experience."
+Dialogue: 10,0:10:53.57,0:10:55.46,Default,Ashaf,0,0,0,,They're both shortcuts to wisdom.
+Dialogue: 10,0:10:55.97,0:10:58.66,Default,Ashaf,0,0,0,,Sorry, but we don't have time to quarrel.
+Dialogue: 10,0:10:58.66,0:11:01.09,Default,Ashaf,0,0,0,,There's a job waiting for us.
+Dialogue: 10,0:11:01.70,0:11:05.23,Default,Ashaf,0,0,0,,Hope for better luck on this one.
+Dialogue: 10,0:11:06.54,0:11:09.47,Default,Guideau,0,0,0,,I'll let it slide, but only for the time being.
+Dialogue: 10,0:11:09.47,0:11:13.15,Default,Guideau,0,0,0,,As soon as my curse is lifted\N and I don't need the Order anymore,
+Dialogue: 10,0:11:13.75,0:11:16.27,Default,Guideau,0,0,0,,the first thing I'm gonna do is kill you.
+Dialogue: 10,0:11:16.96,0:11:18.24,Default,Ashaf,0,0,0,,Glad to hear it.
+Dialogue: 10,0:11:18.98,0:11:23.30,Default,Ashaf,0,0,0,,I'm looking forward to that day myself.
+Dialogue: 10,0:11:27.98,0:11:32.90,Default,Ashaf,0,0,0,,A peaceful, witch-free month\N has passed since then.
+Dialogue: 10,0:11:32.90,0:11:35.45,Default,Ashaf,0,0,0,,What a tranquil afternoon.
+Dialogue: 10,0:11:36.18,0:11:40.57,Default,Ashaf,0,0,0,,I'd say the day you reclaim your \Nreal body is still a long way off.
+Dialogue: 10,0:11:40.57,0:11:44.34,Default,Guideau,0,0,0,,I'll kill you later, \Nbut I can always kick your ass now.
+Dialogue: 10,0:11:44.34,0:11:46.85,Default,Ashaf,0,0,0,,Temper, temper.
+Dialogue: 10,0:11:47.31,0:11:49.68,Default,Ashaf,0,0,0,,Anyway, eat your fill.
+Dialogue: 10,0:11:49.68,0:11:50.77,Default,Ashaf,0,0,0,,Good, isn't it?
+Dialogue: 10,0:11:50.77,0:11:52.14,Default,Guideau,0,0,0,,It's gross as hell.
+Dialogue: 10,0:11:54.07,0:11:56.89,Default,Waiter 2,0,0,0,,For you, mister.
+Dialogue: 10,0:11:56.89,0:11:58.60,Default,Guideau,0,0,0,,From the Order again?
+Dialogue: 10,0:11:58.60,0:11:59.28,Default,Ashaf,0,0,0,,Yes.
+Dialogue: 10,0:11:59.28,0:12:02.33,Default,Guideau,0,0,0,,More busy work, I bet.
+Dialogue: 10,0:12:02.33,0:12:04.70,Default,Guideau,0,0,0,,To hell with that crap. Rip it up.
+Dialogue: 10,0:12:05.44,0:12:08.54,Default,Ashaf,0,0,0,,No, you'll like this one, Guideau.
+Dialogue: 10,0:12:09.96,0:12:11.79,Default,Ashaf,0,0,0,,It came in a black envelope.
+Dialogue: 10,0:12:12.54,0:12:14.42,Default,Guideau,0,0,0,,So what?
+Dialogue: 10,0:12:14.90,0:12:22.01,Default,Ashaf,0,0,0,,They only send these when a witch \Nis involved and central to the case.
+Dialogue: 10,0:12:22.61,0:12:28.73,Default,Ashaf,0,0,0,,It seems a witch is committing serial \Nmurders in Hayden, the capital of Pheres.
+Dialogue: 10,0:12:28.73,0:12:33.35,Default,Ashaf,0,0,0,,They even make a point of \Ncalling the case "grotesque."
+Dialogue: 10,0:12:33.35,0:12:34.26,Default,Ashaf,0,0,0,,Besides which—
+Dialogue: 10,0:12:34.26,0:12:36.02,Default,Guideau,0,0,0,,Enough. Gimme.
+Dialogue: 10,0:12:36.43,0:12:38.32,Default,Ashaf,0,0,0,,You're so impatient.
+Dialogue: 10,0:12:40.98,0:12:42.72,Default,Ashaf,0,0,0,,We're about to be busy.
+Dialogue: 10,0:12:42.72,0:12:45.24,Default,Ashaf,0,0,0,,There's an ocean between us and this case.
+Dialogue: 10,0:12:45.58,0:12:46.83,Default,Ashaf,0,0,0,,Pack your bags.
+Dialogue: 10,0:12:51.92,0:12:54.25,Default,Ashaf,0,0,0,,{\i1}So a witch {\i0}and{\i1} a grimoire?
+Dialogue: 10,0:12:56.67,0:12:59.63,Default,Ashaf,0,0,0,,{\i1}We won't have an easy time of it.{manga: What a slog this'll be...}
+Dialogue: 10,0:13:07.15,0:13:09.01,Flashback,Police Officer,0,0,0,,Ms. Haines, it's dangerous!
+Dialogue: 10,0:13:09.01,0:13:11.22,Flashback,Haines,0,0,0,,My children are in there!
+Dialogue: 10,0:13:11.44,0:13:13.82,Flashback,Haines,0,0,0,,Shulk! Loran!
+Dialogue: 10,0:13:24.36,0:13:26.24,Default,Detective,0,0,0,,You were groaning in your sleep.
+Dialogue: 10,0:13:26.76,0:13:28.26,Default,Detective,0,0,0,,Are you okay?
+Dialogue: 10,0:13:28.26,0:13:30.30,Default,Haines,0,0,0,,Yeah, I'm fine.
+Dialogue: 10,0:13:30.71,0:13:32.20,Default,Detective,0,0,0,,If you say so.
+Dialogue: 10,0:13:39.58,0:13:42.70,Default,Detective,0,0,0,,Sorry. She gave us the slip again.
+Dialogue: 10,0:13:43.18,0:13:44.24,Default,Haines,0,0,0,,How many dead?
+Dialogue: 10,0:13:44.80,0:13:46.72,Default,Detective,0,0,0,,At least five.
+Dialogue: 10,0:13:47.12,0:13:49.63,Default,Detective,0,0,0,,And the bodies were...
+Dialogue: 10,0:13:51.22,0:13:55.97,Default,Haines,0,0,0,,"Consumed, sacrificed, \Nor something similar by a witch"?
+Dialogue: 10,0:13:56.95,0:14:01.26,Default,Detective,0,0,0,,How could anyone do something \Nso horrible? She must be crazy.
+Dialogue: 10,0:14:01.81,0:14:03.94,Default,Haines,0,0,0,,"Crazy," huh?
+Dialogue: 10,0:14:05.04,0:14:08.00,Default,Haines,0,0,0,,I've seen plenty of perps with a screw loose.
+Dialogue: 10,0:14:08.00,0:14:10.14,Default,Haines,0,0,0,,They all had one thing in common.
+Dialogue: 10,0:14:10.69,0:14:12.25,Default,Haines,0,0,0,,Know what that is?
+Dialogue: 10,0:14:12.25,0:14:13.08,Default,Detective,0,0,0,,No.
+Dialogue: 10,0:14:13.44,0:14:17.83,Default,Haines,0,0,0,,Unfulfilled desires born \Nfrom a sense of inferiority.
+Dialogue: 10,0:14:18.35,0:14:24.46,Default,Haines,0,0,0,,Losing control of them can turn even \Nupstanding people into crazed villains.
+Dialogue: 10,0:14:24.83,0:14:27.04,Default,Detective,0,0,0,,You mean no person is born evil?
+Dialogue: 10,0:14:27.76,0:14:28.90,Default,Haines,0,0,0,,"Person," huh?
+Dialogue: 10,0:14:29.79,0:14:31.70,Default,Haines,0,0,0,,Is a witch a person?
+Dialogue: 10,0:14:32.22,0:14:33.64,Default,Detective,0,0,0,,Beats me.
+Dialogue: 10,0:14:33.64,0:14:39.69,Default,Detective,0,0,0,,But witch or human, \Nanyone who can do this must be scum.
+Dialogue: 10,0:14:40.45,0:14:41.71,Default,Haines,0,0,0,,I couldn't agree more.
+Dialogue: 10,0:14:42.14,0:14:44.76,Default,Detective,0,0,0,,We didn't expect this fight.
+Dialogue: 10,0:14:44.76,0:14:48.32,Default,Detective,0,0,0,,Is that why you didn't set \Nall your barriers in time?{orig: wards}
+Dialogue: 10,0:14:48.32,0:14:50.97,Default,Haines,0,0,0,,You mean she wouldn't \Nhave escaped if I'd finished?
+Dialogue: 10,0:14:51.46,0:14:52.21,Default,Detective,0,0,0,,Er, no.
+Dialogue: 10,0:14:53.09,0:14:57.62,Default,Haines,0,0,0,,Closing off the scene would've made \Nno difference. She slips through barriers.
+Dialogue: 10,0:14:58.23,0:14:59.35,Default,Detective,0,0,0,,What I meant was—
+Dialogue: 10,0:14:59.35,0:15:00.57,Default,Haines,0,0,0,,I know.
+Dialogue: 10,0:15:01.20,0:15:07.07,Default,Haines,0,0,0,,We need to box her in to make \Nher cast as many spells as possible,
+Dialogue: 10,0:15:07.07,0:15:09.17,Default,Haines,0,0,0,,or we'll never figure out her magic.
+Dialogue: 10,0:15:10.46,0:15:13.35,Default,Haines,0,0,0,,But even if we solve that mystery, \Nit's just the first step.
+Dialogue: 10,0:15:13.98,0:15:18.01,Default,Haines,0,0,0,,The full force of the Hayden Police \Nstill has to take this slow and steady.
+Dialogue: 10,0:15:19.20,0:15:23.66,Default,Haines,0,0,0,,A feeble police force can't \Nfight a monster any other way.
+Dialogue: 10,0:15:24.19,0:15:27.50,Default,Detective,0,0,0,,Ms. Haines, I shouldn't have to tell you
+Dialogue: 10,0:15:27.50,0:15:31.15,Default,Detective,0,0,0,,that this goes way beyond \Nregular serial murder.
+Dialogue: 10,0:15:31.90,0:15:34.04,Default,Detective,0,0,0,,You're the only mage we've got.
+Dialogue: 10,0:15:34.60,0:15:37.78,Default,Detective,0,0,0,,If you feel powerless, talk to the mayor.
+Dialogue: 10,0:15:39.70,0:15:42.62,Default,Detective,0,0,0,,Witches are the Paladin Corps' jurisdiction.
+Dialogue: 10,0:15:42.96,0:15:46.16,Default,Detective,0,0,0,,Unless something changes, \Nthe body count will just keep growing.
+Dialogue: 10,0:15:46.16,0:15:47.38,Default,Haines,0,0,0,,I know.
+Dialogue: 10,0:15:49.83,0:15:51.30,Default,Haines,0,0,0,,I know that.
+Dialogue: 10,0:15:55.94,0:15:57.75,Default,Detective,0,0,0,,I know it's easier said than done,
+Dialogue: 10,0:15:57.75,0:16:01.18,Default,Detective,0,0,0,,but try not to beat yourself up over \Nwhat happened to Inspector Cole.
+Dialogue: 10,0:16:01.75,0:16:04.88,Default,Haines,0,0,0,,I've handled plenty of horrific cases.
+Dialogue: 10,0:16:04.88,0:16:08.02,Default,Haines,0,0,0,,I thought people always \Nremembered the perpetrators
+Dialogue: 10,0:16:08.53,0:16:12.28,Default,Haines,0,0,0,,and forgot the victims in no time.
+Dialogue: 10,0:16:12.84,0:16:17.74,Default,Haines,0,0,0,,But then someone murdered \Npeople I cared about,
+Dialogue: 10,0:16:18.42,0:16:21.39,Default,Haines,0,0,0,,and I realized that I'd never \Nforget the names of either.
+Dialogue: 10,0:16:22.71,0:16:26.29,Default,Haines,0,0,0,,Don't worry. I'll do my job.
+Dialogue: 10,0:16:35.30,0:16:38.51,Default,Ashaf,0,0,0,,Oh, dear. It appears we're too late.
+Dialogue: 10,0:16:38.51,0:16:42.85,Default,Guideau,0,0,0,,Don't give me that crap. \NYou let her slip right out from under us.
+Dialogue: 10,0:16:42.85,0:16:44.61,Default,Ashaf,0,0,0,,Cut me some slack.
+Dialogue: 10,0:16:44.61,0:16:49.25,Default,Ashaf,0,0,0,,And rest easy. The witch \Nin this case will be back.
+Dialogue: 10,0:16:50.71,0:16:56.53,Default,Ashaf,0,0,0,,Grotesque mass murder committed by\N a witch, a.k.a. the "Witch's Pastime" case.
+Dialogue: 10,0:16:56.53,0:17:00.83,Default,Ashaf,0,0,0,,As of last week, the victims \Nnumbered 36, including police officers.
+Dialogue: 10,0:17:00.83,0:17:02.33,Default,Ashaf,0,0,0,,Quite a tough nut to crack.
+Dialogue: 10,0:17:02.88,0:17:05.87,Default,Ashaf,0,0,0,,What did tonight make the body count?
+Dialogue: 10,0:17:06.88,0:17:08.74,Default,Haines,0,0,0,,Who are you people?{sgt: keeping this consistent with E01 23:26}
+Dialogue: 10,0:17:09.23,0:17:11.92,Default,Haines,0,0,0,,You know how to test my patience,{orig: You're saying things \NI don't want to think about,}
+Dialogue: 10,0:17:12.43,0:17:14.59,Default,Haines,0,0,0,,so you must know who I am.
+Dialogue: 10,0:17:15.13,0:17:17.01,Default,Haines,0,0,0,,And you look suspicious.
+Dialogue: 10,0:17:17.44,0:17:19.76,Default,Haines,0,0,0,,What's in that coffin?
+Dialogue: 10,0:17:19.76,0:17:22.38,Default,Ashaf,0,0,0,,Peppering us with questions already?{orig: Grilling us already?}{sgt: unsure if Ashaf would say "grilling"}
+Dialogue: 10,0:17:22.38,0:17:24.16,Default,Ashaf,0,0,0,,Well, I can't blame you.
+Dialogue: 10,0:17:24.58,0:17:28.06,Default,Ashaf,0,0,0,,Rest assured, we're perfectly respectable.
+Dialogue: 10,0:17:28.65,0:17:30.52,Default,Ashaf,0,0,0,,So please, stay your hand.
+Dialogue: 10,0:17:34.05,0:17:36.42,Default,Ashaf,0,0,0,,We mean you no harm.
+Dialogue: 10,0:17:36.78,0:17:39.07,Default,Ashaf,0,0,0,,In fact, we'd like to help you.
+Dialogue: 10,0:17:40.13,0:17:41.28,Default,Haines,0,0,0,,Help how?
+Dialogue: 10,0:17:41.79,0:17:45.07,Default,Ashaf,0,0,0,,We're with The Order of Magical Resonance.
+Dialogue: 10,0:17:45.07,0:17:47.81,Default,Ashaf,0,0,0,,A major incident is disturbing your city.
+Dialogue: 10,0:17:47.81,0:17:53.00,Default,Ashaf,0,0,0,,If you suspect a witch is responsible, \Nthen we have much to offer you.
+Dialogue: 10,0:18:02.48,0:18:04.20,Default,Haines,0,0,0,,Hayden Police.
+Dialogue: 10,0:18:04.20,0:18:08.10,Default,Haines,0,0,0,,We'll take a table in the back, \Nbut I'd like to set a soundproof barrier.
+Dialogue: 10,0:18:08.10,0:18:09.65,Default,Waiter 3,0,0,0,,S-Sure.
+Dialogue: 10,0:18:10.76,0:18:12.22,Default,Haines,0,0,0,,I got confirmation.
+Dialogue: 10,0:18:12.72,0:18:16.36,Default,Haines,0,0,0,,It seems the mayor really did \Nsign off on a request to the Order.
+Dialogue: 10,0:18:16.36,0:18:19.29,Default,Ashaf,0,0,0,,I would never lie to a beautiful lady.
+Dialogue: 10,0:18:19.81,0:18:24.70,Default,Ashaf,0,0,0,,By the way, could you hold off on that barrier\N until we've received our order?
+Dialogue: 10,0:18:24.92,0:18:28.29,Default,Haines,0,0,0,,Of course. At least let me\N have a cup of coffee.
+Dialogue: 10,0:18:28.29,0:18:31.85,Default,Ashaf,0,0,0,,No, please wait for our full meal.
+Dialogue: 10,0:18:31.85,0:18:33.76,Default,Ashaf,0,0,0,,Replacing barriers is a hassle, no?
+Dialogue: 10,0:18:40.22,0:18:44.06,Default,Ashaf,0,0,0,,For our part, we'd like to hear \Nabout the case as soon as possible.
+Dialogue: 10,0:18:44.57,0:18:46.93,Default,Haines,0,0,0,,Tell me your story first.
+Dialogue: 10,0:18:46.93,0:18:50.85,Default,Haines,0,0,0,,The mayor might trust you, \Nbut I certainly don't.
+Dialogue: 10,0:18:50.85,0:18:53.12,Default,Ashaf,0,0,0,,But you have a witch case on your hands.
+Dialogue: 10,0:18:53.61,0:18:55.95,Default,Ashaf,0,0,0,,Sooner or later, \Nthe Paladin Corps will step in.
+Dialogue: 10,0:18:55.95,0:18:58.82,Default,Ashaf,0,0,0,,But for some reason, \Nthe mayor is stalling them.
+Dialogue: 10,0:18:59.17,0:19:01.57,Default,Haines,0,0,0,,Making you our only hope?
+Dialogue: 10,0:19:01.57,0:19:02.74,Default,Ashaf,0,0,0,,Looks that way.
+Dialogue: 10,0:19:03.32,0:19:06.32,Default,Ashaf,0,0,0,,To begin with, \Nthis whole situation is strange.
+Dialogue: 10,0:19:06.32,0:19:09.62,Default,Ashaf,0,0,0,,Police forces aren't \Nequipped to combat witches.
+Dialogue: 10,0:19:09.62,0:19:11.71,Default,Ashaf,0,0,0,,What you need is an army.
+Dialogue: 10,0:19:12.02,0:19:16.69,Default,Ashaf,0,0,0,,That's why global peacekeepers \Nlike the Paladin Corps handle witches.
+Dialogue: 10,0:19:17.37,0:19:21.52,Default,Ashaf,0,0,0,,The mayor is probably refusing their help
+Dialogue: 10,0:19:21.52,0:19:24.35,Default,Ashaf,0,0,0,,to claim the glory of \Nsolving the case without them.
+Dialogue: 10,0:19:24.64,0:19:28.94,Default,Ashaf,0,0,0,,Anyone can see how foolish that is, \Nso why do you all go along with it?
+Dialogue: 10,0:19:29.47,0:19:34.22,Default,Ashaf,0,0,0,,As the force's only mage, \NI believe you're in charge of the case.
+Dialogue: 10,0:19:34.22,0:19:37.11,Default,Ashaf,0,0,0,,You ought to protest. Why don't you?
+Dialogue: 10,0:19:39.65,0:19:40.96,Default,Guideau,0,0,0,,Who gives a shit?
+Dialogue: 10,0:19:40.96,0:19:44.07,Default,Guideau,0,0,0,,Just tell me everything \Nyou know about the witch.
+Dialogue: 10,0:19:44.07,0:19:46.78,Default,Guideau,0,0,0,,Then I'll kick all the witch ass you want.
+Dialogue: 10,0:19:47.47,0:19:49.98,Default,Haines,0,0,0,,Why are {\i1}you{\i0} so fixated on the witch?
+Dialogue: 10,0:19:50.41,0:19:53.37,Default,Haines,0,0,0,,Most people would steer clear \Nof a witch serial killer.
+Dialogue: 10,0:19:53.75,0:19:54.40,Default,Guideau,0,0,0,,That's—
+Dialogue: 10,0:19:54.40,0:19:56.22,Default,Ashaf,0,0,0,,Guideau, have a bone.
+Dialogue: 10,0:19:58.53,0:20:01.28,Default,Ashaf,0,0,0,,For our organization, essentially.
+Dialogue: 10,0:20:01.28,0:20:05.05,Default,Ashaf,0,0,0,,We cover all magic, \Nwhich includes witchcraft—{orig: We collect the essence of magic. \NWitches, naturally, and—}
+Dialogue: 10,0:20:05.05,0:20:08.33,Default,Haines,0,0,0,,Don't hide anything unless \Nyou want to lose even more trust.
+Dialogue: 10,0:20:09.93,0:20:12.44,Default,Haines,0,0,0,,I came up with this barrier myself.
+Dialogue: 10,0:20:13.16,0:20:16.56,Default,Haines,0,0,0,,Lies can't fool me in here.
+Dialogue: 10,0:20:17.63,0:20:18.78,Default,Guideau,0,0,0,,Asshole.
+Dialogue: 10,0:20:21.09,0:20:23.99,Default,Ashaf,0,0,0,,Dear me. How shrewd of you.
+Dialogue: 10,0:20:25.45,0:20:26.70,Default,Haines,0,0,0,,Answer me.
+Dialogue: 10,0:20:32.96,0:20:36.08,Default,Ashaf,0,0,0,,Well, our circumstances aren't worth hiding.
+Dialogue: 10,0:20:36.68,0:20:39.92,Default,Ashaf,0,0,0,,We just want to undo a curse.
+Dialogue: 10,0:20:40.55,0:20:41.63,Default,Haines,0,0,0,,A curse?
+Dialogue: 10,0:20:42.08,0:20:45.22,Default,Ashaf,0,0,0,,A witch's curse. You must know of them.
+Dialogue: 10,0:20:45.22,0:20:49.10,Default,Haines,0,0,0,,Sure. Anyone who's even \Ndabbled in magic does.
+Dialogue: 10,0:20:49.36,0:20:51.54,Default,Ashaf,0,0,0,,Then I'll be brief.
+Dialogue: 10,0:20:51.54,0:20:53.94,Default,Ashaf,0,0,0,,My friend here has one of those.
+Dialogue: 10,0:20:55.16,0:20:58.30,Default,Ashaf,0,0,0,,So we're looking for the witch who cast it.
+Dialogue: 10,0:20:58.30,0:21:01.52,Default,Ashaf,0,0,0,,And more or less at random, \Nsince we have almost nothing to go on.
+Dialogue: 10,0:21:01.52,0:21:03.15,Default,Guideau,0,0,0,,That's not all.
+Dialogue: 10,0:21:03.15,0:21:06.14,Default,Guideau,0,0,0,,I'll find her and kill her.
+Dialogue: 10,0:21:06.14,0:21:07.99,Default,Guideau,0,0,0,,This is revenge.
+Dialogue: 10,0:21:08.87,0:21:10.45,Default,Haines,0,0,0,,Revenge...
+Dialogue: 10,0:21:13.62,0:21:15.87,Default,Ashaf,0,0,0,,We can't be lying, right?{orig: I don't believe we're lying.}
+Dialogue: 10,0:21:17.17,0:21:18.04,Default,Haines,0,0,0,,Right.
+Dialogue: 10,0:21:19.29,0:21:21.17,Default,Haines,0,0,0,,No, I believe you.
+Dialogue: 10,0:21:21.85,0:21:24.04,Default,Haines,0,0,0,,It's a very selfish reason,
+Dialogue: 10,0:21:24.04,0:21:27.09,Default,Haines,0,0,0,,but I can trust it more than \Nsome great and noble cause.
+Dialogue: 10,0:21:27.09,0:21:32.52,Default,Ashaf,0,0,0,,Oh? You need to use reasoning?\N I thought you could tell if we were lying.
+Dialogue: 10,0:21:32.52,0:21:34.38,Default,Haines,0,0,0,,{\i1}That{\i0} was a lie, actually.
+Dialogue: 10,0:21:34.98,0:21:37.35,Default,Haines,0,0,0,,I can't cast a spell {\i1}that{\i0} good.
+Dialogue: 10,0:21:37.59,0:21:39.40,Default,Guideau,0,0,0,,What?! Screw you!
+Dialogue: 10,0:21:39.40,0:21:40.71,Default,Haines,0,0,0,,All right, fine.
+Dialogue: 10,0:21:41.16,0:21:43.26,Default,Haines,0,0,0,,I'll work with you.
+Dialogue: 10,0:21:44.15,0:21:45.74,Default,Haines,0,0,0,,We start tomorrow.
+Dialogue: 10,0:21:46.34,0:21:48.22,Default,Haines,0,0,0,,Meet here at 9 AM.
+Dialogue: 10,0:21:51.28,0:21:53.03,Default,Guideau,0,0,0,,Hey, did she just...{orig: Hey, when you get down to it...}
+Dialogue: 10,0:21:53.44,0:21:56.84,Default,Ashaf,0,0,0,,Make us do all the talking? Why, yes.{orig: She found out what we knew\N and gave us nothing.}
+Dialogue: 10,0:24:01.11,0:24:04.85,Default,Ashaf,0,0,0,,Now, shall we go see a witch?
+Dialogue: 10,0:24:05.59,0:24:09.96,Default,Ashaf,0,0,0,,Next time: "The Witch's Pastime: Final Act."
+Dialogue: 1,0:24:05.71,0:24:09.96,Signs,Text,0,0,0,,{\an8\pos(960,372)\fscx90\fnAlegreya\fs75\blur0.9\fad(1000,0)}The Witch's Pastime
+Dialogue: 1,0:24:05.71,0:24:09.96,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnAlegreya\fs45\blur0.9\fad(1000,0)}Final Act
