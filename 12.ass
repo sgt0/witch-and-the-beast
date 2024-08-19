@@ -214,10 +214,10 @@ Dialogue: 10,0:16:52.64,0:16:56.15,Default,Ashaf,0,0,0,,I want to teach you what
 Dialogue: 10,0:17:05.51,0:17:09.67,Default,Ashaf,0,0,0,,I assume you know that \Nour world has eight continents.
 Dialogue: 10,0:17:10.20,0:17:14.72,Default,Ashaf,0,0,0,,The world's most influential \Norganization, the Global Holy Church,
 Dialogue: 10,0:17:14.72,0:17:17.99,Default,Ashaf,0,0,0,,has its headquarters on the First Continent.
-Dialogue: 1,0:17:15.47,0:17:23.69,Signs,Text,0,0,0,,{\move(345,234,366,243)\fscx90\fnQuadraat\fs45\b1\bord0\blur0.7\fad(900,0)\t(\fscx87\fscy97)}First Continent
+Dialogue: 1,0:17:15.47,0:17:23.69,Signs,Text,0,0,0,,{=9}{\move(332,216,352.47,225.63,23,8198)\fscx90\fnQuadraat\fs45\b1\bord0\blur0.7\fade(255,0,255,0,900,8220,8220)\t(23,8198,\clip)\t(23,8198,\fscy100)\t(23,8198,\fscx90)\t(23,8198,\bord0)\t(23,8198,\blur0.7)\clip}First Continent
 Dialogue: 10,0:17:17.99,0:17:23.68,Default,Ashaf,0,0,0,,The Second Continent lies east \Nof that, followed by the Third.
-Dialogue: 1,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{\move(609.999,369.999,615.999,372.999)\fscx90\fnQuadraat\fs42\b1\bord0\blur0.7\fad(900,0)\t(\fscx88\fscy98)}Second Continent
-Dialogue: 1,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{\move(656.001,573.999,659.001,573.999)\fscx90\fnQuadraat\fs42\b1\bord0\blur0.7\fad(900,0)\t(\fscx88\fscy98)}Third Continent
+Dialogue: 1,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{=10}{\move(638.99,255.01,643.37,258.9,22,3818)\fnQuadraat\fs42\b1\bord0\blur0.7\fade(255,0,255,0,900,3830,3830)\t(22,3818,\clip)\t(22,3818,\fscx100)\t(22,3818,\fscy100)\t(22,3818,\bord0)\t(22,3818,\blur0.7)\clip}Second Continent
+Dialogue: 1,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{=11}{\move(654,472,659.4,472.78,22,3818)\fnQuadraat\fs42\b1\bord0\blur0.7\fade(255,0,255,0,900,3830,3830)\t(22,3818,\clip)\t(22,3818,\fscx100)\t(22,3818,\fscy100)\t(22,3818,\bord0)\t(22,3818,\blur0.7)\clip}Third Continent
 Dialogue: 10,0:17:24.29,0:17:30.59,Default,Ashaf,0,0,0,,The farther you go from the progenitor \Nof magic, the Global Holy Church,
 Dialogue: 10,0:17:30.59,0:17:33.69,Default,Ashaf,0,0,0,,the cruder the level of magic culture becomes.
 Dialogue: 10,0:17:34.12,0:17:38.61,Default,Ashaf,0,0,0,,But the Eighth Continent, \Nthe farthest from the First,
@@ -237,7 +237,7 @@ Dialogue: 10,0:18:29.84,0:18:35.19,Default,Ashaf,0,0,0,,Although for that, you'd
 Dialogue: 10,0:18:35.19,0:18:39.09,Default,Ashaf,0,0,0,,and the resolve to risk your life.
 Dialogue: 10,0:18:39.56,0:18:44.47,Default,Ashaf,0,0,0,,The Order has all three, so here we are.
 Dialogue: 10,0:18:44.47,0:18:50.04,Default,Ashaf,0,0,0,,{\an8}This is the entrance to a hole \Nout of this world: the Fall.
-Dialogue: 1,0:18:48.27,0:18:52.78,Signs,Text,0,0,0,,{\pos(960,822)\fnAlegreya\fs42\bord0\blur0.9\fad(650,1300)}(Tiered Worlds)\N{\fs100}The Fall
+Dialogue: 1,0:18:48.23,0:18:52.78,Signs,Text,0,0,0,,{\pos(960,822)\fnAlegreya\fs42\bord0\blur0.9\fad(650,1300)}(Tiered Worlds)\N{\fs100}The Fall
 Dialogue: 10,0:18:59.83,0:19:03.45,Default,Receptionist,0,0,0,,We appreciate your visit, Mr. Ashaf.
 Dialogue: 10,0:19:05.27,0:19:08.21,Default,Receptionist,0,0,0,,Please proceed to your right.
 Dialogue: 10,0:19:16.16,0:19:19.82,Default,Ashaf,0,0,0,,The Fall has seventeen levels.
@@ -286,3 +286,8 @@ Dialogue: 10,0:22:03.09,0:22:07.58,Default,Ashaf,0,0,0,,You'll have no shortage 
 Dialogue: 10,0:22:09.45,0:22:11.50,Default,Ashaf,0,0,0,,Now, shall we go?
 Dialogue: 10,0:22:13.53,0:22:17.73,Default,Ashaf,0,0,0,,Level Four: Orlencia Sett.
 Dialogue: 10,0:22:17.73,0:22:20.76,Default,Ashaf,0,0,0,,A world where vampires dwell.
+
+[Aegisub Extradata]
+Data: 9,a-mo,e{"uuid"#3A"184a4352-00fc-4228-ad3a-fc1e543cb80f"#2C"originalText"#3A"{\\fscx90\\fnQuadraat\\fs45\\b1\\bord0\\blur0.7\\fad(900#2C0)\\pos(332#2C216)}First Continent"}
+Data: 10,a-mo,e{"uuid"#3A"3d845fec-3ad2-4c07-9789-0ada2a988816"#2C"originalText"#3A"{\\fnQuadraat\\fs42\\b1\\bord0\\blur0.7\\fad(900#2C0)\\pos(640#2C256)}Second Continent"}
+Data: 11,a-mo,e{"uuid"#3A"877eb868-a6df-4e1d-a260-da373acb6933"#2C"originalText"#3A"{\\fnQuadraat\\fs42\\b1\\bord0\\blur0.7\\fad(900#2C0)\\pos(654#2C472)}Third Continent"}
