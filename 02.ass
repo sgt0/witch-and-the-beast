@@ -138,7 +138,7 @@ Dialogue: 10,0:09:44.24,0:09:48.98,Default,Old Woman,0,0,0,,I can't seem to open
 Dialogue: 10,0:09:53.56,0:09:57.28,Default,Ashaf,0,0,0,,I see. A runic inscription.
 Dialogue: 10,0:09:57.76,0:10:01.75,Default,Ashaf,0,0,0,,You're in luck. \NSpellpicking is my specialty.{orig: undoing spells}
 Dialogue: 10,0:10:01.75,0:10:02.62,Default,Old Woman,0,0,0,,Goodness.
-Dialogue: 10,0:10:14.00,0:10:18.17,Default,Ashaf,0,0,0,,Another good deed done.\NI live for people's smiles.{orig: Then what was that "Speak of the devil" about?}{CC: 善行はいいね～ 人の笑顔は糧になる}{sgt: this line was completely wrong}
+Dialogue: 10,0:10:14.00,0:10:18.17,Default,Ashaf,0,0,0,,Another good deed done.\NI live for people's smiles.{orig: Then what was that "Speak of the devil" about?}{CC: 善行はいいね～ 人の笑顔は糧になる}{dub: I already know what you're going to say, but I never said there was a witch.}{sgt: this line was completely wrong}
 Dialogue: 10,0:10:20.80,0:10:24.43,Default,Guideau,0,0,0,,Get ready for what's coming to you, asshole.
 Dialogue: 10,0:10:25.04,0:10:28.14,Default,Ashaf,0,0,0,,I never said anything about a witch, did I?
 Dialogue: 10,0:10:28.68,0:10:31.86,Default,Ashaf,0,0,0,,You should have realized that\Nwhen I left the coffin behind.
