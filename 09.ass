@@ -27,14 +27,14 @@ Style: Signs,Gandhi Sans,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:01.70,0:00:03.95,Default,Executioner,0,0,0,,My mind control doesn't work?
 Dialogue: 10,0:00:04.31,0:00:06.23,Default,Executioner,0,0,0,,No, that can't be.
-Dialogue: 10,0:00:06.23,0:00:10.13,Default,Executioner,0,0,0,,Sacrifices! I need more sacrifices! \NThat must be it!
-Dialogue: 10,0:00:13.95,0:00:18.39,Default,Lowell,0,0,0,,Hey! What's going on? I thought \Nyou could control the Demon Sword!
+Dialogue: 10,0:00:06.23,0:00:10.13,Default,Executioner,0,0,0,,{\q2}Sacrifices! I need more sacrifices! \NThat must be it!
+Dialogue: 10,0:00:13.95,0:00:18.39,Default,Lowell,0,0,0,,{\q2}Hey! What's going on? I thought \Nyou could control the Demon Sword!
 Dialogue: 10,0:00:18.70,0:00:21.60,Default,Lowell,0,0,0,,Why do you think I went along with your plan?!
 Dialogue: 10,0:00:21.60,0:00:22.96,Default,Lowell,0,0,0,,Do something about—
 Dialogue: 10,0:00:24.19,0:00:24.88,Default,Lowell,0,0,0,,Hey!
 Dialogue: 10,0:00:25.24,0:00:28.61,Default,Executioner,0,0,0,,More. I need more sacrifices.
 Dialogue: 10,0:00:28.61,0:00:30.41,Default,Executioner,0,0,0,,So many more.
-Dialogue: 10,0:00:32.56,0:00:37.05,Default,Executioner,0,0,0,,{\i1}The Demon Sword can't touch me. \NI can try as many times as it takes.
+Dialogue: 10,0:00:32.56,0:00:37.05,Default,Executioner,0,0,0,,{\i1\q2}The Demon Sword can't touch me. \NI can try as many times as it takes.
 Dialogue: 10,0:00:37.05,0:00:40.35,Default,Executioner,0,0,0,,{\i1}I'll just offer more sacrifices and come back.
 Comment: 1,0:02:10.99,0:02:15.70,Signs,Text,0,0,0,,{\pos(245.55,966.79)\org(-100000,0)\fscx90\fnAlegreya\fs60\bord0.75\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur3.5\fad(0,500)}The Witch and\N{\frz0.005}the Demon Sword
 Comment: 1,0:02:10.99,0:02:15.70,Signs,Text,0,0,0,,{\pos(507.35,957.59)\fscx90\fnAlegreya\fs60\bord0.75\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur3.5\fad(0,500)}Final Act
@@ -49,9 +49,9 @@ Dialogue: 10,0:02:28.27,0:02:30.57,Default,Helga,0,0,0,,I can't stop Ashgan.
 Dialogue: 10,0:02:31.33,0:02:34.18,Default,Helga,0,0,0,,Hurry. Leave me and run.
 Dialogue: 10,0:02:34.78,0:02:36.72,Default,Helga,0,0,0,,You'll be better off far away from me.
 Dialogue: 10,0:02:37.69,0:02:38.91,Default,Helga,0,0,0,,Ashgan...
-Dialogue: 10,0:02:39.35,0:02:42.57,Default,Helga,0,0,0,,must carry one hell of a \Ngrudge against my clan.
+Dialogue: 10,0:02:39.35,0:02:42.57,Default,Helga,0,0,0,,{\q2}must carry one hell of a \Ngrudge against my clan.
 Dialogue: 10,0:02:44.47,0:02:45.56,Default,Helga,0,0,0,,In the end,
-Dialogue: 10,0:02:45.94,0:02:49.50,Default,Helga,0,0,0,,I failed in my duty, \Nand now I guess I'll die here.
+Dialogue: 10,0:02:45.94,0:02:49.50,Default,Helga,0,0,0,,{\q2}I failed in my duty, \Nand now I guess I'll die here.
 Dialogue: 10,0:02:51.64,0:02:52.89,Default,Helga,0,0,0,,What a letdown.
 Dialogue: 10,0:02:53.34,0:02:56.11,Default,Helga,0,0,0,,I wish... I wish...
 Dialogue: 10,0:02:56.85,0:02:59.96,Default,Helga,0,0,0,,I could've felt a kiss before it's all over!
@@ -61,12 +61,12 @@ Dialogue: 10,0:03:06.00,0:03:08.90,Default,Guideau,0,0,0,,Hey. Fix my legs, too.
 Dialogue: 10,0:03:08.90,0:03:10.80,Default,Guideau,0,0,0,,I can't walk right.
 Dialogue: 10,0:03:11.03,0:03:15.08,Default,Ashaf,0,0,0,,Guideau, it appears all the cards are down.
 Dialogue: 10,0:03:16.84,0:03:19.77,Default,Ashaf,0,0,0,,We only expected the Paladins,
-Dialogue: 10,0:03:19.77,0:03:22.55,Default,Ashaf,0,0,0,,but a great elemental and\N the Executioners turned up.
+Dialogue: 10,0:03:19.77,0:03:22.55,Default,Ashaf,0,0,0,,{\q2}but a great elemental and\N the Executioners turned up.
 Dialogue: 10,0:03:22.55,0:03:25.48,Default,Ashaf,0,0,0,,And then the Demon Sword slipped its bonds.
 Dialogue: 10,0:03:26.16,0:03:29.24,Default,Ashaf,0,0,0,,Anyone and everyone has joined the game.
-Dialogue: 10,0:03:30.18,0:03:34.58,Default,Ashaf,0,0,0,,So what do you say we show \Nthem our ace in the hole?
+Dialogue: 10,0:03:30.18,0:03:34.58,Default,Ashaf,0,0,0,,{\q2}So what do you say we show \Nthem our ace in the hole?
 Dialogue: 10,0:03:38.31,0:03:39.28,Default,Ashaf,0,0,0,,Helga.
-Dialogue: 10,0:03:39.94,0:03:46.00,Default,Ashaf,0,0,0,,Would you permit us to \Ngrant that wish of yours?
+Dialogue: 10,0:03:39.94,0:03:46.00,Default,Ashaf,0,0,0,,{\q2}Would you permit us to \Ngrant that wish of yours?
 Dialogue: 10,0:03:46.44,0:03:47.12,Default,Helga,0,0,0,,Huh?
 Dialogue: 10,0:03:47.80,0:03:49.51,Default,Helga,0,0,0,,Wait, what?!
 Dialogue: 10,0:03:49.94,0:03:52.40,Default,Ashaf,0,0,0,,Now, close your eyes.
@@ -91,36 +91,36 @@ Dialogue: 10,0:06:30.58,0:06:33.52,Default,Ashaf,0,0,0,,I'd prefer to take the D
 Dialogue: 10,0:06:33.52,0:06:35.00,Default,Ashaf,0,0,0,,Don't use your right hand.
 Dialogue: 10,0:06:35.28,0:06:36.97,Default,Helga,0,0,0,,Don't tell me he's going to fight!
 Dialogue: 10,0:06:37.20,0:06:40.43,Default,Ashaf,0,0,0,,Of course. Someone has to put a stop to this.
-Dialogue: 10,0:06:40.43,0:06:45.02,Default,Helga,0,0,0,,It's impossible! Why do you think \Nthe Dauntless Witches kept it sealed?
-Dialogue: 10,0:06:45.02,0:06:48.86,Default,Helga,0,0,0,,We weren't kidding when we \Nsaid it can destroy the world!
+Dialogue: 10,0:06:40.43,0:06:45.02,Default,Helga,0,0,0,,{\q2}It's impossible! Why do you think \Nthe Dauntless Witches kept it sealed?
+Dialogue: 10,0:06:45.02,0:06:48.86,Default,Helga,0,0,0,,{\q2}We weren't kidding when we \Nsaid it can destroy the world!
 Dialogue: 10,0:06:48.86,0:06:52.18,Default,Helga,0,0,0,,There's nothing it can't cut if it tries.
-Dialogue: 10,0:06:52.18,0:06:55.69,Default,Helga,0,0,0,,The Demon Sword Ashgan is \Na blade that slices all creation!
+Dialogue: 10,0:06:52.18,0:06:55.69,Default,Helga,0,0,0,,{\q2}The Demon Sword Ashgan is \Na blade that slices all creation!
 Dialogue: 10,0:06:56.16,0:06:58.20,Default,Ashaf,0,0,0,,Yes, I realize that.
 Dialogue: 10,0:06:59.24,0:07:01.56,Default,Ashaf,0,0,0,,The Demon Sword has immense power.
 Dialogue: 10,0:07:01.56,0:07:03.75,Default,Ashaf,0,0,0,,We've established that beyond doubt.
 Dialogue: 10,0:07:04.49,0:07:05.49,Default,Ashaf,0,0,0,,But you see...
 Dialogue: 10,0:07:07.42,0:07:09.00,Default,Ashaf,0,0,0,,You have one thing wrong.
 Dialogue: 10,0:07:17.00,0:07:19.01,Default,Ashaf,0,0,0,,It's not one of a kind.
-Dialogue: 10,0:07:19.51,0:07:24.24,Default,Ashaf,0,0,0,,The power to destroy the world \Nisn't all that unique.{orig: Power great enough to destroy \Nthe world is hardly unique.}
+Dialogue: 10,0:07:19.51,0:07:24.24,Default,Ashaf,0,0,0,,{\q2}The power to destroy the world \Nisn't all that unique.{orig: Power great enough to destroy the world is hardly unique.}
 Dialogue: 10,0:07:24.85,0:07:26.61,Default,Ashaf,0,0,0,,Not in this world of ours.
 Dialogue: 10,0:07:30.83,0:07:32.86,Default,Matt,0,0,0,,{\i1}It's on its guard?
-Dialogue: 10,0:07:33.27,0:07:37.27,Default,Matt,0,0,0,,{\i1}The great elemental is warier of this \Nman than it is of the Demon Sword.
+Dialogue: 10,0:07:33.27,0:07:37.27,Default,Matt,0,0,0,,{\i1\q2}The great elemental is warier of this \Nman than it is of the Demon Sword.
 Dialogue: 10,0:08:22.73,0:08:23.70,Default,Matt,0,0,0,,{\i1}Demon Sword...
 Dialogue: 10,0:08:25.35,0:08:27.62,Default,Matt,0,0,0,,{\i1}You must feel the same way.
-Dialogue: 10,0:08:28.78,0:08:33.94,Default,Matt,0,0,0,,{\i1}Just like my great elemental, \Nsomething unfathomable about this man
+Dialogue: 10,0:08:28.78,0:08:33.94,Default,Matt,0,0,0,,{\i1\q2}Just like my great elemental, \Nsomething unfathomable about this man
 Dialogue: 10,0:08:34.61,0:08:36.34,Default,Matt,0,0,0,,{\i1}fills you with fear.
 Dialogue: 10,0:09:05.11,0:09:06.45,Default,Matt,0,0,0,,Now's my chance to finish it!
 Dialogue: 10,0:09:50.66,0:09:52.99,Default,Ashaf,0,0,0,,It unleashed even more power.
 Dialogue: 10,0:09:52.99,0:09:54.14,Default,Ashaf,0,0,0,,Could it be...
 Dialogue: 10,0:09:54.61,0:09:56.04,Default,Ashaf,0,0,0,,But of course.
-Dialogue: 10,0:09:57.08,0:10:00.96,Default,Ashaf,0,0,0,,The Demon Sword was just unsealed \Nfor the first time in centuries.
+Dialogue: 10,0:09:57.08,0:10:00.96,Default,Ashaf,0,0,0,,{\q2}The Demon Sword was just unsealed \Nfor the first time in centuries.
 Dialogue: 10,0:10:00.96,0:10:02.96,Default,Ashaf,0,0,0,,Of course it had lost its edge.
-Dialogue: 10,0:10:03.36,0:10:06.55,Default,Ashaf,0,0,0,,So we've yet to witness \Nwhat it's truly capable of.
+Dialogue: 10,0:10:03.36,0:10:06.55,Default,Ashaf,0,0,0,,{\q2}So we've yet to witness \Nwhat it's truly capable of.
 Dialogue: 10,0:10:10.88,0:10:13.44,Flashback,Guideau,0,0,0,,{\i1}So it's strong as shit?{sgt: E06 16:26}
 Dialogue: 10,0:10:13.99,0:10:15.82,Flashback,Ashaf,0,0,0,,{\i1}Exactly.
 Dialogue: 10,0:10:15.82,0:10:17.23,Flashback,Guideau,0,0,0,,{\i1}Stronger than me?
 Dialogue: 10,0:10:18.03,0:10:19.52,Flashback,Ashaf,0,0,0,,{\i1}Good question.
-Dialogue: 10,0:10:22.90,0:10:28.55,Flashback,Ashaf,0,0,0,,{\i1}I'd be fascinated to see \Nwhich of you comes out on top.
+Dialogue: 10,0:10:22.90,0:10:28.55,Flashback,Ashaf,0,0,0,,{\i1\q2}I'd be fascinated to see \Nwhich of you comes out on top.
 Dialogue: 10,0:11:02.66,0:11:04.55,Default,Guideau,0,0,0,,Don't worry.
 Dialogue: 10,0:11:04.80,0:11:06.89,Default,Guideau,0,0,0,,I won't hit you with a right.
 Dialogue: 10,0:11:07.78,0:11:08.64,Default,Guideau,0,0,0,,Now...
@@ -129,19 +129,19 @@ Dialogue: 10,0:11:31.92,0:11:33.00,Flashback,Quena,0,0,0,,Ashgan,
 Dialogue: 10,0:11:34.38,0:11:36.79,Flashback,Quena,0,0,0,,I shall seal you now.
 Dialogue: 10,0:11:40.25,0:11:41.67,Flashback,Ashgan,0,0,0,,Damn you.
 Dialogue: 10,0:11:45.06,0:11:49.39,Flashback,Quena,0,0,0,,You'll remain conscious, but unable to move.
-Dialogue: 10,0:11:49.39,0:11:55.42,Flashback,Quena,0,0,0,,You'll forever be imprisoned,\Nwithout rest or solace, Ashgan.
+Dialogue: 10,0:11:49.39,0:11:55.42,Flashback,Quena,0,0,0,,{\q2}You'll forever be imprisoned,\Nwithout rest or solace, Ashgan.
 Dialogue: 10,0:11:56.08,0:11:59.02,Flashback,Ashgan,0,0,0,,You tricked me, Quena?
 Dialogue: 10,0:11:59.65,0:12:01.86,Flashback,Quena,0,0,0,,Yes, I did.
 Dialogue: 10,0:12:02.78,0:12:05.21,Flashback,Quena,0,0,0,,You've killed far too many.
 Dialogue: 10,0:12:06.06,0:12:09.20,Flashback,Quena,0,0,0,,I can't make excuses for you anymore.
 Dialogue: 10,0:12:10.36,0:12:13.17,Flashback,Quena,0,0,0,,I'd like to let you die quickly,
 Dialogue: 10,0:12:13.94,0:12:16.16,Flashback,Quena,0,0,0,,but the others don't want that.
-Dialogue: 10,0:12:18.13,0:12:22.22,Flashback,Quena,0,0,0,,I'd like to let you die,\Nbut I also want you to suffer.
-Dialogue: 10,0:12:23.82,0:12:29.26,Flashback,Quena,0,0,0,,I feel torn between hating you\N and another emotion.
-Dialogue: 10,0:12:31.82,0:12:39.86,Flashback,Quena,0,0,0,,I pray that my descendants, at least, \Ninherit that other emotion.
+Dialogue: 10,0:12:18.13,0:12:22.22,Flashback,Quena,0,0,0,,{\q2}I'd like to let you die,\Nbut I also want you to suffer.
+Dialogue: 10,0:12:23.82,0:12:29.26,Flashback,Quena,0,0,0,,{\q2}I feel torn between hating you\N and another emotion.
+Dialogue: 10,0:12:31.82,0:12:39.86,Flashback,Quena,0,0,0,,{\q2}I pray that my descendants, at least, \Ninherit that other emotion.
 Dialogue: 10,0:12:48.92,0:12:50.74,Default,Ashgan,0,0,0,,I'm surprised.
 Dialogue: 10,0:12:51.75,0:12:54.69,Default,Ashgan,0,0,0,,The city is largely intact.
-Dialogue: 10,0:12:56.18,0:13:01.21,Default,Ashgan,0,0,0,,I never dreamed there was a being\N who could stop me so quickly.
+Dialogue: 10,0:12:56.18,0:13:01.21,Default,Ashgan,0,0,0,,{\q2}I never dreamed there was a being\N who could stop me so quickly.
 Dialogue: 10,0:13:02.12,0:13:03.02,Default,Ashgan,0,0,0,,Still...
 Dialogue: 10,0:13:04.10,0:13:07.98,Default,Ashgan,0,0,0,,Thanks to them, I was spared killing you.
 Dialogue: 10,0:13:09.33,0:13:12.56,Default,Ashgan,0,0,0,,No matter how much danger I brought you,
@@ -152,8 +152,8 @@ Dialogue: 10,0:13:23.38,0:13:28.07,Default,Ashgan,0,0,0,,What an incredibly stub
 Dialogue: 10,0:13:50.61,0:13:52.10,Default,Resident 1,0,0,0,,It's the end of the world!
 Dialogue: 10,0:13:52.10,0:13:53.81,Default,Paladin 1,0,0,0,,Calm down! Please remain calm!
 Dialogue: 10,0:13:54.13,0:13:55.90,Default,Resident 2,0,0,0,,We're safe here, aren't we?!
-Dialogue: 10,0:13:55.90,0:14:00.02,Default,Paladin 2,0,0,0,,Yes. Rest assured, \Nthis area is protected by a barrier.
-Dialogue: 10,0:14:00.38,0:14:04.66,Default,Paladin 3,0,0,0,,The sky split apart, the earth quaked, \Nand the city is in shambles.
+Dialogue: 10,0:13:55.90,0:14:00.02,Default,Paladin 2,0,0,0,,{\q2}Yes. Rest assured, \Nthis area is protected by a barrier.
+Dialogue: 10,0:14:00.38,0:14:04.66,Default,Paladin 3,0,0,0,,{\q2}The sky split apart, the earth quaked, \Nand the city is in shambles.
 Dialogue: 10,0:14:04.66,0:14:06.63,Default,Paladin 3,0,0,0,,What the hell is going on?
 Dialogue: 10,0:14:06.63,0:14:08.65,Default,Paladin 4,0,0,0,,We've lost contact with base, too.
 Dialogue: 10,0:14:09.54,0:14:10.61,Default,Paladin 3,0,0,0,,Hey, look!
@@ -168,67 +168,67 @@ Dialogue: 10,0:14:51.45,0:14:55.78,Default,Ashaf,0,0,0,,Well, then, just pray he
 Dialogue: 10,0:14:56.05,0:14:57.74,Default,Ashaf,0,0,0,,and try your best.
 Dialogue: 10,0:15:12.86,0:15:14.89,Default,Executioner,0,0,0,,S-Stop...
 Dialogue: 10,0:15:16.34,0:15:21.54,Default,Executioner,0,0,0,,P-Please, no more... Stop...
-Dialogue: 10,0:15:26.12,0:15:31.15,Default,Matt,0,0,0,,Tell me, Executioner. \NWhy did you need to attack us?
-Dialogue: 10,0:15:31.73,0:15:35.38,Default,Matt,0,0,0,,If your mission was to \Nretrieve the Demon Sword,
-Dialogue: 10,0:15:35.38,0:15:39.37,Default,Matt,0,0,0,,you could have done that\Nwith fewer sacrifices.
+Dialogue: 10,0:15:26.12,0:15:31.15,Default,Matt,0,0,0,,{\q2}Tell me, Executioner. \NWhy did you need to attack us?
+Dialogue: 10,0:15:31.73,0:15:35.38,Default,Matt,0,0,0,,{\q2}If your mission was to \Nretrieve the Demon Sword,
+Dialogue: 10,0:15:35.38,0:15:39.37,Default,Matt,0,0,0,,{\q2}you could have done that\Nwith fewer sacrifices.
 Dialogue: 10,0:15:40.14,0:15:44.19,Default,Executioner,0,0,0,,Not my mission. It was my personal goal.
 Dialogue: 10,0:15:44.90,0:15:47.32,Default,Executioner,0,0,0,,Matt Cugat would not cooperate,
-Dialogue: 10,0:15:47.32,0:15:51.52,Default,Executioner,0,0,0,,and his elemental may\Nprotect him from mind control.
-Dialogue: 10,0:15:52.17,0:15:55.09,Default,Executioner,0,0,0,,That left one option: \Ntake the sword by force.
+Dialogue: 10,0:15:47.32,0:15:51.52,Default,Executioner,0,0,0,,{\q2}and his elemental may\Nprotect him from mind control.
+Dialogue: 10,0:15:52.17,0:15:55.09,Default,Executioner,0,0,0,,{\q2}That left one option: \Ntake the sword by force.
 Dialogue: 10,0:15:55.87,0:15:57.66,Default,Executioner,0,0,0,,I wanted the Demon Sword.
 Dialogue: 10,0:15:58.09,0:16:01.44,Default,Executioner,0,0,0,,I spent such a long time trying to get it.
 Dialogue: 10,0:16:01.44,0:16:05.77,Default,Executioner,0,0,0,,But I'm not the only one who covets its power.
-Dialogue: 10,0:16:06.06,0:16:11.74,Default,Executioner,0,0,0,,Other Executioners! The Holy Church! \NThey all have their sights on it!
-Dialogue: 10,0:16:11.98,0:16:18.50,Default,Executioner,0,0,0,,If Cugat recovered the sword, \NI'd never have a chance at it again.
+Dialogue: 10,0:16:06.06,0:16:11.74,Default,Executioner,0,0,0,,{\q2}Other Executioners! The Holy Church! \NThey all have their sights on it!
+Dialogue: 10,0:16:11.98,0:16:18.50,Default,Executioner,0,0,0,,{\q2}If Cugat recovered the sword, \NI'd never have a chance at it again.
 Dialogue: 10,0:16:18.93,0:16:20.16,Default,Executioner,0,0,0,,So I...
 Dialogue: 10,0:16:20.16,0:16:21.71,Default,Ashaf,0,0,0,,I see.
-Dialogue: 10,0:16:21.71,0:16:25.36,Default,Ashaf,0,0,0,,I believe Executioners \Ntypically operate in pairs.
-Dialogue: 10,0:16:25.36,0:16:29.67,Default,Ashaf,0,0,0,,Given that his partner hasn't appeared, \NI'm inclined to believe him.
+Dialogue: 10,0:16:21.71,0:16:25.36,Default,Ashaf,0,0,0,,{\q2}I believe Executioners \Ntypically operate in pairs.
+Dialogue: 10,0:16:25.36,0:16:29.67,Default,Ashaf,0,0,0,,{\q2}Given that his partner hasn't appeared, \NI'm inclined to believe him.
 Dialogue: 10,0:16:29.67,0:16:32.98,Default,Ashaf,0,0,0,,And this appears to be all he can tell us.
-Dialogue: 10,0:16:32.98,0:16:37.32,Default,Ashaf,0,0,0,,Executioners have their lips \Nsealed with contract magic.
+Dialogue: 10,0:16:32.98,0:16:37.32,Default,Ashaf,0,0,0,,{\q2}Executioners have their lips \Nsealed with contract magic.
 Dialogue: 10,0:16:37.32,0:16:39.68,Default,Ashaf,0,0,0,,We can't hope to get more out of him.
 Dialogue: 10,0:16:39.68,0:16:42.35,Default,Ashaf,0,0,0,,The only remaining use for them
-Dialogue: 10,0:16:42.35,0:16:47.32,Default,Ashaf,0,0,0,,is to bear responsibility \Nfor this unmitigated disaster.
+Dialogue: 10,0:16:42.35,0:16:47.32,Default,Ashaf,0,0,0,,{\q2}is to bear responsibility \Nfor this unmitigated disaster.
 Dialogue: 10,0:16:47.32,0:16:49.36,Default,Ashaf,0,0,0,,But the Executioners belong to the dark side.
-Dialogue: 10,0:16:49.68,0:16:55.74,Default,Ashaf,0,0,0,,They don't exist, so arrest them as \Nthe true culprits and nothing more.
+Dialogue: 10,0:16:49.68,0:16:55.74,Default,Ashaf,0,0,0,,{\q2}They don't exist, so arrest them as \Nthe true culprits and nothing more.
 Dialogue: 10,0:16:56.39,0:17:00.49,Default,Ashaf,0,0,0,,Oh, but of course, you don't need them alive.
 Dialogue: 10,0:17:01.17,0:17:03.74,Default,Ashaf,0,0,0,,After a magical battle on this scale,
-Dialogue: 10,0:17:03.74,0:17:06.62,Default,Ashaf,0,0,0,,no one would be surprised \Nto find them finely minced.
+Dialogue: 10,0:17:03.74,0:17:06.62,Default,Ashaf,0,0,0,,{\q2}no one would be surprised \Nto find them finely minced.
 Dialogue: 10,0:17:06.62,0:17:09.00,Default,Lowell,0,0,0,,N-No, wait.
 Dialogue: 10,0:17:09.00,0:17:11.84,Default,Lowell,0,0,0,,Please wait, sir! You have it all wrong!
 Dialogue: 10,0:17:12.18,0:17:14.57,Default,Lowell,0,0,0,,I was only being used!
 Dialogue: 10,0:17:15.80,0:17:18.34,Default,Matt,0,0,0,,You called me soft, didn't you?
 Dialogue: 10,0:17:18.56,0:17:20.30,Default,Ashaf,0,0,0,,Yes. You are.
 Dialogue: 10,0:17:21.84,0:17:25.37,Default,Matt,0,0,0,,You're right. I am soft.
-Dialogue: 10,0:17:26.13,0:17:29.90,Default,Matt,0,0,0,,My form of justice won't \Npermit a good person to die.
-Dialogue: 10,0:17:30.50,0:17:36.04,Default,Matt,0,0,0,,Nor an evil person to die while \Nthey might still turn out to be good.
-Dialogue: 10,0:17:37.08,0:17:42.20,Default,Matt,0,0,0,,So I try to keep everyone alive as long \Nas I can, no matter who they are.
+Dialogue: 10,0:17:26.13,0:17:29.90,Default,Matt,0,0,0,,{\q2}My form of justice won't \Npermit a good person to die.
+Dialogue: 10,0:17:30.50,0:17:36.04,Default,Matt,0,0,0,,{\q2}Nor an evil person to die while \Nthey might still turn out to be good.
+Dialogue: 10,0:17:37.08,0:17:42.20,Default,Matt,0,0,0,,{\q2}So I try to keep everyone alive as long \Nas I can, no matter who they are.
 Dialogue: 10,0:17:42.64,0:17:43.72,Default,Matt,0,0,0,,But...
-Dialogue: 10,0:17:45.32,0:17:49.50,Default,Matt,0,0,0,,Once someone crosses \Nthe line, I show no mercy.
+Dialogue: 10,0:17:45.32,0:17:49.50,Default,Matt,0,0,0,,{\q2}Once someone crosses \Nthe line, I show no mercy.
 Dialogue: 10,0:17:50.40,0:17:54.07,Default,Matt,0,0,0,,Even so, the people I lost were soldiers.
 Dialogue: 10,0:17:54.07,0:17:56.16,Default,Matt,0,0,0,,They died in the line of duty.
 Dialogue: 10,0:17:57.48,0:18:00.17,Default,Matt,0,0,0,,I believe they took your family from you.
 Dialogue: 10,0:18:01.30,0:18:02.57,Default,Matt,0,0,0,,What do {\i1}you{\i0} want to do?
 Dialogue: 10,0:18:06.14,0:18:07.33,Default,Helga,0,0,0,,Nothing much.
-Dialogue: 10,0:18:07.72,0:18:11.97,Default,Helga,0,0,0,,I'm as sensitive as the next person, \Nand I've had all I can stomach.
-Dialogue: 10,0:18:12.68,0:18:16.69,Default,Helga,0,0,0,,I don't want to see any more. \NIf you finish the job, do it elsewhere.
+Dialogue: 10,0:18:07.72,0:18:11.97,Default,Helga,0,0,0,,{\q2}I'm as sensitive as the next person, \Nand I've had all I can stomach.
+Dialogue: 10,0:18:12.68,0:18:16.69,Default,Helga,0,0,0,,{\q2}I don't want to see any more. \NIf you finish the job, do it elsewhere.
 Dialogue: 10,0:18:17.86,0:18:19.04,Default,Matt,0,0,0,,I see.
 Dialogue: 10,0:18:19.57,0:18:21.54,Default,Helga,0,0,0,,I do have one request, though.
-Dialogue: 10,0:18:22.68,0:18:26.62,Default,Helga,0,0,0,,Make them hurt so bad that \Nthey wish they'd never been born.
+Dialogue: 10,0:18:22.68,0:18:26.62,Default,Helga,0,0,0,,{\q2}Make them hurt so bad that \Nthey wish they'd never been born.
 Dialogue: 10,0:18:29.80,0:18:31.20,Default,Matt,0,0,0,,Understood.
-Dialogue: 10,0:18:37.55,0:18:41.72,Default,Helga,0,0,0,,He left without even asking \Nwho you shady guys are.
+Dialogue: 10,0:18:37.55,0:18:41.72,Default,Helga,0,0,0,,{\q2}He left without even asking \Nwho you shady guys are.
 Dialogue: 10,0:18:42.15,0:18:44.58,Default,Ashaf,0,0,0,,He must have some inkling.
-Dialogue: 10,0:18:44.98,0:18:49.09,Default,Ashaf,0,0,0,,We have a tacit understanding \Nwith the Paladin Corps.
-Dialogue: 10,0:18:49.09,0:18:52.42,Default,Ashaf,0,0,0,,Sparks that might ignite \Na war are strictly taboo.
+Dialogue: 10,0:18:44.98,0:18:49.09,Default,Ashaf,0,0,0,,{\q2}We have a tacit understanding \Nwith the Paladin Corps.
+Dialogue: 10,0:18:49.09,0:18:52.42,Default,Ashaf,0,0,0,,{\q2}Sparks that might ignite \Na war are strictly taboo.
 Dialogue: 10,0:18:52.42,0:18:53.81,Default,Ashaf,0,0,0,,So he feigns ignorance.
 Dialogue: 10,0:18:54.21,0:18:55.37,Default,Helga,0,0,0,,Why?
-Dialogue: 10,0:18:55.37,0:18:59.15,Default,Ashaf,0,0,0,,Because an all-out war between \Nus would annihilate the world.
+Dialogue: 10,0:18:55.37,0:18:59.15,Default,Ashaf,0,0,0,,{\q2}Because an all-out war between \Nus would annihilate the world.
 Dialogue: 10,0:19:00.24,0:19:01.86,Default,Helga,0,0,0,,You've got to be kidding.
 Dialogue: 10,0:19:02.16,0:19:04.83,Default,Helga,0,0,0,,Oh, well. Too late for second thoughts.
 Dialogue: 10,0:19:06.01,0:19:08.29,Default,Helga,0,0,0,,You'll look out for me, right?
 Dialogue: 10,0:19:08.68,0:19:10.36,Default,Ashaf,0,0,0,,Yes, of course.
 Dialogue: 10,0:19:10.36,0:19:13.75,Default,Ashaf,0,0,0,,We can guard you like a precious gem.
-Dialogue: 10,0:19:17.10,0:19:22.84,Default,Ashaf,0,0,0,,But we'd also welcome your help, \Nif you should feel so inclined.
+Dialogue: 10,0:19:17.10,0:19:22.84,Default,Ashaf,0,0,0,,{\q2}But we'd also welcome your help, \Nif you should feel so inclined.
 Dialogue: 10,0:19:23.04,0:19:24.52,Default,Helga,0,0,0,,My help?
 Dialogue: 10,0:19:24.52,0:19:27.49,Default,Helga,0,0,0,,You're after a witch's power, right?
 Dialogue: 10,0:19:28.27,0:19:29.56,Default,Helga,0,0,0,,No can do, then.
@@ -236,18 +236,18 @@ Dialogue: 10,0:19:30.22,0:19:33.48,Default,Helga,0,0,0,,Most of my power goes to
 Dialogue: 10,0:19:33.48,0:19:36.99,Default,Helga,0,0,0,,I can only actually use a teeny bit of it, so...
 Dialogue: 10,0:19:39.39,0:19:44.85,Default,Helga,0,0,0,,Oh, right. I won't need the seal anymore.
 Dialogue: 10,0:19:47.26,0:19:50.45,Default,Ashaf,0,0,0,,Guideau only threw left-handed punches.
-Dialogue: 10,0:19:52.50,0:19:56.00,Default,Ashaf,0,0,0,,A monster of the Demon Sword's \Ncaliber must have survived them.
-Dialogue: 10,0:19:56.70,0:19:59.63,Default,Ashaf,0,0,0,,And our organization \Nshould be able to repair it.
-Dialogue: 10,0:19:59.63,0:20:03.36,Default,Ashaf,0,0,0,,It will take some time, \Nbut the sword will revive.
+Dialogue: 10,0:19:52.50,0:19:56.00,Default,Ashaf,0,0,0,,{\q2}A monster of the Demon Sword's \Ncaliber must have survived them.
+Dialogue: 10,0:19:56.70,0:19:59.63,Default,Ashaf,0,0,0,,{\q2}And our organization \Nshould be able to repair it.
+Dialogue: 10,0:19:59.63,0:20:03.36,Default,Ashaf,0,0,0,,{\q2}It will take some time, \Nbut the sword will revive.
 Dialogue: 10,0:20:04.33,0:20:07.17,Default,Helga,0,0,0,,I'm sure the world would be better off if it died.
-Dialogue: 10,0:20:07.64,0:20:12.99,Default,Helga,0,0,0,,I thought that would've \Nbeen better for Ashgan, too.
+Dialogue: 10,0:20:07.64,0:20:12.99,Default,Helga,0,0,0,,{\q2}I thought that would've \Nbeen better for Ashgan, too.
 Dialogue: 10,0:20:16.14,0:20:19.04,Default,Helga,0,0,0,,But what do you know? It's alive.
 Dialogue: 10,0:20:24.29,0:20:27.69,Default,Ashgan,0,0,0,,{\i1}Ah. This is a curse.
 Dialogue: 10,0:20:31.71,0:20:33.93,Flashback,Helga,0,0,0,,Hey, are you Ashgan?{sgt: E08 02:42}
-Dialogue: 10,0:20:34.33,0:20:38.92,Flashback,Helga,0,0,0,,I kind of figured the Demon Sword \Nwould look like a bigger deal.
+Dialogue: 10,0:20:34.33,0:20:38.92,Flashback,Helga,0,0,0,,{\q2}I kind of figured the Demon Sword \Nwould look like a bigger deal.
 Dialogue: 10,0:20:38.93,0:20:40.55,Flashback,Helga,0,0,0,,Hey, can you hear me?
 Dialogue: 10,0:20:40.55,0:20:42.05,Flashback,Helga,0,0,0,,{\an8}Hello!
-Dialogue: 10,0:20:40.55,0:20:45.93,Default,Ashgan,0,0,0,,{\i1}Thinking back, I realized it the \Nmoment I first set eyes on her.
+Dialogue: 10,0:20:40.55,0:20:45.93,Default,Ashgan,0,0,0,,{\i1\q2}Thinking back, I realized it the \Nmoment I first set eyes on her.
 Dialogue: 10,0:20:42.43,0:20:43.78,Flashback,Helga,0,0,0,,{\an8}Is it sleeping?
 Dialogue: 10,0:20:43.78,0:20:45.93,Flashback,Helga,0,0,0,,{\an8}Actually, can it even talk?
 Dialogue: 10,0:20:48.02,0:20:52.10,Default,Ashgan,0,0,0,,{\i1}But I couldn't bring myself to admit it.
@@ -256,23 +256,23 @@ Dialogue: 10,0:20:54.08,0:20:57.13,Flashback,Mother,0,0,0,,Let the Demon Sword r
 Dialogue: 10,0:20:58.96,0:21:00.23,Flashback,Mother,0,0,0,,It's dangerous.
 Dialogue: 10,0:21:00.88,0:21:03.62,Flashback,Helga,0,0,0,,But... I mean...
 Dialogue: 10,0:21:04.73,0:21:07.17,Flashback,Helga,0,0,0,,Don't you feel super bad for it?
-Dialogue: 10,0:21:07.17,0:21:10.15,Flashback,Helga,0,0,0,,It was a big, scary sword.\NPeople used to call it a disaster.
-Dialogue: 10,0:21:10.15,0:21:14.43,Flashback,Helga,0,0,0,,But now it looks like this, \Nand all it can do is roll its eyeball around!
+Dialogue: 10,0:21:07.17,0:21:10.15,Flashback,Helga,0,0,0,,{\q2}It was a big, scary sword.\NPeople used to call it a disaster.
+Dialogue: 10,0:21:10.15,0:21:14.43,Flashback,Helga,0,0,0,,{\q2}But now it looks like this, \Nand all it can do is roll its eyeball around!
 Dialogue: 10,0:21:14.71,0:21:17.32,Flashback,Helga,0,0,0,,And how can I let it "rest" when it can't sleep?
 Dialogue: 10,0:21:17.32,0:21:20.14,Flashback,Helga,0,0,0,,It just stares at the wall all day, right?
-Dialogue: 10,0:21:20.14,0:21:22.50,Flashback,Helga,0,0,0,,And it's all dusty! \NYou've gotta feel bad for it!
-Dialogue: 10,0:21:22.50,0:21:26.47,Flashback,Helga,0,0,0,,See here? Look at all the dirt \Nbuilt up in these grooves!
+Dialogue: 10,0:21:20.14,0:21:22.50,Flashback,Helga,0,0,0,,{\q2}And it's all dusty! \NYou've gotta feel bad for it!
+Dialogue: 10,0:21:22.50,0:21:26.47,Flashback,Helga,0,0,0,,{\q2}See here? Look at all the dirt \Nbuilt up in these grooves!
 Dialogue: 10,0:21:26.91,0:21:29.91,Flashback,Mother,0,0,0,,I get it, all right? Just put it back right now.
 Dialogue: 10,0:21:29.91,0:21:32.48,Flashback,Helga,0,0,0,,Hey, there's even more dirt here.
 Dialogue: 10,0:21:31.67,0:21:33.07,Flashback,Mother,0,0,0,,{\an8}Enough, Helga.
-Dialogue: 10,0:21:32.48,0:21:37.39,Flashback,Sister 1,0,0,0,,Being so earnestly pitied by a little girl \Nprobably stings worse than anything.
+Dialogue: 10,0:21:32.48,0:21:37.39,Flashback,Sister 1,0,0,0,,{\q2}Being so earnestly pitied by a little girl \Nprobably stings worse than anything.
 Dialogue: 10,0:21:37.39,0:21:38.63,Flashback,Sister 2,0,0,0,,You said it.
 Dialogue: 10,0:21:40.69,0:21:42.16,Flashback,Sister 1,0,0,0,,It's laughing.
 Dialogue: 10,0:21:42.16,0:21:43.23,Flashback,Sister 2,0,0,0,,That was a laugh?
-Dialogue: 10,0:21:43.49,0:21:47.16,Flashback,Sister 3,0,0,0,,Maybe it's one of those things, like when\N you get so scared, you start laughing?
+Dialogue: 10,0:21:43.49,0:21:47.16,Flashback,Sister 3,0,0,0,,{\q2}Maybe it's one of those things, like when\N you get so scared, you start laughing?
 Dialogue: 10,0:21:47.16,0:21:49.86,Flashback,Sister 4,0,0,0,,Oh, so it's laughing because it blew its top?
 Dialogue: 10,0:21:50.18,0:21:52.61,Flashback,Helga,0,0,0,,{\an8}C'mon, say something for yourself!
-Dialogue: 10,0:21:51.75,0:21:58.08,Flashback,Ashgan,0,0,0,TLC,{\i1}She's making a fool of me, \Nyet I don't feel even a twinge of anger.{sgt: in the manga Ashgan speaks of how Helga is being made a fool and she's not angry about it, but in CR the roles are reversed (Ashgan says he's being made a fool). I'm not sure which is technically correct, both can be said to be made fools here. The witches were just making fun of his laugh, so CR's version flows better out of that, but what comes after this is Ashgan's realization that Helga might have the non-hatred emotion that Quena spoke of, which flows better if this line was about Helga instead. Ultimately I'm just gonna leave CR as-is.}
+Dialogue: 10,0:21:51.75,0:21:58.08,Flashback,Ashgan,0,0,0,TLC,{\i1\q2}She's making a fool of me, \Nyet I don't feel even a twinge of anger.{sgt: in the manga Ashgan speaks of how Helga is being made a fool and she's not angry about it, but in CR the roles are reversed (Ashgan says he's being made a fool). I'm not sure which is technically correct, both can be said to be made fools here. The witches were just making fun of his laugh, so CR's version flows better out of that, but what comes after this is Ashgan's realization that Helga might have the non-hatred emotion that Quena spoke of, which flows better if this line was about Helga instead. Ultimately I'm just gonna leave CR as-is.}
 Dialogue: 10,0:21:52.61,0:21:53.95,Flashback,Helga,0,0,0,,{\an8}Hey! Are you listening?
 Dialogue: 10,0:21:53.95,0:21:57.02,Flashback,Helga,0,0,0,,{\an8}Are you not even capable of saying "thank you"?
 Dialogue: 10,0:22:02.37,0:22:04.76,Flashback,Ashgan,0,0,0,,{\i1}She's the spitting image of Quena.

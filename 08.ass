@@ -28,29 +28,29 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:03.81,0:00:06.02,Default,Guideau,0,0,0,,Hey! What the hell are you thinking?!
 Dialogue: 10,0:00:08.12,0:00:11.03,Default,Helga,0,0,0,,Go! Forget me and protect the Demon Sword!
 Dialogue: 10,0:00:11.03,0:00:12.73,Default,Guideau,0,0,0,,Like hell I will!
-Dialogue: 10,0:00:12.73,0:00:15.95,Default,Guideau,0,0,0,,I've gotta take you with me,\N or I've wasted my time!
+Dialogue: 10,0:00:12.73,0:00:15.95,Default,Guideau,0,0,0,,{\q2}I've gotta take you with me,\N or I've wasted my time!
 Dialogue: 10,0:00:16.86,0:00:19.16,Default,Helga,0,0,0,,Then rescue me.
-Dialogue: 10,0:00:19.52,0:00:23.41,Default,Helga,0,0,0,,If bringing me back is your job,\N keep the Demon Sword safe!
+Dialogue: 10,0:00:19.52,0:00:23.41,Default,Helga,0,0,0,,{\q2}If bringing me back is your job,\N keep the Demon Sword safe!
 Dialogue: 10,0:00:25.05,0:00:27.30,Default,Helga,0,0,0,,Come back and rescue me!
 Dialogue: 10,0:00:31.25,0:00:33.80,Default,Helga,0,0,0,,As if that'll ever happen.
 Dialogue: 10,0:00:34.79,0:00:36.47,Default,Executioner,0,0,0,,Quite right.
-Dialogue: 10,0:00:37.01,0:00:40.49,Default,Executioner,0,0,0,,I know everything there is\N to know about you.
+Dialogue: 10,0:00:37.01,0:00:40.49,Default,Executioner,0,0,0,,{\q2}I know everything there is\N to know about you.
 Dialogue: 10,0:00:40.49,0:00:43.24,Default,Executioner,0,0,0,,Hope doesn't suit you.
 Dialogue: 10,0:00:44.22,0:00:47.68,Default,Executioner,0,0,0,,This base and the witch are now mine.
 Dialogue: 10,0:00:47.68,0:00:50.01,Default,Executioner,0,0,0,,And soon, the Demon Sword will be, too.
-Dialogue: 10,0:00:51.36,0:00:55.12,Default,Executioner,0,0,0,,There's never been any hope for you,\N and there never will be.
+Dialogue: 10,0:00:51.36,0:00:55.12,Default,Executioner,0,0,0,,{\q2}There's never been any hope for you,\N and there never will be.
 Dialogue: 10,0:00:56.16,0:00:58.65,Default,Helga,0,0,0,,{\i1}I've gotten by on my own all this time.
 Dialogue: 10,0:00:59.09,0:01:02.39,Default,Helga,0,0,0,,{\i1}No one's coming to save me. I have no hope.
 Dialogue: 10,0:01:02.76,0:01:05.51,Default,Helga,0,0,0,,{\i1}I know all that.
 Dialogue: 10,0:02:42.33,0:02:44.68,Flashback,Helga,0,0,0,,Hey, are you Ashgan?
-Dialogue: 10,0:02:48.95,0:02:53.74,Flashback,Helga,0,0,0,,I kind of figured the Demon Sword \Nwould look like a bigger deal.
-Dialogue: 1,0:02:58.20,0:03:02.91,Signs,Text,0,0,0,,{\pos(244.87,955.91)\org(-100000,0)\fscx90\fnAlegreya\fs60\bord0.75\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur3.5\fad(0,500)}The Witch and\N{\frz0.005}the Demon Sword
+Dialogue: 10,0:02:48.95,0:02:53.74,Flashback,Helga,0,0,0,,{\q2}I kind of figured the Demon Sword \Nwould look like a bigger deal.
+Dialogue: 1,0:02:58.20,0:03:02.91,Signs,Text,0,0,0,,{\pos(244.87,955.91)\org(-100000,0)\fscx90\fnAlegreya\fs60\bord0.75\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur3.5\fad(0,500)\q2}The Witch and\N{\frz0.005}the Demon Sword
 Dialogue: 1,0:02:58.20,0:03:02.91,Signs,Text,0,0,0,,{\pos(525,948)\fscx90\fnAlegreya\fs60\bord0.75\shad1.5\c&HF8EBE4&\3c&H020100&\4c&H6E5F52&\blur3.5\fad(0,500)}Act III
 Dialogue: 10,0:03:05.22,0:03:09.00,Default,Ashgan,0,0,0,,Without Helga, lifting my seal is impossible.
 Dialogue: 10,0:03:09.36,0:03:10.62,Default,Ashgan,0,0,0,,Turn back at once.
 Dialogue: 10,0:03:10.62,0:03:11.83,Default,Guideau,0,0,0,,Shut up.
 Dialogue: 10,0:03:12.05,0:03:13.87,Default,Guideau,0,0,0,,I don't take orders from you.
-Dialogue: 10,0:03:13.87,0:03:17.55,Default,Guideau,0,0,0,,I'll drag that damn witch back \Neven if it leaves her spitting up blood.{manga: even if it kills her.}
+Dialogue: 10,0:03:13.87,0:03:17.55,Default,Guideau,0,0,0,,{\q2}I'll drag that damn witch back \Neven if it leaves her spitting up blood.{manga: even if it kills her.}
 Dialogue: 10,0:03:18.24,0:03:21.01,Default,Ashgan,0,0,0,,Where are you going? She's up there.
 Dialogue: 10,0:03:21.01,0:03:22.94,Default,Guideau,0,0,0,,What do you expect me to do? Fly?
 Dialogue: 10,0:03:23.47,0:03:25.26,Default,Guideau,0,0,0,,I'm gonna meet up with Ashaf.
@@ -71,67 +71,67 @@ Dialogue: 10,0:04:24.40,0:04:27.90,Default,Ashaf,0,0,0,,I convinced him they exi
 Dialogue: 10,0:04:27.90,0:04:29.87,Default,Ashaf,0,0,0,,He'll help us fight.
 Dialogue: 10,0:04:36.97,0:04:40.04,Default,Matt,0,0,0,ED,So they left me alive. Barely.{sgt: talking to himself when they're standing over him? seems a bit odd, I would rather have this be closer to the manga and have him speak to them.}
 Dialogue: 10,0:04:40.04,0:04:41.84,Default,Ashaf,0,0,0,,Why did you hold back?
-Dialogue: 10,0:04:42.22,0:04:45.47,Default,Ashaf,0,0,0,,That can't have been the extent \Nof a great elemental's power.
+Dialogue: 10,0:04:42.22,0:04:45.47,Default,Ashaf,0,0,0,,{\q2}That can't have been the extent \Nof a great elemental's power.
 Dialogue: 10,0:04:46.43,0:04:48.55,Default,Matt,0,0,0,,Magic comes in all types.
-Dialogue: 10,0:04:49.34,0:04:54.88,Default,Matt,0,0,0,,Did my subordinate willingly betray me,\N or was she controlled{manipulated}?
+Dialogue: 10,0:04:49.34,0:04:54.88,Default,Matt,0,0,0,,{\q2}Did my subordinate willingly betray me,\N or was she controlled{manipulated}?
 Dialogue: 10,0:04:55.52,0:04:57.67,Default,Matt,0,0,0,,I couldn't be sure.
-Dialogue: 10,0:04:58.90,0:05:05.31,Default,Matt,0,0,0,,The elemental would have killed \Nher if I hadn't restrained it.
+Dialogue: 10,0:04:58.90,0:05:05.31,Default,Matt,0,0,0,,{\q2}The elemental would have killed \Nher if I hadn't restrained it.
 Dialogue: 10,0:05:05.73,0:05:07.36,Default,Ashaf,0,0,0,,That wasn't the only time.
-Dialogue: 10,0:05:07.88,0:05:13.08,Default,Ashaf,0,0,0,,You pulled your punches quite a bit\N against Guideau here, too.
-Dialogue: 10,0:05:13.83,0:05:18.79,Default,Ashaf,0,0,0,,Matt Cugat, for a "Man of Ice," \Nyou're surprisingly soft.
+Dialogue: 10,0:05:07.88,0:05:13.08,Default,Ashaf,0,0,0,,{\q2}You pulled your punches quite a bit\N against Guideau here, too.
+Dialogue: 10,0:05:13.83,0:05:18.79,Default,Ashaf,0,0,0,,{\q2}Matt Cugat, for a "Man of Ice," \Nyou're surprisingly soft.
 Dialogue: 10,0:05:19.28,0:05:22.06,Default,Ashaf,0,0,0,,That soft heart will get you killed.
-Dialogue: 10,0:05:25.42,0:05:29.15,Default,Matt,0,0,0,,I know I sent that girl and \Nthe Demon Sword to base.
+Dialogue: 10,0:05:25.42,0:05:29.15,Default,Matt,0,0,0,,{\q2}I know I sent that girl and \Nthe Demon Sword to base.
 Dialogue: 10,0:05:29.72,0:05:32.28,Default,Matt,0,0,0,,But I don't see the witch.
 Dialogue: 10,0:05:32.72,0:05:34.35,Default,Matt,0,0,0,,What happened up there?
-Dialogue: 10,0:05:34.74,0:05:40.56,Default,Guideau,0,0,0,,An Executioner took over the \Nwhole Castle. Your unit's done for.
+Dialogue: 10,0:05:34.74,0:05:40.56,Default,Guideau,0,0,0,,{\q2}An Executioner took over the \Nwhole Castle. Your unit's done for.
 Dialogue: 10,0:05:40.56,0:05:42.27,Default,Guideau,0,0,0,,Talk about pathetic.
 Dialogue: 10,0:05:43.06,0:05:44.38,Default,Matt,0,0,0,,I see.
 Dialogue: 10,0:05:47.20,0:05:51.20,Default,Ashaf,0,0,0,,Now, the Executioner is after the Demon Sword,
 Dialogue: 10,0:05:51.48,0:05:55.44,Default,Ashaf,0,0,0,,so he'll most likely be here soon.
 Dialogue: 10,0:05:55.44,0:05:58.24,Default,Ashaf,0,0,0,,Meanwhile, we have one man at death's door,
-Dialogue: 10,0:05:58.24,0:06:02.63,Default,Ashaf,0,0,0,,and a mage using up the last \Nof his own magic to heal him.
+Dialogue: 10,0:05:58.24,0:06:02.63,Default,Ashaf,0,0,0,,{\q2}and a mage using up the last \Nof his own magic to heal him.
 Dialogue: 10,0:06:02.99,0:06:06.20,Default,Ashaf,0,0,0,,We'll never manage to prepare a major spell.
-Dialogue: 10,0:06:06.77,0:06:10.80,Default,Matt,0,0,0,,Then can't we at least hide \Nthe Demon Sword somewhere?
+Dialogue: 10,0:06:06.77,0:06:10.80,Default,Matt,0,0,0,,{\q2}Then can't we at least hide \Nthe Demon Sword somewhere?
 Dialogue: 10,0:06:10.80,0:06:13.47,Default,Ashaf,0,0,0,,I doubt that would work.
 Dialogue: 10,0:06:13.47,0:06:16.13,Default,Ashaf,0,0,0,,The Demon Sword would draw someone to it.
-Dialogue: 10,0:06:16.13,0:06:18.84,Default,Guideau,0,0,0,,What the hell? \NDon't draw people here, asshole!
+Dialogue: 10,0:06:16.13,0:06:18.84,Default,Guideau,0,0,0,,{\q2}What the hell? \NDon't draw people here, asshole!
 Dialogue: 10,0:06:18.84,0:06:22.90,Default,Ashgan,0,0,0,,Unfortunately, I have no say in the matter.
 Dialogue: 10,0:06:23.49,0:06:25.36,Default,Ashaf,0,0,0,,So what it all comes down to is...
 Dialogue: 10,0:06:26.12,0:06:29.62,Default,Ashaf,0,0,0,,Struggling won't do us any good at this point.
-Dialogue: 10,0:06:30.32,0:06:35.45,Default,Executioner,0,0,0,,What's this? I expected you \Nto scurry around out of sight.
-Dialogue: 10,0:06:35.45,0:06:38.54,Default,Executioner,0,0,0,,I even mobilized all these \Nforces to hunt you down.
+Dialogue: 10,0:06:30.32,0:06:35.45,Default,Executioner,0,0,0,,{\q2}What's this? I expected you \Nto scurry around out of sight.
+Dialogue: 10,0:06:35.45,0:06:38.54,Default,Executioner,0,0,0,,{\q2}I even mobilized all these \Nforces to hunt you down.
 Dialogue: 10,0:06:38.54,0:06:41.00,Default,Executioner,0,0,0,,I feel a tad embarrassed.
 Dialogue: 10,0:06:41.00,0:06:43.50,Default,Matt,0,0,0,,Mind control.
 Dialogue: 10,0:06:43.50,0:06:47.09,Default,Matt,0,0,0,,Is that the power of your Forbidden Instrument?
 Dialogue: 10,0:06:47.36,0:06:49.61,Default,Executioner,0,0,0,,Hm? Oh, yes.
 Dialogue: 10,0:06:49.61,0:06:52.05,Default,Executioner,0,0,0,,That's right, Commander.
-Dialogue: 10,0:06:52.69,0:06:57.34,Default,Executioner,0,0,0,,Seventeen ancient kings, the ablest leaders \Nof a great but long gone nation,
+Dialogue: 10,0:06:52.69,0:06:57.34,Default,Executioner,0,0,0,,{\q2}Seventeen ancient kings, the ablest leaders \Nof a great but long gone nation,
 Dialogue: 10,0:06:57.34,0:07:01.55,Default,Executioner,0,0,0,,had their skins sewn together to make this:
 Dialogue: 10,0:07:01.55,0:07:04.27,Default,Executioner,0,0,0,,the Demon Hand Ishlingen.{sgt: tempted to have "Ishlingen, the Demon Hand", but the existing line is consistent with how Ashgan was introduced in E06.}
 Dialogue: 10,0:07:04.66,0:07:07.76,Default,Executioner,0,0,0,,And by placing an enchanted royal ring
-Dialogue: 10,0:07:07.76,0:07:13.28,Default,Executioner,0,0,0,,on the right index finger, the symbol \Nof authority, I enhance its effects.
-Dialogue: 10,0:07:13.66,0:07:20.41,Default,Executioner,0,0,0,,One brush with this hand makes\Neveryone do whatever I tell them to.
-Dialogue: 10,0:07:21.87,0:07:26.25,Default,Executioner,0,0,0,,But it seems that no amount of caressing\Nwill make it work on this witch.
+Dialogue: 10,0:07:07.76,0:07:13.28,Default,Executioner,0,0,0,,{\q2}on the right index finger, the symbol \Nof authority, I enhance its effects.
+Dialogue: 10,0:07:13.66,0:07:20.41,Default,Executioner,0,0,0,,{\q2}One brush with this hand makes\Neveryone do whatever I tell them to.
+Dialogue: 10,0:07:21.87,0:07:26.25,Default,Executioner,0,0,0,,{\q2}But it seems that no amount of caressing\Nwill make it work on this witch.
 Dialogue: 10,0:07:26.25,0:07:27.94,Default,Executioner,0,0,0,,What a dilemma.
-Dialogue: 10,0:07:27.94,0:07:33.22,Default,Executioner,0,0,0,,I've overused its power, \Nso I think it's time I paid the price.
+Dialogue: 10,0:07:27.94,0:07:33.22,Default,Executioner,0,0,0,,{\q2}I've overused its power, \Nso I think it's time I paid the price.
 Dialogue: 10,0:07:35.60,0:07:36.39,Default,Matt,0,0,0,,Don't!
-Dialogue: 10,0:07:45.17,0:07:49.93,Default,Executioner,0,0,0,,I suppose this is the downside \Nof using Forbidden Instruments.
+Dialogue: 10,0:07:45.17,0:07:49.93,Default,Executioner,0,0,0,,{\q2}I suppose this is the downside \Nof using Forbidden Instruments.
 Dialogue: 10,0:07:53.20,0:07:54.28,Default,Executioner,0,0,0,,Don't let her get away!
 Dialogue: 10,0:07:57.96,0:08:00.29,Default,Guideau,0,0,0,,What happened to not preparing anything?
-Dialogue: 10,0:08:02.37,0:08:05.50,Default,Ashaf,0,0,0,,A makeshift spell like that \Nhardly counts as preparation.
+Dialogue: 10,0:08:02.37,0:08:05.50,Default,Ashaf,0,0,0,,{\q2}A makeshift spell like that \Nhardly counts as preparation.
 Dialogue: 10,0:08:05.83,0:08:07.88,Default,Ashaf,0,0,0,,Take Helga and run, Guideau!
-Dialogue: 10,0:08:11.17,0:08:14.47,Default,Matt,0,0,0,,I don't know if I'll be as much \Nhelp to you as you'd hoped.
+Dialogue: 10,0:08:11.17,0:08:14.47,Default,Matt,0,0,0,,{\q2}I don't know if I'll be as much \Nhelp to you as you'd hoped.
 Dialogue: 10,0:08:17.52,0:08:20.24,Default,Ashgan,0,0,0,,I see we didn't even need to go back for you.
 Dialogue: 10,0:08:20.24,0:08:23.20,Default,Helga,0,0,0,,Oh, were you planning a rescue?
 Dialogue: 10,0:08:23.20,0:08:24.81,Default,Guideau,0,0,0,,Cut the chitchat.{sgt: yapping (but I like chitchat here because there is back and forth.}
 Dialogue: 10,0:08:24.81,0:08:26.42,Default,Guideau,0,0,0,,Now, get running!
 Dialogue: 10,0:08:26.42,0:08:27.34,Default,Helga,0,0,0,,Behind you!
 Dialogue: 10,0:08:27.69,0:08:28.52,Default,Helga,0,0,0,,Watch out!
-Dialogue: 10,0:08:46.06,0:08:49.88,Default,Executioner,0,0,0,,"No amount of caressing\Nwill make it work on the witch."{sgt: intentional switch from "this witch" before to "the witch" here.}
+Dialogue: 10,0:08:46.06,0:08:49.88,Default,Executioner,0,0,0,,{\q2}"No amount of caressing\Nwill make it work on the witch."{sgt: intentional switch from "this witch" before to "the witch" here.}
 Dialogue: 10,0:08:50.32,0:08:51.82,Default,Executioner,0,0,0,,Forgive me.
 Dialogue: 10,0:08:52.28,0:08:55.27,Default,Executioner,0,0,0,,That was a lie.
 Dialogue: 10,0:08:59.84,0:09:01.30,Default,Helga,0,0,0,,Sorry, I guess.
-Dialogue: 10,0:09:02.20,0:09:06.65,Default,Helga,0,0,0,,I know you didn't want to,\Nbut you still saved me a bunch of times.
+Dialogue: 10,0:09:02.20,0:09:06.65,Default,Helga,0,0,0,,{\q2}I know you didn't want to,\Nbut you still saved me a bunch of times.
 Dialogue: 10,0:09:13.84,0:09:15.74,Default,Helga,0,0,0,,Sorry for wasting all that.
 Dialogue: 10,0:09:24.72,0:09:27.32,Default,Executioner,0,0,0,,Well done, Helga.
 Dialogue: 10,0:09:27.32,0:09:28.71,Default,Executioner,0,0,0,,Come here.
@@ -140,19 +140,19 @@ Dialogue: 10,0:09:46.16,0:09:47.10,Default,Executioner,0,0,0,,Now...
 Dialogue: 10,0:09:47.92,0:09:49.67,Default,Matt,0,0,0,,Stop! Don't draw it!
 Dialogue: 10,0:09:50.14,0:09:51.68,Default,Matt,0,0,0,,Think this through!
 Dialogue: 10,0:09:51.68,0:09:54.08,Default,Matt,0,0,0,,If the Demon Sword legends are true,
-Dialogue: 10,0:09:54.08,0:09:59.78,Default,Matt,0,0,0,,then why didn't the witch draw it \Nwhen she was in so much danger?
-Dialogue: 10,0:09:59.78,0:10:04.04,Default,Matt,0,0,0,ED,Because it could have unleashed\Nan even greater threat{catastrophe}!{orig: Because it could have taken things \Nin an even more horrible direction!}{manga: Because it will make the situation even more dire!}{sgt: "catastrophe" implies there was already an ongoing one, which is debatable}
+Dialogue: 10,0:09:54.08,0:09:59.78,Default,Matt,0,0,0,,{\q2}then why didn't the witch draw it \Nwhen she was in so much danger?
+Dialogue: 10,0:09:59.78,0:10:04.04,Default,Matt,0,0,0,ED,{\q2}Because it could have unleashed\Nan even greater threat{orig: Because it could have taken things in an even more horrible direction!}{manga: Because it will make the situation even more dire!}{sgt: "catastrophe" implies there was already an ongoing one, which is debatable}
 Dialogue: 10,0:10:06.47,0:10:08.50,Default,Executioner,0,0,0,,Oh, do pipe down.
 Dialogue: 10,0:10:12.39,0:10:14.32,Default,Executioner,0,0,0,,Surprised?
-Dialogue: 10,0:10:14.32,0:10:18.47,Default,Executioner,0,0,0,,Simply unsheathing the \NDemon Sword means nothing.
-Dialogue: 10,0:10:19.65,0:10:22.80,Default,Executioner,0,0,0,,I know all there is to know \Nabout the Demon Sword.
+Dialogue: 10,0:10:14.32,0:10:18.47,Default,Executioner,0,0,0,,{\q2}Simply unsheathing the \NDemon Sword means nothing.
+Dialogue: 10,0:10:19.65,0:10:22.80,Default,Executioner,0,0,0,,{\q2}I know all there is to know \Nabout the Demon Sword.
 Dialogue: 10,0:10:23.37,0:10:27.86,Default,Executioner,0,0,0,,For instance, the Dauntless Witch's clan
 Dialogue: 10,0:10:27.86,0:10:31.27,Default,Executioner,0,0,0,,kept the Demon Sword under strict guard.
-Dialogue: 10,0:10:31.27,0:10:35.41,Default,Executioner,0,0,0,,So why was she strolling around \Nwith it in a place like this?
+Dialogue: 10,0:10:31.27,0:10:35.41,Default,Executioner,0,0,0,,{\q2}So why was she strolling around \Nwith it in a place like this?
 Dialogue: 10,0:10:35.41,0:10:37.61,Default,Executioner,0,0,0,,Naturally, I know the answer.
 Dialogue: 10,0:10:38.34,0:10:43.05,Default,Executioner,0,0,0,,Because their hidden refuge burned down.
-Dialogue: 10,0:10:43.89,0:10:47.98,Default,Executioner,0,0,0,,They were all forced to give up the \Nsword's secrets, then slaughtered.
-Dialogue: 10,0:10:47.98,0:10:54.21,Default,Executioner,0,0,0,,Helga, the lone survivor,\Nfled to protect the Demon Sword.
+Dialogue: 10,0:10:43.89,0:10:47.98,Default,Executioner,0,0,0,,{\q2}They were all forced to give up the \Nsword's secrets, then slaughtered.
+Dialogue: 10,0:10:47.98,0:10:54.21,Default,Executioner,0,0,0,,{\q2}Helga, the lone survivor,\Nfled to protect the Demon Sword.
 Dialogue: 10,0:10:54.21,0:10:57.06,Default,Executioner,0,0,0,,And how do I know all this?
 Dialogue: 10,0:10:57.06,0:10:59.15,Default,Executioner,0,0,0,,Well, I'll tell you.
 Dialogue: 10,0:11:00.26,0:11:05.06,Default,Executioner,0,0,0,,I know because we Executioners were there.
@@ -160,51 +160,51 @@ Dialogue: 10,0:11:05.77,0:11:06.81,Default,Helga,0,0,0,,You...
 Dialogue: 10,0:11:08.98,0:11:10.22,Default,Helga,0,0,0,,You!
 Dialogue: 10,0:11:10.22,0:11:12.52,Default,Executioner,0,0,0,,Whoops! My control slipped.
 Dialogue: 10,0:11:12.52,0:11:15.69,Default,Executioner,0,0,0,,Witches do put up quite a struggle.
-Dialogue: 10,0:11:16.49,0:11:21.59,Default,Executioner,0,0,0,,Now, at last, let me tell you \Nwhat you truly wish{most want} to know.
+Dialogue: 10,0:11:16.49,0:11:21.59,Default,Executioner,0,0,0,,{\q2}Now, at last, let me tell you \Nwhat you truly wish{most want} to know.
 Dialogue: 10,0:11:21.59,0:11:22.41,Default,Ashgan,0,0,0,,Stop!
 Dialogue: 10,0:11:22.74,0:11:24.16,Default,Ashgan,0,0,0,,Don't {\i1}you{\i0} draw me!
 Dialogue: 10,0:11:27.92,0:11:31.57,Default,Executioner,0,0,0,,The key to lifting the Demon Sword's seal...
 Dialogue: 10,0:11:32.40,0:11:34.61,Default,Executioner,0,0,0,,a witch's heart.
 Dialogue: 10,0:11:37.19,0:11:38.34,Default,Guideau,0,0,0,,Damn you!
-Dialogue: 10,0:11:38.34,0:11:41.35,Default,Guideau,0,0,0,,What the hell do you think \Nwe did all this crap for?!
+Dialogue: 10,0:11:38.34,0:11:41.35,Default,Guideau,0,0,0,,{\q2}What the hell do you think \Nwe did all this crap for?!
 Dialogue: 10,0:11:41.35,0:11:43.30,Default,Guideau,0,0,0,,Don't you dare let her die!
 Dialogue: 10,0:11:43.30,0:11:46.51,Default,Executioner,0,0,0,,Now, come! I have broken your seal,
 Dialogue: 10,0:11:47.02,0:11:49.02,Default,Executioner,0,0,0,,Demon Sword Ashgan!
 Dialogue: 10,0:11:56.29,0:11:57.27,Flashback,Mother,0,0,0,,Helga.
 Dialogue: 10,0:11:57.77,0:11:59.69,Flashback,Mother,0,0,0,,Stop this, Helga.
 Dialogue: 10,0:12:00.26,0:12:02.15,Flashback,Mother,0,0,0,,How many times must I tell you?
-Dialogue: 10,0:12:02.86,0:12:07.12,Flashback,Mother,0,0,0,,Let the Demon Sword rest \Nin the basement. It's dangerous.
+Dialogue: 10,0:12:02.86,0:12:07.12,Flashback,Mother,0,0,0,,{\q2}Let the Demon Sword rest \Nin the basement. It's dangerous.
 Dialogue: 10,0:12:07.46,0:12:09.22,Flashback,Mother,0,0,0,,Don't carry it around.
 Dialogue: 10,0:12:11.24,0:12:15.57,Flashback,Sister 1,0,0,0,,Don't you realize how vital our clan's duty is?
-Dialogue: 10,0:12:16.19,0:12:22.00,Flashback,Sister 1,0,0,0,,Only you and I inherited witch powers,\N so show some responsibility.
+Dialogue: 10,0:12:16.19,0:12:22.00,Flashback,Sister 1,0,0,0,,{\q2}Only you and I inherited witch powers,\N so show some responsibility.
 Dialogue: 10,0:12:22.78,0:12:23.88,Flashback,Helga,0,0,0,,But...
 Dialogue: 10,0:12:24.64,0:12:25.98,Flashback,Helga,0,0,0,,I mean...
 Dialogue: 10,0:12:51.25,0:12:52.08,Flashback,Helga,0,0,0,,What was that?
 Dialogue: 10,0:13:02.04,0:13:02.96,Flashback,Sister 2,0,0,0,,Stop!
 Dialogue: 10,0:13:02.96,0:13:04.67,Flashback,Sister 2,0,0,0,,Mother, stop it!
-Dialogue: 10,0:13:10.72,0:13:13.42,Flashback,Helga,0,0,0,,What's going on? \NWhat in the world could have...
+Dialogue: 10,0:13:10.72,0:13:13.42,Flashback,Helga,0,0,0,,{\q2}What's going on? \NWhat in the world could have...
 Dialogue: 10,0:13:20.53,0:13:21.82,Flashback,Helga,0,0,0,,Big Sis—
-Dialogue: 10,0:13:22.21,0:13:25.62,Flashback,Sister 1,0,0,0,,You were hiding, \Nso you must still be sane, Helga.
+Dialogue: 10,0:13:22.21,0:13:25.62,Flashback,Sister 1,0,0,0,,{\q2}You were hiding, \Nso you must still be sane, Helga.
 Dialogue: 10,0:13:26.30,0:13:29.41,Flashback,Sister 1,0,0,0,,You have the Demon Sword, just take it and run.
 Dialogue: 10,0:13:30.77,0:13:32.40,Flashback,Sister 1,0,0,0,,Our home is done for.{orig: This placed is doomed.}{sgt: CR typo}
 Dialogue: 10,0:13:33.20,0:13:34.04,Flashback,Sister 1,0,0,0,,They...
 Dialogue: 10,0:13:34.54,0:13:36.57,Flashback,Sister 1,0,0,0,,Mother called them "Executioners."
 Dialogue: 10,0:13:37.40,0:13:40.34,Flashback,Sister 1,0,0,0,,They've turned everyone else crazy.{orig: Everyone went crazy because of them.}
 Dialogue: 10,0:13:45.53,0:13:48.92,Flashback,Sister 1,0,0,0,,They even got to Mother.
-Dialogue: 10,0:13:49.89,0:13:53.07,Flashback,Sister 1,0,0,0,,Listen. No matter what, \Ndon't give them the Demon Sword.
+Dialogue: 10,0:13:49.89,0:13:53.07,Flashback,Sister 1,0,0,0,,{\q2}Listen. No matter what, \Ndon't give them the Demon Sword.
 Dialogue: 10,0:13:53.65,0:13:55.82,Flashback,Sister 1,0,0,0,,You have to keep it safe.
 Dialogue: 10,0:13:56.68,0:13:59.69,Flashback,Sister 1,0,0,0,,I'll be a decoy or whatever you need to get away.
 Dialogue: 10,0:13:59.69,0:14:02.14,Flashback,Sister 1,0,0,0,,So please. Do this for me.{manga: Do this for us}
 Dialogue: 10,0:14:20.44,0:14:24.60,Flashback,Executioner,0,0,0,,Oh, dear. She won't say a word.
-Dialogue: 10,0:14:25.02,0:14:30.84,Flashback,Executioner,0,0,0,,Our master taught us not to take away \Ntoo much hope nor inflict too much despair,
+Dialogue: 10,0:14:25.02,0:14:30.84,Flashback,Executioner,0,0,0,,{\q2}Our master taught us not to take away \Ntoo much hope nor inflict too much despair,
 Dialogue: 10,0:14:30.84,0:14:33.69,Flashback,Executioner,0,0,0,,but I have trouble striking the right balance.
 Dialogue: 10,0:14:38.32,0:14:42.98,Flashback,Executioner,0,0,0,,Listen. I'd at least like to know one thing.
-Dialogue: 10,0:14:42.98,0:14:47.06,Flashback,Executioner,0,0,0,,Even if you won't talk, \NI have my Forbidden Instrument.
-Dialogue: 10,0:14:47.06,0:14:53.22,Flashback,Executioner,0,0,0,,Someone else, like your mommy, will \Ntell me all of the Demon Sword's secrets.
+Dialogue: 10,0:14:42.98,0:14:47.06,Flashback,Executioner,0,0,0,,{\q2}Even if you won't talk, \NI have my Forbidden Instrument.
+Dialogue: 10,0:14:47.06,0:14:53.22,Flashback,Executioner,0,0,0,,{\q2}Someone else, like your mommy, will \Ntell me all of the Demon Sword's secrets.
 Dialogue: 10,0:14:54.23,0:14:57.91,Flashback,Executioner,0,0,0,,So why are you resisting us so much?
 Dialogue: 10,0:15:09.79,0:15:10.84,Flashback,Sister 1,0,0,0,,You know, Helga...
-Dialogue: 10,0:15:12.64,0:15:15.85,Flashback,Sister 1,0,0,0,,Sealing off the Demon Sword, \Nprotecting the world,
-Dialogue: 10,0:15:15.85,0:15:20.10,Flashback,Sister 1,0,0,0,,and giving so much for outsiders \Nwe've barely even seen...
+Dialogue: 10,0:15:12.64,0:15:15.85,Flashback,Sister 1,0,0,0,,{\q2}Sealing off the Demon Sword, \Nprotecting the world,
+Dialogue: 10,0:15:15.85,0:15:20.10,Flashback,Sister 1,0,0,0,,{\q2}and giving so much for outsiders \Nwe've barely even seen...
 Dialogue: 10,0:15:20.52,0:15:22.15,Flashback,Sister 1,0,0,0,,It never really clicked with me.{manga: It must seem so foreign to you.}
 Dialogue: 10,0:15:22.76,0:15:25.55,Flashback,Sister 1,0,0,0,,But we still put our lives on the line.
 Dialogue: 10,0:15:27.46,0:15:29.26,Flashback,Sister 1,0,0,0,,Don't throw it all away now.
@@ -216,62 +216,62 @@ Dialogue: 10,0:15:49.51,0:15:52.97,Flashback,Helga,0,0,0,,But I'll never draw yo
 Dialogue: 10,0:15:53.28,0:15:56.79,Flashback,Helga,0,0,0,,My mother and sisters would never want that.
 Dialogue: 10,0:15:57.90,0:16:01.31,Flashback,Ashgan,0,0,0,,Not even if {\i1}you{\i0} are in danger?
 Dialogue: 10,0:16:01.31,0:16:02.98,Flashback,Helga,0,0,0,,I still won't draw you.
-Dialogue: 10,0:16:03.78,0:16:09.27,Flashback,Helga,0,0,0,,Who knows what horrible things \Nwill happen if I let you loose?
+Dialogue: 10,0:16:03.78,0:16:09.27,Flashback,Helga,0,0,0,,{\q2}Who knows what horrible things \Nwill happen if I let you loose?
 Dialogue: 10,0:16:18.51,0:16:20.18,Default,Matt,0,0,0,,What just happened?
 Dialogue: 10,0:16:20.18,0:16:22.87,Default,Matt,0,0,0,,Don't tell me... that was a slash?
 Dialogue: 10,0:16:23.71,0:16:25.41,Default,Ashaf,0,0,0,,Yes, it sliced them.
-Dialogue: 10,0:16:25.41,0:16:29.40,Default,Ashaf,0,0,0,,And not just the city and the \NCastle, but the barrier, too.
+Dialogue: 10,0:16:25.41,0:16:29.40,Default,Ashaf,0,0,0,,{\q2}And not just the city and the \NCastle, but the barrier, too.
 Dialogue: 10,0:16:29.40,0:16:32.17,Default,Ashaf,0,0,0,,It didn't decipher the spell.
 Dialogue: 10,0:16:32.75,0:16:36.26,Default,Ashaf,0,0,0,,It broke the Paladins' barrier by brute force.
 Dialogue: 10,0:16:36.98,0:16:40.76,Default,Ashaf,0,0,0,,So this... is the power to destroy the world.
 Dialogue: 10,0:16:41.71,0:16:42.91,Default,Ashaf,0,0,0,,Now I see.
 Dialogue: 10,0:16:44.42,0:16:46.24,Default,Executioner,0,0,0,,This is the Demon Sword.
 Dialogue: 10,0:16:46.24,0:16:49.36,Default,Executioner,0,0,0,,Magnificent! What magnificent power!
-Dialogue: 10,0:16:49.36,0:16:53.49,Default,Executioner,0,0,0,,Demon Sword! Start by \Nputting an end to Matt Cugat!
+Dialogue: 10,0:16:49.36,0:16:53.49,Default,Executioner,0,0,0,,{\q2}Demon Sword! Start by \Nputting an end to Matt Cugat!
 Dialogue: 10,0:17:00.15,0:17:01.20,Default,Ashaf,0,0,0,,Executioner.
-Dialogue: 10,0:17:01.54,0:17:05.92,Default,Ashaf,0,0,0,,You have a misconception about \Nthe Demon Sword's true nature.
+Dialogue: 10,0:17:01.54,0:17:05.92,Default,Ashaf,0,0,0,,{\q2}You have a misconception about \Nthe Demon Sword's true nature.
 Dialogue: 10,0:17:05.92,0:17:07.52,Default,Executioner,0,0,0,,A misconception?
 Dialogue: 10,0:17:08.70,0:17:11.88,Default,Executioner,0,0,0,,No, I understand it perfectly.
-Dialogue: 10,0:17:12.62,0:17:18.89,Default,Executioner,0,0,0,,"It grants its wielder the power to rule the \Nworld, and total annihilation to all others."
+Dialogue: 10,0:17:12.62,0:17:18.89,Default,Executioner,0,0,0,,{\q2}"It grants its wielder the power to rule the \Nworld, and total annihilation to all others."
 Dialogue: 10,0:17:19.13,0:17:22.31,Default,Executioner,0,0,0,,Mere superstition, I know.
-Dialogue: 10,0:17:22.71,0:17:28.27,Default,Executioner,0,0,0,,Whoever wields the Demon Sword \Ngets one thing: a guarantee of survival!
-Dialogue: 10,0:17:28.74,0:17:33.44,Default,Executioner,0,0,0,,The sword can strike anyone \Nexcept the one who drew it out.
+Dialogue: 10,0:17:22.71,0:17:28.27,Default,Executioner,0,0,0,,{\q2}Whoever wields the Demon Sword \Ngets one thing: a guarantee of survival!
+Dialogue: 10,0:17:28.74,0:17:33.44,Default,Executioner,0,0,0,,{\q2}The sword can strike anyone \Nexcept the one who drew it out.
 Dialogue: 10,0:17:33.76,0:17:37.16,Default,Executioner,0,0,0,,It's a privilege, but that's all.
 Dialogue: 10,0:17:37.36,0:17:39.95,Default,Executioner,0,0,0,,I gain nothing else.
 Dialogue: 10,0:17:40.32,0:17:41.87,Default,Executioner,0,0,0,,But no matter.
-Dialogue: 10,0:17:41.87,0:17:46.64,Default,Executioner,0,0,0,,I can use the Demon Hand to \Nmake the sword my loyal servant.
+Dialogue: 10,0:17:41.87,0:17:46.64,Default,Executioner,0,0,0,,{\q2}I can use the Demon Hand to \Nmake the sword my loyal servant.
 Dialogue: 10,0:17:46.64,0:17:49.46,Default,Executioner,0,0,0,,I bent the will of a witch with this,
-Dialogue: 10,0:17:49.46,0:17:54.59,Default,Executioner,0,0,0,,and I've already sacrificed a \Nhundred of Cugat's men with it.
-Dialogue: 10,0:17:54.85,0:17:59.55,Default,Executioner,0,0,0,,Both witches and the Demon Sword possess\N power beyond human comprehension,
+Dialogue: 10,0:17:49.46,0:17:54.59,Default,Executioner,0,0,0,,{\q2}and I've already sacrificed a \Nhundred of Cugat's men with it.
+Dialogue: 10,0:17:54.85,0:17:59.55,Default,Executioner,0,0,0,,{\q2}Both witches and the Demon Sword possess\N power beyond human comprehension,
 Dialogue: 10,0:17:59.55,0:18:03.53,Default,Executioner,0,0,0,,but the same can't be said for their minds!{manga: hearts and souls}
 Dialogue: 10,0:18:04.02,0:18:07.73,Default,Ashaf,0,0,0,,And that is precisely where you're wrong.
-Dialogue: 10,0:18:13.16,0:18:18.57,Default,Ashaf,0,0,0,,The witches locked away two \Nthings: power and bestiality.{manga: beastly nature}
-Dialogue: 10,0:18:19.15,0:18:23.54,Default,Ashaf,0,0,0,,I know a little about the Demon Sword\N from before it was sealed.
-Dialogue: 10,0:18:25.66,0:18:29.55,Default,Ashaf,0,0,0,,Besting so many witches with \Nthat hand has made you arrogant.
+Dialogue: 10,0:18:13.16,0:18:18.57,Default,Ashaf,0,0,0,,{\q2}The witches locked away two \Nthings: power and bestiality.{manga: beastly nature}
+Dialogue: 10,0:18:19.15,0:18:23.54,Default,Ashaf,0,0,0,,{\q2}I know a little about the Demon Sword\N from before it was sealed.
+Dialogue: 10,0:18:25.66,0:18:29.55,Default,Ashaf,0,0,0,,{\q2}Besting so many witches with \Nthat hand has made you arrogant.
 Dialogue: 10,0:18:31.67,0:18:34.18,Default,Matt,0,0,0,,Stop!
-Dialogue: 10,0:18:35.18,0:18:39.64,Default,Ashaf,0,0,0,,That Forbidden Instrument acts on \Nreverence and awe for those in power,
-Dialogue: 10,0:18:39.64,0:18:43.60,Default,Ashaf,0,0,0,,amplifying those feelings to the \Nextreme before playing on them.
-Dialogue: 10,0:18:44.45,0:18:47.23,Default,Ashaf,0,0,0,,But in its natural state, \Nthe Demon Sword has no rationality.
-Dialogue: 10,0:18:47.23,0:18:51.40,Default,Ashaf,0,0,0,,It has only a body and an \Nimpulse for sheer destruction.
-Dialogue: 10,0:18:51.40,0:18:57.74,Default,Ashaf,0,0,0,,How can you brainwash a monster \Nwith no sense of reverence or awe?
+Dialogue: 10,0:18:35.18,0:18:39.64,Default,Ashaf,0,0,0,,{\q2}That Forbidden Instrument acts on \Nreverence and awe for those in power,
+Dialogue: 10,0:18:39.64,0:18:43.60,Default,Ashaf,0,0,0,,{\q2}amplifying those feelings to the \Nextreme before playing on them.
+Dialogue: 10,0:18:44.45,0:18:47.23,Default,Ashaf,0,0,0,,{\q2}But in its natural state, \Nthe Demon Sword has no rationality.
+Dialogue: 10,0:18:47.23,0:18:51.40,Default,Ashaf,0,0,0,,{\q2}It has only a body and an \Nimpulse for sheer destruction.
+Dialogue: 10,0:18:51.40,0:18:57.74,Default,Ashaf,0,0,0,,{\q2}How can you brainwash a monster \Nwith no sense of reverence or awe?
 Dialogue: 10,0:18:58.50,0:19:00.52,Default,Ashaf,0,0,0,,This is the Demon Sword's true nature.
-Dialogue: 10,0:19:00.52,0:19:05.38,Default,Ashaf,0,0,0,,No human can hold a candle \Nto the monster you've unleashed.
-Dialogue: 10,0:19:11.48,0:19:15.75,Default,Matt,0,0,0,,Great elemental, I offer you \Nmy left arm too, if you want it.
+Dialogue: 10,0:19:00.52,0:19:05.38,Default,Ashaf,0,0,0,,{\q2}No human can hold a candle \Nto the monster you've unleashed.
+Dialogue: 10,0:19:11.48,0:19:15.75,Default,Matt,0,0,0,,{\q2}Great elemental, I offer you \Nmy left arm too, if you want it.
 Dialogue: 10,0:19:16.15,0:19:19.72,Default,Matt,0,0,0,,Just don't let anyone else die.
 Dialogue: 10,0:19:22.85,0:19:25.14,Default,Executioner,0,0,0,,My mind control doesn't work?
 Dialogue: 10,0:19:25.50,0:19:27.39,Default,Executioner,0,0,0,,No, that can't be.
-Dialogue: 10,0:19:27.39,0:19:30.96,Default,Executioner,0,0,0,,Sacrifices! I need more sacrifices! \NThat must be it!
-Dialogue: 10,0:19:35.13,0:19:39.57,Default,Lowell,0,0,0,,Hey! What's going on? I thought \Nyou could control the Demon Sword!
+Dialogue: 10,0:19:27.39,0:19:30.96,Default,Executioner,0,0,0,,{\q2}Sacrifices! I need more sacrifices! \NThat must be it!
+Dialogue: 10,0:19:35.13,0:19:39.57,Default,Lowell,0,0,0,,{\q2}Hey! What's going on? I thought \Nyou could control the Demon Sword!
 Dialogue: 10,0:19:39.94,0:19:42.78,Default,Lowell,0,0,0,,Why do you think I went along with your plan?!
 Dialogue: 10,0:19:42.78,0:19:44.53,Default,Lowell,0,0,0,,Do something about—
 Dialogue: 10,0:19:45.39,0:19:46.36,Default,Lowell,0,0,0,,Hey!
 Dialogue: 10,0:19:46.36,0:19:49.89,Default,Executioner,0,0,0,,More. I need more sacrifices.
 Dialogue: 10,0:19:49.89,0:19:51.58,Default,Executioner,0,0,0,,So many more.
-Dialogue: 10,0:19:53.78,0:19:58.25,Default,Executioner,0,0,0,,{\i1}The Demon Sword can't touch me. \NI can try as many times as it takes.
+Dialogue: 10,0:19:53.78,0:19:58.25,Default,Executioner,0,0,0,,{\i1\q2}The Demon Sword can't touch me. \NI can try as many times as it takes.
 Dialogue: 10,0:19:58.25,0:20:01.72,Default,Executioner,0,0,0,,{\i1}I'll just offer more sacrifices and come back.
 Dialogue: 10,0:20:02.49,0:20:04.18,Default,Executioner,0,0,0,,Oh, I know.
 Dialogue: 10,0:20:04.18,0:20:07.68,Default,Executioner,0,0,0,,Where did the townspeople run off to again?
-Dialogue: 10,0:20:08.69,0:20:14.05,Default,Executioner,0,0,0,,{\i1}Go on. Rampage to your heart's content,\N Demon Sword Ashgan.
+Dialogue: 10,0:20:08.69,0:20:14.05,Default,Executioner,0,0,0,,{\i1\q2}Go on. Rampage to your heart's content,\N Demon Sword Ashgan.
 Dialogue: 10,0:20:23.72,0:20:24.77,Default,Helga,0,0,0,,Ashgan.
 Dialogue: 10,0:20:25.68,0:20:27.06,Default,Ashaf,0,0,0,,You're awake?
 Dialogue: 10,0:20:28.15,0:20:31.32,Default,Helga,0,0,0,,The seal is gone, isn't it?
@@ -281,9 +281,9 @@ Dialogue: 10,0:20:35.54,0:20:37.78,Default,Helga,0,0,0,TLC,I{We} can't stop Ashg
 Dialogue: 10,0:20:38.59,0:20:41.40,Default,Helga,0,0,0,,Hurry. Leave me and run.
 Dialogue: 10,0:20:42.01,0:20:43.90,Default,Helga,0,0,0,,You'll be better off far away from me.
 Dialogue: 10,0:20:46.97,0:20:47.97,Default,Helga,0,0,0,,Ashgan...
-Dialogue: 10,0:20:48.73,0:20:51.94,Default,Helga,0,0,0,,must carry one hell of a \Ngrudge against my clan.
+Dialogue: 10,0:20:48.73,0:20:51.94,Default,Helga,0,0,0,,{\q2}must carry one hell of a \Ngrudge against my clan.
 Dialogue: 10,0:20:53.92,0:20:54.94,Default,Helga,0,0,0,,In the end,
-Dialogue: 10,0:20:55.36,0:20:58.90,Default,Helga,0,0,0,,I failed in my duty, \Nand now I guess I'll die here.
+Dialogue: 10,0:20:55.36,0:20:58.90,Default,Helga,0,0,0,,{\q2}I failed in my duty, \Nand now I guess I'll die here.
 Dialogue: 10,0:21:01.02,0:21:02.24,Default,Helga,0,0,0,,What a letdown.
 Dialogue: 10,0:21:02.72,0:21:05.50,Default,Helga,0,0,0,,I wish... I wish...{orig: If only... If only...}{sgt: the anime doesn't have her wish for a kiss here, but later Ashaf says they'll grant her wish, so it's best to have her make that wish here first.}
 Dialogue: 10,0:21:06.23,0:21:09.33,Default,Helga,0,0,0,ED,I could've felt a kiss before it's all over!{I could've at least gotten a kiss at the end!}
@@ -293,12 +293,12 @@ Dialogue: 10,0:21:15.44,0:21:18.23,Default,Guideau,0,0,0,,Hey. Fix my legs, too.
 Dialogue: 10,0:21:18.23,0:21:20.17,Default,Guideau,0,0,0,,I can't walk right.
 Dialogue: 10,0:21:20.44,0:21:24.39,Default,Ashaf,0,0,0,,Guideau, it appears all the cards are down.
 Dialogue: 10,0:21:26.23,0:21:29.12,Default,Ashaf,0,0,0,,We only expected the Paladins,
-Dialogue: 10,0:21:29.12,0:21:31.89,Default,Ashaf,0,0,0,,but a great elemental and\N the Executioners turned up.
+Dialogue: 10,0:21:29.12,0:21:31.89,Default,Ashaf,0,0,0,,{\q2}but a great elemental and\N the Executioners turned up.
 Dialogue: 10,0:21:31.89,0:21:35.03,Default,Ashaf,0,0,0,,And then the Demon Sword slipped its bonds.
 Dialogue: 10,0:21:38.72,0:21:41.77,Default,Ashaf,0,0,0,,Anyone and everyone has joined the game.
-Dialogue: 10,0:21:42.70,0:21:47.03,Default,Ashaf,0,0,0,,So what do you say we show \Nthem our ace in the hole?
+Dialogue: 10,0:21:42.70,0:21:47.03,Default,Ashaf,0,0,0,,{\q2}So what do you say we show \Nthem our ace in the hole?
 Dialogue: 10,0:21:48.80,0:21:49.49,Default,Ashaf,0,0,0,,Helga.
-Dialogue: 10,0:21:49.89,0:21:54.29,Default,Ashaf,0,0,0,,Would you permit us to \Ngrant that wish of yours?
+Dialogue: 10,0:21:49.89,0:21:54.29,Default,Ashaf,0,0,0,,{\q2}Would you permit us to \Ngrant that wish of yours?
 Dialogue: 10,0:21:55.10,0:21:55.96,Default,Helga,0,0,0,,Huh?
 Dialogue: 10,0:21:55.96,0:21:57.75,Default,Helga,0,0,0,,Wait, what?!
 Dialogue: 10,0:21:58.15,0:22:00.14,Default,Ashaf,0,0,0,,Now, close your eyes.
@@ -308,7 +308,7 @@ Dialogue: 10,0:22:05.30,0:22:08.59,Default,Helga,0,0,0,,But, um, when you say yo
 Dialogue: 10,0:22:08.83,0:22:11.02,Default,Helga,0,0,0,,do you... really mean it?!
 Dialogue: 10,0:22:12.39,0:22:14.52,Default,Ashaf,0,0,0,,Yes, of course.
 Dialogue: 10,0:22:14.52,0:22:16.37,Default,Ashaf,0,0,0,,I mean just that.
-Dialogue: 10,0:24:00.45,0:24:05.28,Default,Ashaf,0,0,0,,The power to destroy the world \Nisn't all that unique.{orig: Power great enough to destroy \Nthe world is hardly unique.}
-Dialogue: 10,0:24:05.88,0:24:09.67,Default,Ashaf,0,0,0,,Next time: "The Witch and \Nthe Demon Sword: Final Act."
-Dialogue: 1,0:24:06.55,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,280)\fscx90\fnAlegreya\fs75\bord0\blur0.9\fad(1000,0)}The Witch and \Nthe Demon Sword
-Dialogue: 1,0:24:06.55,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnAlegreya\fs70\bord0\blur0.9\fad(1000,0)}Final Act
+Dialogue: 10,0:24:00.45,0:24:05.28,Default,Ashaf,0,0,0,,{\q2}The power to destroy the world \Nisn't all that unique.{orig: Power great enough to destroy the world is hardly unique.}
+Dialogue: 10,0:24:05.88,0:24:09.67,Default,Ashaf,0,0,0,,{\q2}Next time: "The Witch \Nand the Demon Sword: Final Act."
+Dialogue: 1,0:24:06.55,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,372)\fscx90\fnAlegreya\fs66\bord0\blur0.9\fad(1000,0)}The Witch and the Demon Sword
+Dialogue: 1,0:24:06.55,0:24:09.97,Signs,Text,0,0,0,,{\an8\pos(960,636)\fscx90\fnAlegreya\fs50\bord0\blur0.9\fad(1000,0)}Final Act

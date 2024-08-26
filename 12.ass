@@ -31,7 +31,7 @@ Dialogue: 10,0:00:10.77,0:00:11.57,Default,Craig,0,0,0,,I'll go with you!
 Dialogue: 10,0:00:12.58,0:00:13.71,Default,Ashaf,0,0,0,,That makes twice.
 Dialogue: 10,0:00:21.87,0:00:24.58,Default,Ashaf,0,0,0,,Executioners work in pairs.
 Dialogue: 10,0:00:24.98,0:00:27.54,Default,Ashaf,0,0,0,,You must be one of them.
-Dialogue: 10,0:00:30.89,0:00:36.22,Default,Craig,0,0,0,,That's all the proof you \Nneeded to pull the trigger?
+Dialogue: 10,0:00:30.89,0:00:36.22,Default,Craig,0,0,0,,{\q2}That's all the proof you \Nneeded to pull the trigger?
 Dialogue: 10,0:00:38.80,0:00:40.30,Default,Craig,0,0,0,,You said you'd cleared me,
 Dialogue: 10,0:00:42.02,0:00:45.10,Default,Craig,0,0,0,,but you suspected me this whole time.
 Dialogue: 10,0:00:45.69,0:00:47.45,Default,Craig,0,0,0,,Adults don't play fair.
@@ -39,11 +39,11 @@ Dialogue: 10,0:01:04.06,0:01:05.17,Default,Owent,0,0,0,,What?
 Dialogue: 1,0:02:44.77,0:02:50.44,Signs,Text,0,0,0,,{\pos(350,955)\fscx90\fnAlegreya\fs64\bord0.5\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur3.5\fad(1500,1000)}Eloquence and Silence
 Dialogue: 1,0:02:44.77,0:02:50.44,Signs,Text,0,0,0,,{\pos(350,1076)\fscx90\fnAlegreya\fs60\bord0.5\shad1.5\c&HF8EBE4&\3c&H010705&\4c&H010705&\blur3.5\fad(1500,1000)}Final Act
 Dialogue: 10,0:02:59.94,0:03:01.00,Default,Ashaf,0,0,0,,Hi there.
-Dialogue: 10,0:03:03.41,0:03:06.92,Default,Guideau,0,0,0,,Before you die, \Ntell me how to undo the curse.
+Dialogue: 10,0:03:03.41,0:03:06.92,Default,Guideau,0,0,0,,{\q2}Before you die, \Ntell me how to undo the curse.
 Dialogue: 10,0:03:07.74,0:03:09.87,Default,Guideau,0,0,0,,You know something, don't you, jackass?
-Dialogue: 10,0:03:10.63,0:03:16.88,Default,Ashaf,0,0,0,,Given the circumstances, I suggest \Noffering to save me in exchange.
-Dialogue: 10,0:03:17.28,0:03:21.92,Default,Guideau,0,0,0,,I've got no clue how to help you, \Nand I'm gonna kill you anyway.
-Dialogue: 10,0:03:22.61,0:03:25.85,Default,Guideau,0,0,0,,Hurry up and tell me, \Nunless you want it to hurt.
+Dialogue: 10,0:03:10.63,0:03:16.88,Default,Ashaf,0,0,0,,{\q2}Given the circumstances, I suggest \Noffering to save me in exchange.
+Dialogue: 10,0:03:17.28,0:03:21.92,Default,Guideau,0,0,0,,{\q2}I've got no clue how to help you, \Nand I'm gonna kill you anyway.
+Dialogue: 10,0:03:22.61,0:03:25.85,Default,Guideau,0,0,0,,{\q2}Hurry up and tell me, \Nunless you want it to hurt.
 Dialogue: 10,0:03:25.85,0:03:28.39,Default,Ashaf,0,0,0,,That won't do at all.
 Dialogue: 10,0:03:28.39,0:03:31.90,Default,Ashaf,0,0,0,,Threats can't get you everything.
 Dialogue: 10,0:03:32.39,0:03:35.81,Default,Ashaf,0,0,0,,You must learn to give if you want to take.{orig: To get what you want, you need to learn how to give, too.}{sgt: give and take}
@@ -67,24 +67,24 @@ Dialogue: 10,0:05:09.50,0:05:12.12,Default,Sven,0,0,0,,Owent told me before he d
 Dialogue: 10,0:05:12.62,0:05:17.59,Default,Sven,0,0,0,,She can't use her power because of a witch's curse.
 Dialogue: 10,0:05:20.70,0:05:23.67,Default,Sven,0,0,0,,Yes, there's the curse's mark.
 Dialogue: 10,0:05:24.86,0:05:26.35,Default,Sven,0,0,0,,Good grief.
-Dialogue: 10,0:05:26.88,0:05:33.64,Default,Sven,0,0,0,,We spent half a year undercover \Nin case she was hiding her power.
+Dialogue: 10,0:05:26.88,0:05:33.64,Default,Sven,0,0,0,,{\q2}We spent half a year undercover \Nin case she was hiding her power.
 Dialogue: 10,0:05:34.29,0:05:35.93,Default,Sven,0,0,0,,A pity.
 Dialogue: 10,0:05:35.93,0:05:38.83,Default,Sven,0,0,0,,Undoing a witch's curse is beyond us.
 Dialogue: 10,0:05:38.83,0:05:42.30,Default,Craig,0,0,0,,I guess we can't steal Falvell's power, then.
 Dialogue: 10,0:05:42.30,0:05:45.24,Default,Sven,0,0,0,,Right. We'll have to dispose of her.
-Dialogue: 10,0:05:45.53,0:05:50.45,Default,Sven,0,0,0,,I hate to lose the Mystic Witch's power,\N but it is what it is.
+Dialogue: 10,0:05:45.53,0:05:50.45,Default,Sven,0,0,0,,{\q2}I hate to lose the Mystic Witch's power,\N but it is what it is.
 Dialogue: 10,0:05:51.14,0:05:56.33,Default,Sven,0,0,0,,But my biggest regret of all, Falvell,
 Dialogue: 10,0:05:57.57,0:06:00.88,Default,Sven,0,0,0,,is that I won't be able to enjoy your tea anymore.
-Dialogue: 10,0:06:06.15,0:06:09.90,Default,Craig,0,0,0,,Sven, if you're sad about it, \Nwhy not call off the execution?
-Dialogue: 10,0:06:10.45,0:06:17.77,Default,Sven,0,0,0,,Craig, when it comes to tea, \Nthe last drop in the pot is always the best.
+Dialogue: 10,0:06:06.15,0:06:09.90,Default,Craig,0,0,0,,{\q2}Sven, if you're sad about it, \Nwhy not call off the execution?
+Dialogue: 10,0:06:10.45,0:06:17.77,Default,Sven,0,0,0,,{\q2}Craig, when it comes to tea, \Nthe last drop in the pot is always the best.
 Dialogue: 10,0:06:19.43,0:06:22.33,Default,Sven,0,0,0,,I've sheltered and supported you myself.
-Dialogue: 10,0:06:22.33,0:06:27.82,Default,Sven,0,0,0,,You're a stranger to mistrust, \Nmy sweet, innocent Falvell.
+Dialogue: 10,0:06:22.33,0:06:27.82,Default,Sven,0,0,0,,{\q2}You're a stranger to mistrust, \Nmy sweet, innocent Falvell.
 Dialogue: 10,0:06:28.68,0:06:32.06,Default,Sven,0,0,0,,I savored my days as your dear neighbor.
-Dialogue: 10,0:06:32.75,0:06:37.83,Default,Sven,0,0,0,,Now, more than anything, \NI want to taste the last drop.
-Dialogue: 10,0:06:46.24,0:06:52.80,Default,Guideau,0,0,0,,"Spread hate for the witch\Nand burn all that she has."{Stir up hatred against a witch and toss everything she's got into a fire.}
+Dialogue: 10,0:06:32.75,0:06:37.83,Default,Sven,0,0,0,,{\q2}Now, more than anything, \NI want to taste the last drop.
+Dialogue: 10,0:06:46.24,0:06:52.80,Default,Guideau,0,0,0,,{\q2}"Spread hate for the witch\Nand burn all that she has."{Stir up hatred against a witch and toss everything she's got into a fire.}
 Dialogue: 10,0:06:52.80,0:06:55.40,Default,Guideau,0,0,0,,"And cleanse the demon with sacred fire."
 Dialogue: 10,0:06:55.82,0:06:57.27,Default,Guideau,0,0,0,,Was that it?
-Dialogue: 10,0:06:57.55,0:07:01.77,Default,Guideau,0,0,0,,You really stick to that \Nplaybook of yours, Executioners.{sgt: I would rather have the manga's "doing it by the book here" somehow}
+Dialogue: 10,0:06:57.55,0:07:01.77,Default,Guideau,0,0,0,,{\q2}You really stick to that \Nplaybook of yours, Executioners.{sgt: I would rather have the manga's "doing it by the book here" somehow}
 Dialogue: 10,0:07:02.23,0:07:05.64,Default,Craig,0,0,0,,What? I figured you had run away.
 Dialogue: 10,0:07:05.64,0:07:09.71,Default,Sven,0,0,0,,Craig, is this the coffin girl you mentioned?
 Dialogue: 10,0:07:09.71,0:07:10.45,Default,Craig,0,0,0,,Yeah.
@@ -96,18 +96,18 @@ Dialogue: 10,0:07:28.38,0:07:31.34,Default,Sven,0,0,0,,Just who are you?
 Dialogue: 10,0:07:34.55,0:07:35.87,Default,Guideau,0,0,0,,Out of my way!
 Dialogue: 10,0:07:35.87,0:07:37.14,Default,Guideau,0,0,0,,Get lost already!
 Dialogue: 10,0:07:37.57,0:07:39.31,Default,Sven,0,0,0,,A metal coffin?
-Dialogue: 10,0:07:39.91,0:07:43.68,Default,Sven,0,0,0,,Carrying this thing around \Nmakes you stranger than ever.
+Dialogue: 10,0:07:39.91,0:07:43.68,Default,Sven,0,0,0,,{\q2}Carrying this thing around \Nmakes you stranger than ever.
 Dialogue: 10,0:07:43.68,0:07:45.77,Default,Sven,0,0,0,,What's inside it?
 Dialogue: 10,0:07:54.38,0:07:56.71,Default,Sven,0,0,0,,Well, she can wait.
-Dialogue: 10,0:07:57.67,0:08:00.95,Default,Sven,0,0,0,,I won't tolerate any further\Ndelays to Falvell's execution.
+Dialogue: 10,0:07:57.67,0:08:00.95,Default,Sven,0,0,0,,{\q2}I won't tolerate any further\Ndelays to Falvell's execution.
 Dialogue: 10,0:08:02.83,0:08:05.00,Default,Guideau,0,0,0,,What's wrong with you?! Run!
 Dialogue: 10,0:08:07.28,0:08:09.09,Default,Sven,0,0,0,,How irritating.
 Dialogue: 10,0:08:19.55,0:08:21.89,Default,Sven,0,0,0,,You can't escape, can you?
-Dialogue: 10,0:08:22.35,0:08:30.77,Default,Sven,0,0,0,,Kind little Falvell could never leave \NOwent and run, even if he is a corpse.
+Dialogue: 10,0:08:22.35,0:08:30.77,Default,Sven,0,0,0,,{\q2}Kind little Falvell could never leave \NOwent and run, even if he is a corpse.
 Dialogue: 10,0:08:33.18,0:08:34.54,Default,Sven,0,0,0,,Do you hate me?
 Dialogue: 10,0:08:35.16,0:08:38.84,Default,Sven,0,0,0,,I've never seen you make that face before.
 Dialogue: 10,0:08:45.23,0:08:49.92,Default,Ashaf,0,0,0,,You can't escape the Executioners without magic.
-Dialogue: 10,0:08:50.19,0:08:54.88,Default,Ashaf,0,0,0,,I know I promised to protect you.\NI'm sorry it turned out this way.
+Dialogue: 10,0:08:50.19,0:08:54.88,Default,Ashaf,0,0,0,,{\q2}I know I promised to protect you.\NI'm sorry it turned out this way.
 Dialogue: 10,0:08:55.28,0:08:59.51,Default,Ashaf,0,0,0,,But Falvell, you're our only hope now.
 Dialogue: 10,0:08:59.51,0:09:02.12,Default,Ashaf,0,0,0,,Now, listen closely, understand?
 Dialogue: 10,0:09:11.47,0:09:14.58,Default,Guideau,0,0,0,,Huh? What're you doing here?
@@ -119,7 +119,7 @@ Dialogue: 10,0:09:33.85,0:09:37.30,Default,Guideau,0,0,0,,I'll kick their asses 
 Dialogue: 10,0:09:37.95,0:09:41.93,Default,Guideau,0,0,0,,So do what I say and get lost.
 Dialogue: 10,0:09:41.93,0:09:45.18,Default,Guideau,0,0,0,,How will I undo this curse if you die on me?
 Dialogue: 10,0:10:09.42,0:10:12.04,Default,Sven,0,0,0,,It would seem you've been in some pain.
-Dialogue: 10,0:10:15.26,0:10:20.14,Default,Sven,0,0,0,,I would hate to put you out of your \Nmisery by dealing the coup de grâce...{sgt: does he actually say coup de grâce?}
+Dialogue: 10,0:10:15.26,0:10:20.14,Default,Sven,0,0,0,,{\q2}I would hate to put you out of your \Nmisery by dealing the coup de grâce...{sgt: does he actually say coup de grâce?}
 Dialogue: 10,0:10:30.71,0:10:31.61,Default,Craig,0,0,0,,What?
 Dialogue: 10,0:10:34.55,0:10:36.28,Default,Craig,0,0,0,,Who are you?!
 Dialogue: 10,0:10:47.72,0:10:49.64,Default,Craig,0,0,0,,Who are you?!
@@ -135,7 +135,7 @@ Dialogue: 10,0:11:25.16,0:11:26.03,Default,Villager 4,0,0,0,,Quickly!
 Dialogue: 10,0:11:27.79,0:11:29.16,Default,Guideau,0,0,0,,A hostage?
 Dialogue: 10,0:11:30.13,0:11:31.79,Default,Guideau,0,0,0,,Like I give a shit.
 Dialogue: 10,0:11:33.84,0:11:35.74,Default,Guideau,0,0,0,,I'm done with {you}her.
-Dialogue: 10,0:11:35.74,0:11:40.49,Default,Guideau,0,0,0,,I'll get your revenge, witch,\Nbut protect your own damn self!
+Dialogue: 10,0:11:35.74,0:11:40.49,Default,Guideau,0,0,0,,{\q2}I'll get your revenge, witch,\Nbut protect your own damn self!
 Dialogue: 10,0:11:41.05,0:11:42.80,Default,Falvell,0,0,0,,People, I command thee:
 Dialogue: 10,0:11:42.80,0:11:43.47,Default,Falvell,0,0,0,,don't move!
 Dialogue: 10,0:11:46.26,0:11:47.27,Default,Villager 5,0,0,0,,Huh?
@@ -146,9 +146,9 @@ Dialogue: 10,0:12:02.62,0:12:03.57,Default,Sven,0,0,0,,What?
 Dialogue: 10,0:12:04.04,0:12:05.57,Default,Sven,0,0,0,,What's going on?
 Dialogue: 10,0:12:05.57,0:12:08.34,Default,Ashaf,0,0,0,,Oh, I see now.
 Dialogue: 10,0:12:08.34,0:12:13.63,Default,Ashaf,0,0,0,,So she has a witch's body, too.
-Dialogue: 10,0:12:14.80,0:12:20.18,Default,Ashaf,0,0,0,,By pressing their lips together, \Nthey've undone each other's curses.
+Dialogue: 10,0:12:14.80,0:12:20.18,Default,Ashaf,0,0,0,,{\q2}By pressing their lips together, \Nthey've undone each other's curses.
 Dialogue: 10,0:12:21.11,0:12:23.48,Default,Ashaf,0,0,0,,And you'd best brace yourself.
-Dialogue: 10,0:12:23.48,0:12:26.99,Default,Ashaf,0,0,0,,You're witnessing vocative magic. \NA true rarity.
+Dialogue: 10,0:12:23.48,0:12:26.99,Default,Ashaf,0,0,0,,{\q2}You're witnessing vocative magic. \NA true rarity.
 Dialogue: 10,0:12:26.99,0:12:31.81,Default,Ashaf,0,0,0,,Everything in existence is now hers to command.
 Dialogue: 10,0:12:33.77,0:12:35.23,Default,Falvell,0,0,0,,Executioner...
 Dialogue: 10,0:12:35.58,0:12:37.30,Default,Sven,0,0,0,,W-Wait!
@@ -162,26 +162,26 @@ Dialogue: 10,0:12:58.01,0:12:59.72,Default,Craig,0,0,0,,Both Falvell...
 Dialogue: 10,0:13:00.76,0:13:03.13,Default,Craig,0,0,0,,and that monster.
 Dialogue: 10,0:13:03.52,0:13:07.78,Default,Craig,0,0,0,,Forget curses. Those were more like seals.
 Dialogue: 10,0:13:09.42,0:13:15.35,Default,Craig,0,0,0,,Damn it. This world's full of monsters.
-Dialogue: 10,0:13:24.06,0:13:29.99,Default,Owent,0,0,0,,No matter how many times I hear about\N Falvell's magic, it still blows me away.
-Dialogue: 10,0:13:29.99,0:13:33.88,Default,Owent,0,0,0,,It's only a day later, \Nand I couldn't be healthier!
-Dialogue: 10,0:13:33.88,0:13:38.06,Default,Ashaf,0,0,0,,I'd say things worked out because \Nyou only had a stopped heart.
+Dialogue: 10,0:13:24.06,0:13:29.99,Default,Owent,0,0,0,,{\q2}No matter how many times I hear about\N Falvell's magic, it still blows me away.
+Dialogue: 10,0:13:29.99,0:13:33.88,Default,Owent,0,0,0,,{\q2}It's only a day later, \Nand I couldn't be healthier!
+Dialogue: 10,0:13:33.88,0:13:38.06,Default,Ashaf,0,0,0,,{\q2}I'd say things worked out because \Nyou only had a stopped heart.
 Dialogue: 10,0:13:38.06,0:13:39.63,Default,Owent,0,0,0,,"Only"?
 Dialogue: 10,0:13:40.12,0:13:42.44,Default,Ashaf,0,0,0,,Falvell's still a child.
-Dialogue: 10,0:13:42.44,0:13:46.92,Default,Ashaf,0,0,0,,When she grows up, I doubt even \Nthe dead will be beyond her.
+Dialogue: 10,0:13:42.44,0:13:46.92,Default,Ashaf,0,0,0,,{\q2}When she grows up, I doubt even \Nthe dead will be beyond her.
 Dialogue: 10,0:13:48.25,0:13:51.26,Default,Ashaf,0,0,0,,Now, what will you do?
-Dialogue: 10,0:13:51.74,0:13:58.76,Default,Ashaf,0,0,0,,As I already told you, kissing a witch \Nonly undoes a curse temporarily.
+Dialogue: 10,0:13:51.74,0:13:58.76,Default,Ashaf,0,0,0,,{\q2}As I already told you, kissing a witch \Nonly undoes a curse temporarily.
 Dialogue: 10,0:13:59.26,0:14:03.23,Default,Ashaf,0,0,0,,And the power to dispel curses lies in purity,
 Dialogue: 10,0:14:03.56,0:14:06.83,Default,Ashaf,0,0,0,,which means it only works once per witch.
 Dialogue: 10,0:14:09.17,0:14:11.80,Default,Ashaf,0,0,0,,So that just leaves the conventional method.
 Dialogue: 10,0:14:12.37,0:14:14.83,Default,Ashaf,0,0,0,,You need to find the one who cursed you.
-Dialogue: 10,0:14:15.47,0:14:22.17,Default,Ashaf,0,0,0,,And the Order can teach you about witches\Nplus lots of other things you don't know.
+Dialogue: 10,0:14:15.47,0:14:22.17,Default,Ashaf,0,0,0,,{\q2}And the Order can teach you about witches\Nplus lots of other things you don't know.
 Dialogue: 10,0:14:23.17,0:14:25.63,Default,Ashaf,0,0,0,,So what will it be?
 Dialogue: 10,0:14:27.13,0:14:29.59,Default,Guideau,0,0,0,,Lift the spell first, then.
 Dialogue: 10,0:14:29.93,0:14:31.05,Default,Ashaf,0,0,0,,What spell?
 Dialogue: 10,0:14:31.05,0:14:33.58,Default,Guideau,0,0,0,,That weird {broth}liquid you fed me.{sgt: inb4 a TLC yells at me but surely this is about the tea she was given, not some off-screen broth. it plays well into the "damn tasty" at the end and Sven's praise of it.}
 Dialogue: 10,0:14:33.58,0:14:36.64,Default,Guideau,0,0,0,,I've been {dying to have it again}craving more for a while now.
 Dialogue: 10,0:14:36.96,0:14:38.68,Default,Guideau,0,0,0,,What kind of spell was that?
-Dialogue: 10,0:14:39.39,0:14:44.03,Default,Guideau,0,0,0,,Nothing I've eaten before \Nhas ever made me feel like this.
+Dialogue: 10,0:14:39.39,0:14:44.03,Default,Guideau,0,0,0,,{\q2}Nothing I've eaten before \Nhas ever made me feel like this.
 Dialogue: 10,0:14:44.03,0:14:46.58,Default,Guideau,0,0,0,,You did something to my body!
 Dialogue: 10,0:14:46.58,0:14:48.90,Default,Guideau,0,0,0,,Unless you've got a death wish, undo it {\i1}now{\i0}!
 Dialogue: 10,0:14:50.05,0:14:52.87,Default,Ashaf,0,0,0,,Do you mean you really can't tell?
@@ -189,69 +189,162 @@ Dialogue: 10,0:14:55.02,0:14:57.83,Default,Ashaf,0,0,0,,Well, well. Dear me.
 Dialogue: 10,0:15:00.00,0:15:04.93,Default,Ashaf,0,0,0,,I see you have a lot you need to learn.
 Dialogue: 10,0:15:04.93,0:15:05.80,Default,Guideau,0,0,0,,Huh?
 Dialogue: 10,0:15:05.80,0:15:07.27,Default,Ashaf,0,0,0,,Listen.
-Dialogue: 10,0:15:07.27,0:15:12.57,Default,Ashaf,0,0,0,,No spell or curse caused that \Nstrange sensation you're feeling.
+Dialogue: 10,0:15:07.27,0:15:12.57,Default,Ashaf,0,0,0,,{\q2}No spell or curse caused that \Nstrange sensation you're feeling.
 Dialogue: 10,0:15:12.57,0:15:15.33,Default,Ashaf,0,0,0,,It's something everyone experiences.
-Dialogue: 10,0:15:15.33,0:15:19.77,Default,Ashaf,0,0,0,,Given the way you speak, \NI can guess how you'd describe it.
+Dialogue: 10,0:15:15.33,0:15:19.77,Default,Ashaf,0,0,0,,{\q2}Given the way you speak, \NI can guess how you'd describe it.
 Dialogue: 10,0:15:20.39,0:15:21.35,Default,Ashaf,0,0,0,,Namely...
 Dialogue: 10,0:15:21.74,0:15:23.16,Default,Ashaf,0,0,0,,"It was damn tasty."
 Dialogue: 10,0:15:33.79,0:15:37.33,Default,Ashaf,0,0,0,,Guideau, you have a will of steel.
-Dialogue: 10,0:15:37.33,0:15:41.79,Default,Ashaf,0,0,0,,You'll never bend or soak up\Nothers' ways of seeing things.
-Dialogue: 10,0:15:43.91,0:15:50.07,Default,Ashaf,0,0,0,,Your fierce sense of self can even \Nshake off magical brainwashing.
-Dialogue: 10,0:15:50.07,0:15:53.95,Default,Ashaf,0,0,0,,Even so, you've learned a lot \Nin the three years since we met,
-Dialogue: 10,0:15:53.95,0:15:57.63,Default,Ashaf,0,0,0,,and you've changed of your \Nown free will, albeit gradually.
-Dialogue: 10,0:16:01.26,0:16:06.01,Default,Ashaf,0,0,0,,Yet just one unfortunate meeting \Nhas sent you right back to that day.
-Dialogue: 10,0:16:07.40,0:16:12.06,Default,Ashaf,0,0,0,,Angela Anne Huell. \NWhat a despicable witch.
-Dialogue: 10,0:16:14.49,0:16:18.16,Default,Ashaf,0,0,0,,I'm not fully recovered, \Nbut I can more or less move now.
+Dialogue: 10,0:15:37.33,0:15:41.79,Default,Ashaf,0,0,0,,{\q2}You'll never bend or soak up\Nothers' ways of seeing things.
+Dialogue: 10,0:15:43.91,0:15:50.07,Default,Ashaf,0,0,0,,{\q2}Your fierce sense of self can even \Nshake off magical brainwashing.
+Dialogue: 10,0:15:50.07,0:15:53.95,Default,Ashaf,0,0,0,,{\q2}Even so, you've learned a lot \Nin the three years since we met,
+Dialogue: 10,0:15:53.95,0:15:57.63,Default,Ashaf,0,0,0,,{\q2}and you've changed of your \Nown free will, albeit gradually.
+Dialogue: 10,0:16:01.26,0:16:06.01,Default,Ashaf,0,0,0,,{\q2}Yet just one unfortunate meeting \Nhas sent you right back to that day.
+Dialogue: 10,0:16:07.40,0:16:12.06,Default,Ashaf,0,0,0,,{\q2}Angela Anne Huell. \NWhat a despicable witch.
+Dialogue: 10,0:16:14.49,0:16:18.16,Default,Ashaf,0,0,0,,{\q2}I'm not fully recovered, \Nbut I can more or less move now.
 Dialogue: 10,0:16:19.36,0:16:23.39,Default,Ashaf,0,0,0,,I trust that what we've built up hasn't crumbled,
 Dialogue: 10,0:16:23.39,0:16:26.92,Default,Ashaf,0,0,0,,and that this was merely a temporary outburst.
-Dialogue: 10,0:16:27.49,0:16:32.92,Default,Ashaf,0,0,0,,I still have something I want\N to teach you more than anything.
+Dialogue: 10,0:16:27.49,0:16:32.92,Default,Ashaf,0,0,0,,{\q2}I still have something I want\N to teach you more than anything.
 Dialogue: 10,0:16:34.27,0:16:35.43,Default,Guideau,0,0,0,,Wait.
 Dialogue: 10,0:16:36.22,0:16:37.72,Default,Guideau,0,0,0,,What does that mean?
-Dialogue: 10,0:16:38.09,0:16:43.37,Default,Ashaf,0,0,0,,Do you imagine I'm still keeping \Nuseful information from you?
+Dialogue: 10,0:16:38.09,0:16:43.37,Default,Ashaf,0,0,0,,{\q2}Do you imagine I'm still keeping \Nuseful information from you?
 Dialogue: 10,0:16:46.44,0:16:48.31,Default,Ashaf,0,0,0,,It's nothing like that.
 Dialogue: 10,0:16:49.22,0:16:51.65,Default,Ashaf,0,0,0,,Love, Guideau.
 Dialogue: 10,0:16:52.64,0:16:56.15,Default,Ashaf,0,0,0,,I want to teach you what love is.
-Dialogue: 10,0:17:05.51,0:17:09.67,Default,Ashaf,0,0,0,,I assume you know that \Nour world has eight continents.
-Dialogue: 10,0:17:10.20,0:17:14.72,Default,Ashaf,0,0,0,,The world's most influential \Norganization, the Global Holy Church,
+Dialogue: 10,0:17:05.51,0:17:09.67,Default,Ashaf,0,0,0,,{\q2}I assume you know that \Nour world has eight continents.
+Dialogue: 10,0:17:10.20,0:17:14.72,Default,Ashaf,0,0,0,,{\q2}The world's most influential \Norganization, the Global Holy Church,
 Dialogue: 10,0:17:14.72,0:17:17.99,Default,Ashaf,0,0,0,,has its headquarters on the First Continent.
-Dialogue: 1,0:17:15.47,0:17:23.69,Signs,Text,0,0,0,,{=9}{\move(332,216,352.47,225.63,23,8198)\fscx90\fnQuadraat\fs45\b1\bord0\blur0.7\fade(255,0,255,0,900,8220,8220)\t(23,8198,\clip)\t(23,8198,\fscy100)\t(23,8198,\fscx90)\t(23,8198,\bord0)\t(23,8198,\blur0.7)\clip}First Continent
-Dialogue: 10,0:17:17.99,0:17:23.68,Default,Ashaf,0,0,0,,The Second Continent lies east \Nof that, followed by the Third.
-Dialogue: 1,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{=10}{\move(638.99,255.01,643.37,258.9,22,3818)\fnQuadraat\fs42\b1\bord0\blur0.7\fade(255,0,255,0,900,3830,3830)\t(22,3818,\clip)\t(22,3818,\fscx100)\t(22,3818,\fscy100)\t(22,3818,\bord0)\t(22,3818,\blur0.7)\clip}Second Continent
-Dialogue: 1,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{=11}{\move(654,472,659.4,472.78,22,3818)\fnQuadraat\fs42\b1\bord0\blur0.7\fade(255,0,255,0,900,3830,3830)\t(22,3818,\clip)\t(22,3818,\fscx100)\t(22,3818,\fscy100)\t(22,3818,\bord0)\t(22,3818,\blur0.7)\clip}Third Continent
-Dialogue: 10,0:17:24.29,0:17:30.59,Default,Ashaf,0,0,0,,The farther you go from the progenitor \Nof magic, the Global Holy Church,
+Dialogue: 1,0:17:15.47,0:17:23.69,Signs,Text,0,0,0,,{=9}{\move(332,216,352.47,225.63,23,8198)\fscx90\fnQuadraat\fs45\b1\bord0\shad0.01\c&HFCFFFE&\blur0.4\fade(255,0,255,0,900,8220,8220)\t(23,8198,\clip)\t(23,8198,\fscy100)\t(23,8198,\fscx90)\t(23,8198,\bord0)\t(23,8198,\blur0.7)\clip}First Continent
+Dialogue: 10,0:17:17.99,0:17:23.68,Default,Ashaf,0,0,0,,{\q2}The Second Continent lies east \Nof that, followed by the Third.
+Dialogue: 1,0:17:19.85,0:17:23.68,Signs,Text,0,0,0,,{=10}{\move(638.99,255.01,643.37,258.9,22,3818)\fnQuadraat\fs42\b1\bord0\shad0.01\c&HFCFFFE&\blur0.4\fade(255,0,255,0,900,3830,3830)\t(22,3818,\clip)\t(22,3818,\fscx100)\t(22,3818,\fscy100)\t(22,3818,\bord0)\t(22,3818,\blur0.7)\clip}Second Continent
+Comment: 1,0:17:19.81,0:17:23.69,Signs,Text,0,0,0,,{=12}Third Continent
+Dialogue: 1,0:17:19.81,0:17:19.85,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&HFF&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.22,476.23)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:19.85,0:17:19.89,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&HF4&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.28,476.16)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:19.89,0:17:19.93,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&HE8&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.35,476.09)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:19.93,0:17:19.97,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&HDD&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.41,476.03)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:19.97,0:17:20.01,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&HD2&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.47,475.97)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.01,0:17:20.06,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&HC6&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.53,475.92)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.06,0:17:20.10,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&HB8&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.6,475.87)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.10,0:17:20.14,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&HAD&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.66,475.83)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.14,0:17:20.18,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&HA2&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.71,475.79)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.18,0:17:20.22,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H96&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.77,475.75)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.22,0:17:20.26,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H8B&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.83,475.72)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.26,0:17:20.31,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H80&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.89,475.69)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.31,0:17:20.35,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H71&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(663.95,475.66)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.35,0:17:20.39,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H66&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664,475.63)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.39,0:17:20.43,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H5B&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.06,475.61)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.43,0:17:20.47,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H4F&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.12,475.6)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.47,0:17:20.51,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H44&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.17,475.58)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.51,0:17:20.56,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H39&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.23,475.57)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.56,0:17:20.60,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H2B&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.28,475.56)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.60,0:17:20.64,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H1F&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.34,475.55)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.64,0:17:20.68,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H14&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.39,475.54)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.68,0:17:20.72,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H09&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.45,475.54)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.72,0:17:20.76,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.5,475.54)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.76,0:17:20.81,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.55,475.53)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.81,0:17:20.85,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.61,475.54)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.85,0:17:20.89,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.66,475.54)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.89,0:17:20.93,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.71,475.54)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.93,0:17:20.97,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.76,475.55)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:20.97,0:17:21.01,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.82,475.55)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.01,0:17:21.06,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.87,475.56)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.06,0:17:21.10,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.92,475.57)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.10,0:17:21.14,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(664.97,475.58)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.14,0:17:21.18,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.02,475.59)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.18,0:17:21.22,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.08,475.6)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.22,0:17:21.27,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.13,475.61)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.27,0:17:21.31,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.18,475.62)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.31,0:17:21.35,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.23,475.63)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.35,0:17:21.39,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.28,475.64)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.39,0:17:21.43,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.33,475.66)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.43,0:17:21.47,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.39,475.67)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.47,0:17:21.52,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.44,475.68)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.52,0:17:21.56,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.49,475.7)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.56,0:17:21.60,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.54,475.71)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.60,0:17:21.64,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.59,475.73)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.64,0:17:21.68,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.64,475.74)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.68,0:17:21.72,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.69,475.75)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.72,0:17:21.77,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.75,475.77)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.77,0:17:21.81,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.8,475.78)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.81,0:17:21.85,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.85,475.79)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.85,0:17:21.89,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.9,475.81)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.89,0:17:21.93,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(665.95,475.82)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.93,0:17:21.97,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666,475.83)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:21.97,0:17:22.02,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.06,475.84)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.02,0:17:22.06,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.11,475.86)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.06,0:17:22.10,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.16,475.87)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.10,0:17:22.14,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.21,475.88)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.14,0:17:22.18,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.26,475.89)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.18,0:17:22.22,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.32,475.9)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.22,0:17:22.27,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.37,475.91)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.27,0:17:22.31,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.42,475.92)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.31,0:17:22.35,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.47,475.93)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.35,0:17:22.39,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.53,475.94)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.39,0:17:22.43,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.58,475.95)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.43,0:17:22.47,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.63,475.96)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.47,0:17:22.52,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.68,475.97)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.52,0:17:22.56,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.74,475.98)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.56,0:17:22.60,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.79,475.98)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.60,0:17:22.64,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.84,475.99)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.64,0:17:22.68,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.89,476)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.68,0:17:22.72,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(666.95,476.01)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.72,0:17:22.77,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667,476.02)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.77,0:17:22.81,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.05,476.02)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.81,0:17:22.85,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.1,476.03)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.85,0:17:22.89,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.16,476.04)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.89,0:17:22.93,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.21,476.05)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.93,0:17:22.98,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.26,476.06)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:22.98,0:17:23.02,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.31,476.07)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.02,0:17:23.06,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.37,476.08)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.06,0:17:23.10,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.42,476.09)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.10,0:17:23.14,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.47,476.1)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.14,0:17:23.18,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.52,476.11)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.18,0:17:23.23,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.58,476.12)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.23,0:17:23.27,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.63,476.13)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.27,0:17:23.31,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.68,476.14)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.31,0:17:23.35,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.73,476.16)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.35,0:17:23.39,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.78,476.17)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.39,0:17:23.43,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.83,476.19)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.43,0:17:23.48,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.88,476.2)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.48,0:17:23.52,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.93,476.22)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.52,0:17:23.56,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(667.99,476.24)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.56,0:17:23.60,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(668.04,476.26)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.60,0:17:23.64,Signs,Text,0,0,0,,{=11}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(668.09,476.29)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 1,0:17:23.64,0:17:23.68,Signs,Text,0,0,0,,{=11=13}{\fscx100\fscy100\alpha&H00&\fnQuadraat\fs42\b1\bord0\blur0.4\pos(668.13,476.31)\shad0.01\c&HFCFFFE&}Third Continent
+Dialogue: 10,0:17:24.29,0:17:30.59,Default,Ashaf,0,0,0,,{\q2}The farther you go from the progenitor \Nof magic, the Global Holy Church,
 Dialogue: 10,0:17:30.59,0:17:33.69,Default,Ashaf,0,0,0,,the cruder the level of magic culture becomes.
-Dialogue: 10,0:17:34.12,0:17:38.61,Default,Ashaf,0,0,0,,But the Eighth Continent, \Nthe farthest from the First,
-Dialogue: 10,0:17:38.61,0:17:41.83,Default,Ashaf,0,0,0,,flourishes through its \Nown distinctive sorcery.
+Dialogue: 10,0:17:34.12,0:17:38.61,Default,Ashaf,0,0,0,,{\q2}But the Eighth Continent, \Nthe farthest from the First,
+Dialogue: 10,0:17:38.61,0:17:41.83,Default,Ashaf,0,0,0,,{\q2}flourishes through its \Nown distinctive sorcery.
 Dialogue: 10,0:17:42.23,0:17:45.90,Default,Ashaf,0,0,0,,You live on the Seventh Continent,
-Dialogue: 10,0:17:45.90,0:17:51.29,Default,Ashaf,0,0,0,,but you likely find it quite comfortable,\Nthanks to having the Eighth next door.
+Dialogue: 10,0:17:45.90,0:17:51.29,Default,Ashaf,0,0,0,,{\q2}but you likely find it quite comfortable,\Nthanks to having the Eighth next door.
 Dialogue: 10,0:17:51.91,0:17:54.12,Default,Ashaf,0,0,0,,But, I digress...
-Dialogue: 10,0:17:54.62,0:17:59.97,Default,Ashaf,0,0,0,,This world of ours also\Nincludes a few anomalous areas.
-Dialogue: 10,0:18:00.23,0:18:06.01,Default,Ashaf,0,0,0,,Like the isolated island between \Nthe Seventh and Eighth continents.
+Dialogue: 10,0:17:54.62,0:17:59.97,Default,Ashaf,0,0,0,,{\q2}This world of ours also\Nincludes a few anomalous areas.
+Dialogue: 10,0:18:00.23,0:18:06.01,Default,Ashaf,0,0,0,,{\q2}Like the isolated island between \Nthe Seventh and Eighth continents.
 Dialogue: 10,0:18:06.01,0:18:08.37,Default,Ashaf,0,0,0,,It has a hole in it.
 Dialogue: 10,0:18:08.37,0:18:10.59,Default,Ashaf,0,0,0,,A bottomless pit.
-Dialogue: 10,0:18:15.23,0:18:20.37,Default,Ashaf,0,0,0,,You might think, \N"Where that pit leads, no one knows."
+Dialogue: 10,0:18:15.23,0:18:20.37,Default,Ashaf,0,0,0,,{\q2}You might think, \N"Where that pit leads, no one knows."
 Dialogue: 10,0:18:20.37,0:18:22.94,Default,Ashaf,0,0,0,,But not in the least.
-Dialogue: 10,0:18:22.94,0:18:25.87,Default,Ashaf,0,0,0,,That question has already \Nbeen thoroughly answered.
+Dialogue: 10,0:18:22.94,0:18:25.87,Default,Ashaf,0,0,0,,{\q2}That question has already \Nbeen thoroughly answered.
 Dialogue: 10,0:18:26.23,0:18:29.84,Default,Ashaf,0,0,0,,You can even book a tour, if you like.
 Dialogue: 10,0:18:29.84,0:18:35.19,Default,Ashaf,0,0,0,,Although for that, you'd need privilege, wealth,
 Dialogue: 10,0:18:35.19,0:18:39.09,Default,Ashaf,0,0,0,,and the resolve to risk your life.
 Dialogue: 10,0:18:39.56,0:18:44.47,Default,Ashaf,0,0,0,,The Order has all three, so here we are.
-Dialogue: 10,0:18:44.47,0:18:50.04,Default,Ashaf,0,0,0,,{\an8}This is the entrance to a hole \Nout of this world: the Fall.
-Dialogue: 1,0:18:48.23,0:18:52.78,Signs,Text,0,0,0,,{\pos(960,822)\fnAlegreya\fs42\bord0\blur0.9\fad(650,1300)}(Tiered Worlds)\N{\fs100}The Fall
+Dialogue: 10,0:18:44.47,0:18:50.04,Default,Ashaf,0,0,0,,{\an8\q2}This is the entrance to a hole \Nout of this world: the Fall.
+Dialogue: 1,0:18:48.23,0:18:52.78,Signs,Text,0,0,0,,{\pos(960,822)\fnAlegreya\fs42\bord0\blur0.9\fad(650,1300)\q2}(Tiered Worlds)\N{\fs100}The Fall
 Dialogue: 10,0:18:59.83,0:19:03.45,Default,Receptionist,0,0,0,,We appreciate your visit, Mr. Ashaf.
 Dialogue: 10,0:19:05.27,0:19:08.21,Default,Receptionist,0,0,0,,Please proceed to your right.
 Dialogue: 10,0:19:16.16,0:19:19.82,Default,Ashaf,0,0,0,,The Fall has seventeen levels.
-Dialogue: 10,0:19:21.30,0:19:24.67,Default,Ashaf,0,0,0,,Each one connects to a \Ndifferent, independent world.
+Dialogue: 10,0:19:21.30,0:19:24.67,Default,Ashaf,0,0,0,,{\q2}Each one connects to a \Ndifferent, independent world.
 Dialogue: 10,0:19:27.51,0:19:30.23,Default,Ashaf,0,0,0,,The letters Angela carved into that Executioner...
 Dialogue: 10,0:19:32.05,0:19:34.15,Default,Ashaf,0,0,0,,are part of a writing system from the Fall.
-Dialogue: 10,0:19:34.68,0:19:38.51,Default,Ashaf,0,0,0,,To outsiders, this is the only \Nplace that comes to mind.
-Dialogue: 10,0:19:38.51,0:19:43.74,Default,Ashaf,0,0,0,,If we're going to pursue Angela, \Nwe may find her or another clue here.
+Dialogue: 10,0:19:34.68,0:19:38.51,Default,Ashaf,0,0,0,,{\q2}To outsiders, this is the only \Nplace that comes to mind.
+Dialogue: 10,0:19:38.51,0:19:43.74,Default,Ashaf,0,0,0,,{\q2}If we're going to pursue Angela, \Nwe may find her or another clue here.
 Dialogue: 10,0:19:50.44,0:19:53.12,Default,Guide,0,0,0,,Welcome to Level Four.
-Dialogue: 10,0:19:53.56,0:19:58.59,Default,Guide,0,0,0,ED,Or the final floor before \NLevel Four, to be precise.{sgt: too many rhymes?}
+Dialogue: 10,0:19:53.56,0:19:58.59,Default,Guide,0,0,0,ED,{\q2}Or the final floor before \NLevel Four, to be precise.{sgt: too many rhymes?}
 Dialogue: 10,0:19:58.59,0:20:02.05,Default,Guide,0,0,0,,This level can be rather dangerous.
-Dialogue: 10,0:20:02.05,0:20:07.06,Default,Guide,0,0,0,,Even more so if its residents \Nrecognize you as travelers.
-Dialogue: 10,0:20:07.48,0:20:11.27,Default,Guide,0,0,0,,This floor offers services \Nincluding changes of wardrobe
-Dialogue: 10,0:20:11.27,0:20:17.95,Default,Guide,0,0,0,,and local coordinators \Nwell-versed in the level's customs.
+Dialogue: 10,0:20:02.05,0:20:07.06,Default,Guide,0,0,0,,{\q2}Even more so if its residents \Nrecognize you as travelers.
+Dialogue: 10,0:20:07.48,0:20:11.27,Default,Guide,0,0,0,,{\q2}This floor offers services \Nincluding changes of wardrobe
+Dialogue: 10,0:20:11.27,0:20:17.95,Default,Guide,0,0,0,,{\q2}and local coordinators \Nwell-versed in the level's customs.
 Dialogue: 10,0:20:17.95,0:20:19.48,Default,Ashaf,0,0,0,,No, thank you.
 Dialogue: 10,0:20:20.03,0:20:22.78,Default,Ashaf,0,0,0,,Show us to the dressing rooms.
 Dialogue: 10,0:20:26.12,0:20:28.62,Default,Stylist,0,0,0,,How can I help you?
@@ -278,11 +371,11 @@ Dialogue: 10,0:21:32.91,0:21:35.77,Default,Ashaf,0,0,0,,Now we're ready.
 Dialogue: 10,0:21:36.39,0:21:38.23,Default,Ashaf,0,0,0,,How does your outfit feel?
 Dialogue: 10,0:21:38.23,0:21:41.50,Default,Guideau,0,0,0,,Who cares? It's just cloth.
 Dialogue: 10,0:21:41.50,0:21:44.44,Default,Guideau,0,0,0,,It's all the same as long as I can tear it up.
-Dialogue: 10,0:21:44.44,0:21:47.12,Default,Ashaf,0,0,0,,You will, of course, \Nkeep it all clean and intact.
+Dialogue: 10,0:21:44.44,0:21:47.12,Default,Ashaf,0,0,0,,{\q2}You will, of course, \Nkeep it all clean and intact.
 Dialogue: 10,0:21:47.12,0:21:49.20,Default,Guideau,0,0,0,,In that case, it moves like shit.
 Dialogue: 10,0:21:51.12,0:21:54.54,Default,Ashaf,0,0,0,,Comfort aside, you look good in it.
 Dialogue: 10,0:22:01.58,0:22:02.71,Default,Ashaf,0,0,0,,That said...
-Dialogue: 10,0:22:03.09,0:22:07.58,Default,Ashaf,0,0,0,,You'll have no shortage of chances \Nto ruin your clothes in this world.
+Dialogue: 10,0:22:03.09,0:22:07.58,Default,Ashaf,0,0,0,,{\q2}You'll have no shortage of chances \Nto ruin your clothes in this world.
 Dialogue: 10,0:22:09.45,0:22:11.50,Default,Ashaf,0,0,0,,Now, shall we go?
 Dialogue: 10,0:22:13.53,0:22:17.73,Default,Ashaf,0,0,0,,Level Four: Orlencia Sett.
 Dialogue: 10,0:22:17.73,0:22:20.76,Default,Ashaf,0,0,0,,A world where vampires dwell.
@@ -291,3 +384,7 @@ Dialogue: 10,0:22:17.73,0:22:20.76,Default,Ashaf,0,0,0,,A world where vampires d
 Data: 9,a-mo,e{"uuid"#3A"184a4352-00fc-4228-ad3a-fc1e543cb80f"#2C"originalText"#3A"{\\fscx90\\fnQuadraat\\fs45\\b1\\bord0\\blur0.7\\fad(900#2C0)\\pos(332#2C216)}First Continent"}
 Data: 10,a-mo,e{"uuid"#3A"3d845fec-3ad2-4c07-9789-0ada2a988816"#2C"originalText"#3A"{\\fnQuadraat\\fs42\\b1\\bord0\\blur0.7\\fad(900#2C0)\\pos(640#2C256)}Second Continent"}
 Data: 11,a-mo,e{"uuid"#3A"877eb868-a6df-4e1d-a260-da373acb6933"#2C"originalText"#3A"{\\fnQuadraat\\fs42\\b1\\bord0\\blur0.7\\fad(900#2C0)\\pos(654#2C472)}Third Continent"}
+Data: 12,_aegi_folddata,e0;1;1
+Data: 13,_aegi_folddata,e1;1;1
+Data: 14,_aegi_folddata,e0;0;1
+Data: 15,_aegi_folddata,e1;0;1
